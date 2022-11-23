@@ -1,0 +1,36 @@
+layout: layouts/comunidade.njk
+main_menu: comunidade
+tags_info:
+  podcast:
+    name: Podcast
+    color: lightskyblue
+  youtube:
+    name: Youtube
+    color: tomato
+  twitch:
+    name: Twitch
+    color: violet
+  videoxogos:
+    name: Videoxogos
+    color: lightgreen
+  musica:
+    name: Música
+    color: gold
+  cultura:
+    name: Cultura
+    color: pink
+  deporte:
+    name: Deporte
+    color: lightgray
+  rol:
+    name: D&D / Rol
+    color: lightgray
+  cozinha:
+    name: Cociña
+    color: lightgray
+  entrevistas:
+    name: Entrevistas
+    color: lightgray
+  outras:
+    name: Outras
+    color: lightgray

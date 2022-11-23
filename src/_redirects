@@ -1,0 +1,3 @@
+/podcast/*  /comunidade/?status=all&podcast=on  200
+/youtube/*  /comunidade/?status=all&youtube=on  200
+/twitch/*  /comunidade/?status=all&twitch=on  200

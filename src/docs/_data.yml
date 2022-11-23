@@ -1,0 +1,7 @@
+layout: layouts/docs.njk
+main_menu: docs
+docs_menu:
+  - title: Sobre nós
+    id: sobre-nos
+  - title: Recursos
+    id: recursos

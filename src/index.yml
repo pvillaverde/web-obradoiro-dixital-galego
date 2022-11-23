@@ -1,0 +1,69 @@
+layout: layouts/landing.njk
+title: Asociación Cultural Obradoiro Dixital Galego
+titleSuffix: Obradoiro Dixital Galego
+twitterUser: AC_ODG
+description: A unión da xente que crea contido de Podgalego, GalegoTube e GalegoTwitch.
+header:
+  title: O fogar do <span>contido en galego</span> na rede
+
+callToAction:
+  title: "Consulta o que ofrecemos na comunidade"
+  button: "Únete"
+  url: /docs/getting-started/your-first-page/
+
+features:
+  - title: Podgalego
+    img: /icons/podgalego.svg
+    description: Podgalego é a agrupación de podcasts e farangullos en galego. Se queres escoitar contidos de audio usa esta web ou o teu cliente de podcast favorito.
+
+  - title: Galegotube
+    img: /icons/galegotube.svg
+    description: Galegotube é o fogar que agrupa a todas as creadores que suben contido en galego na plataforma de Youtube.
+
+  - title: GalegoTwitch
+    img: /icons/galegotwitch.svg
+    description: Comunidade de persoas que retransmiten en galego na plataforma de Twitch.
+
+  - title: E máis!
+    img: /icons/acodg.svg
+    description: Estás a crear contido en galego noutra plataforma? Gustaríache formar parte da comunidade de persoas que crean contido en galego na rede? [Ponte en contacto con nós](/docs/contact/)
+
+examples:
+  title: Últimos proxectos en sumarse a comunidade
+  more:
+    text: e moitos máis!
+    href: /comunidade/
+
+testimonials:
+  title: Proxectos activos da comunidade
+
+support:
+  title: Grazas ás persoas que impulsaron o proxecto
+
+  sponsors:
+    - name: Agos Reigosa (Creador do twitter GalegoTwitch e impulsor desta comunidade)
+      url: https://www.youtube.com/c/AgosReigosa
+      img: /img/avatars/supporters/agosreigosa.webp
+    - name: Fran da Lobeira (Socio fundador e presidente da A.C. Obradoiro Dixital Galego)
+      url: https://alobeiratoday.gal/
+      img: /img/avatars/supporters/a_lobeira_today.webp
+    - name: Madialevo (Socio fundador e vicepresidente da A.C. Obradoiro Dixital Galego)
+      url: https://twitter.com/madialevo
+      img: /img/avatars/supporters/madialevo.webp
+    - name: Alkaine (Socio fundador e secretario da A.C. Obradoiro Dixital Galego)
+      url: https://twitter.com/alkaine_twitch
+      img: /img/avatars/supporters/alkaine_.webp
+    - name: Adrancinho (Socio fundador e tesoureiro da A.C. Obradoiro Dixital Galego)
+      url: https://twitter.com/Adrancinho/
+      img: /img/avatars/supporters/adrancinho.webp
+    - name: Alfredo Hanabi (Socio fundador e vogal da A.C. Obradoiro Dixital Galego)
+      url: https://twitter.com/O_Hanabi__
+      img: /img/avatars/supporters/o_hanabi.webp
+
+  contribute:
+    title: Como podo participar na comunidade?
+    description: |
+      - Contribúe co tecido asociativo e [afíliate]() a Asociación Cultural Obradoiro Dixital Galego
+      - Asina a [petición pra incluír o galego en Twitch](https://twitch.uservoice.com/forums/310210-discover-browsing-and-searching/suggestions/41359657-add-galician-option-on-live-stream-information-set).
+      - Siguenos nas nosas redes sociais e difunde o contido en galego.
+      - Únete e participa ou fai as túas preguntas na comunidade de [Discord](https://discord.gg/pTbpHp9zwE).

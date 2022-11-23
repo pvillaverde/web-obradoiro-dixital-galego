@@ -1,0 +1,1015 @@
+layout: layouts/comunidade.njk
+title: Comunidade
+main_menu: comunidade
+description: |
+  Listate dos proxectos que crean contido en **galego** na rede
+
+comunidade:
+  -
+      title: dieguitoocr
+      url: https://twitch.tv/dieguitoocr
+      img: /img/comunidade/dieguitoocr.webp
+      description: Son un rapaz galego, que e sanitario recen titulado en busca de traballo e de vez en cando fai directo de xogos variados, dame un like que non custa nada e axudasme moito a medrar. 
+      createdDate: 2018-06-28 17:17:16.863664
+      active: false
+      tags:
+      - twitch
+  -
+      title: Timcaos
+      url: https://twitch.tv/timcaos
+      img: /img/comunidade/timcaos.webp
+      description: A partida de D&D máis caótica en Galego.
+      createdDate: 2018-03-16 21:39:17
+      active: true
+      tags:
+      - twitch
+      - rol
+  -
+      title: Dr_Peartree
+      url: https://twitch.tv/dr_peartree
+      img: /img/comunidade/dr_peartree.webp
+      description: Creador de  @MorcegoRevista | Escribo cousas en @LaVozdeGalicia mesturando palabras sobre música, videoxogos e cine | Quero darlle literatura aos teus fillos, que é polo que estamos ao vivo aquí en Twich.
+      createdDate: 2015-07-15 15:44:31.451454
+      active: false
+      tags:
+      - twitch
+  -
+      title: RevistaMorcego
+      url: https://twitch.tv/revistamorcego
+      img: /img/comunidade/revistamorcego.webp
+      description: Somos unha revista dixital en galego sobre videoxogos, pero seguro que xa o sabes. 
+      createdDate: 2019-01-25 13:19:07.629387
+      active: false
+      tags:
+      - twitch
+      - podcast
+      - videoxogos
+  -
+      title: anahanabi
+      url: https://twitch.tv/anahanabi
+      img: /img/comunidade/anahanabi.webp
+      description: https://twitter.com/Ana_hanabihttps://www.instagram.com/anahanabiii/
+      createdDate: 2019-01-19 18:50:33
+      active: false
+      tags:
+      - twitch
+  -
+      title: Daenvil6
+      url: https://twitch.tv/daenvil6
+      img: /img/comunidade/daenvil6.webp
+      description: Contido de videoxogos en galego!
+      createdDate: 2014-03-06 18:35:32.031787
+      active: false
+      tags:
+      - twitch
+      - videoxogos
+  -
+      title: Radiaciongamma
+      url: https://twitch.tv/radiaciongamma
+      img: /img/comunidade/radiaciongamma.webp
+      description: Boas a todxs. Somos dous estudantes de química preto de rematar a carreira. Queremos axudarvos a coñereceres un pouquiño máis do incrible que pode ser a ciencia, e das posibilidades que nos ofrece
+      createdDate: 2021-02-09 16:22:22.639051
+      active: false
+      tags:
+      - twitch
+  -
+      title: Naxta_GZ
+      url: https://twitch.tv/naxta_gz
+      img: /img/comunidade/naxta_gz.webp
+      description: Fora mellor parir un porco.
+      createdDate: 2016-04-20 13:20:30
+      active: true
+      tags:
+      - twitch
+  -
+      title: inowol
+      url: https://twitch.tv/inowol
+      img: /img/comunidade/inowol.webp
+      description: Videoxogos random dende o noroeste da Galiza. Xogo dende que era un anano e apeteciame compartir esta afición nos directos. Sempre é benvida xente nova :)
+      createdDate: 2016-11-16 22:40:32.92414
+      active: false
+      tags:
+      - twitch
+      - videoxogos
+  -
+      title: SanmendetZ
+      url: https://twitch.tv/sanmendetz
+      img: /img/comunidade/sanmendetz.webp
+      description: Noob en CSGO en Warzone e agora tamén en Twitch! 
+      createdDate: 2020-03-30 17:16:58.398973
+      active: false
+      tags:
+      - twitch
+  -
+      title: xMank0
+      url: https://twitch.tv/xmank0
+      img: /img/comunidade/xmank0.webp
+      description: Músico, gamer e borracho✨ | Membro da comunidade de Twitch en Galego💙
+      createdDate: 2016-10-16 21:34:13.516587
+      active: true
+      tags:
+      - twitch
+      - videoxogos
+  -
+      title: fatex_03
+      url: https://twitch.tv/fatex_03
+      img: /img/comunidade/fatex_03.webp
+      description: Recomendado por 9 de cada 10 dentistas
+      createdDate: 2019-09-24 20:30:43.720315
+      active: true
+      tags:
+      - twitch
+  -
+      title: A_Marxe_da_Paxina
+      url: https://twitch.tv/a_marxe_da_paxina
+      img: /img/comunidade/a_marxe_da_paxina.webp
+      description: Sala de estudo, luns a xoves de 16h a 20h.
+      createdDate: 2021-04-08 10:07:04.369269
+      active: false
+      tags:
+      - twitch
+  -
+      title: localdemusica
+      url: https://twitch.tv/localdemusica
+      img: /img/comunidade/localdemusica.webp
+      description: 🎵Centro sociocultural musical pontevedrés🎵
+      createdDate: 2020-03-21 17:53:50.362692
+      active: false
+      tags:
+      - twitch
+      - musica
+  -
+      title: NVFGalicia
+      url: https://twitch.tv/nvfgalicia
+      img: /img/comunidade/nvfgalicia.webp
+      description: O fútbol que máis nos gusta con Dani Cabo e Bieito Baliño
+      createdDate: 2021-04-12 21:36:53.671401
+      active: false
+      tags:
+      - twitch
+      - deporte
+  -
+      title: mediapinta
+      url: https://twitch.tv/mediapinta
+      img: /img/comunidade/mediapinta.webp
+      description: 
+      createdDate: 2018-04-06 21:53:05.159279
+      active: false
+      tags:
+      - twitch
+  -
+      title: Enxebre_Gamer
+      url: https://twitch.tv/enxebre_gamer
+      img: /img/comunidade/enxebre_gamer.webp
+      description: A túa canle de Fortnite e outros xogos en Galego! Divertidos streams diarios na túa lingua! Creando unha comunidade galega en Twitch!
+      createdDate: 2019-06-06 15:50:59.891543
+      active: false
+      tags:
+      - twitch
+      - videoxogos
+  -
+      title: AlbertoBusto
+      url: https://twitch.tv/albertobusto
+      img: /img/comunidade/albertobusto.webp
+      description: Músico en Arrhythmia pero aquí viñemos a falar do resto.Canle... "musical".
+      createdDate: 2022-04-14 07:26:06
+      active: true
+      tags:
+      - twitch
+      - musica
+  -
+      title: FicaCoaBola
+      url: https://twitch.tv/ficacoabola
+      img: /img/comunidade/ficacoabola.webp
+      description: Canle de Youtube adicada ao mundo do fútbol. Da man de Anxo Tato e Borja Pérez. Vimos botar unhas risas á plataforma de moda. Toxicidade fóra, Aspas-Marchena fóra.
+      createdDate: 2021-01-05 15:57:52.320473
+      active: false
+      tags:
+      - twitch
+      - deporte
+  -
+      title: OneChessMan
+      url: https://twitch.tv/onechessman
+      img: /img/comunidade/onechessman.webp
+      description: 
+      createdDate: 2020-10-19 16:12:42.196685
+      active: false
+      tags:
+      - twitch
+  -
+      title: AsWomansplainers
+      url: https://twitch.tv/aswomansplainers
+      img: /img/comunidade/aswomansplainers.webp
+      description: 
+      createdDate: 2021-06-17 18:07:11.70876
+      active: false
+      tags:
+      - twitch
+  -
+      title: eu_son_marta
+      url: https://twitch.tv/eu_son_marta
+      img: /img/comunidade/eu_son_marta.webp
+      description: 🎹🎷 EVERY DAY, entre as 18:00 e as 21:00 (hora de España GMT +1) // Por aquí IMPROVISAREMOS en riguroso Directo, co PIANO ou co SAXO ALTO // Intérprete, Compositora e profesora de Música 🎵🎧
+      createdDate: 2021-02-19 18:48:49.426204
+      active: false
+      tags:
+      - twitch
+      - musica
+  -
+      title: toxoGZ
+      url: https://twitch.tv/toxogz
+      img: /img/comunidade/toxogz.webp
+      description: Intento de streamer galego, coruñés e do Dépor.Xogo ao LOL, TFT e o que xurda. Agradécese que apoiedes a canle con un "follow" e participedes no "chat". E se queredes tirarme o Prime cómovos os...
+      createdDate: 2021-01-20 18:34:33.552268
+      active: false
+      tags:
+      - twitch
+      - videoxogos
+  -
+      title: Mosynho
+      url: https://twitch.tv/mosynho
+      img: /img/comunidade/mosynho.webp
+      description: Xogo a todo e para todos. Síntete convidado para vir e pasalo ben
+      createdDate: 2015-09-20 23:35:47.005503
+      active: false
+      tags:
+      - twitch
+      - videoxogos
+  -
+      title: AresMenethil
+      url: https://twitch.tv/aresmenethil
+      img: /img/comunidade/aresmenethil.webp
+      description: Natural de Galicia. PC Gamer e Nintendero. Emito gameplays do que lle cadre, xa ti vas vendo. Tamén teño unha canle de YouTube na que subo os meus directos entre outras movidas.
+      createdDate: 2016-01-23 18:29:24
+      active: true
+      tags:
+      - twitch
+      - videoxogos
+  -
+      title: o_hanabi
+      url: https://twitch.tv/o_hanabi
+      img: /img/comunidade/o_hanabi.webp
+      description: Streams en galego~Main Teemo on duty!
+      createdDate: 2015-04-04 15:04:16.671866
+      active: true
+      tags:
+      - twitch
+      - videoxogos
+  -
+      title: hijodejea
+      url: https://twitch.tv/hijodejea
+      img: /img/comunidade/hijodejea.webp
+      description: Xogador de teclado e rato que lle zurra a todo pero non controla de nada😂😂🤪🤪
+      createdDate: 2021-12-26 18:35:53
+      active: false
+      tags:
+      - twitch
+  -
+      title: RudePenizas
+      url: https://twitch.tv/rudepenizas
+      img: /img/comunidade/rudepenizas.webp
+      description: Out of context 
+      createdDate: 2020-12-27 21:49:13.590893
+      active: false
+      tags:
+      - twitch
+  -
+      title: FranCanhotas
+      url: https://twitch.tv/francanhotas
+      img: /img/comunidade/francanhotas.webp
+      description: Ando a voltas con isto do Twitch! 🕹 A ver que sae de aquí... 😎 
+      createdDate: 2020-03-20 18:40:07.400969
+      active: false
+      tags:
+      - twitch
+  -
+      title: cristoxoGZ
+      url: https://twitch.tv/cristoxogz
+      img: /img/comunidade/cristoxogz.webp
+      description: Creando contido en galego sobre videoxogos. 
+      createdDate: 2021-02-25 17:45:49.720923
+      active: false
+      tags:
+      - twitch
+  -
+      title: gabiiig8
+      url: https://twitch.tv/gabiiig8
+      img: /img/comunidade/gabiiig8.webp
+      description: Son Gabi e galego! Non sei que poñer, así que estou escribindo esto sin ningún tipo de sentido! Ti ponte cómod@ e disfruta, o resto fago eu! :)
+      createdDate: 2015-10-24 03:17:53.867864
+      active: false
+      tags:
+      - twitch
+  -
+      title: Mars_Marcelyn
+      url: https://twitch.tv/mars_marcelyn
+      img: /img/comunidade/mars_marcelyn.webp
+      description: Streamer galega de videoxogos :)
+      createdDate: 2020-10-24 11:21:53.570696
+      active: false
+      tags:
+      - twitch
+  -
+      title: Twitch_en_Galego
+      url: https://twitch.tv/twitch_en_galego
+      img: /img/comunidade/twitch_en_galego.webp
+      description: Hosteamos, seguimos e agrupamos a toda a xente que retransmite en Galego en Twitch.
+      createdDate: 2020-11-22 15:59:47.783564
+      active: false
+      tags:
+      - twitch
+  -
+      title: BraisDoval
+      url: https://twitch.tv/braisdoval
+      img: /img/comunidade/braisdoval.webp
+      description: Pois aquí facendo directos reaccionando a cousas, entrevistas, xogando á e así. Isto é Twitch aquí todo o mundo fai o mesmo tampouco veño a innovar.
+      createdDate: 2017-11-20 17:19:39.841865
+      active: true
+      tags:
+      - twitch
+      - entrevistas
+  -
+      title: XeracionVos
+      url: https://twitch.tv/xeracionvos
+      img: /img/comunidade/xeracionvos.webp
+      description: Somos Xeración Vós, un programa de debate xuvenil, entrevistas varias e información e análise sobre a actualidade política, económica e social.
+      createdDate: 2021-01-29 21:58:23.805848
+      active: false
+      tags:
+      - twitch
+  -
+      title: descifrandohistoria
+      url: https://twitch.tv/descifrandohistoria
+      img: /img/comunidade/descifrandohistoria.webp
+      description: PODCAST PARA A ANÁLISE DA HISTORIA DE GALICIA, EN GALEGO. En iVoox, Spotify e @podgalego 
+      createdDate: 2021-10-08 09:28:46
+      active: false
+      tags:
+      - twitch
+  -
+      title: AgosReigosa
+      url: https://twitch.tv/agosreigosa
+      img: /img/comunidade/agosreigosa.webp
+      description: Pequeno friki lucense | Xogador de videoxogos | Creador de contidos | Un ruxe ruxe sen fin
+      createdDate: 2015-03-14 13:02:19.354913
+      active: false
+      tags:
+      - twitch
+  -
+      title: tilvegal
+      url: https://twitch.tv/tilvegal
+      img: /img/comunidade/tilvegal.webp
+      description: 
+      createdDate: 2017-08-12 16:48:53.97207
+      active: false
+      tags:
+      - twitch
+  -
+      title: lopezgzx
+      url: https://twitch.tv/lopezgzx
+      img: /img/comunidade/lopezgzx.webp
+      description: Manqueando como forma de vida👻🎮
+      createdDate: 2018-05-17 21:17:06
+      active: true
+      tags:
+      - twitch
+  -
+      title: ZatHonsen
+      url: https://twitch.tv/zathonsen
+      img: /img/comunidade/zathonsen.webp
+      description: Retransmisión de videoxogos en directo e en galego.
+      createdDate: 2020-10-25 13:34:02
+      active: true
+      tags:
+      - twitch
+      - videoxogos
+  -
+      title: martasoneu
+      url: https://twitch.tv/martasoneu
+      img: /img/comunidade/martasoneu.webp
+      description: Son unha chica normal que só tenta axudar ás persoas. Non son nada máis hahaha.
+      createdDate: 2019-01-11 23:05:35.586562
+      active: false
+      tags:
+      - twitch
+  -
+      title: anhiram_
+      url: https://twitch.tv/anhiram_
+      img: /img/comunidade/anhiram_.webp
+      description: Chámome Mariña e estou graduada en Tradución e Interpretación. Actualmente aínda sigo estudando, pero paso o meu tempo libre xogando a videoxogos, así que aquí estou. Gústanme a cor morada e a naranxa, os gatetes, a cervexa e os memes. Galego-Inglés-Español-Portugués
+      createdDate: 2020-06-17 13:48:35.84704
+      active: false
+      tags:
+      - twitch
+      - videoxogos
+  -
+      title: OrgulloGalego
+      url: https://twitch.tv/orgullogalego
+      img: /img/comunidade/orgullogalego.webp
+      description: ▶▶ Somos a maior comunidade en galego en redes, máis de 310.000. Úneste? Para ver as "conversas con" anteriores, pásate polo noso YouTube!
+      createdDate: 2021-01-01 12:25:07.077937
+      active: true
+      tags:
+      - twitch
+      - youtube
+      - cultura
+  -
+      title: OsFalabaratos_
+      url: https://twitch.tv/osfalabaratos_
+      img: /img/comunidade/osfalabaratos_.webp
+      description: Falamos de deporte, aínda que non temos nin idea. 
+      createdDate: 2021-04-02 12:08:03.051116
+      active: false
+      tags:
+      - twitch
+  -
+      title: EcosdeXigantes
+      url: https://twitch.tv/ecosdexigantes
+      img: /img/comunidade/ecosdexigantes.webp
+      description: Divulgación científica en galego no Twitch, cada luns a iso das 20:30
+      createdDate: 2021-01-25 19:36:34.623116
+      active: false
+      tags:
+      - twitch
+  -
+      title: o_tereso
+      url: https://twitch.tv/o_tereso
+      img: /img/comunidade/o_tereso.webp
+      description: Un gamer galego, pasate e ríete😄
+      createdDate: 2020-06-07 09:43:42.233211
+      active: false
+      tags:
+      - twitch
+  -
+      title: XurxoDiz
+      url: https://twitch.tv/xurxodiz
+      img: /img/comunidade/xurxodiz.webp
+      description: Polo de agora, vou transmitir unha partida de rol en galego. Se vai ben, veremos que máis fago :) http://xurxodiz.eu/
+      createdDate: 2018-09-20 12:42:27.038502
+      active: false
+      tags:
+      - twitch
+      - rol
+  -
+      title: coegho
+      url: https://twitch.tv/coegho
+      img: /img/comunidade/coegho.webp
+      description: Aquí, matando o tempo despois do choio xogando a cousiñas
+      createdDate: 2018-05-08 21:20:54.890104
+      active: true
+      tags:
+      - twitch
+      - videoxogos
+  -
+      title: Franregue
+      url: https://twitch.tv/franregue
+      img: /img/comunidade/franregue.webp
+      description: Todo é moi fabuloso, misterioso e soñador.
+      createdDate: 2020-08-03 16:09:13.984208
+      active: true
+      tags:
+      - twitch
+  -
+      title: sekirofan_
+      url: https://twitch.tv/sekirofan_
+      img: /img/comunidade/sekirofan_.webp
+      description: 
+      createdDate: 2021-01-31 10:46:33.785106
+      active: false
+      tags:
+      - twitch
+  -
+      title: guepeuve
+      url: https://twitch.tv/guepeuve
+      img: /img/comunidade/guepeuve.webp
+      description: streamer galego facendo as miñas movidas
+      createdDate: 2018-02-16 21:31:52.722327
+      active: false
+      tags:
+      - twitch
+  -
+      title: Ideafixxx
+      url: https://twitch.tv/ideafixxx
+      img: /img/comunidade/ideafixxx.webp
+      description: 
+      createdDate: 2013-12-06 20:10:42.323151
+      active: false
+      tags:
+      - twitch
+  -
+      title: ben_cho_sei
+      url: https://twitch.tv/ben_cho_sei
+      img: /img/comunidade/ben_cho_sei.webp
+      description: 
+      createdDate: 2021-01-30 20:10:39
+      active: false
+      tags:
+      - twitch
+  -
+      title: brais_camposino
+      url: https://twitch.tv/brais_camposino
+      img: /img/comunidade/brais_camposino.webp
+      description: Pois que ando por aquí, facendo cousas.
+      createdDate: 2018-03-31 18:14:28.805293
+      active: true
+      tags:
+      - twitch
+      - cozinha
+  -
+      title: Adrancinho
+      url: https://twitch.tv/adrancinho
+      img: /img/comunidade/adrancinho.webp
+      description: Biografía en progreso.
+      createdDate: 2017-07-04 13:50:49.905922
+      active: false
+      tags:
+      - twitch
+  -
+      title: roisinh0
+      url: https://twitch.tv/roisinh0
+      img: /img/comunidade/roisinh0.webp
+      description: Som um rapaz galego que joga a videojogos bastante mal, vou provar a ver se isto é divertido ou que, a ver se me fago famoso :v
+      createdDate: 2016-08-07 22:03:03.550868
+      active: false
+      tags:
+      - twitch
+  -
+      title: TeleJaita
+      url: https://twitch.tv/telejaita
+      img: /img/comunidade/telejaita.webp
+      description: Maldita polisía del flow
+      createdDate: 2012-12-15 20:26:45.107472
+      active: false
+      tags:
+      - twitch
+  -
+      title: O_Ghaitas
+      url: https://twitch.tv/o_ghaitas
+      img: /img/comunidade/o_ghaitas.webp
+      description: Canle de stream en galego!
+      createdDate: 2020-01-30 18:15:15.877705
+      active: false
+      tags:
+      - twitch
+  -
+      title: CrespoGZ
+      url: https://twitch.tv/crespogz
+      img: /img/comunidade/crespogz.webp
+      description: Streameando en Galego, aínda que Twitch non deixe.
+      createdDate: 2018-08-29 18:00:01.519028
+      active: false
+      tags:
+      - twitch
+  -
+      title: Galizan Gamer
+      url: https://twitch.tv/https://beacons.ai/galizangamer
+      img: /img/comunidade/galizangamer.webp
+      description:  Aquí poderás ver contido sobre videoxogos como retransmisións de conferencias, directos grupais como as Pochonovas ou partidas soltas dalgún de nos. Os 4 integrantes somos Dinav, Fedello, Mosynho e Antón.
+      createdDate: 2020-09-28 21:27:02.558366
+      active: true
+      tags:
+      - youtube
+      - twitch
+      - videoxogos
+  -
+      title: RecunchoGamer
+      url: https://twitch.tv/recunchogamer
+      img: /img/comunidade/recunchogamer.webp
+      description: Xogamos e falamos (en galego) de videoxogos cun ton desenfadado 
+      createdDate: 2020-10-24 11:40:40.892934
+      active: true
+      tags:
+      - twitch
+      - youtube
+      - podcast
+      - videoxogos
+  -
+      title: a_lobeira_today
+      url: https://twitch.tv/a_lobeira_today
+      img: /img/comunidade/a_lobeira_today.webp
+      description: Velaquí vas poder ver o tripeiro do que se coce na Lobeira, como funciona a cabeza e algunhas que outras cousas. BENVIDX LOBEIRISTA!!!
+      createdDate: 2020-04-09 10:30:11.312203
+      active: true
+      tags:
+      - twitch
+      - youtube
+      - podcast
+      - entrevistas
+  -
+      title: Armesto3D
+      url: https://twitch.tv/armesto3d
+      img: /img/comunidade/armesto3d.webp
+      description: 3D ModelerLugo, Galiza.
+      createdDate: 2016-02-15 19:47:04.623659
+      active: true
+      tags:
+      - twitch
+      - videoxogos
+  -
+      title: KekoNeverland
+      url: https://twitch.tv/kekoneverland
+      img: /img/comunidade/kekoneverland.webp
+      description: Xogo videos e as veces falo cousas. Pouco mais que decir. Welcome to Neverland
+      createdDate: 2013-07-26 13:06:10.331498
+      active: false
+      tags:
+      - twitch
+  -
+      title: pasinhobarrosinho
+      url: https://twitch.tv/pasinhobarrosinho
+      img: /img/comunidade/pasinhobarrosinho.webp
+      description: Non teño un don para retransmitir, nin para xogar, nin para falar, en resumo eu creo que non teño un don para nada ,asi que se eres coma min entra no streaming dalle follow e pasa o tempo con nos. Mil grazas por estar aqui😉
+      createdDate: 2020-04-12 18:43:58.697804
+      active: false
+      tags:
+      - twitch
+  -
+      title: cupido_galego
+      url: https://twitch.tv/cupido_galego
+      img: /img/comunidade/cupido_galego.webp
+      description: FAGO DIRECTOS XOGANDO E FALANDO CON VOS🤪 FAGO O QUE PODO🤣
+      createdDate: 2021-03-19 00:54:44.166898
+      active: false
+      tags:
+      - twitch
+      - videoxogos
+  -
+      title: acamisola
+      url: https://twitch.tv/acamisola
+      img: /img/comunidade/acamisola.webp
+      description: Cada semana cambiamos a camisola, en forma de directo, con algunha personalidade galega relacionada coa ciencia, a cultura ou o deporte.
+      createdDate: 2021-03-27 10:20:59.480185
+      active: false
+      tags:
+      - twitch
+  -
+      title: F1enGalego
+      url: https://twitch.tv/f1engalego
+      img: /img/comunidade/f1engalego.webp
+      description: Disque no Galituiter só se fala de política e de galego. Pois agora chegamos nós para falar da Fórmula 1 en galego.Twitch despois de cada Gran Premio. Agardámosvos!
+      createdDate: 2021-03-07 15:24:29.296987
+      active: false
+      tags:
+      - twitch
+      - deporte
+  -
+      title: farun
+      url: https://twitch.tv/farun
+      img: /img/comunidade/farun.webp
+      description: 
+      createdDate: 2015-06-21 22:22:31.712345
+      active: false
+      tags:
+      - twitch
+  -
+      title: AqueCheiraPapa
+      url: https://twitch.tv/aquecheirapapa
+      img: /img/comunidade/aquecheirapapa.webp
+      description: Lanzamos o A que cheira, papá? porque sentimos que hai oco para un proxecto coma este. Un magazine para falar de cultura galega, desde unha perspectiva nova e fresca, fóra dos circuítos xa coñecidos ou das voces de sempre. Unha canle de Twich era o seguinte paso na conquista cheirer!
+      createdDate: 2020-11-21 23:19:22.736345
+      active: false
+      tags:
+      - twitch
+      - podcast
+      - cultura
+  -
+      title: LexuamZaled
+      url: https://twitch.tv/lexuamzaled
+      img: /img/comunidade/lexuamzaled.webp
+      description: Persoa interesada en series de animación, videoxogos e xogos de rol e de mesa proba sorte en Twitch facendo directos en galego. Sae mal?
+      createdDate: 2015-04-19 16:04:13.361386
+      active: false
+      tags:
+      - twitch
+  -
+      title: OputoPablo
+      url: https://twitch.tv/oputopablo
+      img: /img/comunidade/oputopablo.webp
+      description: Genghis Khan podería ser meu pai.
+      createdDate: 2020-11-08 14:21:50.351886
+      active: false
+      tags:
+      - twitch
+  -
+      title: RinconDeDaniel
+      url: https://twitch.tv/rincondedaniel
+      img: /img/comunidade/rincondedaniel.webp
+      description: Falando de todo e de nada. Xogando a Euro Truck Simulator facendo un imperio do mundo dos transportes. Tamén algo de Among Us, Valorant e cousas diversas. Tamén comento partidos do Dépor.
+      createdDate: 2021-02-25 20:26:00.062919
+      active: true
+      tags:
+      - twitch
+      - youtube
+      - musica
+      - videoxogos
+      - entrevistas
+  -
+      title: De_Parola
+      url: https://twitch.tv/de_parola
+      img: /img/comunidade/de_parola.webp
+      description: Xa estamos en Twitch! Agardamos poder compartir moitos #DeParolaAoVivo nesta plataforma, ademais de moitos momentos divertidos convosco.
+      createdDate: 2021-01-05 14:58:28.336044
+      active: false
+      tags:
+      - twitch
+  -
+      title: bruxoglz
+      url: https://twitch.tv/bruxoglz
+      img: /img/comunidade/bruxoglz.webp
+      description: Boas! Por aquí xogamos a videoxogos ou falamos de anime, filmes, etc. Gosto moito dos RPGs, mais tamén doutros xogos, especialmente os indies.
+      createdDate: 2022-02-17 19:07:21
+      active: false
+      tags:
+      - twitch
+  -
+      title: sanchezanxo
+      url: https://twitch.tv/sanchezanxo
+      img: /img/comunidade/sanchezanxo.webp
+      description: Son deseñador web
+      createdDate: 2017-12-03 18:07:38.295705
+      active: false
+      tags:
+      - twitch
+  -
+      title: eros_25
+      url: https://twitch.tv/eros_25
+      img: /img/comunidade/eros_25.webp
+      description: Aquí vimos a divertirnos
+      createdDate: 2019-11-02 19:23:21.472153
+      active: false
+      tags:
+      - twitch
+  -
+      title: ClanKirfed
+      url: https://twitch.tv/clankirfed
+      img: /img/comunidade/clankirfed.webp
+      description: Emitimos en galego compartindo as nosas paixóns por Star Wars, os paxaros, #LinuxGaming e os videoxogos cooperativos e de estratexia e moito máis en twitch.
+      createdDate: 2020-11-21 19:43:54.952154
+      active: false
+      tags:
+      - twitch
+      - videoxogos
+  -
+      title: amorod0
+      url: https://twitch.tv/amorod0
+      img: /img/comunidade/amorod0.webp
+      description: La vida es difícil de llevar
+      createdDate: 2018-02-05 13:08:33.221164
+      active: false
+      tags:
+      - twitch
+  -
+      title: xavelino
+      url: https://twitch.tv/xavelino
+      img: /img/comunidade/xavelino.webp
+      description: Actor, storyteller, and ... whatever!
+      createdDate: 2021-06-18 17:24:48.007233
+      active: false
+      tags:
+      - twitch
+  -
+      title: TeConGotas
+      url: https://twitch.tv/tecongotas
+      img: /img/comunidade/tecongotas.webp
+      description: Somos un podcast sobre o Reino Unido. Actualidade, ideas e diáspora galega. Gravado desde Londres por Miguel Rodríguez Fernández e Duarte Romero Varela. 
+      createdDate: 2021-03-09 22:18:41.486734
+      active: false
+      tags:
+      - twitch
+  -
+      title: dinav_hel
+      url: https://twitch.tv/dinav_hel
+      img: /img/comunidade/dinav_hel.webp
+      description: Directos en Twitch dos de facer o parvo xogando a algo.
+      createdDate: 2020-11-15 21:41:42
+      active: false
+      tags:
+      - twitch
+  -
+      title: mabae3
+      url: https://twitch.tv/mabae3
+      img: /img/comunidade/mabae3.webp
+      description: Canal en Galego. Políglota, fangirl e perdedora a tempo completo. Nunca sei de nada e sempre aprendo de todo. 𝐵𝑒𝑛𝑣𝑒𝑛𝑢𝑡𝑖 𝑎𝑙 𝑚𝑖𝑜 𝑠𝑐𝘩𝑖𝑓𝑜!— 
+      createdDate: 2020-09-12 18:50:56.964148
+      active: false
+      tags:
+      - twitch
+  -
+      title: LilLuthes
+      url: https://twitch.tv/lilluthes
+      img: /img/comunidade/lilluthes.webp
+      description: Tentarei facer stream en galego, xogos e algo de divulgación natural eu que sei
+      createdDate: 2018-01-31 22:24:29.586417
+      active: false
+      tags:
+      - twitch
+  -
+      title: PardoDeGaming
+      url: https://twitch.tv/pardodegaming
+      img: /img/comunidade/pardodegaming.webp
+      description: 
+      createdDate: 2020-12-29 18:54:14.812863
+      active: false
+      tags:
+      - twitch
+  -
+      title: miguelfieiro
+      url: https://twitch.tv/miguelfieiro
+      img: /img/comunidade/miguelfieiro.webp
+      description: Experto en nada. Vendo como funciona esto do Twitch. Canle en galego!!
+      createdDate: 2019-10-13 20:50:40.872305
+      active: false
+      tags:
+      - twitch
+  -
+      title: GaliciaMedieval
+      url: https://twitch.tv/galiciamedieval
+      img: /img/comunidade/galiciamedieval.webp
+      description: Conta de divulgación de historia medieval en galego levada por Adrián e que intenta pasar un bo rato con todos vos namentres aprendemos algo (Biografía provisional)
+      createdDate: 2020-12-18 09:22:20.981761
+      active: false
+      tags:
+      - twitch
+      - cultura
+  -
+      title: cristerceiro_
+      url: https://twitch.tv/cristerceiro_
+      img: /img/comunidade/cristerceiro_.webp
+      description: Falando sábense as cousas.
+      createdDate: 2021-01-23 13:18:41
+      active: false
+      tags:
+      - twitch
+  -
+      title: hoenhaim19
+      url: https://twitch.tv/hoenhaim19
+      img: /img/comunidade/hoenhaim19.webp
+      description: 
+      createdDate: 2018-01-06 21:59:06.785735
+      active: false
+      tags:
+      - twitch
+  -
+      title: papuxa_
+      url: https://twitch.tv/papuxa_
+      img: /img/comunidade/papuxa_.webp
+      description: Divulgación científica en galego. Ecoloxía e sociedade.
+      createdDate: 2021-03-18 17:06:08.000086
+      active: false
+      tags:
+      - twitch
+  -
+      title: SeiKader
+      url: https://twitch.tv/seikader
+      img: /img/comunidade/seikader.webp
+      description: Eih! 
+      createdDate: ) Galego preparando o MIR21 (médico interno residente), por iso estarei a maior parte do tempo estudando. Ademais tamén estarei xogando ou charlando, no tempo libre. Benvido! :)2018-04-01 14:20:42.670389
+      active: false
+      tags:
+      - twitch
+  -
+      title: puskiscelta
+      url: https://twitch.tv/puskiscelta
+      img: /img/comunidade/puskiscelta.webp
+      description: Se lees isto débesme unha cerveza. Fago isto por diversión, non son profesional nin aspiro a elo. Se sigues lendo isto débesme dúas.
+      createdDate: 2013-03-11 16:50:14
+      active: false
+      tags:
+      - twitch
+  -
+      title: alkaine_
+      url: https://twitch.tv/alkaine_
+      img: /img/comunidade/alkaine_.webp
+      description: Emisións irregulares para xente irregular. Botamos unhas risas con xogos interesantes!
+      createdDate: 2013-05-25 20:15:16.33944
+      active: false
+      tags:
+      - twitch
+      - videoxogos
+  -
+      title: PabloRodriguezVila
+      url: https://profesoradogalicia.com/
+      img: /img/comunidade/pablorodriguezvila.webp
+      description: Liberado sindical en CIG Ensino
+      createdDate: 2021-02-19 10:48:53.734791
+      active: true
+      tags:
+      - twitch
+      - youtube
+      - outras
+  -
+      title: en3vistas
+      url: https://twitch.tv/en3vistas
+      img: /img/comunidade/en3vistas.webp
+      description: 'Un tema, un par de horas, e a pasalo ben. D''equí a Andorra, pero con rigor. Co micro na man, en Youtube.'
+      createdDate: 2021-01-22 12:05:50.980412
+      active: false
+      tags:
+      - twitch
+  -
+      title: c_perversas
+      url: https://twitch.tv/c_perversas
+      img: /img/comunidade/c_perversas.webp
+      description: Um (1) podcast. Conversas perversas, improvisadas e mesmo rimadas. Um par mui díspar que vás adorar. Até aqui a descriçom, começa a radiodifusom.
+      createdDate: 2022-02-18 10:33:51
+      active: false
+      tags:
+      - twitch
+  -
+      title: falarsensaber
+      url: https://twitch.tv/falarsensaber
+      img: /img/comunidade/falarsensaber.webp
+      description: esto por agora non ten nin biografía
+      createdDate: 2021-04-03 16:17:08.611925
+      active: false
+      tags:
+      - twitch
+  -
+      title: IviPensado
+      url: https://twitch.tv/ivipensado
+      img: /img/comunidade/ivipensado.webp
+      description: 
+      createdDate: 2018-04-10 20:57:59.054408
+      active: false
+      tags:
+      - twitch
+  -
+      title: MarexadaGamer
+      url: https://twitch.tv/marexadagamer
+      img: /img/comunidade/marexadagamer.webp
+      description: “Ser feliz é recoñecer que paga a pena vivir a pesar de tódolos desafíos”
+      createdDate: 2021-05-29 09:43:48
+      active: false
+      tags:
+      - twitch
+  -
+      title: moisespombo
+      url: https://twitch.tv/moisespombo
+      img: /img/comunidade/moisespombo.webp
+      description: Aquí vimos a falar de cousas! Cada programa unha diferente. HOXE FALAMOS DE "SAIDA". Lembra que podes enviar o teu audio ao telegram @Mpombo
+      createdDate: 2020-02-10 15:44:01.194555
+      active: false
+      tags:
+      - twitch
+  -
+      title: madialevo
+      url: https://twitch.tv/madialevo
+      img: /img/comunidade/madialevo.webp
+      description: Mestre e xornalista. Interesado en todo, experto en nada. Xogo a Geoguessr (Battle Royale, mapas de Galicia, etc.). Xogo co meu fillo a Prodigy Math e Roblox. De cando en vez aproveito para facer divulgación dos meus temas favoritos:educación, prensa antiga, libros, cinema, historia, etc.
+      createdDate: 2020-11-30 18:46:39.199599
+      active: true
+      tags:
+      - twitch
+      - videoxogos
+  -
+      title: CorsarioGaming
+      url: https://twitch.tv/corsariogaming
+      img: /img/comunidade/corsariogaming.webp
+      description: Pro noobie • Contido diverso e divertido • Manda un saludo en el chat y te sentirás como en casa • Si el contenido es de tu gusto deja tu humilde follow •Galego como non, e Expañol 
+      createdDate: 2015-05-17 11:56:28.797361
+      active: false
+      tags:
+      - twitch
+  -
+      title: LouroGZ
+      url: https://twitch.tv/lourogz
+      img: /img/comunidade/lourogz.webp
+      description: Nacín no 96 e gústame xogar e falar de videoxogos. Intento facelo ben.
+      createdDate: 2021-01-12 21:20:27.708365
+      active: false
+      tags:
+      - twitch
+  -
+      title: risou_s
+      url: https://twitch.tv/risou_s
+      img: /img/comunidade/risou_s.webp
+      description: 💛Nesta conta fálase galego💛
+      createdDate: 2020-06-10 10:47:10.860149
+      active: true
+      tags:
+      - twitch
+      - videoxogos
+  -
+      title: iriaribadomar
+      url: https://twitch.tv/iriaribadomar
+      img: /img/comunidade/iriaribadomar.webp
+      description: Debuxo · Pintura · Ilustración · Deseño · Deica! Creacións:complementos ilustrados arredor da cultura galega · Tenda:www.deicacreacions.com 
+      createdDate: 2021-02-05 12:22:43.262831
+      active: false
+      tags:
+      - twitch
+  -
+      title: BaleaVermella
+      url: https://twitch.tv/baleavermella
+      img: /img/comunidade/baleavermella.webp
+      description: Directos de Javier Balea e A Raíña Vermella falando sobre diversos temas relacionados coa ciencia
+      createdDate: 2021-02-21 20:28:59.003732
+      active: false
+      tags:
+      - twitch
+  -
+      title: feracorrupia
+      url: https://twitch.tv/feracorrupia
+      img: /img/comunidade/feracorrupia.webp
+      description: Ola! Son Branca, Fera Corrupia nas redes ✧/ᐠ-ꞈ-ᐟ\ Na miña canle gravo un podcast sobre litertura galega, xogo a cousas lindas e odio a policía. Fóra terfas, fascistas e demais calaña. 
+      createdDate: 2020-12-21 20:21:57

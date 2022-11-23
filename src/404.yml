@@ -1,0 +1,10 @@
+layout: layouts/error.njk
+title: "404: Páxina non encontrada"
+description: |
+  Sentímolo, a páxina que buscabas non se puido atopar.
+
+content:
+  title: "Error 404:<br /><span>Páxina non</span> encontrada"
+  description: Sentímolo, a páxina que buscabas non se puido atopar.
+  button:
+    title: Volver ó Inicio

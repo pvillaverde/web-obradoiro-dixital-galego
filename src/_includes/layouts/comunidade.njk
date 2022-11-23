@@ -1,0 +1,62 @@
+---
+layout: ./base.njk
+page_css: plugins.css
+---
+
+<main class="plugins">
+   <header class="plugins-header">
+      <h1>{{ title }}</h1>
+      {{ description | md | safe }}
+   </header>
+
+   <lume-filter>
+      <form class="plugins-filter">
+         <select name="status" class="selector">
+            <option value="all">Todos os proxectos {{ all_total }}</option>
+            <option value="enabled">Só os proxectos con actividade</option>
+            <option value="disabled">Só os proxectos sen actividade</option>
+         </select>
+
+         {% for id, info in tags_info %}
+            <label class="button is-secondary is-color-{{ info.color }}">
+               <input type="checkbox" name="{{ id }}">
+               {{ info.name }}
+            </label>
+         {% endfor %}
+      </form>
+
+      <ul class="plugins-list">
+         {% for canle in comunidade | sort(true, false, "createdDate") %}
+            <li class="plugin {% if canle.active %} is-enabled{% endif %}" data-tags="{{ canle.tags }}">
+               <figure class="site">
+                  {% if canle.img %}
+                     <a target="_blank" href="{{ canle.url }}" class="site-image">
+                        <img src="{{ canle.img }}" alt="Logo de {{canle.title}}" width="300" height="200">
+                     </a>
+                  {% endif %}
+                  <figcaption class="site-description">
+                     <p>
+                        <a target="_blank" href="{{ canle.url }}" class="site-name">
+                           {{ canle.title }}
+                        </a>
+                        {% if canle.active %}
+                           <span class="tag is-small">En activo</span>
+                        {% endif %}
+                     </p>
+
+                     {{ canle.description | md | safe }}
+                  </figcaption>
+               </figure>
+
+               <nav class="plugin-tags">
+                  {% for tag in canle.tags %}
+                     <a href="?{{ tag }}=on" class="button is-secondary is-small is-color-{{ tags_info[tag].color }}">
+                        {{ tags_info[tag].name }}
+                     </a>
+                  {% endfor %}
+               </nav>
+            </li>
+         {% endfor %}
+      </ul>
+   </lume-filter>
+</main>
