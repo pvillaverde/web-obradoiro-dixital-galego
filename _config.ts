@@ -8,18 +8,18 @@ import imagick from "lume/plugins/imagick.ts";
 import minifyHTML from "lume/plugins/minify_html.ts";
 import lightningCss from "lume/plugins/lightningcss.ts";
 import sitemap from "lume/plugins/sitemap.ts";
-import toc from "https://deno.land/x/lume_markdown_plugins@v0.1.0/toc/mod.ts";
-import footnote from "https://jspm.dev/markdown-it-footnote";
-import iframe from "https://jspm.dev/markdown-it-iframe";
-import markdownVideo from "https://jspm.dev/markdown-it-video";
+import mdToc from "https://deno.land/x/lume_markdown_plugins@v0.1.0/toc/mod.ts";
+import mdFootnote from "https://jspm.dev/markdown-it-footnote";
+import ndIframe from "https://jspm.dev/markdown-it-iframe";
+import mdVideo from "https://jspm.dev/markdown-it-video";
 
 /* import pagefind from "lume/plugins/pagefind.ts"; */
 
 const markdown = {
-   plugins: [toc, footnote, [iframe, {
+   plugins: [mdToc, mdFootnote, [ndIframe, {
       width: 800,
       height: 600,
-   }], [markdownVideo, {
+   }], [mdVideo, {
       youtube: { width: 800, height: 600 },
    }]],
    keepDefaultPlugins: true,

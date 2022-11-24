@@ -7,9 +7,10 @@ header:
   title: O fogar do <span>contido en galego</span> na rede
 
 callToAction:
-  title: "Consulta o que ofrecemos na comunidade"
+  title: "Consulta a [información da asociación](/docs/sobre-nos/obradoiro-dixital-galego/#a-asociación) para ver os requisitos e máis beneficios"
+  code: "Queres formar parte da comunidade?"
   button: "Únete"
-  url: /docs/getting-started/your-first-page/
+  url: /asociate/
 
 features:
   - title: Difusión
@@ -60,7 +61,7 @@ support:
   contribute:
     title: Como podo participar na comunidade?
     description: |
-      - Contribúe co tecido asociativo e [afíliate]() a Asociación Cultural Obradoiro Dixital Galego
+      - Contribúe co tecido asociativo e [afíliate](/asociate) a Asociación Cultural Obradoiro Dixital Galego
       - Asina a [petición pra incluír o galego en Twitch](https://twitch.uservoice.com/forums/310210-discover-browsing-and-searching/suggestions/41359657-add-galician-option-on-live-stream-information-set).
       - Siguenos nas nosas redes sociais e difunde o contido en galego.
       - Únete e participa ou fai as túas preguntas na comunidade de [Discord](https://discord.gg/pTbpHp9zwE).
