@@ -8,6 +8,8 @@ import imagick from "lume/plugins/imagick.ts";
 import minifyHTML from "lume/plugins/minify_html.ts";
 import lightningCss from "lume/plugins/lightningcss.ts";
 import sitemap from "lume/plugins/sitemap.ts";
+import netlifyCMS from "lume/plugins/netlify_cms.ts";
+import metas from "lume/plugins/metas.ts";
 import mdToc from "https://deno.land/x/lume_markdown_plugins@v0.1.0/toc/mod.ts";
 import mdFootnote from "https://jspm.dev/markdown-it-footnote";
 import ndIframe from "https://jspm.dev/markdown-it-iframe";
@@ -54,15 +56,18 @@ site
         resetStyles: false,
       },
     })) */
+   .use(netlifyCMS())
    .use(codeHighlight())
    .use(postcss())
    .use(lightningCss())
+   .use(metas())
    .use(inline())
    .use(esbuild({
       extensions: [".js"],
    }))
    .use(resolveUrls())
    .use(imagick())
+   .use(metas())
    .use(sitemap())
    .scopedUpdates(
       (path) => path.endsWith(".png") || path.endsWith(".jpg"),

@@ -11,12 +11,12 @@ page_css: landing.css
       </figure>
 
       <div class="landing-install">
-         {{ callToAction.title | md | safe }}
+         {{ action.title | md | safe }}
 
          <div class="landing-install-code">
-            <pre><code>{{ callToAction.code }}</code></pre>
-            <a class="landing-install-cta" href="{{ callToAction.url }}" aria-label="Continue to Getting Started">
-               {{ callToAction.button | md | safe }}
+            <pre><code>{{ action.code }}</code></pre>
+            <a class="landing-install-cta" href="{{ action.url }}" aria-label="Continue to Getting Started">
+               {{ action.button | md | safe }}
                <img src="/icons/arrow-right.svg" inline>
             </a>
          </div>
@@ -57,6 +57,27 @@ page_css: landing.css
          <a href="{{ examples.more.href }}" class="landing-examples-cta">{{ examples.more.text }}</a>
       </lume-carousel>
    </section>
+
+   <section class="landing-suppport">
+      <h2>{{ support.title }}</h2>
+
+      <ul class="landing-support-sponsors">
+         {% for sponsor in support.sponsors %}
+            <li>
+               <a href="{{ sponsor.url }}" title="{{ sponsor.name }}">
+                  <img src="{{ sponsor.img }}" srcset="{{ sponsor.img }}, {{ sponsor.img | replace(".webp", "@2x.webp") }} 2x" height="100" width="100" alt="{{ sponsor.name }}">
+               </a>
+            </li>
+         {% endfor %}
+      </ul>
+
+      <div class="landing-support-contribute">
+         <h3>{{ support.contribute.title }}</h3>
+
+         {{ support.contribute.description | md | safe }}
+      </div>
+   </section>
+
    <section class="landing-testimonials">
       <h2>{{ testimonials.title }}</h2>
 
@@ -77,23 +98,19 @@ page_css: landing.css
       </ul>
    </section>
 
-   <section class="landing-suppport">
-      <h2>{{ support.title }}</h2>
+   <section class="landing-faq">
+      <header>
+         <h2>{{ faq.title | safe }}</h2>
+         {{ faq.description | md | safe }}
+      </header>
 
-      <ul class="landing-support-sponsors">
-         {% for sponsor in support.sponsors %}
-            <li>
-               <a href="{{ sponsor.url }}" title="{{ sponsor.name }}">
-                  <img src="{{ sponsor.img }}" srcset="{{ sponsor.img }}, {{ sponsor.img | replace(".webp", "@2x.webp") }} 2x" height="100" width="100" alt="{{ sponsor.name }}">
-               </a>
-            </li>
+      <div class="faq-questions">
+         {% for item in faq.questions %}
+            <details class="landing-faq-question">
+               <summary>{{ item.question | safe }}</summary>
+               <div class="landing-faq-answer">{{ item.answer | md | safe }}</div>
+            </details>
          {% endfor %}
-      </ul>
-
-      <div class="landing-support-contribute">
-         <h3>{{ support.contribute.title }}</h3>
-
-         {{ support.contribute.description | md | safe }}
       </div>
    </section>
 </div>
