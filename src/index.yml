@@ -12,21 +12,21 @@ callToAction:
   url: /docs/getting-started/your-first-page/
 
 features:
-  - title: Podgalego
-    img: /icons/podgalego.svg
-    description: Podgalego é a agrupación de podcasts e farangullos en galego. Se queres escoitar contidos de audio usa esta web ou o teu cliente de podcast favorito.
+  - title: Difusión
+    img: /icons/difusion.svg
+    description: Promovemos e difundimos o teu contido en galego a través das nosas redes de difusión automatizadas e nos nosos eventos.
 
-  - title: Galegotube
-    img: /icons/galegotube.svg
-    description: Galegotube é o fogar que agrupa a todas as creadores que suben contido en galego na plataforma de Youtube.
+  - title: Colaboracións
+    img: /icons/colaboracion.svg
+    description: Xeramos os puntos de encontro de persoas creadores de contido e fomentamos a colaboración entre elas.
 
-  - title: GalegoTwitch
-    img: /icons/galegotwitch.svg
-    description: Comunidade de persoas que retransmiten en galego na plataforma de Twitch.
+  - title: Formación
+    img: /icons/formacion.svg
+    description: Asesoramos e prestamos asistencia ás persoas creadores de contido ou con intención de crear contido en galego.
 
-  - title: E máis!
-    img: /icons/acodg.svg
-    description: Estás a crear contido en galego noutra plataforma? Gustaríache formar parte da comunidade de persoas que crean contido en galego na rede? [Ponte en contacto con nós](/docs/contact/)
+  - title: Dinamizar a lingua
+    img: /icons/lingua.svg
+    description: Establecemos redes de cooperación con centros educativos para promover o uso e creación de contidos dixitais en galego.
 
 examples:
   title: Últimos proxectos en sumarse a comunidade
@@ -38,27 +38,24 @@ testimonials:
   title: Proxectos activos da comunidade
 
 support:
-  title: Grazas ás persoas que impulsaron o proxecto
+  title: Plataformas nas que estamos presentes
 
   sponsors:
-    - name: Agos Reigosa (Creador do twitter GalegoTwitch e impulsor desta comunidade)
-      url: https://www.youtube.com/c/AgosReigosa
-      img: /img/avatars/supporters/agosreigosa.webp
-    - name: Fran da Lobeira (Socio fundador e presidente da A.C. Obradoiro Dixital Galego)
-      url: https://alobeiratoday.gal/
-      img: /img/avatars/supporters/a_lobeira_today.webp
-    - name: Madialevo (Socio fundador e vicepresidente da A.C. Obradoiro Dixital Galego)
-      url: https://twitter.com/madialevo
-      img: /img/avatars/supporters/madialevo.webp
-    - name: Alkaine (Socio fundador e secretario da A.C. Obradoiro Dixital Galego)
-      url: https://twitter.com/alkaine_twitch
-      img: /img/avatars/supporters/alkaine_.webp
-    - name: Adrancinho (Socio fundador e tesoureiro da A.C. Obradoiro Dixital Galego)
-      url: https://twitter.com/Adrancinho/
-      img: /img/avatars/supporters/adrancinho.webp
-    - name: Alfredo Hanabi (Socio fundador e vogal da A.C. Obradoiro Dixital Galego)
-      url: https://twitter.com/O_Hanabi__
-      img: /img/avatars/supporters/o_hanabi.webp
+    - name: Podgalego - A agrupación de podcasts e farangullos en galego
+      url: https://podgalego.agora.gal
+      img: /img/avatars/platforms/podcast.webp
+    - name: Twitch - A plataforma de retransmisións en directos.
+      url: https://twitch.tv/
+      img: /img/avatars/platforms/twitch.webp
+    - name: Youtube - A plataforma de videos baixo demanda
+      url: https://www.youtube.com/
+      img: /img/avatars/platforms/youtube.webp
+    - name: Instagram - A rede social de fotografía
+      url: https://www.instagram.com/
+      img: /img/avatars/platforms/instagram.webp
+    - name: Twitch - A rede social de vídeos curtos
+      url: https://www.tiktok.com
+      img: /img/avatars/platforms/tiktok.webp
 
   contribute:
     title: Como podo participar na comunidade?
