@@ -31,7 +31,7 @@ const site = lume({
    src: "./src",
    dest: "./_site",
    emptyDest: true,
-   location: new URL("https://example.com"),
+ //  location: new URL("https://obradoiro-dixital-galego.netlify.app/"),
    prettyUrls: true, // Disable pretty urls
    server: {
       port: 3000,
