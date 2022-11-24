@@ -114,6 +114,8 @@ export default {
       name: "git-gateway",
       branch: "main",
    },
+   site_url:"https://obradoiro-dixital-galego.netlify.app/",
+   logo_url: "/logo.png",
    media_folder: "src/img",
    public_folder: "/img",
    collections: [
