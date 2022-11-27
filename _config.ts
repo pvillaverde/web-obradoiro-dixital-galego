@@ -73,6 +73,7 @@ site
       (path) => path.endsWith(".png") || path.endsWith(".jpg"),
    )
    .filter("slice", (arr, length) => arr.slice(0, length))
+   .filter("channelTags", (allTags, channelTags) => allTags.filter((t: { id: string; }) => channelTags ? channelTags.some((ct: string) => ct == t.id) : false))
    .process([".html"], (page) => {
       const doc = page.document!;
       const blocks = doc.querySelectorAll("lume-code");

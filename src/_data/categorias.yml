@@ -1,0 +1,34 @@
+tags:
+  - id: deporte
+    name: Deporte
+    color: lightgray
+  - id: youtube
+    name: Youtube
+    color: tomato
+  - id: entrevistas
+    name: Entrevistas
+    color: lightgray
+  - id: podcast
+    name: Podcast
+    color: lightskyblue
+  - id: cultura
+    name: Cultura
+    color: pink
+  - id: cozinha
+    name: Cociña
+    color: lightgray
+  - id: rol
+    name: D&D / Rol
+    color: lightgray
+  - id: twitch
+    name: Twitch
+    color: violet
+  - id: outras
+    name: Outras
+    color: lightgray
+  - id: videoxogos
+    name: Videoxogos
+    color: lightgreen
+  - id: musica
+    name: Música
+    color: gold

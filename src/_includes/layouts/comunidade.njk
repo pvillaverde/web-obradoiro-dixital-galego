@@ -17,16 +17,16 @@ page_css: plugins.css
             <option value="disabled">Só os proxectos sen actividade</option>
          </select>
 
-         {% for id, info in tags_info %}
-            <label class="button is-secondary is-color-{{ info.color }}">
-               <input type="checkbox" name="{{ id }}">
-               {{ info.name }}
+         {% for tag in categorias.tags %}
+            <label class="button is-secondary is-color-{{ tag.color }}">
+               <input type="checkbox" name="{{ tag.id }}">
+               {{ tag.name }}
             </label>
          {% endfor %}
       </form>
 
       <ul class="plugins-list">
-         {% for canle in comunidade | sort(true, false, "createdDate") %}
+         {% for canle in comunidade.proxectos | sort(true, false, "date") %}
             <li class="plugin {% if canle.active %} is-enabled{% endif %}" data-tags="{{ canle.tags }}">
                <figure class="site">
                   {% if canle.img %}
@@ -49,9 +49,9 @@ page_css: plugins.css
                </figure>
 
                <nav class="plugin-tags">
-                  {% for tag in canle.tags %}
-                     <a href="?{{ tag }}=on" class="button is-secondary is-small is-color-{{ tags_info[tag].color }}">
-                        {{ tags_info[tag].name }}
+                  {% for tag in categorias.tags | channelTags(canle.tags) %}
+                     <a href="?{{ tag.id }}=on" class="button is-secondary is-small is-color-{{ tag.color }}">
+                        {{ tag.name }}
                      </a>
                   {% endfor %}
                </nav>

@@ -13,11 +13,15 @@ const userAgentString = navigator.userAgent;
 const chromeAgent = userAgentString.indexOf("Chrome") > -1;
 
 if (chromeAgent) {
-  const observer = new ReportingObserver((reports) => {
-    for (const report of reports) {
-      console.log(report.type, report.url, report.body);
-    }
-  }, { buffered: true });
+   const observer = new ReportingObserver((reports) => {
+      for (const report of reports) {
+         console.log(report.type, report.url, report.body);
+      }
+   }, { buffered: true });
 
-  observer.observe();
+   observer.observe();
+}
+export default function getChannelTags(allTags, channelTags) {
+   console.log(channelTags, allTags);
+   return allTags.filter(t => channelTags.some(ct => ct == t));
 }

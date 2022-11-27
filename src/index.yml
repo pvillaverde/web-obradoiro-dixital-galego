@@ -6,6 +6,7 @@ examples:
 titleSuffix: Obradoiro Dixital Galego
 layout: layouts/landing.njk
 metas:
+  site: Asociación Cultural Obradoiro Dixital Galego
   title: Asociación Cultural Obradoiro Dixital Galego
   robots: true
   lang: gl
@@ -83,12 +84,5 @@ features:
       promover o uso e creación de contidos dixitais en galego.
 faq:
   title: FAQs
-  questions:
-    - question: Cómo se determina que proxectos están activos?
-      answer: Actualmente consideramos activas as canles e farangullos que xeran
-        contido polo menos unha vez ó mes.
-    - question: Hai algún xeito de buscar por temática?
-      answer: Si! Con esta web podes entrar en [comunidade](/comunidade) e utilizar os
-        filtros para buscar polas categorías que máis che presten.
   description: Tes algunha pregunta? Non o dubides e ponte en contacto con nós en
     [obradoirodixitalgalego@gmail.com](mailto:obradoirodixitalgalego@gmail.com)

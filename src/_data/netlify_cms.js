@@ -56,14 +56,7 @@ const pages = t.files("Páxinas")
    /* .file("Privacy policy", "/privacy.md", textPages)
    .file("Terms of service", "/terms.md", textPages)
    .file("Cookies", "/cookies.md", textPages) */;
-/*    title: moisespombo
-   url: https://twitch.tv/moisespombo
-   img: /img/comunidade/moisespombo.webp
-   description: Aquí vimos a falar de cousas! Cada programa unha diferente. HOXE FALAMOS DE "SAIDA". Lembra que podes enviar o teu audio ao telegram @Mpombo
-   createdDate: 2020-02-10 15:44:01.194555
-   active: false
-   tags:
-   - twitch */
+
 // Global data
 /* const comunidade = t.files("Proxectos da comunidad")
    .description("Aqui podes editar as canles da comunidade")
@@ -108,17 +101,58 @@ const pages = t.files("Páxinas")
    .mediaFolder("/src/img/comunidade")
    .publicFolder("/img/comunidade")
    .create(true); */
+const FAQ = t.folder("FAQ", "/src/FAQ", [
+   t.hidden("type", "faq"),
+   t.number("Nº de pregunta").name("number").required(true),
+   t.string("Pregunta").name("title").required(true),
+   t.markdown("Resposta").name("answer").required(true),
+])
+   .description("As preguntas e respostas máis frecuentes que saen na portada.")
+   .preview(false).create(true).delete(true).slug("faq-{{number}}")
+   .sortableFields("number", "title")
+
+const comunidade = t.files("Comunidade")
+   .description("Aquí podes editar os proxectos que forman parte da comunidade")
+   .sortableFields("title", "date")
+   .preview(false)
+   .viewFilter("Filtrar", "Tags", "youtube")
+   .file("Categorías", "/src/_data/categorias.yml", [
+      t.list("Tags", [
+         t.string("Id").required(true),
+         t.string("Name").required(true),
+         t.select("Color", ["lemonchiffon", "tomato", "violet", "gold", "lightskyblue", "lightgreen", "pink", "lightgray"]).required(true),
+      ])
+   ])
+   .file("Proxectos", "/src/_data/comunidade.yml", [
+      t.list("Proxectos", [
+         t.string("Title").required(true),
+         t.string("Url").required(true),
+         t.image("Img"),
+         t.markdown("Description").required(true),
+         t.datetime("date").required(true),
+         t.boolean("active"),
+         t.relation("Tags")
+            .collection("comunidade")
+            .file('categorías')
+            .searchFields(["tags.*.name"])
+            .displayFields(["tags.*.name"])
+            .valueField("tags.*.id")
+            .multiple(true).required(true)
+      ]).collapsed(true),
+   ])
 
 export default {
    backend: {
       name: "git-gateway",
       branch: "main",
    },
-   site_url:"https://obradoiro-dixital-galego.netlify.app/",
+   site_url: "https://obradoiro-dixital-galego.netlify.app/",
    logo_url: "/logo.png",
-   media_folder: "src/img",
-   public_folder: "/img",
+   media_folder: "src/img/comunidade",
+   public_folder: "/img/comunidade",
    collections: [
       pages.toJSON(),
+      comunidade.toJSON(),
+      FAQ.toJSON(),
    ],
 };

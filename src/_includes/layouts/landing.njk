@@ -48,8 +48,7 @@ page_css: landing.css
       </header>
 
       <lume-carousel role="region" aria-label="Showcase" tabindex="0" class="landing-examples-sites" id="examples">
-         {% set comunidade = search.page("url=/comunidade/") %}
-         {% for item in comunidade.data.comunidade | sort(true, false, "createdDate") | slice(8) %}
+         {% for item in comunidade.proxectos | sort(true, false, "date") | slice(8) %}
             <a href="{{ item.url }}" title="{{ item.title }}: {{item.description}}" class="site-image">
                <img src="{{ item.img }}" alt="{{ item.title }}" width="300" height="200">
             </a>
@@ -82,7 +81,7 @@ page_css: landing.css
       <h2>{{ testimonials.title }}</h2>
 
       <ul class="landing-testimonials-quotes">
-         {% for item in comunidade.data.comunidade | selectattr("active") | sort(true, false, "createdDate") %}
+         {% for item in comunidade.proxectos | selectattr("active") | sort(true, false, "date") %}
             <li>
                <blockquote class="landing-testimonials-quote">
                   {{ item.description | md | safe }}
@@ -97,17 +96,15 @@ page_css: landing.css
          {% endfor %}
       </ul>
    </section>
-
    <section class="landing-faq">
       <header>
          <h2>{{ faq.title | safe }}</h2>
          {{ faq.description | md | safe }}
       </header>
-
       <div class="faq-questions">
-         {% for item in faq.questions %}
+         {% for item in search.pages("type=faq", "number=asc",10) |data %}
             <details class="landing-faq-question">
-               <summary>{{ item.question | safe }}</summary>
+               <summary>{{ item.title | safe }}</summary>
                <div class="landing-faq-answer">{{ item.answer | md | safe }}</div>
             </details>
          {% endfor %}
