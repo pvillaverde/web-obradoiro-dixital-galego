@@ -102,7 +102,8 @@ page_css: landing.css
          {{ faq.description | md | safe }}
       </header>
       <div class="faq-questions">
-         {% for item in search.pages("type=faq", "number=asc",10) |data %}
+         {% for item in faq.questions %}
+         {# {% for item in search.pages("type=faq", "number=asc",10) |data %} #}
             <details class="landing-faq-question">
                <summary>{{ item.title | safe }}</summary>
                <div class="landing-faq-answer">{{ item.answer | md | safe }}</div>

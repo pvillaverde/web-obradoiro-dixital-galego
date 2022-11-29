@@ -23,12 +23,12 @@ tags:
   - id: twitch
     name: Twitch
     color: violet
-  - id: outras
-    name: Outras
-    color: lightgray
   - id: videoxogos
     name: Videoxogos
     color: lightgreen
   - id: musica
     name: Música
     color: gold
+  - id: outras
+    name: Outras
+    color: lightgray

@@ -7,12 +7,7 @@ titleSuffix: Obradoiro Dixital Galego
 layout: layouts/landing.njk
 metas:
   site: Asociación Cultural Obradoiro Dixital Galego
-  title: Asociación Cultural Obradoiro Dixital Galego
   robots: true
-  lang: gl
-  description: A unión da xente que crea contido en galego na rede
-  image: /logo.png
-  twitter: "@AC_ODG"
   keywords:
     - podcast
     - youtube
@@ -23,7 +18,12 @@ metas:
     - creador
     - contidos
     - farangullo
+  lang: gl
+  twitter: "@AC_ODG"
   generator: true
+  title: Asociación Cultural Obradoiro Dixital Galego
+  image: /logo.png
+  description: A unión da xente que crea contido en galego na rede
 header:
   title: O fogar do <span>contido en galego</span> na rede
 support:
@@ -86,3 +86,10 @@ faq:
   title: FAQs
   description: Tes algunha pregunta? Non o dubides e ponte en contacto con nós en
     [obradoirodixitalgalego@gmail.com](mailto:obradoirodixitalgalego@gmail.com)
+  questions:
+    - title: Cómo se determina que proxectos están activos?
+      answer: Actualmente consideramos activas as canles e farangullos que xeran
+        contido polo menos unha vez ó mes.
+    - title: Hai algún xeito de buscar por temática?
+      answer: Si! Con esta web podes entrar en \\[comunidade](/comunidade) e utilizar
+        os filtros para buscar polas categorías que máis che presten.
