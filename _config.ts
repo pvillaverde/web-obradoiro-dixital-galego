@@ -74,6 +74,7 @@ site
    )
    .filter("slice", (arr, length) => arr.slice(0, length))
    .filter("channelTags", (allTags, channelTags) => allTags.filter((t: { id: string; }) => channelTags ? channelTags.some((ct: string) => ct == t.id) : false))
+   .remoteFile("api/canles.tmpl.js", import.meta.resolve(`./src/api/canles.tmpl.js`))
    .process([".html"], (page) => {
       const doc = page.document!;
       const blocks = doc.querySelectorAll("lume-code");
