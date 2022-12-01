@@ -1,5 +1,6 @@
 layout: layouts/comunidade.njk
 title: Comunidade
 main_menu: comunidade
-description: |
-  Listate dos proxectos que crean contido en **galego** na rede
+description: Nesta páxina podes consultar a listaxe de proxectos que crean
+  contido en **galego** na rede. Podes utilizar os filtros para buscar segundo a
+  plataforma ou contido que che interese.
