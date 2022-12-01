@@ -30,13 +30,13 @@ page_css: plugins.css
             <li class="plugin {% if item.active %} is-enabled{% endif %}" data-tags="{{ item.tags }}">
                <figure class="site">
                   {% if item.img %}
-                     <a target="_blank" href="{{ item.url }}" class="site-image">
+                     <a target="_blank" href="{{ item.href }}" class="site-image">
                         <img src="{{ item.img }}" alt="Logo de {{item.title}}" width="300" height="200">
                      </a>
                   {% endif %}
                   <figcaption class="site-description">
                      <p>
-                        <a target="_blank" href="{{ item.url }}" class="site-name">
+                        <a target="_blank" href="{{ item.href }}" class="site-name">
                            {{ item.title }}
                         </a>
                         {% if item.active %}
