@@ -21,7 +21,3 @@ if (chromeAgent) {
 
    observer.observe();
 }
-export default function getChannelTags(allTags, channelTags) {
-   console.log(channelTags, allTags);
-   return allTags.filter(t => channelTags.some(ct => ct == t));
-}

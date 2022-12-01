@@ -21,131 +21,94 @@ const textPages = [
    t.markdown("Body"),
 ];
 
-const pages = t.files("Páxinas")
+const pages = t.files("Xeral")
    .description("Aquí podes editar as páxinas indivuais")
    .sortableFields("title")
    .preview(false)
    .file("Portada", "/src/index.yml", [
-      t.string("Title"),
-      t.hidden("Layout"),
+      t.string("title").required(true),
+      t.hidden("layout"),
       metas,
-      t.object("Header", [
+      t.object("header", [
          t.string("Title"),
       ]),
-      t.object("Action", [
+      t.object("action", [
          t.markdown("title"),
          t.string("code"),
          t.string("button"),
          t.string("url"),
       ]),
-
-      t.list("Features", [
+      t.list("features", [
          t.string("Title"),
          t.image("Img"),
          t.markdown("Description"),
       ]),
       t.object("FAQ", [
-         t.string("Title"),
-         t.markdown("Description"),
-         t.list("Questions", [
-            t.string("Question"),
-            t.markdown("Answer"),
-         ]),
-      ]),
+         t.string("title"),
+         t.markdown("description"),
+         t.list("questions", [
+            t.string("title"),
+            t.markdown("answer"),
+         ]).collapsed(false),
+      ]).collapsed(false),
    ])
-   /* .file("Privacy policy", "/privacy.md", textPages)
-   .file("Terms of service", "/terms.md", textPages)
-   .file("Cookies", "/cookies.md", textPages) */;
-
-// Global data
-/* const comunidade = t.files("Proxectos da comunidad")
-   .description("Aqui podes editar as canles da comunidade")
-   .preview(false)
-   .file("Comunidade", "/_data/comunidade.yml", [
-      t.string("Copyright"),
-      t.list("Links", [
-         t.string("Text"),
-         t.string("Href"),
-      ]),
-      t.object("Cookies", [
-         t.markdown("Text"),
-         t.string("Button"),
-      ]),
+   .file("Comunidade", "/src/comunidade/index.yml", [
+      t.hidden("layout"),
+      t.string("title").required(true),
+      t.string("description").required(true),
    ])
-   .mediaFolder("/src/img/comunidade")
-   .publicFolder("/img/comunidade"); */
-/* const data = t.files("Global data")
-   .description("Edit global data shared by all pages")
-   .preview(false)
-   .file("Footer", "/_data/footer.yml", [
-      t.string("Copyright"),
-      t.list("Links", [
-         t.string("Text"),
-         t.string("Href"),
-      ]),
-      t.object("Cookies", [
-         t.markdown("Text"),
-         t.string("Button"),
-      ]),
-   ]); */
-
-// Updates
-/* const comunidade = t.folder("Comunidade", "comunidade", [
-   t.string("Title"),
-   t.string("Author"),
-   t.datetime("Date"),
-   t.markdown("Body"),
-])
-   .description("Aqui podes editar as canles da comunidade")
-   .preview(false)
-   .mediaFolder("/src/img/comunidade")
-   .publicFolder("/img/comunidade")
-   .create(true); */
-const FAQ = t.folder("FAQ", "/src/FAQ", [
-   t.hidden("type", "faq"),
-   t.number("Nº de pregunta").name("number").required(true),
-   t.string("Pregunta").name("title").required(true),
-   t.markdown("Resposta").name("answer").required(true),
-])
-   .description("As preguntas e respostas máis frecuentes que saen na portada.")
-   .preview(false).create(true).delete(true).slug("faq-{{number}}")
-   .sortableFields("number", "title")
-
-const comunidade = t.files("Comunidade")
-   .description("Aquí podes editar os proxectos que forman parte da comunidade")
-   .sortableFields("title", "date")
-   .preview(false)
-   .viewFilter("Filtrar", "Tags", "youtube")
    .file("Categorías", "/src/_data/categorias.yml", [
       t.list("Tags", [
          t.string("Id").required(true),
          t.string("Name").required(true),
          t.select("Color", ["lemonchiffon", "tomato", "violet", "gold", "lightskyblue", "lightgreen", "pink", "lightgray"]).required(true),
-      ])
+      ]).minimizeCollapsed(false)
    ])
-   .file("Proxectos", "/src/_data/comunidade.yml", [
-      t.list("Proxectos", [
-         t.string("Title").required(true),
-         t.string("Url").required(true),
-         t.image("Img"),
-         t.markdown("Description").required(true),
-         t.datetime("date").required(true),
-         t.boolean("active"),
-         t.relation("Tags")
-            .collection("comunidade")
-            .file('categorías')
-            .searchFields(["tags.*.name"])
-            .displayFields(["tags.*.name"])
-            .valueField("tags.*.id")
-            .multiple(true).required(true)
-      ]).collapsed(true),
-   ])
+   /* .file("Privacy policy", "/privacy.md", textPages)
+   .file("Terms of service", "/terms.md", textPages)
+   .file("Cookies", "/cookies.md", textPages) */;
+
+
+// Updates
+const comunidade = t.folder("Comunidade", "/src/comunidade/proxectos", [
+   t.hidden("layout", "layouts/proxecto.njk").required(true),
+   t.hidden("type", "proxecto").required(true),
+   t.string("file").required(true),
+   t.string("title").required(true),
+   t.string("href").required(true),
+   t.image("img"),
+   t.markdown("description").required(true),
+   t.datetime("date").required(true),
+   t.boolean("active"),
+   t.select("platform", ["twitch", "youtube", "podcast"]),
+   t.relation("tags")
+      .collection("xeral")
+      .file('categorías')
+      .searchFields(["tags.*.name"])
+      .displayFields(["tags.*.name"])
+      .valueField("tags.*.id")
+      .multiple(true).required(true)
+])
+   .description("Aquí podes editar os proxectos que forman parte da comunidade")
+   .sortableFields("title", "date")
+   .viewFilter("Activas", "active", true)
+   .viewFilter("Canles de Twitch", "platform", "twitch")
+   .viewFilter("Canles de Youtube", "platform", "youtube")
+   .viewFilter("Canles de Podcast", "platform", "podcast")
+   .viewGroup("Plataforma", "platform", "twitch|youtube|podcast")
+   .viewGroup("Activa", "active", "true")
+   .preview(false)
+   .mediaFolder("/src/img/comunidade")
+   .publicFolder("/img/comunidade")
+   .create(true).delete(true)
+   .slug("{{title}}");
 
 export default {
    backend: {
       name: "git-gateway",
       branch: "main",
    },
+   publish_mode: "editorial_workflow",
    site_url: "https://obradoiro-dixital-galego.netlify.app/",
    logo_url: "/logo.png",
    media_folder: "src/img/comunidade",
@@ -153,6 +116,5 @@ export default {
    collections: [
       pages.toJSON(),
       comunidade.toJSON(),
-      FAQ.toJSON(),
    ],
 };

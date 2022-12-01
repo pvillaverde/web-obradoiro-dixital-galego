@@ -26,30 +26,30 @@ page_css: plugins.css
       </form>
 
       <ul class="plugins-list">
-         {% for canle in comunidade.proxectos | sort(true, false, "date") %}
-            <li class="plugin {% if canle.active %} is-enabled{% endif %}" data-tags="{{ canle.tags }}">
+         {% for item in search.pages("type=proxecto", "date=desc") | data %}
+            <li class="plugin {% if item.active %} is-enabled{% endif %}" data-tags="{{ item.tags }}">
                <figure class="site">
-                  {% if canle.img %}
-                     <a target="_blank" href="{{ canle.url }}" class="site-image">
-                        <img src="{{ canle.img }}" alt="Logo de {{canle.title}}" width="300" height="200">
+                  {% if item.img %}
+                     <a target="_blank" href="{{ item.url }}" class="site-image">
+                        <img src="{{ item.img }}" alt="Logo de {{item.title}}" width="300" height="200">
                      </a>
                   {% endif %}
                   <figcaption class="site-description">
                      <p>
-                        <a target="_blank" href="{{ canle.url }}" class="site-name">
-                           {{ canle.title }}
+                        <a target="_blank" href="{{ item.url }}" class="site-name">
+                           {{ item.title }}
                         </a>
-                        {% if canle.active %}
+                        {% if item.active %}
                            <span class="tag is-small">En activo</span>
                         {% endif %}
                      </p>
 
-                     {{ canle.description | md | safe }}
+                     {{ item.description | md | safe }}
                   </figcaption>
                </figure>
 
                <nav class="plugin-tags">
-                  {% for tag in categorias.tags | channelTags(canle.tags) %}
+                  {% for tag in categorias.tags | channelTags(item.tags) %}
                      <a href="?{{ tag.id }}=on" class="button is-secondary is-small is-color-{{ tag.color }}">
                         {{ tag.name }}
                      </a>
