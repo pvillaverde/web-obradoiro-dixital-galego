@@ -56,7 +56,7 @@ site
         resetStyles: false,
       },
     })) */
-   .use(netlifyCMS())
+   .use(netlifyCMS({ netlifyIdentity: true, }))
    .use(codeHighlight())
    .use(postcss())
    .use(lightningCss())

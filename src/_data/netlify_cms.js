@@ -137,7 +137,6 @@ export default {
    logo_url: "/logo.png",
    media_folder: "src/img/comunidade",
    public_folder: "/img/comunidade",
-   netlifyIdentity: true,
    slug: {
       encoding: "ascii",
       clean_accents: true
