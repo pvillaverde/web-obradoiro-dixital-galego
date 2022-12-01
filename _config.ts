@@ -67,7 +67,6 @@ site
    }))
    .use(resolveUrls())
    .use(imagick())
-   .use(metas())
    .use(sitemap())
    .scopedUpdates(
       (path) => path.endsWith(".png") || path.endsWith(".jpg"),
@@ -122,6 +121,6 @@ site
          (block as unknown as HTMLElement).prepend(menu as unknown as Node);
       });
    })
-   .use(minifyHTML());
+   /* .use(minifyHTML()) */;
 
 export default site;

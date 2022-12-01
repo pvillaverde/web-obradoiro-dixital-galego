@@ -1,8 +1,8 @@
 {
-  "name": "lume.land",
-  "short_name": "lume",
-  "description": "The fast & flexible static site generator for Deno.",
-  "lang": "en",
+  "name": "Obradoiro.Dixital.Galego",
+  "short_name": "acodega",
+  "description": "O fogar do contido galego na rede.",
+  "lang": "gl_ES",
   "id": "/",
   "start_url": "/",
   "theme_color": "#fff",

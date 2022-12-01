@@ -1,31 +1,36 @@
-examples:
-  title: Últimos proxectos en sumarse a comunidade
-  more:
-    text: e moitos máis!
-    href: /comunidade/
-titleSuffix: Obradoiro Dixital Galego
+
+title: Asociación Cultural Obradoiro Dixital Galego
 layout: layouts/landing.njk
-metas:
-  site: Asociación Cultural Obradoiro Dixital Galego
-  robots: true
-  keywords:
-    - podcast
-    - youtube
-    - twitch
-    - obradoiro
-    - dixital
-    - galego
-    - creador
-    - contidos
-    - farangullo
-  lang: gl
-  twitter: "@AC_ODG"
-  generator: true
-  title: Asociación Cultural Obradoiro Dixital Galego
-  image: /logo.png
-  description: A unión da xente que crea contido en galego na rede
 header:
   title: O fogar do <span>contido en galego</span> na rede
+action:
+  title: Consulta a [información da
+    asociación](/docs/sobre-nos/obradoiro-dixital-galego/#a-asociación) para ver
+    os requisitos e máis beneficios
+  code: Queres formar parte da comunidade?
+  button: Únete
+  url: /asociate/
+features:
+  - title: Difusión
+    img: /icons/difusion.svg
+    description: Promovemos e difundimos o teu contido en galego a través das nosas
+      redes de difusión automatizadas e nos nosos eventos.
+  - title: Colaboracións
+    img: /icons/colaboracion.svg
+    description: Xeramos os puntos de encontro de persoas creadores de contido e
+      fomentamos a colaboración entre elas.
+  - title: Formación
+    img: /icons/formacion.svg
+    description: Asesoramos e prestamos asistencia ás persoas creadores de contido
+      ou con intención de crear contido en galego.
+  - title: Dinamizar a lingua
+    img: /icons/lingua.svg
+    description: Establecemos redes de cooperación con centros educativos para
+      promover o uso e creación de contidos dixitais en galego.
+examples:
+  title: Últimos proxectos en sumarse a comunidade
+  more: e moitos máis!
+  url: /comunidade/
 support:
   title: Plataformas nas que estamos presentes
   sponsors:
@@ -57,31 +62,6 @@ support:
       - Únete e participa ou fai as túas preguntas na comunidade de [Discord](https://discord.gg/pTbpHp9zwE).
 testimonials:
   title: Proxectos activos da comunidade
-title: Asociación Cultural Obradoiro Dixital Galego
-action:
-  title: Consulta a [información da
-    asociación](/docs/sobre-nos/obradoiro-dixital-galego/#a-asociación) para ver
-    os requisitos e máis beneficios
-  code: Queres formar parte da comunidade?
-  button: Únete
-  url: /asociate/
-features:
-  - title: Difusión
-    img: /icons/difusion.svg
-    description: Promovemos e difundimos o teu contido en galego a través das nosas
-      redes de difusión automatizadas e nos nosos eventos.
-  - title: Colaboracións
-    img: /icons/colaboracion.svg
-    description: Xeramos os puntos de encontro de persoas creadores de contido e
-      fomentamos a colaboración entre elas.
-  - title: Formación
-    img: /icons/formacion.svg
-    description: Asesoramos e prestamos asistencia ás persoas creadores de contido
-      ou con intención de crear contido en galego.
-  - title: Dinamizar a lingua
-    img: /icons/lingua.svg
-    description: Establecemos redes de cooperación con centros educativos para
-      promover o uso e creación de contidos dixitais en galego.
 faq:
   title: FAQs
   description: Tes algunha pregunta? Non o dubides e ponte en contacto con nós en
@@ -91,5 +71,5 @@ faq:
       answer: Actualmente consideramos activas as canles e farangullos que xeran
         contido polo menos unha vez ó mes.
     - title: Hai algún xeito de buscar por temática?
-      answer: Si! Con esta web podes entrar en \\[comunidade](/comunidade) e utilizar
+      answer: Si! Con esta web podes entrar en [comunidade](/comunidade) e utilizar
         os filtros para buscar polas categorías que máis che presten.
