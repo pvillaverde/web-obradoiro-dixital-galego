@@ -1,34 +1,43 @@
 ---
 layout: ./base.njk
-page_css: docs.css
+page_css: proxecto.css
 ---
+<main class="proxecto">
+   <header>
+      <figure>
+         {% if img %}
+            <img src="{{ img }}"  srcset="{{ img }}, {{ img | replace(".webp", "@2x.webp") }} 2x" alt="Logo de {{title}}">
+         {% endif %}
+         <figcaption>
+            <h1>
+               {{title}}
+               {% if active %}
+               </span>
+            {% endif %}
+         </h1>
+         {{ description | md | safe }}
+      </figcaption>
+   </figure>
+</header>
+<aside class="social-links">
+   <ul>
+      {% for rede, ligazon in redes %}
 
-<div class="doc">
-  {% include "templates/plugin-navbar.njk" %}
+         <li  class="social-link-{{rede}}">
+            <a href="{{ ligazon }}" title="{{ rede }}" >
+               <img src="/icons/social/{{ rede }}.svg" alt="{{ rede }}" inline>
+            </a>
+         </li>
+      {% endfor %}
+   </ul>
+</aside>
+<article>
+   {{ content | safe }}
+</article>
 
-  <main class="doc-content">
-    <header class="doc-header">
-      <h1>
-        {{ title }}
-        {% if enabled %}
-          <span class="tag is-small">Installed</span>
-        {% endif %}
-      </h1>
-      {{ description | md | safe }}
+{# <iframe 
+      src="https://www.ivoox.com/player_es_podcast_1207119_zp_1.html" 
+      style="border: 1px solid #FFFFFF;"
+</iframe> #}
 
-      {% include "templates/toc.njk" %}
-
-      {% if docs %}
-      <div class="doc-cta">
-        <a href="https://doc.deno.land/https/deno.land/x/lume/{{ docs }}" class="button is-primary is-big">
-          See available Options in Deno Doc
-        </a>
-      </div>
-    {% endif %}
-    </header>
-
-    <div class="doc-body">
-      {{ content | safe }}
-    </div>
-  </main>
-</div>
+</main>

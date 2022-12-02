@@ -1,4 +1,4 @@
-import t from "https://deno.land/x/netlify_cms_config@v0.3.0/mod.ts";
+import t from "https://deno.land/x/netlify_cms_config@v0.3.1/mod.ts";
 
 // Defaults
 t.defaultRequired = false;
@@ -24,7 +24,7 @@ const textPages = [
    t.markdown("Body"),
 ];
 
-const pages = t.files("Xeral")
+const pages = t.files("Páxinas")
    .description("Aquí podes editar as páxinas indivuais")
    .sortableFields("title")
    .preview(false)
@@ -81,12 +81,12 @@ const pages = t.files("Xeral")
    ])
    .file("Política de privacidade", "/src/politica-privacidade.md", textPages);
 
-const globalData = t.files("Páxinas")
+const globalData = t.files("Axustes")
    .description("Aquí podes editar os axustes e datos comúns a toda a web")
    .sortableFields("title")
    .preview(false)
    .file("Metadatos", "/src/_data/metas.yml", metas)
-   .file("Categorías/Etiquetas do contido", "/src/_data/categorias.yml", [
+   .file("Etiquetas", "/src/_data/categorias.yml", [
       t.list("Tags", [
          t.string("Id").required(true),
          t.string("Name").required(true),
@@ -98,28 +98,41 @@ const globalData = t.files("Páxinas")
 const comunidade = t.folder("Comunidade", "/src/comunidade/proxectos", [
    t.hidden("layout", "layouts/proxecto.njk").required(true),
    t.hidden("type", "proxecto").required(true),
-   t.string("title").required(true),
-   t.string("href").required(true),
-   t.image("img"),
-   t.markdown("description").required(true),
-   t.datetime("date").required(true),
+   t.string("title").required(true).hint('Título do proxecto: Pode ser o nome da canle ou do farangullo.'),
+   t.string("href").required(true).hint('Ligazón principal do proxecto. Pode ser unha canle de Twitch/Youtube ou un beacons/linktree'),
+   t.image("img").hint('Imaxe do proxecto. Ten que ser cadrada, de ser posible 400x400.'),
+   t.markdown("description").required(true).hint("Descripción breve do proxecto. Recomendamos máximo uns 160 caracteres."),
+   t.datetime("date").required(true).timeFormat(false),
    t.boolean("active"),
    t.select("platform", ["twitch", "youtube", "podcast"]),
+   t.object("redes", [
+      t.string("twitter").hint('Ligazón o usuario de Twitter, por exemplo: https://twitter.com/AC_ODC'),
+      t.string("mastodon").hint('Ligazón o usuario de Mastodon, por exemplo: https://mastodon.gal/acodega'),
+      t.string("twitch").hint('Ligazón o usuario de Twitch, por exemplo: https://twitch.tv/acodega'),
+      t.string("youtube").hint('Ligazón a canle de Youtube coa UUID, por exemplo: https://www.youtube.com/channel/UClavUfgzYt5uSgtBJbPoXqA'),
+      t.string("facebook").hint('Ligazón a páxina de facebook, por exemplo: https://www.facebook.com/GalegoTwitch'),
+      t.string("instagram").hint('Ligazón a canle de Instagram, por exemplo: https://www.instagram.com/twitchengalego/'),
+      t.string("tiktok").hint('Ligazón a canle de TikTok, por exemplo: https://www.tiktok.com/@a_lobeira_today'),
+      t.string("telegram").hint('Ligazón a canle de Telegram, por exemplo: https://t.me/GalizanGamer'),
+      t.string("ivoox").hint('Ligazón a canle de Telegram, por exemplo: https://www.ivoox.com/podcast-recuncho-gamer-podcast_sq_f11092284_1.html'),
+      t.string("spotify").hint('Ligazón a canle de Telegram, por exemplo: https://open.spotify.com/user/tcciszh0d6inj0tw6w2c0rrd5'),
+      t.string("rss").hint('Ligazón ao feed RSS de contido, por exemplo: https://www.ivoox.com/podcast-a-gruta-gizamaluke_fg_f1629621_filtro_1.xml'),
+   ]),
    t.relation("tags")
-      .collection("xeral")
-      .file('categorías')
+      .collection("axustes")
+      .file('etiquetas')
       .searchFields(["tags.*.name"])
       .displayFields(["tags.*.name"])
       .valueField("tags.*.id")
-      .multiple(true).required(true)
+      .multiple(true).required(true).hint("Etiquetas para clasificar o contido. Engadir as plataformas principais para que se poida filtrar por elas.")
 ])
    .description("Aquí podes editar os proxectos que forman parte da comunidade")
    .sortableFields("title", "date")
    .viewFilter("Activas", "active", true)
-   .viewFilter("Canles de Twitch", "platform", "twitch")
-   .viewFilter("Canles de Youtube", "platform", "youtube")
-   .viewFilter("Canles de Podcast", "platform", "podcast")
-   .viewGroup("Plataforma", "platform", "twitch|youtube|podcast")
+   .viewFilter("Canles de Twitch", "tags", "twitch")
+   .viewFilter("Canles de Youtube", "tags", "youtube")
+   .viewFilter("Canles de Podcast", "tags", "podcast")
+   .viewGroup("Plataforma", "tags", "twitch|youtube|podcast")
    .viewGroup("Activa", "active", "true")
    .preview(false)
    .mediaFolder("/src/img/comunidade")

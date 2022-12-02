@@ -1,0 +1,9 @@
+<ul>
+   {% for rede, ligazon in redes %}
+      <li>
+         <a href="{{ ligazon }}" title="{{ rede }}" class="site-image">
+            <img src="/img/avatars/platforms/{{ rede }}.webp" srcset="/img/avatars/platforms/{{ rede }}.webp, /img/avatars/platforms/{{ rede }}@2x.webp }} 2x" height="100" width="100" alt="{{ rede }}">
+         </a>
+      </li>
+   {% endfor %}
+</ul>
