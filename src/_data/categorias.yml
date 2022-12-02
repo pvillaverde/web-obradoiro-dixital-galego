@@ -1,16 +1,19 @@
 tags:
-  - id: deporte
-    name: Deporte
-    color: lightgray
-  - id: youtube
-    name: Youtube
-    color: tomato
-  - id: entrevistas
-    name: Entrevistas
-    color: lightgray
   - id: podcast
     name: Podcast
     color: lightskyblue
+  - id: twitch
+    name: Twitch
+    color: violet
+  - id: youtube
+    name: Youtube
+    color: tomato
+  - id: deporte
+    name: Deporte
+    color: lightgray
+  - id: entrevistas
+    name: Entrevistas
+    color: lightgray
   - id: cultura
     name: Cultura
     color: pink
@@ -20,9 +23,6 @@ tags:
   - id: rol
     name: D&D / Rol
     color: lightgray
-  - id: twitch
-    name: Twitch
-    color: violet
   - id: videoxogos
     name: Videoxogos
     color: lightgreen

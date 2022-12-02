@@ -38,15 +38,20 @@ export default class LumeFilter extends HTMLElement {
             const newUrl = permalink ? `?${permalink}` : document.location.pathname;
             history.pushState({}, null, newUrl);
          }
+         console.log(this, data);
       }
 
       function filter(data) {
          const tags = [];
-         let status;
+         let status, intersection;
 
          for (const [name, value] of data.entries()) {
             if (name === "status") {
                status = value;
+               continue;
+            }
+            if (name === "intersection") {
+               intersection = (value === "true");
                continue;
             }
 
@@ -68,10 +73,9 @@ export default class LumeFilter extends HTMLElement {
                   }
                   break;
             }
-            console.log(tags, item.dataset.tags);
-
-            item.hidden = tags.length &&
-               !tags.every((tag) => item.dataset.tags.split(",").includes(tag));
+            item.hidden = tags.length && (intersection ?
+               !tags.every((tag) => item.dataset.tags.split(",").includes(tag)) :
+               tags.every((tag) => !item.dataset.tags.split(",").includes(tag)));
          });
       }
    }

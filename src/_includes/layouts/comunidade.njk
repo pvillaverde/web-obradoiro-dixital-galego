@@ -9,8 +9,9 @@ page_css: plugins.css
       {{ description | md | safe }}
    </header>
 
-   <lume-filter>
+   <lume-filter intersection="true">
       <form class="plugins-filter">
+         <input type="hidden" name="intersection" value="true"/>
          <select name="status" class="selector">
             <option value="all">Todos os proxectos {{ all_total }}</option>
             <option value="enabled">Só os proxectos con actividade</option>
