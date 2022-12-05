@@ -158,6 +158,10 @@
    column-gap: var(--column-gap-2);
    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 
+   & li {
+      text-align: center;
+   }
+
    & h3 {
       font: var(--text-title);
       letter-spacing: var(--text-title-spacing);
@@ -167,7 +171,7 @@
 
    & svg {
       display: block;
-      margin: 0 0 1em;
+      margin: 0 auto 1em;
 
       & .ico-stroke {
          stroke: var(--color-foreground);

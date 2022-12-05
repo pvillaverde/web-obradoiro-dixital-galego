@@ -180,6 +180,7 @@
 
    & input:checked+.menu+ul {
       opacity: 1;
+      display: flex;
    }
 
    & ul {
@@ -194,7 +195,7 @@
       transition: .25s 0s ease-in-out;
       top: 0;
       left: 0;
-      display: flex;
+      display: none;
       flex-direction: column;
       justify-content: center;
       margin: 0;
