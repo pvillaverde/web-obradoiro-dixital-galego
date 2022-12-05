@@ -106,17 +106,37 @@ const comunidade = t.folder("Comunidade", "/src/comunidade/proxectos", [
    t.boolean("active"),
    t.select("platform", ["twitch", "youtube", "podcast"]),
    t.object("redes", [
-      t.string("twitter").hint('Ligazón o usuario de Twitter, por exemplo: https://twitter.com/AC_ODC'),
-      t.string("mastodon").hint('Ligazón o usuario de Mastodon, por exemplo: https://mastodon.gal/acodega'),
-      t.string("twitch").hint('Ligazón o usuario de Twitch, por exemplo: https://twitch.tv/acodega'),
-      t.string("youtube").hint('Ligazón a canle de Youtube coa UUID, por exemplo: https://www.youtube.com/channel/UClavUfgzYt5uSgtBJbPoXqA'),
+      /* t.string("amazon").hint('Ligazón a páxina de amazon'), */
+      /* t.string("codepen").hint('Ligazón a páxina de codepen'), */
+      /* t.string("dropbox").hint('Ligazón a páxina de dropbox'), */
+      /* t.string("etsy").hint('Ligazón a páxina de etsy'), */
       t.string("facebook").hint('Ligazón a páxina de facebook, por exemplo: https://www.facebook.com/GalegoTwitch'),
+      t.string("github").hint('Ligazón a páxina de github, por exemplo: https://github.com/GalizaTTD'),
+      /* t.string("goodreads").hint('Ligazón a páxina de goodreads'), */
+      t.string("google-podcast").hint('Ligazón a páxina de Google Podcasts'),
+      /* t.string("google").hint('Ligazón a páxina de Google'), */
       t.string("instagram").hint('Ligazón a canle de Instagram, por exemplo: https://www.instagram.com/twitchengalego/'),
-      t.string("tiktok").hint('Ligazón a canle de TikTok, por exemplo: https://www.tiktok.com/@a_lobeira_today'),
-      t.string("telegram").hint('Ligazón a canle de Telegram, por exemplo: https://t.me/GalizanGamer'),
       t.string("ivoox").hint('Ligazón a canle de Telegram, por exemplo: https://www.ivoox.com/podcast-recuncho-gamer-podcast_sq_f11092284_1.html'),
-      t.string("spotify").hint('Ligazón a canle de Telegram, por exemplo: https://open.spotify.com/user/tcciszh0d6inj0tw6w2c0rrd5'),
+      t.string("link").hint('Ligazón adicional a unha páxina web propia ou outra rede que non esté contemplada.'),
+      /* t.string("linkedin").hint('Ligazón a páxina de Linkedin'), */
+      t.string("mail").hint('Correo electrónico ao que enviar mails.'),
+      t.string("mastodon").hint('Ligazón o usuario de Mastodon, por exemplo: https://mastodon.gal/acodega'),
+      t.string("patreon").hint('Ligazón a páxina de Patreon, por exemplo: https://www.patreon.com/galizangamer'),
+      /* t.string("pinterest").hint('Ligazón a páxina de pinterest'), */
       t.string("rss").hint('Ligazón ao feed RSS de contido, por exemplo: https://www.ivoox.com/podcast-a-gruta-gizamaluke_fg_f1629621_filtro_1.xml'),
+      /* t.string("skype").hint('Ligazón a páxina de skype'), */
+      /* t.string("snapchat").hint('Ligazón a páxina de snapchat'), */
+      /* t.string("soundcloud").hint('Ligazón a páxina de soundcloud'), */
+      t.string("spotify").hint('Ligazón a canle de Telegram, por exemplo: https://open.spotify.com/user/tcciszh0d6inj0tw6w2c0rrd5'),
+      t.string("telegram").hint('Ligazón a canle de Telegram, por exemplo: https://t.me/GalizanGamer'),
+      t.string("tiktok").hint('Ligazón a canle de TikTok, por exemplo: https://www.tiktok.com/@a_lobeira_today'),
+      /* t.string("tumblr").hint('Ligazón a páxina de tumblr'), */
+      t.string("twitch").hint('Ligazón o usuario de Twitch, por exemplo: https://twitch.tv/acodega'),
+      t.string("twitter").hint('Ligazón o usuario de Twitter, por exemplo: https://twitter.com/AC_ODC'),
+      /* t.string("vimeo").hint('Ligazón a páxina de vimeo'), */
+      /* t.string("whatsapp").hint('Ligazón o whatsapp, por exemplo: https://wa.me/0034666555444'), */
+      t.string("wordpress").hint('Ligazón a un blogue ou páxina de wordpress.'),
+      t.string("youtube").hint('Ligazón a canle de Youtube coa UUID, por exemplo: https://www.youtube.com/channel/UClavUfgzYt5uSgtBJbPoXqA'),
    ]),
    t.relation("tags")
       .collection("axustes")
