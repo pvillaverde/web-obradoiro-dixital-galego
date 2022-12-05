@@ -1,0 +1,447 @@
+---
+mastodons:
+-  container_id: mt-timeline-twitch
+  container_body_id: mt-body-twitch
+  instance_uri: https://botsin.space
+  user_id: "109349543651618743"
+  profile_name: "@GalegoTwitch"
+-  container_id: mt-timeline-youtube
+  container_body_id: mt-body-youtube
+  instance_uri: https://botsin.space
+  user_id: "109349538488759027" #https://prouser123.me/mastodon-userid-lookup/
+  profile_name: "@GalegoTube"
+---
+{% for mastodon in mastodons %}
+   <div class="dummy-container">
+      <div id="{{ mastodon.container_id}}" class="mt-timeline">
+         <div id="{{ mastodon.container_body_id}}" class="mt-body">
+            <div class="loading-spinner"></div>
+         </div>
+      </div>
+   </div>
+   <script>
+
+      document.addEventListener("DOMContentLoaded", () => {
+         let mapi = new MastodonApi({
+            container_id: {{ mastodon.container_id | dump | safe}},
+            container_body_id: {{ mastodon.container_body_id | dump | safe}},
+            instance_uri: {{ mastodon.instance_uri | dump | safe}},
+            user_id: {{ mastodon.user_id | dump | safe}},
+            profile_name: {{ mastodon.profile_name | dump | safe}},
+            toots_limit: 13,
+            hide_reblog: false,
+            hide_replies: false,
+            btn_see_more: 'Máis toots de Mastodon'
+         });
+      });
+   </script>
+{% endfor %}
+<script>
+   let MastodonApi = function (params_) {
+
+      // Endpoint access settings
+      this.INSTANCE_URI = params_.instance_uri;
+      this.USER_ID = params_.user_id;
+      this.PROFILE_NAME = params_.profile_name;
+      this.TOOTS_LIMIT = params_.toots_limit || 20;
+      this.HIDE_REBLOG = typeof params_.hide_reblog !== 'undefined'
+         ? params_.hide_reblog
+         : false;
+      this.HIDE_REPLIES = typeof params_.hide_replies !== 'undefined'
+         ? params_.hide_replies
+         : false;
+      this.BTN_SEE_MORE = params_.btn_see_more || 'See more'
+
+      // Target selectors
+      this.mtIdContainer = document.getElementById(params_.container_id);
+      this.mtBodyContainer = document.getElementById(params_.container_body_id);
+
+      // Get the toots
+      this.getToots();
+
+      // Toot interactions
+      this
+         .mtIdContainer
+         .addEventListener('click', function (event) {
+            let urlToot = event
+               .target
+               .closest('.mt-toot')
+               .dataset
+               .location;
+            // Open Toot in new page avoiding any other natural link
+            if (event.target.localName != 'a' && event.target.localName != 'span' && urlToot) {
+               window.open(urlToot, '_blank');
+            }
+         });
+
+   }
+
+   // Listing toots function
+   MastodonApi.prototype.getToots = function () {
+      let mapi = this;
+
+      // Get request
+      fetch(this.INSTANCE_URI + '/api/v1/accounts/' + this.USER_ID + '/statuses?limit=' + this.TOOTS_LIMIT, {method: 'get'})
+         .then(response => response.json())
+         .then(jsonData => {
+            // console.log('jsonData: ', jsonData);
+
+            // Clear the loading message
+            this.mtBodyContainer.innerHTML = '';
+
+            // Add toots
+            for (let i in jsonData) {
+               // List only public toots
+               if (jsonData[i].visibility == 'public') {
+                  if (mapi.HIDE_REBLOG && jsonData[i].reblog || mapi.HIDE_REPLIES && jsonData[i].in_reply_to_id) {
+                     // Nothing here (Don't append boosts and/or replies toots)
+                  } else {
+                     appendToot.call(mapi, jsonData[i]);
+                  }
+               }
+            }
+
+            // Add target="_blank" to all hashtags
+            let allHashtags = document.querySelectorAll(mapi.mtIdContainer.id + " .hashtag");
+            for (let j = 0; j < allHashtags.length; j++) {
+               allHashtags[j].target = "_blank";
+               allHashtags[j].rel = "tag noopener noreferrer";
+            }
+
+            // Insert button after last toot to visit account page
+            this
+               .mtBodyContainer
+               .insertAdjacentHTML('beforeend', '<div class="mt-seeMore"><a href="' + mapi.INSTANCE_URI + '/' + mapi.PROFILE_NAME + '" class="btn" target="_blank" rel="noopener noreferrer">' + mapi.BTN_SEE_MORE + '</a></div>');
+         })
+         .catch(err => {
+            this.mtBodyContainer.innerHTML = '<div class="d-flex h-100"><div class="w-100 my-auto text-center">✖️<br/>Request Failed:<br/>' + err + '</div></div>';
+         });
+
+      // Inner function to add each toot content in container
+      let appendToot = function (status_) {
+         let avatar,
+            user,
+            content,
+            url,
+            date;
+
+         if (status_.reblog) {
+            // BOOSTED toot
+            // Toot url
+            url = status_.reblog.url;
+
+            // Boosted avatar
+            avatar = '<a href="' + status_.reblog.account.url + '" class="mt-avatar mt-avatar-boosted" style="background-image:url(' + status_.reblog.account.avatar + ');" rel="noopener noreferrer" target="_blank">' + '<div class="mt-avatar mt-avatar-booster" style="background-image:url(' + status_.account.avatar + ');">' + '</div>' + '<span class="visually-hidden">' + status_.account.username + ' avatar' + '</span>' + '</a>';
+
+            // User name and url
+            user = '<div class="mt-user">' + '<a href="' + status_.reblog.account.url + '" rel="noopener noreferrer" target="_blank">' + status_.reblog.account.username + '<span class="visually-hidden"> post</span>' + '</a>' + '</div>';
+
+            // Date
+            date = this.formatDate(status_.reblog.created_at);
+         } else {
+            // STANDARD toot
+            // Toot url
+            url = status_.url;
+
+            // Avatar
+            avatar = '<a href="' + status_.account.url + '" class="mt-avatar" style="background-image:url(' + status_.account.avatar + ');" rel="noopener noreferrer" target="_blank">' + '<span class="visually-hidden">' + status_.account.username + ' avatar' + '</span>' + '</a>';
+
+            // User name and url
+            user = '<div class="mt-user">' + '<a href="' + status_.account.url + '" rel="noopener noreferrer" target="_blank">' + status_.account.username + '<span class="visually-hidden"> post</span>' + '</a>' + '</div>';
+
+            // Date
+            date = this.formatDate(status_.created_at);
+         }
+
+         // Main content
+         if (status_.spoiler_text != '') {
+            content = '<div class="toot-text">' + status_.spoiler_text + ' [Amosar máis...]' + '</div>';
+         } else if (status_.reblog && status_.reblog.content != '') {
+            content = '<div class="toot-text">' + status_.reblog.content + '</div>';
+         } else {
+            content = '<div class="toot-text">' + status_.content + '</div>';
+         }
+
+         // Media attachments
+         let media = '';
+         if (status_.media_attachments.length > 0) {
+            for (let picid in status_.media_attachments) {
+               media = this.replaceMedias(status_.media_attachments[picid], status_.sensitive);
+            }
+         }
+         if (status_.reblog && status_.reblog.media_attachments.length > 0) {
+            for (let picid in status_.reblog.media_attachments) {
+               media = this.replaceMedias(status_.reblog.media_attachments[picid], status_.sensitive);
+            }
+         }
+
+         // Poll
+         let poll = '';
+         let pollOption = '';
+         if (status_.poll) {
+            for (let i in status_.poll.options) {
+               pollOption += '<li>' + status_
+                  .poll
+                  .options[i]
+                  .title + '</li>';
+            }
+            poll = '<div class="toot-poll">' + '<ul>' + pollOption + '</ul>' + '</div>';
+         }
+
+         // Date
+         let timestamp = '<div class="toot-date">' + '<a href="' + url + '" rel="noopener noreferrer" tabindex="-1" target="_blank">' + date + '</a>' + '</div>';
+
+         // Add all to main toot container
+         let toot = '<div class="mt-toot border-bottom" data-location="' + url + '">' + avatar + user + content + media + poll + timestamp + '</div>';
+
+         this
+            .mtBodyContainer
+            .insertAdjacentHTML('beforeend', toot);
+      };
+
+   };
+
+   // Place media
+   MastodonApi.prototype.replaceMedias = function (media_, spoiler_) {
+      let spoiler = spoiler_ || false;
+      let pic = '<div class="toot-media ' + (
+         spoiler
+         ? 'toot-media-spoiler'
+         : '') + ' img-ratio14_7 loading-spinner">' + '<img onload="removeSpinner(this)" onerror="removeSpinner(this)" src="' + media_.preview_url + '" alt="" loading="lazy" />' + '</div>';
+
+      return pic;
+   };
+
+   // Format date
+   MastodonApi.prototype.formatDate = function (date_) {
+      const monthNames = [
+         "Xan",
+         "Feb",
+         "Mar",
+         "Abr",
+         "Mai",
+         "Xuñ",
+         "Xul",
+         "Ago",
+         "Set",
+         "Out",
+         "Nov",
+         "Dec"
+      ];
+
+      let date = new Date(date_);
+
+      let displayDate = date.getDate() + " de " + monthNames[date.getMonth()] + ", " + date.getFullYear();
+
+      return displayDate;
+   };
+
+   // Loading spinner
+   function removeSpinner(element) {
+      const spinnerCSS = 'loading-spinner';
+      // Find closest parent container (1st, 2nd or 3rd level)
+      let spinnerContainer = element.closest('.' + spinnerCSS);
+      if (spinnerContainer) {
+         spinnerContainer
+            .classList
+            .remove(spinnerCSS);
+      }
+   }
+</script>
+<style>
+   /* Mastodon embed feed timeline */
+   /* More info at: */
+   /* https://gitlab.com/idotj/mastodon-embed-feed-timeline */
+
+   /* Main container */
+   .mt-timeline {
+      height: calc(100% - 4rem);
+      padding: 2rem 3rem;
+      position: relative;
+      background: var(--color-background);
+   }
+
+   .mt-timeline a,
+   .mt-timeline a:active,
+   .mt-timeline a:link {
+      text-decoration: none;
+   }
+
+   .mt-body {
+      height: 100%;
+      overflow-y: auto;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+   }
+
+   .mt-body .invisible {
+      display: none;
+   }
+
+   /* Toot container */
+   .mt-toot {
+      margin: 0 0.5rem 0 0;
+      padding: 1rem 0 2rem 65px;
+      position: relative;
+      min-height: 60px;
+      background-color: transparent;
+      border-bottom: 1px solid #dee2e6;
+   }
+
+   .mt-toot:hover {
+      cursor: pointer;
+      background-color: var(--color-background-1);
+   }
+
+   .mt-toot p:last-child {
+      margin-bottom: 0;
+   }
+
+   /* User icon */
+   .mt-user {
+      display: table;
+      font-weight: 600;
+   }
+
+   .mt-avatar {
+      position: absolute;
+      top: 20px;
+      left: 5px;
+      width: 50px;
+      height: 50px;
+      background-color: transparent;
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      background-size: contain;
+      background-color: #fff;
+      border-radius: 5px;
+   }
+
+   .mt-avatar-boosted {
+      width: 40px;
+      height: 40px;
+   }
+
+   .mt-avatar-booster {
+      width: 25px;
+      height: 25px;
+      top: 25px;
+      left: 25px;
+   }
+
+   /* Message */
+   .toot-text {
+      margin-bottom: 0.25rem;
+   }
+
+   .toot-text .ellipsis::after {
+      content: '...';
+   }
+
+   .mt-error {
+      color: darkred;
+      background: lightpink;
+      margin: 5px;
+      padding: 10px;
+   }
+
+   /* Poll */
+   .toot-poll {
+      margin-bottom: 0.25rem;
+   }
+
+   .toot-poll ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+   }
+
+   .toot-poll ul li:not(:last-child) {
+      margin-bottom: 0.25rem;
+   }
+
+   .toot-poll ul li:before {
+      content: "◯";
+      padding-right: 0.5rem;
+   }
+
+   /* Medias */
+   .toot-media {
+      overflow: hidden;
+      margin-bottom: 0.25rem;
+   }
+
+   .toot-media-preview {
+      position: relative;
+      margin-top: 0.25rem;
+      height: auto;
+      text-align: center;
+      width: 100%;
+   }
+
+   .toot-media-spoiler > img {
+      filter: blur(2rem);
+   }
+
+   .toot-media-preview a {
+      display: block;
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+   }
+
+   .img-ratio14_7 {
+      position: relative;
+      padding-top: 48.95%;
+      /* 14:7 */
+      width: 100%;
+   }
+
+   .img-ratio14_7 > img {
+      width: 100%;
+      height: auto;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+   }
+
+   /* Date */
+   .toot-date {
+      font-size: 0.75rem;
+      opacity: 0.5;
+   }
+
+   /* Loading-spinner */
+   .loading-spinner {
+      height: 100%;
+      background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.0' viewBox='0 0 128 128' %3E%3Cg%3E%3Cpath d='M64 128A64 64 0 0 1 18.34 19.16L21.16 22a60 60 0 1 0 52.8-17.17l.62-3.95A64 64 0 0 1 64 128z' fill='%23404040'/%3E%3CanimateTransform attributeName='transform' type='rotate' from='0 64 64' to='360 64 64' dur='1000ms' repeatCount='indefinite'%3E%3C/animateTransform%3E%3C/g%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-color: transparent;
+      background-size: min(2.5rem, calc(100% - 0.5rem));
+   }
+
+   /* See more btn */
+   .mt-seeMore {
+      margin: 2rem auto;
+      padding: 0 2rem;
+      text-align: center;
+   }
+
+   /* Hidden element */
+   .visually-hidden {
+      position: absolute !important;
+      width: 1px !important;
+      height: 1px !important;
+      padding: 0 !important;
+      margin: -1px !important;
+      overflow: hidden !important;
+      clip: rect(0, 0, 0, 0) !important;
+      white-space: nowrap !important;
+      border: 0 !important;
+   }
+</style>
