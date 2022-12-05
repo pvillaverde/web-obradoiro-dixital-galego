@@ -32,3 +32,6 @@ tags:
   - id: outras
     name: Outras
     color: lightgray
+  - id: ensino
+    name: Ensino
+    color: lemonchiffon
