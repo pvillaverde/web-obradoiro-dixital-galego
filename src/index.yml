@@ -1,6 +1,11 @@
 
 title: Asociación Cultural Obradoiro Dixital Galego
 layout: layouts/landing.njk
+menu:
+  visible: false
+  order: 0
+  title: Portada
+  url: portada
 header:
   title: O fogar do <span>contido en galego</span> na rede
 action:

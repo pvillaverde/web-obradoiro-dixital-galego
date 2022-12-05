@@ -1,6 +1,10 @@
 layout: layouts/comunidade.njk
 title: Comunidade
-main_menu: comunidade
+menu:
+  visible: true
+  order: 1
+  title: Comunidade
+  url: comunidade
 description: Nesta páxina podes consultar a listaxe de proxectos que crean
   contido en **galego** na rede. Podes utilizar os filtros para buscar segundo a
   plataforma ou contido que che interese.

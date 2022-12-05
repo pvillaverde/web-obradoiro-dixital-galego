@@ -2,6 +2,11 @@
 title: Obradoiro Dixital Galego
 description: Benvida a Asociación Cultural Obradoiro Dixital Galego
 order: 0
+menu:
+  visible: true
+  order: 0
+  title: Información e recursos
+  url: docs
 ---
 ## Introdución
 

@@ -1,4 +1,4 @@
-<nav class="navbar-container">
+<nav class="navbar-container" role="navigation">
    <div class="navbar">
       <a href="/" class="navbar-logo" aria-label="Return home">
          <svg width="60" height="60"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102 102" >
@@ -10,16 +10,29 @@
          </svg>
          <span>Asociación Cultural Obradoiro Dixital Galego</span>
       </a>
-
-      <ul class="navbar-menu">
-         <li>
-            <a href="/docs/sobre-nos/obradoiro-dixital-galego/" {% if main_menu == "docs" %}class="is-selected"{% endif %}>Información e recursos</a>
-         </li>
-         <li>
-            <a href="/comunidade/" {% if main_menu == "comunidade" %}class="is-selected"{% endif %}>Comunidade</a>
-         </li>
-
+      <ul class="navbar-menu" role="menu" id="main-menu">
+         {% for entry in search.pages("menu.visible=true", "menu.order") %}
+            <li>
+               <a href="{{ entry.data.url | url }}" {% if entry.data.menu.url==menu.url %} aria-current="page" class="is-selected"{% endif %} role="menuitem">
+                  {{ entry.data.menu.title or entry.data.title }}
+               </a>
+            </li>
+         {% endfor %}
       </ul>
-      {#  <div class="navbar-search" id="search"></div> #}
+      <label id="sidebar-menu">
+         <input type="checkbox">
+         <span class="menu">
+            <span class="hamburger"></span>
+         </span>
+         <ul role="menu" >
+            {% for entry in search.pages("menu.visible=true", "menu.order") %}
+               <li>
+                  <a href="{{ entry.data.url | url }}" {% if entry.data.menu.url==url %} aria-current="page" class="is-selected"{% endif %} role="menuitem">
+                     {{ entry.data.menu.title or entry.data.title }}
+                  </a>
+               </li>
+            {% endfor %}
+         </ul>
+      </label>
    </div>
 </nav>
