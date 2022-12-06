@@ -74,6 +74,15 @@ tags:
   - id: feminismo
     name: Feminismo
     color: "#fedfa1"
+  - id: ficcion_sonora
+    name: Ficción Sonora
+    color: "#fdcf55"
+  - id: historia
+    name: Historia
+    color: "#fdd84c"
+  - id: humor
+    name: Humor
+    color: "#e69696"
   - id: musica
     name: Música
     color: gold
