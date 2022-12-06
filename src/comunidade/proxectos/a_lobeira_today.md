@@ -2,10 +2,20 @@
 img: /img/comunidade/a_lobeira_today.webp
 active: false
 layout: layouts/proxecto.njk
+type: proxecto
 href: https://twitch.tv/a_lobeira_today
+description: >-
+  A Lobeira today é unha canle comprometida coa visibilización e difusión
+  daquelas que fan contido en galego aquí no YouTube; e tamén con xerar contido
+  de tipo entrevistas, entretemento e mesmo divulgación noutras redes (twitch,
+  instagram e en formato podcast) que tamén redunden nesta. Únete á comunidade
+  Lobeirista e forma parte activa deste proxecto cos teus comentarios e
+  aportacións.
+
+
+  #YouTubeiras #Youtubeiros
 date: 2020-04-09 10:30:11.312203
 platform: twitch
-type: proxecto
 title: A Lobeira Today
 tags:
   - twitch
@@ -23,17 +33,8 @@ tags:
   - viaxes
   - cozinha
   - culturapopular
+  - outras
 file: a_lobeira_today
-description: >-
-  A Lobeira today é unha canle comprometida coa visibilización e difusión
-  daquelas que fan contido en galego aquí no YouTube; e tamén con xerar contido
-  de tipo entrevistas, entretemento e mesmo divulgación noutras redes (twitch,
-  instagram e en formato podcast) que tamén redunden nesta. Únete á comunidade
-  Lobeirista e forma parte activa deste proxecto cos teus comentarios e
-  aportacións.
-
-
-  #YouTubeiras #Youtubeiros
 redes:
   youtube: https://www.youtube.com/channel/UCZZTH6dVk9k_ah6OpZ-w7ZA
   facebook: https://www.facebook.com/ALobeiratoday
