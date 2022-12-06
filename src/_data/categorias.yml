@@ -86,6 +86,9 @@ tags:
   - id: ficcion_sonora
     name: Ficción Sonora
     color: "#fdcf55"
+  - id: fotografia
+    name: Fotografía e Vídeo
+    color: "#7691d7"
   - id: gandeiria
     name: Gandeiría
     color: "#92cbdc"
@@ -122,6 +125,9 @@ tags:
   - id: novas
     name: Novas
     color: "#feadce"
+  - id: paisaxe
+    name: Paisaxe
+    color: "#18eb1f"
   - id: patrimonio
     name: Patrimonio
     color: "#ffbfcf"
@@ -155,6 +161,9 @@ tags:
   - id: tecnoloxia
     name: Tecnoloxía
     color: "#cfffd0"
+  - id: turismo
+    name: Turismo
+    color: "#f89f4b"
   - id: viaxes
     name: Viaxes
     color: "#d4f1ff"
