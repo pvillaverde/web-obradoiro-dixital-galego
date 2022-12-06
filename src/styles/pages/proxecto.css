@@ -42,8 +42,8 @@
       }
    }
 
-   & aside {
-      border-bottom: solid 1px var(--color-background-2);
+   & aside {/* 
+      border-bottom: solid 1px var(--color-background-2); */
       position: relative;
    }
 

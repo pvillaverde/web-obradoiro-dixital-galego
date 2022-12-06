@@ -143,7 +143,8 @@ const comunidade = t.folder("Comunidade", "/src/comunidade/proxectos", [
       .searchFields(["tags.*.name"])
       .displayFields(["tags.*.name"])
       .valueField("tags.*.id")
-      .multiple(true).required(true).hint("Etiquetas para clasificar o contido. Engadir as plataformas principais para que se poida filtrar por elas.")
+      .multiple(true).required(true).hint("Etiquetas para clasificar o contido. Engadir as plataformas principais para que se poida filtrar por elas."),
+   t.markdown("Body"),
 ])
    .description("Aquí podes editar os proxectos que forman parte da comunidade")
    .sortableFields("title", "date")
