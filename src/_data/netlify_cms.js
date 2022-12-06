@@ -90,7 +90,8 @@ const globalData = t.files("Axustes")
       t.list("Tags", [
          t.string("Id").required(true),
          t.string("Name").required(true),
-         t.select("Color", ["lemonchiffon", "tomato", "violet", "gold", "lightskyblue", "lightgreen", "pink", "lightgray"]).required(true),
+         t.color("Color").required(true),
+         /* t.select("Color", ["lemonchiffon", "tomato", "violet", "gold", "lightskyblue", "lightgreen", "pink", "lightgray"]).required(true), */
       ]).minimizeCollapsed(false)
    ]);
 
@@ -103,7 +104,7 @@ const comunidade = t.folder("Comunidade", "/src/comunidade/proxectos", [
    t.hidden("img").hint('Imaxe do proxecto. Ten que ser cadrada, de ser posible 400x400.'),
    t.markdown("description").required(true).hint("Descripción breve do proxecto. Recomendamos máximo uns 160 caracteres."),
    t.datetime("date").required(true).timeFormat(false),
-   t.boolean("asociado").hint('Marcar se o proxecto forma parte da asociación'),
+   /* t.boolean("active").hint('Se está activo o proxecto. Este dato refrescase automáticametne cando se actualiza a WEB'), */
    t.object("redes", [
       /* t.string("amazon").hint('Ligazón a páxina de amazon'), */
       /* t.string("codepen").hint('Ligazón a páxina de codepen'), */

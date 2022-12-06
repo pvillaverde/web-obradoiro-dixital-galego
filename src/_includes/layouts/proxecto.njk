@@ -12,36 +12,36 @@ page_css: proxecto.css
             <h1>
                {{title}}
                {% if active %}
-               </span>
-            {% endif %}
-         </h1>
-         {{ description | md | safe }}
-      </figcaption>
-   </figure>
-   <nav class="plugin-tags">
-      {% for tag in categorias.tags | channelTags(tags) %}
-         <a href="/comunidade/?{{ tag.id }}=on" class="button is-secondary is-small is-color-{{ tag.color }}">
-            {{ tag.name }}
-         </a>
-      {% endfor %}
-   </nav>
-</header>
-<aside class="social-links">
-   <ul>
-      {% for rede, ligazon in redes %}
-         <li  class="social-link-{{rede}}">
-            <a href="{{ ligazon }}" title="{{ rede }}" >
-               <img src="/icons/social/{{ rede }}.svg" alt="{{ rede }}" inline>
+                  <span class="tag is-small" title="Este proxecto crea contido mensualmente">En activo</span>
+               {% endif %}
+            </h1>
+            {{ description | md | safe }}
+         </figcaption>
+      </figure>
+      <nav class="plugin-tags">
+         {% for tag in categorias.tags | channelTags(tags) %}
+            <a href="/comunidade/?{{ tag.id }}=on" class="button is-secondary is-small" style="--background: {{tag.color}}">
+               {{ tag.name }}
             </a>
-         </li>
-      {% endfor %}
-   </ul>
-</aside>
-<article>
-   {{ content | safe }}
-</article>
+         {% endfor %}
+      </nav>
+   </header>
+   <aside class="social-links">
+      <ul>
+         {% for rede, ligazon in redes %}
+            <li  class="social-link-{{rede}}">
+               <a target="_blank" href="{{ ligazon }}" title="{{ rede }}" >
+                  <img src="/icons/social/{{ rede }}.svg" alt="{{ rede }}" inline>
+               </a>
+            </li>
+         {% endfor %}
+      </ul>
+   </aside>
+   <article>
+      {{ content | safe }}
+   </article>
 
-{# <iframe 
+   {# <iframe 
       src="https://www.ivoox.com/player_es_podcast_1207119_zp_1.html" 
       style="border: 1px solid #FFFFFF;"
 </iframe> #}

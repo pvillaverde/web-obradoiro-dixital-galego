@@ -1,4 +1,7 @@
 tags:
+  - id: asociado
+    name: Asoc. na ACODG
+    color: "#0abcc2"
   - id: podcast
     name: Podcast
     color: lightskyblue

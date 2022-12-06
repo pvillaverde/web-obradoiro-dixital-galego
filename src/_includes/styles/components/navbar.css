@@ -35,6 +35,18 @@
          display: none;
       }
    }
+
+   & abbr {
+      display: none;
+
+      @media (max-width: 820px) {
+         display: inline;
+      }
+   }
+
+   & b {
+      color: var(--color-primary);
+   }
 }
 
 .navbar-menu {
@@ -239,6 +251,14 @@
          color: var(--color-foreground-1);
          background: var(--color-background-1);
       }
+   }
+
+   & .site-title {
+      border-bottom: 1px solid;
+   }
+
+   & b {
+      color: var(--color-primary);
    }
 }
 
