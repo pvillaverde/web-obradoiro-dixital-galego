@@ -4,7 +4,7 @@ tags:
     color: "#0abcc2"
   - id: podcast
     name: Podcast
-    color: lightskyblue
+    color: "#5b8ddb"
   - id: twitch
     name: Twitch
     color: "#a990d2"
