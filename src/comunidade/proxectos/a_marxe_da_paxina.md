@@ -11,4 +11,6 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+redes:
+  twitch: https://twitch.tv/a_marxe_da_paxina
 ---

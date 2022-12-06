@@ -13,4 +13,6 @@ tags:
   - twitch
   - podcast
   - cultura
+redes:
+  twitch: https://twitch.tv/aquecheirapapa
 ---

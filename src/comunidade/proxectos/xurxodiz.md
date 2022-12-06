@@ -12,4 +12,6 @@ type: proxecto
 tags:
   - twitch
   - rol
+redes:
+  twitch: https://twitch.tv/xurxodiz
 ---

@@ -12,4 +12,6 @@ type: proxecto
 tags:
   - twitch
   - cultura
+redes:
+  twitch: https://twitch.tv/galiciamedieval
 ---

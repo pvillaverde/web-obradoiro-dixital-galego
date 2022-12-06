@@ -10,7 +10,8 @@ active: false
 platform: twitch
 type: proxecto
 redes:
-   rss: https://www.ivoox.com/podcast-a-gruta-gizamaluke_fg_f1629621_filtro_1.xml
+  rss: https://www.ivoox.com/podcast-a-gruta-gizamaluke_fg_f1629621_filtro_1.xml
+  twitch: https://twitch.tv/revistamorcego
 tags:
   - twitch
   - podcast

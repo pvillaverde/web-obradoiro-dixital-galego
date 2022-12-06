@@ -11,4 +11,6 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+redes:
+  twitch: https://twitch.tv/dinav_hel
 ---

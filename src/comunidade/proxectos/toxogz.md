@@ -12,4 +12,6 @@ type: proxecto
 tags:
   - twitch
   - videoxogos
+redes:
+  twitch: https://twitch.tv/toxogz
 ---

@@ -12,4 +12,6 @@ type: proxecto
 tags:
   - twitch
   - deporte
+redes:
+  twitch: https://twitch.tv/nvfgalicia
 ---
