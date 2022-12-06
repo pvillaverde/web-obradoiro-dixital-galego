@@ -84,7 +84,7 @@ page_css: landing.css
          {% for item in search.pages("type=proxecto active=true", "date=desc") | data %}
             <li>
                <blockquote class="landing-testimonials-quote">
-                  {{ item.description | md | safe }}
+                  {{ item.description | md | safe | truncate(200, true) }}
                   <cite class="landing-testimonial-caption">
                      <img src="{{ item.img }}" srcset="{{ item.img }}, {{ item.img | replace(".webp", "@2x.webp") }} 2x" width="50" height="50" alt="{{ item.author }}">
                      <a href="{{ item.url }}">

@@ -45,7 +45,7 @@ page_css: plugins.css
                         {% endif %}
                      </p>
 
-                     {{ item.description | md | safe }}
+                     {{ item.description | md | safe | truncate(200, true) }}
                   </figcaption>
                </figure>
 
