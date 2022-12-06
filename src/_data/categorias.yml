@@ -29,6 +29,9 @@ tags:
   - id: ciencia
     name: Ciencia
     color: "#7fbeaf"
+  - id: cine
+    name: Cinema
+    color: "#b3dcd1"
   - id: cozinha
     name: Cociña
     color: lightgray
