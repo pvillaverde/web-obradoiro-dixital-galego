@@ -1,8 +1,7 @@
 ---
-img: /img/comunidade/galizangamer.webp
-active: false
 layout: layouts/proxecto.njk
 href: https://twitch.tv/galizangamer
+img: /img/comunidade/galizangamer.webp
 date: 2020-09-28 21:27:02.558366
 platform: twitch
 type: proxecto
@@ -23,7 +22,6 @@ redes:
   telegram: https://t.me/GalizanGamer
   twitter: https://twitter.com/GalizanGamer
 ---
-
 ## Colaboradores do proxecto ❤️
 
 - A [**Revista Morcego**](https://revistamorcego.com/) é a primeira revista
