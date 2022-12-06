@@ -68,6 +68,12 @@ tags:
   - id: entrevistas
     name: Entrevistas
     color: lightgray
+  - id: experimental
+    name: Experimental
+    color: "#6f89a1"
+  - id: feminismo
+    name: Feminismo
+    color: "#fedfa1"
   - id: musica
     name: Música
     color: gold
