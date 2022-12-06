@@ -179,3 +179,6 @@ tags:
   - id: outras
     name: Outras
     color: lightgray
+  - id: diversidade
+    name: Diversidade funcional
+    color: "#6ae3d9"
