@@ -11,7 +11,6 @@ platform: twitch
 tags:
   - twitch
   - youtube
-  - outras
   - ensino
 file: pablorodriguezvila
 redes:
