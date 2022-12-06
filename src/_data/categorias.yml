@@ -17,6 +17,12 @@ tags:
   - id: agricultura
     name: Agricultura
     color: "#7cbfb6"
+  - id: alimentacion
+    name: Dietética / Alimentación
+    color: "#48ce97"
+  - id: arte
+    name: Arte
+    color: "#afd760"
   - color: "#e57a86"
     id: asociacións
     name: Asociacións
