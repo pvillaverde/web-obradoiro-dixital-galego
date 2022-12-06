@@ -18,6 +18,13 @@ page_css: proxecto.css
          {{ description | md | safe }}
       </figcaption>
    </figure>
+   <nav class="plugin-tags">
+      {% for tag in categorias.tags | channelTags(tags) %}
+         <a href="/comunidade/?{{ tag.id }}=on" class="button is-secondary is-small is-color-{{ tag.color }}">
+            {{ tag.name }}
+         </a>
+      {% endfor %}
+   </nav>
 </header>
 <aside class="social-links">
    <ul>

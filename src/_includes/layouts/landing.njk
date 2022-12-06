@@ -49,7 +49,7 @@ page_css: landing.css
 
       <lume-carousel role="region" aria-label="Showcase" tabindex="0" class="landing-examples-sites" id="examples">
          {% for item in search.pages("type=proxecto", "date=desc", 8) | data %}
-            <a href="{{ item.href }}" title="{{ item.title }}: {{item.description}}" class="site-image" target="_blank">
+            <a href="{{ item.url }}" title="{{ item.title }}: {{item.description}}" class="site-image" target="_blank">
                <img src="{{ item.img }}" alt="{{ item.title }}" width="300" height="200">
             </a>
          {% endfor %}
@@ -87,7 +87,7 @@ page_css: landing.css
                   {{ item.description | md | safe }}
                   <cite class="landing-testimonial-caption">
                      <img src="{{ item.img }}" srcset="{{ item.img }}, {{ item.img | replace(".webp", "@2x.webp") }} 2x" width="50" height="50" alt="{{ item.author }}">
-                     <a href="{{ item.href }}" target="_blank">
+                     <a href="{{ item.url }}" target="_blank">
                         <strong>{{ item.title }}</strong>
                      </a>
                   </cite>

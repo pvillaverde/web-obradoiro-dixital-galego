@@ -11,6 +11,7 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
   - videoxogos
 redes:
   twitch: https://twitch.tv/o_hanabi

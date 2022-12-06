@@ -7,10 +7,10 @@ img: /img/comunidade/sekirofan_.webp
 description: null
 date: 2021-01-31 10:46:33.785106
 active: false
-platform: twitch
+platform: youtube
 type: proxecto
 tags:
-  - twitch
+  - youtube
 redes:
-  twitch: https://twitch.tv/sekirofan_
+  youtube: https://www.youtube.com/channel/UCQMlL2wMUmM6lxuLpuMkmHg
 ---

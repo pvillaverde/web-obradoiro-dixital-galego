@@ -2,7 +2,7 @@ layout: layouts/comunidade.njk
 title: Comunidade
 menu:
   visible: true
-  order: 1
+  order: 10
   title: Comunidade
   url: comunidade
 description: Nesta páxina podes consultar a listaxe de proxectos que crean

@@ -103,8 +103,7 @@ const comunidade = t.folder("Comunidade", "/src/comunidade/proxectos", [
    t.hidden("img").hint('Imaxe do proxecto. Ten que ser cadrada, de ser posible 400x400.'),
    t.markdown("description").required(true).hint("Descripción breve do proxecto. Recomendamos máximo uns 160 caracteres."),
    t.datetime("date").required(true).timeFormat(false),
-   t.boolean("active").hint('Se está activo o proxecto. Este dato refrescase automáticametne cando se actualiza a WEB'),
-   t.select("platform", ["twitch", "youtube", "podcast"]),
+   t.boolean("asociado").hint('Marcar se o proxecto forma parte da asociación'),
    t.object("redes", [
       /* t.string("amazon").hint('Ligazón a páxina de amazon'), */
       /* t.string("codepen").hint('Ligazón a páxina de codepen'), */
@@ -152,8 +151,8 @@ const comunidade = t.folder("Comunidade", "/src/comunidade/proxectos", [
    .viewFilter("Canles de Twitch", "tags", "twitch")
    .viewFilter("Canles de Youtube", "tags", "youtube")
    .viewFilter("Canles de Podcast", "tags", "podcast")
-   .viewGroup("Plataforma", "tags", "twitch|youtube|podcast")
-   .viewGroup("Activa", "active", "true")
+   /* .viewGroup("Plataforma", "tags", "twitch|youtube|podcast")
+   .viewGroup("Data", "date", "\\d{4}-\\d{2}") */
    .preview(false)
    .mediaFolder("/src/img/comunidade")
    .publicFolder("/img/comunidade")
