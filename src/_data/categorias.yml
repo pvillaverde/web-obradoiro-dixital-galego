@@ -44,3 +44,6 @@ tags:
   - id: videoxogos
     name: Videoxogos
     color: lightgreen
+  - id: astronomia
+    name: Astronomía
+    color: "#f583b3"
