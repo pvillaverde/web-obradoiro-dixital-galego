@@ -104,6 +104,9 @@ tags:
   - id: internacional
     name: Internacional
     color: "#f6c1ce"
+  - id: lgtbi
+    name: LGBTQIA+
+    color: "#7988e5"
   - id: lingua
     name: Lingua
     color: "#f092a5"
@@ -176,3 +179,6 @@ tags:
   - id: outras
     name: Outras
     color: lightgray
+  - id: diversidade
+    name: Diversidade funcional
+    color: "#6ae3d9"
