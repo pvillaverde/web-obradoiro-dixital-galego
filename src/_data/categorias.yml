@@ -134,6 +134,9 @@ tags:
   - id: rol
     name: D&D / Rol
     color: lightgray
+  - id: sexualidade
+    name: Sexualidade
+    color: "#de74db"
   - id: serial
     name: Serial
     color: "#fff0cf"
@@ -143,15 +146,18 @@ tags:
   - id: teatro
     name: Teatro
     color: "#d7ffff"
-  - id: outras
-    name: Outras
-    color: lightgray
-  - id: videoxogos
-    name: Videoxogos
-    color: lightgreen
   - id: tecnoloxia
     name: Tecnoloxía
     color: "#cfffd0"
   - id: viaxes
     name: Viaxes
     color: "#d4f1ff"
+  - id: videoxogos
+    name: Videoxogos
+    color: lightgreen
+  - id: xornalismo
+    name: Xornalismo
+    color: "#63d763"
+  - id: outras
+    name: Outras
+    color: lightgray
