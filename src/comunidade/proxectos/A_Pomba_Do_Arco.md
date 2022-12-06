@@ -16,4 +16,5 @@ tags:
   - asociacións
   - historia
   - culturapopular
+  - fotografia
 ---
