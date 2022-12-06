@@ -13,6 +13,8 @@ tags:
   - youtube
   - patrimonio
   - arte
+  - paisaxe
+  - fotografia
 ---
 description: Presentamos nesta canle vídeos de dron das praias e arredores dos concellos de Narón, Valdoviño e resto da comarca de Ferrolterra.
 img: /img/comunidade/molexa_UAS.webp
