@@ -1,15 +1,17 @@
 ---
-layout: 'layouts/proxecto.njk'
+layout: layouts/proxecto.njk
+type: proxecto
 title: urugaleandoLIVE
-description: ""
 img: /img/comunidade/urugaleandoLIVE.webp
 date: 2022-11-01
 platform: youtube
-type: proxecto
-tags:
-  - youtube
+description: C﻿ortes dos directos da canle principal de Carla Scarpenti
 redes:
   youtube: https://youtube.com/channel/UCiBqRUebb6iHZj1mrjzwUhg/
+  twitter: https://twitter.com/CScarpenti
+tags:
+  - youtube
+  - twitch
 ---
 description: ""
 img: /img/comunidade/urugaleandoLIVE.webp
