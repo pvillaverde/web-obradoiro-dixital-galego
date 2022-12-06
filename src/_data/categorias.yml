@@ -32,6 +32,9 @@ tags:
   - id: cine
     name: Cinema
     color: "#b3dcd1"
+  - id: conversa
+    name: Conversa
+    color: "#d1dbe2"
   - id: cozinha
     name: Cociña
     color: lightgray
