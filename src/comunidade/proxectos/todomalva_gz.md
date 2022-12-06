@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: todomalva gz
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Galiza • Persoa adulta que fai TikToks • Odio o himno e odio a Pondal
+img: /img/comunidade/todomalva_gz.webp
 date: 2021-04-07 20:55:27
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCF5cyKbU927wm4PDI7LTY6Q
 ---
-
+description: Galiza • Persoa adulta que fai TikToks • Odio o himno e odio a Pondal
+img: /img/comunidade/todomalva_gz.webp

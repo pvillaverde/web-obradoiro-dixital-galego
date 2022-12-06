@@ -4,7 +4,7 @@ title: AsWomansplainers
 file: aswomansplainers
 href: https://twitch.tv/aswomansplainers
 img: /img/comunidade/aswomansplainers.webp
-description: null
+description: ""
 date: 2021-06-17 18:07:11.70876
 active: false
 platform: twitch
@@ -16,3 +16,5 @@ redes:
   youtube: https://www.youtube.com/channel/UC9q1hbJDbloViztNT8WIKhw
   twitch: https://twitch.tv/aswomansplainers
 ---
+description: ""
+img: /img/comunidade/aswomansplainers.webp

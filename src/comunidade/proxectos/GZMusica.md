@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: GZMúsica
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Somos unha nova web dedicada á música galega e pretendemos achegarvos información sobre todo o que acontece arredor das músicas do país. Atrás da páxina estamos vari@s apaixonad@s da nosa música, pero queremos ser cen mil!!!
+img: /img/comunidade/GZMusica.webp
 date: 2012-03-30 17:00:56
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCJb6iG4FLBvjDi4XzbSM6ug
 ---
-
+description: Somos unha nova web dedicada á música galega e pretendemos achegarvos información sobre todo o que acontece arredor das músicas do país. Atrás da páxina estamos vari@s apaixonad@s da nosa música, pero queremos ser cen mil!!!
+img: /img/comunidade/GZMusica.webp

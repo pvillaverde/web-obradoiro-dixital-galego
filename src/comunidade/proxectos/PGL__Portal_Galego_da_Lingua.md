@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: PGL  Portal Galego da Lingua
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Portal Galego da Língua (PGL), promovido pola Associaçom Galega da Língua (AGAL)
+img: /img/comunidade/PGL__Portal_Galego_da_Lingua.webp
 date: 2008-09-22 20:52:53
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCqeBPR6PGP62quM5wGtS4_w
 ---
-
+description: Portal Galego da Língua (PGL), promovido pola Associaçom Galega da Língua (AGAL)
+img: /img/comunidade/PGL__Portal_Galego_da_Lingua.webp

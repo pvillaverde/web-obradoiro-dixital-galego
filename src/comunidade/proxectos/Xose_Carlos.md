@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Xose Carlos
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Canle de entrevistas e actividades culturais
+img: /img/comunidade/Xose_Carlos.webp
 date: 2022-11-01
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCO2Rmum8rcFncYiDBRH-LLw/
 ---
-
+description: Canle de entrevistas e actividades culturais
+img: /img/comunidade/Xose_Carlos.webp

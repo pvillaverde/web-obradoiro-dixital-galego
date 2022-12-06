@@ -4,7 +4,7 @@ title: amorod0
 file: amorod0
 href: https://twitch.tv/amorod0
 img: /img/comunidade/amorod0.webp
-description: La vida es difícil de llevar
+description: ""
 date: 2018-02-05 13:08:33.221164
 active: false
 platform: twitch
@@ -16,3 +16,5 @@ redes:
   twitch: https://twitch.tv/amorod0
   youtube: https://youtube.com/channel/UCoPLYkOorsXfaF2R9eaoyRQ/
 ---
+description: ""
+img: /img/comunidade/amorod0.webp

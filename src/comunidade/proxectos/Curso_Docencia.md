@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Curso Docencia
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Somos un grupo de persoas de diferentes ámbitos laborais adicadas á docencia da Formación Profesional para o emprego. Compartimos, aprendemos, ensinamos, unimos experiencias para actualizarnos nos distintos Certificados de Profesionalidade
+img: /img/comunidade/Curso_Docencia.webp
 date: 2016-12-06 20:38:58
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCwCw45zHsotO1p0LYC_zg-A
 ---
-
+description: Somos un grupo de persoas de diferentes ámbitos laborais adicadas á docencia da Formación Profesional para o emprego. Compartimos, aprendemos, ensinamos, unimos experiencias para actualizarnos nos distintos Certificados de Profesionalidade
+img: /img/comunidade/Curso_Docencia.webp

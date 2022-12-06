@@ -1,8 +1,10 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Canal Artai
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: |-
+  Facebook: @Artai Miragaia Valencia Instagram: @artai_miragaia_valencia Twiter: @canalartai
+  Inscreve-te! :)
+img: /img/comunidade/Canal_Artai.webp
 date: 2016-04-08 13:03:38
 platform: youtube
 type: proxecto
@@ -11,4 +13,7 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCrlqAglgHp1bAEAkPHmw2kg
 ---
-
+description: |-
+  Facebook: @Artai Miragaia Valencia Instagram: @artai_miragaia_valencia Twiter: @canalartai
+  Inscreve-te! :)
+img: /img/comunidade/Canal_Artai.webp

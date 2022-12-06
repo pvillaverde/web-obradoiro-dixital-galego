@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Fran Ferreiro
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: "\U0001F4ABGabinete Galego da Fabulación\U0001F4AB\n\nCultura galega.\nFeito cun móbil, mellor en pixama.\nInformal pero en serio."
+img: /img/comunidade/Fran_Ferreiro.webp
 date: 2014-04-17 19:54:33
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC5DAYvE2TD9TakQu7AqM-Sw
 ---
-
+description: "\U0001F4ABGabinete Galego da Fabulación\U0001F4AB\n\nCultura galega.\nFeito cun móbil, mellor en pixama.\nInformal pero en serio."
+img: /img/comunidade/Fran_Ferreiro.webp

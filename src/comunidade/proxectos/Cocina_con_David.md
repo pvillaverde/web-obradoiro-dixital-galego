@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Cociña con David
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Pensando en qué cociñar hoxe? Se non sabes cociñar, aprenderás a preparar tanto receitas clásicas como novedosas, e se sabes cociñar, malo será que non che poida dar algunha nova idea para probar. A desfrutar da cociña! :)
+img: /img/comunidade/Cocina_con_David.webp
 date: 2020-12-19 16:22:40
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC2xoXhq8NdKO5yFp7d3YtNg
 ---
-
+description: Pensando en qué cociñar hoxe? Se non sabes cociñar, aprenderás a preparar tanto receitas clásicas como novedosas, e se sabes cociñar, malo será que non che poida dar algunha nova idea para probar. A desfrutar da cociña! :)
+img: /img/comunidade/Cocina_con_David.webp

@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: O Grilo Pastoriza
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: As novas da Asociación O Grilo Pastoriza.
+img: /img/comunidade/O_Grilo_Pastoriza.webp
 date: 2022-11-01
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UC9Of2AzsBNbupqNuIzcNXEw/
 ---
-
+description: As novas da Asociación O Grilo Pastoriza.
+img: /img/comunidade/O_Grilo_Pastoriza.webp

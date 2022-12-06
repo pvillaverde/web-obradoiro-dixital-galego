@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Galician Freaky Film Festival
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: "Somos galegos, freaks e amantes do cinema! Somos o GFFF, o Galician Freaky Film Festival, o festival de cinema freak, terror e underground máis vándalo da cidade de Vigo.\n\n#7 Edition \U0001F51C SET 2023\n\nÚnete ás nosas filas! \U0001F596"
+img: /img/comunidade/Galician_Freaky_Film_Festival.webp
 date: 2018-12-05 21:30:48
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC0dYpCFT_Ie6QcSiEqhe2bA
 ---
-
+description: "Somos galegos, freaks e amantes do cinema! Somos o GFFF, o Galician Freaky Film Festival, o festival de cinema freak, terror e underground máis vándalo da cidade de Vigo.\n\n#7 Edition \U0001F51C SET 2023\n\nÚnete ás nosas filas! \U0001F596"
+img: /img/comunidade/Galician_Freaky_Film_Festival.webp

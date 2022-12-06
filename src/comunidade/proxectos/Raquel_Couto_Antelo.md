@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Raquel Couto Antelo
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Historias e pequenas trasnadas.
+img: /img/comunidade/Raquel_Couto_Antelo.webp
 date: 2022-11-01
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCJfFDR5g54bl0gyfnzHwZ9g/
 ---
-
+description: Historias e pequenas trasnadas.
+img: /img/comunidade/Raquel_Couto_Antelo.webp

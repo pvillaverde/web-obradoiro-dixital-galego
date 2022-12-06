@@ -4,7 +4,7 @@ title: Enxebre_Gamer
 file: enxebre_gamer
 href: https://twitch.tv/enxebre_gamer
 img: /img/comunidade/enxebre_gamer.webp
-description: A túa canle de Fortnite e outros xogos en Galego! Divertidos streams diarios na túa lingua! Creando unha comunidade galega en Twitch!
+description: ""
 date: 2019-06-06 15:50:59.891543
 active: false
 platform: twitch
@@ -17,3 +17,5 @@ redes:
   twitch: https://twitch.tv/enxebre_gamer
   youtube: https://www.youtube.com/channel/UC_LhiT7Zg0-alZiDLJ4lxig
 ---
+description: ""
+img: /img/comunidade/enxebre_gamer.webp

@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Ourense Sur
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Non temos mar, tampouco temos mal tempo, si cadra no verán quece de mais, pero seguimos sendo parte de Galicia. Unha parte que pretende, a traves de esta canle, darse a coñecer no resto de Galicia, España e no mundo
+img: /img/comunidade/Ourense_Sur.webp
 date: 2014-02-21 18:26:47
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC985Q57kmIJe1enrcZdkq_w
 ---
-
+description: Non temos mar, tampouco temos mal tempo, si cadra no verán quece de mais, pero seguimos sendo parte de Galicia. Unha parte que pretende, a traves de esta canle, darse a coñecer no resto de Galicia, España e no mundo
+img: /img/comunidade/Ourense_Sur.webp

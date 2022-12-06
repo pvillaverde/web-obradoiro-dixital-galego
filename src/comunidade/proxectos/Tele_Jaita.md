@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Tele Jaita
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Aloucadas dobraxes o galego e as noticias mais importantes do país narradas como realmente sucederon.
+img: /img/comunidade/Tele_Jaita.webp
 date: 2016-02-12 16:06:55
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCu0BGblaB48RDKdxKosxulw
 ---
-
+description: Aloucadas dobraxes o galego e as noticias mais importantes do país narradas como realmente sucederon.
+img: /img/comunidade/Tele_Jaita.webp

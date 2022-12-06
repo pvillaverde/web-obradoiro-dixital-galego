@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Rdecima decimar
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: ""
+img: /img/comunidade/Rdecima_decimar.webp
 date: 2017-01-20 08:34:01
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC7t3RpBhZXfF7uxPGCIjYmg
 ---
-
+description: ""
+img: /img/comunidade/Rdecima_decimar.webp

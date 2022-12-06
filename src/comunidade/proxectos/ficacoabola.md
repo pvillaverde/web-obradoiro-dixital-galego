@@ -4,7 +4,10 @@ title: FicaCoaBola
 file: ficacoabola
 href: https://twitch.tv/ficacoabola
 img: /img/comunidade/ficacoabola.webp
-description: Canle de Youtube adicada ao mundo do fútbol. Da man de Anxo Tato e Borja Pérez. Vimos botar unhas risas á plataforma de moda. Toxicidade fóra, Aspas-Marchena fóra.
+description: |-
+  Jústavos o fúrbol?
+
+  A nós tamén :)
 date: 2021-01-05 15:57:52.320473
 active: false
 platform: twitch
@@ -17,3 +20,8 @@ redes:
   twitch: https://twitch.tv/ficacoabola
   youtube: https://www.youtube.com/channel/UCbDtck2U0zghve0ZMuHV2dQ
 ---
+description: |-
+  Jústavos o fúrbol?
+
+  A nós tamén :)
+img: /img/comunidade/ficacoabola.webp

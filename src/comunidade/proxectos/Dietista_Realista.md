@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Dietista Realista
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: O meu nome é Sandra, son dietista e estou aquí para axudarte a ter unha alimentación saudable mediante o cambio de hábitos pensando sempre na saúde.
+img: /img/comunidade/Dietista_Realista.webp
 date: 2022-11-01
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCkD5L1NoEEyYkLAAvZJWA-g/
 ---
-
+description: O meu nome é Sandra, son dietista e estou aquí para axudarte a ter unha alimentación saudable mediante o cambio de hábitos pensando sempre na saúde.
+img: /img/comunidade/Dietista_Realista.webp

@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: A Bancada
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: A Bancada é un espacio web adicado ao fútbol galego. Concretamente centro o meu esforzo en dar visibilidade aos equipos máis humildes da nosa terra. O fútbol autonómico é algo que temos que coidar e apreciar, pois é moita a afección que hai por el en Galicia. Tamén estamos en Twitter, Instagram, Facebook, Linkedin e Wordpress.
+img: /img/comunidade/A_Bancada.webp
 date: 2019-09-28 20:07:11
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC4WuSesCiZXE-VvGEIfLQMQ
 ---
-
+description: A Bancada é un espacio web adicado ao fútbol galego. Concretamente centro o meu esforzo en dar visibilidade aos equipos máis humildes da nosa terra. O fútbol autonómico é algo que temos que coidar e apreciar, pois é moita a afección que hai por el en Galicia. Tamén estamos en Twitter, Instagram, Facebook, Linkedin e Wordpress.
+img: /img/comunidade/A_Bancada.webp

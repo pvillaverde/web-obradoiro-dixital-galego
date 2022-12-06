@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Fatima Barros
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Proxectos en galego
+img: /img/comunidade/Fatima_Barros.webp
 date: 2014-11-09 13:16:46
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCEwrtZqsN9RTecLoB9ghc9A
 ---
-
+description: Proxectos en galego
+img: /img/comunidade/Fatima_Barros.webp

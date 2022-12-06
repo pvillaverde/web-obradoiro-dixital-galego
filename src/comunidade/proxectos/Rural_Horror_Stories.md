@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Rural Horror Stories
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Pseudo webserie de antoloxía 80% en galego.
+img: /img/comunidade/Rural_Horror_Stories.webp
 date: 2017-12-29 14:29:00
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UChs0CKndUPfgQ7yJDKjQORw
 ---
-
+description: Pseudo webserie de antoloxía 80% en galego.
+img: /img/comunidade/Rural_Horror_Stories.webp

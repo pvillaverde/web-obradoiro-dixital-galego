@@ -4,7 +4,7 @@ title: o_hanabi
 file: o_hanabi
 href: https://twitch.tv/o_hanabi
 img: /img/comunidade/o_hanabi.webp
-description: Streams en galego~Main Teemo on duty!
+description: ""
 date: 2015-04-04 15:04:16.671866
 active: false
 platform: twitch
@@ -17,3 +17,5 @@ redes:
   twitch: https://twitch.tv/o_hanabi
   youtube: https://youtube.com/channel/UCBP_iqSFoWi98bZLNFciBIQ/
 ---
+description: ""
+img: /img/comunidade/o_hanabi.webp

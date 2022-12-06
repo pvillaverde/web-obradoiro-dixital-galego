@@ -1,8 +1,13 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: TOXÍO
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: |-
+  TOXÍO nace de nós, de compartir o que somos. Prometemos compartir as nosas viaxes da maneira máis técnica, emocional e ética que nos saia. Acompáñasnos?
+
+  ______________________________________________________
+
+  #Youtubeiras #Youtubeiros #YoutubeEnGalego
+img: /img/comunidade/TOXIO.webp
 date: 2017-10-12 13:32:02
 platform: youtube
 type: proxecto
@@ -11,4 +16,10 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCirenQprE-itZVkd9EGOP4Q
 ---
+description: |-
+  TOXÍO nace de nós, de compartir o que somos. Prometemos compartir as nosas viaxes da maneira máis técnica, emocional e ética que nos saia. Acompáñasnos?
 
+  ______________________________________________________
+
+  #Youtubeiras #Youtubeiros #YoutubeEnGalego
+img: /img/comunidade/TOXIO.webp

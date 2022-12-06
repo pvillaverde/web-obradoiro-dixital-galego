@@ -4,7 +4,12 @@ title: EcosdeXigantes
 file: ecosdexigantes
 href: https://twitch.tv/ecosdexigantes
 img: /img/comunidade/ecosdexigantes.webp
-description: Divulgación científica en galego no Twitch, cada luns a iso das 20:30
+description: |-
+  Somos Carmela Cela, Darío Lago e Diego Ferraz e divulgamos ciencia en twitch dunha forma amena, dinámica e animada.
+
+  Pásate pola nosa canle de twitch, todos os luns ás 20:30!
+
+  Aquí poderás atopar os directos resubidos.
 date: 2021-01-25 19:36:34.623116
 active: false
 platform: twitch
@@ -16,3 +21,10 @@ redes:
   twitch: https://twitch.tv/ecosdexigantes
   youtube: https://www.youtube.com/channel/UC5B0dxdXuWZ2jzvs3k3R28g
 ---
+description: |-
+  Somos Carmela Cela, Darío Lago e Diego Ferraz e divulgamos ciencia en twitch dunha forma amena, dinámica e animada.
+
+  Pásate pola nosa canle de twitch, todos os luns ás 20:30!
+
+  Aquí poderás atopar os directos resubidos.
+img: /img/comunidade/ecosdexigantes.webp

@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Flores de Lume
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Boas! Son 花火 [Hanabi] de Edicións Malafera! Esta canle está dedicada á poesía en galego onde atoparedes desde videopoemas a comentarios sobre obras de autores galegxs. Florezamos e ardamos xuntxs!
+img: /img/comunidade/Flores_de_Lume.webp
 date: 2018-04-10 21:09:29
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCu3XQBqXzmwCphlrnNNZkwg
 ---
-
+description: Boas! Son 花火 [Hanabi] de Edicións Malafera! Esta canle está dedicada á poesía en galego onde atoparedes desde videopoemas a comentarios sobre obras de autores galegxs. Florezamos e ardamos xuntxs!
+img: /img/comunidade/Flores_de_Lume.webp

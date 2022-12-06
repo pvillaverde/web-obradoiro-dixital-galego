@@ -1,8 +1,13 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Cumac Producións
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: |-
+  CUMAC Producións
+
+  -Nesta canle atoparás contido audiovisual variado creado por catro mentes creativas. Subiremos un vídeo á semana os venres ás seis da tarde, hora peninsular.
+  -Produción audiovisual
+  -Pontevedra, Galicia
+img: /img/comunidade/Cumac_Producions.webp
 date: 2020-06-16 15:09:43
 platform: youtube
 type: proxecto
@@ -11,4 +16,10 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC92HhQPchDUqdX4ccvZCUmw
 ---
+description: |-
+  CUMAC Producións
 
+  -Nesta canle atoparás contido audiovisual variado creado por catro mentes creativas. Subiremos un vídeo á semana os venres ás seis da tarde, hora peninsular.
+  -Produción audiovisual
+  -Pontevedra, Galicia
+img: /img/comunidade/Cumac_Producions.webp

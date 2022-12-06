@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Contos e retrincos
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Esta canle pretende entreter aos/ás pequeas da casa con contos e cantares en galego. Agardamos que o disfrutedes!
+img: /img/comunidade/Contos_e_retrincos.webp
 date: 2020-03-24 10:16:47
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCY1J7cVCaP5nYy-Wy3LhxXg
 ---
-
+description: Esta canle pretende entreter aos/ás pequeas da casa con contos e cantares en galego. Agardamos que o disfrutedes!
+img: /img/comunidade/Contos_e_retrincos.webp

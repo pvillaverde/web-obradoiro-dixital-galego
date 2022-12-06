@@ -1,8 +1,10 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: segredos da boa cociña
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: |-
+  Cociña en galego.
+  Receitas da cociña tradicional galega doce e salgada.
+img: /img/comunidade/segredos_da_boa_cocina.webp
 date: 2021-01-29 18:22:04
 platform: youtube
 type: proxecto
@@ -11,4 +13,7 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC8mna93poTIRLABAcf5mgMA
 ---
-
+description: |-
+  Cociña en galego.
+  Receitas da cociña tradicional galega doce e salgada.
+img: /img/comunidade/segredos_da_boa_cocina.webp

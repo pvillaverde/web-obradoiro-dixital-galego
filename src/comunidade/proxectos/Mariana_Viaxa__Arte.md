@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Mariana Viaxa  Arte
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: "Ilustradora de moda! \U0001F460\n\U0001F331 Galicia\n✉ Contato: marianaluque.illustration@gmail.com"
+img: /img/comunidade/Mariana_Viaxa__Arte.webp
 date: 2022-11-01
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCY8_SOLi1TuiobfK0rH26MQ/
 ---
-
+description: "Ilustradora de moda! \U0001F460\n\U0001F331 Galicia\n✉ Contato: marianaluque.illustration@gmail.com"
+img: /img/comunidade/Mariana_Viaxa__Arte.webp

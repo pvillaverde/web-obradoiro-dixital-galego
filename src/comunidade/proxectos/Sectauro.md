@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Sectauro
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Canal completamente sério e dedicado à exploraçom das cartas astrais das mascotas.
+img: /img/comunidade/Sectauro.webp
 date: 2022-11-01
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCL4loawh_zpXwtQcUySvflA/
 ---
-
+description: Canal completamente sério e dedicado à exploraçom das cartas astrais das mascotas.
+img: /img/comunidade/Sectauro.webp

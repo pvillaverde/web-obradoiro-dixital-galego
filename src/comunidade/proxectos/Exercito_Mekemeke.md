@@ -1,8 +1,11 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Exército Mekemeke
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: |-
+  Ola parroquia! Vén formar parte dos mekemekes que están a invadir o Youtube.
+
+  Un programa presentado por Carlos Vieito acompañado de Lidia Veiga e Miguel Abad para Ames Radio. Non sería posíbel sen Martín Rei detrás das cámaras, coa voz narradora de Antón Rubal e da música de Brais Iriarte creada en exclusiva para o programa.
+img: /img/comunidade/Exercito_Mekemeke.webp
 date: 2021-09-28 20:49:46
 platform: youtube
 type: proxecto
@@ -11,4 +14,8 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCQB2WaUno6PRA4sg9anei2w
 ---
+description: |-
+  Ola parroquia! Vén formar parte dos mekemekes que están a invadir o Youtube.
 
+  Un programa presentado por Carlos Vieito acompañado de Lidia Veiga e Miguel Abad para Ames Radio. Non sería posíbel sen Martín Rei detrás das cámaras, coa voz narradora de Antón Rubal e da música de Brais Iriarte creada en exclusiva para o programa.
+img: /img/comunidade/Exercito_Mekemeke.webp

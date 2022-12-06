@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Manuel Omil
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Manuel Oh1000. Guei de toda la vida recién descubierto. para fotos calientes llamad a este número 986000000 para vosotros jugadores (guapis)
+img: /img/comunidade/Manuel_Omil.webp
 date: 2012-02-19 23:03:52
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC3FrZVfW1hcTlgFe7fXpBMQ
 ---
-
+description: Manuel Oh1000. Guei de toda la vida recién descubierto. para fotos calientes llamad a este número 986000000 para vosotros jugadores (guapis)
+img: /img/comunidade/Manuel_Omil.webp

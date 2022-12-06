@@ -1,8 +1,14 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Lamia Escura
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: |-
+  Contido de rol en galego!
+
+  Partidas en galego, español e inglés!
+
+
+  Namoireime do rol e quero darlle difusión e visibilidade tamén en galego.
+img: /img/comunidade/Lamia_Escura.webp
 date: 2020-09-01 07:09:33
 platform: youtube
 type: proxecto
@@ -11,4 +17,11 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC-BoYZooCANZr7LRsZfaYsw
 ---
+description: |-
+  Contido de rol en galego!
 
+  Partidas en galego, español e inglés!
+
+
+  Namoireime do rol e quero darlle difusión e visibilidade tamén en galego.
+img: /img/comunidade/Lamia_Escura.webp

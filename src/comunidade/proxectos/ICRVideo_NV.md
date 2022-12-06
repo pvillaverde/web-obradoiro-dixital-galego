@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: ICRVideo NV
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Canle dedicada á información, cultura, política, denuncias e moitas cousas máis. Todo en Galego e desde Galiza.
+img: /img/comunidade/ICRVideo_NV.webp
 date: 2010-08-14 00:37:31
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCgXBEV_WAlyawLc7PDlWrxA
 ---
-
+description: Canle dedicada á información, cultura, política, denuncias e moitas cousas máis. Todo en Galego e desde Galiza.
+img: /img/comunidade/ICRVideo_NV.webp

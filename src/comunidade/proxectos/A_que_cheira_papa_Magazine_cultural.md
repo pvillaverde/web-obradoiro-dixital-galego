@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: A que cheira papá Magazine cultural
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: ""
+img: /img/comunidade/A_que_cheira_papa_Magazine_cultural.webp
 date: 2018-03-01 18:41:11
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCZwgLsb6bbMTDU250axTmAQ
 ---
-
+description: ""
+img: /img/comunidade/A_que_cheira_papa_Magazine_cultural.webp

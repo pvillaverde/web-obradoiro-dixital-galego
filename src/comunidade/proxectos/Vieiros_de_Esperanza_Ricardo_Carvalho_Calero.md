@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Vieiros de Esperanza Ricardo Carvalho Calero
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Proxecto documental dedicado ao escritor e profesor ferrolán Ricardo Carvalho Calero. Dirixido por Antón Rodríguez e filmado coa colaboración de Javier Gómez e Sergio Arango no ano 2014, como Traballo de Fin de Grao en Comunicación Audiovisual pola Universidade da Coruña.
+img: /img/comunidade/Vieiros_de_Esperanza_Ricardo_Carvalho_Calero.webp
 date: 2020-05-07 18:04:20
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCh3SO389RebAhvVbz7X8ilQ
 ---
-
+description: Proxecto documental dedicado ao escritor e profesor ferrolán Ricardo Carvalho Calero. Dirixido por Antón Rodríguez e filmado coa colaboración de Javier Gómez e Sergio Arango no ano 2014, como Traballo de Fin de Grao en Comunicación Audiovisual pola Universidade da Coruña.
+img: /img/comunidade/Vieiros_de_Esperanza_Ricardo_Carvalho_Calero.webp

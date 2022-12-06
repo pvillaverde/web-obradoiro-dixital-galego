@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Cousas de Mestres
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Mestre de educación especial que fala de diferentes cousas relacionadas coa educación.
+img: /img/comunidade/Cousas_de_Mestres.webp
 date: 2020-09-28 19:08:44
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCd-LjrUPX-iFehaRalllWTA
 ---
-
+description: Mestre de educación especial que fala de diferentes cousas relacionadas coa educación.
+img: /img/comunidade/Cousas_de_Mestres.webp

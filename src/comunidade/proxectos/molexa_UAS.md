@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: molexa UAS
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Presentamos nesta canle vídeos de dron das praias e arredores dos concellos de Narón, Valdoviño e resto da comarca de Ferrolterra.
+img: /img/comunidade/molexa_UAS.webp
 date: 2022-11-01
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UC8Dcn4LUX-mtBoJABq5RwZA/
 ---
-
+description: Presentamos nesta canle vídeos de dron das praias e arredores dos concellos de Narón, Valdoviño e resto da comarca de Ferrolterra.
+img: /img/comunidade/molexa_UAS.webp

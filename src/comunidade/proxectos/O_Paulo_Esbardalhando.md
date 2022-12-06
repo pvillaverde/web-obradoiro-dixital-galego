@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: O Paulo Esbardalhando
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Este canal foi criado para partilhar língua e literatura galega com o mundo todo, entre outras coisas.
+img: /img/comunidade/O_Paulo_Esbardalhando.webp
 date: 2017-08-23 09:47:47
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC-wZ4BGhn2j6_C8TAbgsIQw
 ---
-
+description: Este canal foi criado para partilhar língua e literatura galega com o mundo todo, entre outras coisas.
+img: /img/comunidade/O_Paulo_Esbardalhando.webp

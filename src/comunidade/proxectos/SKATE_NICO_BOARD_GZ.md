@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: SKATE NICO BOARD GZ
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: ""
+img: /img/comunidade/SKATE_NICO_BOARD_GZ.webp
 date: 2017-03-05 19:08:56
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCqfczEOAJLnps2PJeh7tDFA
 ---
-
+description: ""
+img: /img/comunidade/SKATE_NICO_BOARD_GZ.webp

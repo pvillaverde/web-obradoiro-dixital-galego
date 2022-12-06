@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Vlogs en Galego por Rosendo Iglesias
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Canle en YouTube a que irei subindo vídeos en Galego! Dende Galicia para o mundo!
+img: /img/comunidade/Vlogs_en_Galego_por_Rosendo_Iglesias.webp
 date: 2013-11-25 16:01:05
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCVdN7RHZCjRB_1yd242pg8A
 ---
-
+description: Canle en YouTube a que irei subindo vídeos en Galego! Dende Galicia para o mundo!
+img: /img/comunidade/Vlogs_en_Galego_por_Rosendo_Iglesias.webp

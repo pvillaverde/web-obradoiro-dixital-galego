@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: SOMOS CULTURA TV
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: "\U0001F499\U0001F4F2Todo o CONTIDO GALEGO das REDES!"
+img: /img/comunidade/SOMOS_CULTURA_TV.webp
 date: 2020-10-12 12:32:40
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCe1uKGV4K1P_DFhjB3WduUw
 ---
-
+description: "\U0001F499\U0001F4F2Todo o CONTIDO GALEGO das REDES!"
+img: /img/comunidade/SOMOS_CULTURA_TV.webp

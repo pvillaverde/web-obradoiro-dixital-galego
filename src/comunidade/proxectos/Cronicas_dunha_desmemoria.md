@@ -1,8 +1,10 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Crónicas dunha desmemoria
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: |-
+  “Crónicas dunha desmemoria” ten como finalidade a difusión de contidos audiovisuais arredor do Reino Medieval de Galicia.
+  É un proxecto realizado co apoio de Cultura da Deputación da Coruña e a colaboración de Xerais.
+img: /img/comunidade/Cronicas_dunha_desmemoria.webp
 date: 2022-11-01
 platform: youtube
 type: proxecto
@@ -11,4 +13,7 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UC8M6Itq9q_g-zRzXAqv7fhw/
 ---
-
+description: |-
+  “Crónicas dunha desmemoria” ten como finalidade a difusión de contidos audiovisuais arredor do Reino Medieval de Galicia.
+  É un proxecto realizado co apoio de Cultura da Deputación da Coruña e a colaboración de Xerais.
+img: /img/comunidade/Cronicas_dunha_desmemoria.webp

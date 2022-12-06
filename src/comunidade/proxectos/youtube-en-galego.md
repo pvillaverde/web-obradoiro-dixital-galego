@@ -2,9 +2,8 @@
 layout: layouts/proxecto.njk
 type: proxecto
 title: Youtube en Galego
-img: /img/comunidade/galegotube.webp
-description: Canle da comunidade de Youtube en Galego, que agora forma parte da
-  Asociación Cultural Obradoiro Dixital Galego.
+img: /img/comunidade/youtube-en-galego.webp
+description: Comunidade de persoas que crean contidos en galego na plataforma de YouTube. Sigue a nosa canle de twitter, promociona o contido na nosa lingua e non dubides en nos falar.
 date: 2021-07-01T17:23:44.576Z
 redes:
   instagram: ""
@@ -16,3 +15,5 @@ tags:
   - asociado
   - youtube
 ---
+description: Comunidade de persoas que crean contidos en galego na plataforma de YouTube. Sigue a nosa canle de twitter, promociona o contido na nosa lingua e non dubides en nos falar.
+img: /img/comunidade/youtube-en-galego.webp

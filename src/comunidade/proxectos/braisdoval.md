@@ -4,7 +4,7 @@ title: BraisDoval
 file: braisdoval
 href: https://twitch.tv/braisdoval
 img: /img/comunidade/braisdoval.webp
-description: Pois aquí facendo directos reaccionando a cousas, entrevistas, xogando á e así. Isto é Twitch aquí todo o mundo fai o mesmo tampouco veño a innovar.
+description: Moi boas! Aquí estamos polas risas e pouco máis
 date: 2017-11-20 17:19:39.841865
 active: false
 platform: twitch
@@ -17,3 +17,5 @@ redes:
   twitch: https://twitch.tv/braisdoval
   youtube: https://www.youtube.com/channel/UCMZWZxBu6kUe2jDQBnyKLMw
 ---
+description: Moi boas! Aquí estamos polas risas e pouco máis
+img: /img/comunidade/braisdoval.webp

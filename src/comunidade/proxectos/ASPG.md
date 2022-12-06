@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: ASPG
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Canle da Asociación Socio-Pedagóxica Galega
+img: /img/comunidade/ASPG.webp
 date: 2020-10-22 13:01:12
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC_V6r11NqQ6xQwTR4PrEYRw
 ---
-
+description: Canle da Asociación Socio-Pedagóxica Galega
+img: /img/comunidade/ASPG.webp

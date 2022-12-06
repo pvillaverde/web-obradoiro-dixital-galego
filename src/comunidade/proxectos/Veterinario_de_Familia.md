@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Veterinario de Familia
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: 'O veterinario Guillermo Campos, da clínica Veterinario de Poio, comenta nunha linguaxe accesible cuestións relativas ao benestar dos animais de compañía: saúde, comportamento, educación, prevención de enfermidades, etc. É unha canle con vocación de interactuar activamente cos seus subscriptores, e os vídeos ademais de en galego poderán ser tamén cando se nolo demande en castelán.'
+img: /img/comunidade/Veterinario_de_Familia.webp
 date: 2019-02-03 18:15:48
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCDU9bFm01MFiGju6TSC0zrg
 ---
-
+description: 'O veterinario Guillermo Campos, da clínica Veterinario de Poio, comenta nunha linguaxe accesible cuestións relativas ao benestar dos animais de compañía: saúde, comportamento, educación, prevención de enfermidades, etc. É unha canle con vocación de interactuar activamente cos seus subscriptores, e os vídeos ademais de en galego poderán ser tamén cando se nolo demande en castelán.'
+img: /img/comunidade/Veterinario_de_Familia.webp

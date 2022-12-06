@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Turvegal
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Si buscas Galicia aqui a encontraras!! Turvegal nace para compartir, entre os amantes da terra galega, a sua historia, cultura, tradicions, experiencias.
+img: /img/comunidade/Turvegal.webp
 date: 2014-06-10 21:16:28
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCkOY3UFFbrcZMTKZNUEVKyw
 ---
-
+description: Si buscas Galicia aqui a encontraras!! Turvegal nace para compartir, entre os amantes da terra galega, a sua historia, cultura, tradicions, experiencias.
+img: /img/comunidade/Turvegal.webp

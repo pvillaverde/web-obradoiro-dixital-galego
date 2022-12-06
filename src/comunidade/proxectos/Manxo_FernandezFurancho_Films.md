@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Manxo FernándezFurancho Films
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Mostra de Traballos de Furancho Filmes
+img: /img/comunidade/Manxo_FernandezFurancho_Films.webp
 date: 2008-02-02 20:06:28
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC-shw22OvU2d7vnkSwAq_yA
 ---
-
+description: Mostra de Traballos de Furancho Filmes
+img: /img/comunidade/Manxo_FernandezFurancho_Films.webp

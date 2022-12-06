@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Iago Gordillo
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: ""
+img: /img/comunidade/Iago_Gordillo.webp
 date: 2006-03-25 17:49:04
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCCUTyj9XlxHZIsC9J8xXafQ
 ---
-
+description: ""
+img: /img/comunidade/Iago_Gordillo.webp

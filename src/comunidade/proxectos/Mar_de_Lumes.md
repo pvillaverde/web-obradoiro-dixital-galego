@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Mar de Lumes
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: "Este é o espazo de Mar de Lumes — Comité Galego de Solidariedade Internacionalista en Youtube. Aqui disponibilizamos os vídeos que producimos como organización ou en parcerías, e tamén aqueles outros que achamos de interese para a información solidaria. \n\nViva a solidariedade internacionalista!"
+img: /img/comunidade/Mar_de_Lumes.webp
 date: 2013-01-04 16:36:16
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCtTHeADEdpllP-CUQJoxGwQ
 ---
-
+description: "Este é o espazo de Mar de Lumes — Comité Galego de Solidariedade Internacionalista en Youtube. Aqui disponibilizamos os vídeos que producimos como organización ou en parcerías, e tamén aqueles outros que achamos de interese para a información solidaria. \n\nViva a solidariedade internacionalista!"
+img: /img/comunidade/Mar_de_Lumes.webp

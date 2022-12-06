@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Anxo GB
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Mi rincón de entretenimiento, opinión , entrevistas , juegos y mucho más. Así que no lo dudes y Subscríbete
+img: /img/comunidade/Anxo_GB.webp
 date: 2008-01-03 19:52:07
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCRBltQxHlipsnF2ylWvC9xw
 ---
-
+description: Mi rincón de entretenimiento, opinión , entrevistas , juegos y mucho más. Así que no lo dudes y Subscríbete
+img: /img/comunidade/Anxo_GB.webp

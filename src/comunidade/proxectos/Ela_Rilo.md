@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Ela Rilo
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: ""
+img: /img/comunidade/Ela_Rilo.webp
 date: 2020-02-17 19:03:18
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCz8Ernt60vK9pUS95FEL9Xg
 ---
-
+description: ""
+img: /img/comunidade/Ela_Rilo.webp

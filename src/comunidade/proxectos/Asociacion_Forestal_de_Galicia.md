@@ -1,8 +1,13 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Asociación Forestal de Galicia
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: |-
+  A ASOCIACIÓN FORESTAL DE GALICIA (AFG) é unha asociación privada sen ánimo de lucro, creada en Santiago de Compostela en 1986. Agrupa a propietarios forestais particulares e comunidades de montes en man común de Galicia.
+
+  LA ASOCIACIÓN FORESTAL DE GALICIA (AFG) es una asociación privada sin ánimo de lucro, creada en Santiago de Compostela en 1986. Agrupa a propietarios forestales particulares y comunidades de montes en mano común de Galicia.
+
+  THE GALICIA FORESTRY ASSOCIATION (AFG) is a private non-profit association, created in Santiago de Compostela in 1986. It brings together private individual forest owners and private communal neighbourhood forest owners.
+img: /img/comunidade/Asociacion_Forestal_de_Galicia.webp
 date: 2016-07-04 19:05:01
 platform: youtube
 type: proxecto
@@ -11,4 +16,10 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCl-wNlIaKZZKBsPXpqe_s-g
 ---
+description: |-
+  A ASOCIACIÓN FORESTAL DE GALICIA (AFG) é unha asociación privada sen ánimo de lucro, creada en Santiago de Compostela en 1986. Agrupa a propietarios forestais particulares e comunidades de montes en man común de Galicia.
 
+  LA ASOCIACIÓN FORESTAL DE GALICIA (AFG) es una asociación privada sin ánimo de lucro, creada en Santiago de Compostela en 1986. Agrupa a propietarios forestales particulares y comunidades de montes en mano común de Galicia.
+
+  THE GALICIA FORESTRY ASSOCIATION (AFG) is a private non-profit association, created in Santiago de Compostela in 1986. It brings together private individual forest owners and private communal neighbourhood forest owners.
+img: /img/comunidade/Asociacion_Forestal_de_Galicia.webp

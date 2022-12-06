@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Reisvas
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Un chavalillo de Ourense que hace directos, vídeos para Youtube y el tonto en las demás redes sociales. ¡Únete ya!
+img: /img/comunidade/Reisvas.webp
 date: 2019-10-25 00:11:08
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCElOUmBjnIJweqpA2kATH0A
 ---
-
+description: Un chavalillo de Ourense que hace directos, vídeos para Youtube y el tonto en las demás redes sociales. ¡Únete ya!
+img: /img/comunidade/Reisvas.webp

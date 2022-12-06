@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: LinguaGalegaTV
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Programación dedicada á normalización e prestixio da lingua galega
+img: /img/comunidade/LinguaGalegaTV.webp
 date: 2011-06-22 17:10:55
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCoaYYEUifp037jHeY4vrn-A
 ---
-
+description: Programación dedicada á normalización e prestixio da lingua galega
+img: /img/comunidade/LinguaGalegaTV.webp

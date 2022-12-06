@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Rosalia casas
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Este vai ser o meu dump pa subir os videos panas and some other shit…
+img: /img/comunidade/Rosalia_casas.webp
 date: 2011-10-19 12:44:15
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCQH5XiUZHegKhb4HFqFeckA
 ---
-
+description: Este vai ser o meu dump pa subir os videos panas and some other shit…
+img: /img/comunidade/Rosalia_casas.webp

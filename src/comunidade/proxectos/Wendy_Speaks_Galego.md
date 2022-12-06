@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Wendy Speaks Galego
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Ola! Chámome Wendy. De orixe eu son estadounidense, aínda que agora vivo en Portugal. Encántame aprender linguas, e neste momento estou enfocando en galego. Creei esta canle para practicar galego e para coñecer galegofalantes.
+img: /img/comunidade/Wendy_Speaks_Galego.webp
 date: 2020-12-04 20:33:39
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCYoXpEkctnqvHhBnzVx2NdA
 ---
-
+description: Ola! Chámome Wendy. De orixe eu son estadounidense, aínda que agora vivo en Portugal. Encántame aprender linguas, e neste momento estou enfocando en galego. Creei esta canle para practicar galego e para coñecer galegofalantes.
+img: /img/comunidade/Wendy_Speaks_Galego.webp

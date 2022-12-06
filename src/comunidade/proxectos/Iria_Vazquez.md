@@ -1,8 +1,10 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Iria Vázquez
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: |-
+  Humilde canle 100% en galego,se queredes dicirme temas sobre os que falar comentade nos vídeos
+  Agardo que vos preste
+img: /img/comunidade/Iria_Vazquez.webp
 date: 2015-01-27 20:50:32
 platform: youtube
 type: proxecto
@@ -11,4 +13,7 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC6Uh1tQE-puWUShBUFhaK_Q
 ---
-
+description: |-
+  Humilde canle 100% en galego,se queredes dicirme temas sobre os que falar comentade nos vídeos
+  Agardo que vos preste
+img: /img/comunidade/Iria_Vazquez.webp

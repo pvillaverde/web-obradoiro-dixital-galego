@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Asociación ORAL de Galicia
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: ""
+img: /img/comunidade/Asociacion_ORAL_de_Galicia.webp
 date: 2017-01-16 08:44:17
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCkPqmemQMeqQeBfdBusAiWA
 ---
-
+description: ""
+img: /img/comunidade/Asociacion_ORAL_de_Galicia.webp

@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Mancomún
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Canle oficial do portal mancomún, iniciativas sobre Software Libre en Galicia. Conta xestionada pola Oficina de Coordinación de Software Libre.
+img: /img/comunidade/Mancomun.webp
 date: 2022-11-01
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCMTpjlMZWtagxjVKRsMALwA/
 ---
-
+description: Canle oficial do portal mancomún, iniciativas sobre Software Libre en Galicia. Conta xestionada pola Oficina de Coordinación de Software Libre.
+img: /img/comunidade/Mancomun.webp

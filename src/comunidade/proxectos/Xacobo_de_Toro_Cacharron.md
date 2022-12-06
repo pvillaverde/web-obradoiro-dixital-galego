@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Xacobo de Toro Cacharrón
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Publicación de materiais escolares e didácticos elaborados polo profesor Xacobo de Toro e persoas colaboradoras. Tamén atoparás listas de reprodución para diferentes unidades didácticas de ciencias.
+img: /img/comunidade/Xacobo_de_Toro_Cacharron.webp
 date: 2009-10-20 11:19:38
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCBpPB8kJ6IlbaH2U2zZqnYQ
 ---
-
+description: Publicación de materiais escolares e didácticos elaborados polo profesor Xacobo de Toro e persoas colaboradoras. Tamén atoparás listas de reprodución para diferentes unidades didácticas de ciencias.
+img: /img/comunidade/Xacobo_de_Toro_Cacharron.webp

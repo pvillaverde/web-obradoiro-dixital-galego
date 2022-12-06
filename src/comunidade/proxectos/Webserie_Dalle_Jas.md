@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Webserie Dalle Jas
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: 'Canal oficial da webserie Dalle Jas! '
+img: /img/comunidade/Webserie_Dalle_Jas.webp
 date: 2014-08-30 10:59:11
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCRMq4VOnhwEeCENoxevgCxQ
 ---
-
+description: 'Canal oficial da webserie Dalle Jas! '
+img: /img/comunidade/Webserie_Dalle_Jas.webp

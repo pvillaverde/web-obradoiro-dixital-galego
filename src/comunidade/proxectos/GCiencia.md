@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: GCiencia
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: GCiencia é un xornal dixital dedicado á divulgación do coñecemento científico e tecnolóxico
+img: /img/comunidade/GCiencia.webp
 date: 2022-11-01
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCU7NHWRS3vm_DHFTTRAu9HA/
 ---
-
+description: GCiencia é un xornal dixital dedicado á divulgación do coñecemento científico e tecnolóxico
+img: /img/comunidade/GCiencia.webp

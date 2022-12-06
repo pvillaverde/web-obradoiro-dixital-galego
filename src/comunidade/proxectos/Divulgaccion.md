@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Divulgacción
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: Canle de Divulgacción, Asociación Galega de Comunicación de Cultura Científica e Tecnolóxica www.divulgaccion.org
+img: /img/comunidade/Divulgaccion.webp
 date: 2016-04-24 23:23:04
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCze_UcCj6FZpalmlk-UjipQ
 ---
-
+description: Canle de Divulgacción, Asociación Galega de Comunicación de Cultura Científica e Tecnolóxica www.divulgaccion.org
+img: /img/comunidade/Divulgaccion.webp

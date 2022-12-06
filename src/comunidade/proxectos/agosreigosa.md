@@ -4,7 +4,7 @@ title: AgosReigosa
 file: agosreigosa
 href: https://twitch.tv/agosreigosa
 img: /img/comunidade/agosreigosa.webp
-description: Pequeno friki lucense | Xogador de videoxogos | Creador de contidos | Un ruxe ruxe sen fin
+description: ""
 date: 2012-12-01 14:38:59
 active: false
 platform: twitch
@@ -16,3 +16,5 @@ redes:
   twitch: https://twitch.tv/agosreigosa
   youtube: https://www.youtube.com/channel/UCXShe-zffyqMLiPD3tJr1vw
 ---
+description: ""
+img: /img/comunidade/agosreigosa.webp

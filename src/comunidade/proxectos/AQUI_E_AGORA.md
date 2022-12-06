@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: AQUI E AGORA
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: ""
+img: /img/comunidade/AQUI_E_AGORA.webp
 date: 2019-01-28 12:10:42
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCJSY_Gk99vusOdyQtL7n3pA
 ---
-
+description: ""
+img: /img/comunidade/AQUI_E_AGORA.webp

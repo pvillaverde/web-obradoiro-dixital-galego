@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: A Desescalaxe
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: A DESESCALDAXE é o arte de fiar as conversas. Sen saber de que falar, sen saber qué dicir, enchemos máis de media hora diaria de caralladas. Se escoitas os nosos programas enteiros chama ao 112.
+img: /img/comunidade/A_Desescalaxe.webp
 date: 2020-05-15 21:23:36
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UChfV-DwD9I2WhVxIMEfXKuw
 ---
-
+description: A DESESCALDAXE é o arte de fiar as conversas. Sen saber de que falar, sen saber qué dicir, enchemos máis de media hora diaria de caralladas. Se escoitas os nosos programas enteiros chama ao 112.
+img: /img/comunidade/A_Desescalaxe.webp

@@ -1,8 +1,8 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Cinema Caníbal
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
-img: /img/comunidade/galegotube.webp
+description: "Oímos por aí que non había canles de cinema en galego. Así que viñemos encher un oco de mercado. \nFans dos Nachos, dos Patiños e de Christopher Lambert."
+img: /img/comunidade/Cinema_Canibal.webp
 date: 2022-02-03 14:17:08
 platform: youtube
 type: proxecto
@@ -11,4 +11,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCeWC9SnbDhY8HX7yAc_oNPA
 ---
-
+description: "Oímos por aí que non había canles de cinema en galego. Así que viñemos encher un oco de mercado. \nFans dos Nachos, dos Patiños e de Christopher Lambert."
+img: /img/comunidade/Cinema_Canibal.webp
