@@ -99,11 +99,11 @@ const comunidade = t.folder("Comunidade", "/src/comunidade/proxectos", [
    t.hidden("layout", "layouts/proxecto.njk").required(true),
    t.hidden("type", "proxecto").required(true),
    t.string("title").required(true).hint('Título do proxecto: Pode ser o nome da canle ou do farangullo.'),
-   t.string("href").required(true).hint('Ligazón principal do proxecto. Pode ser unha canle de Twitch/Youtube ou un beacons/linktree'),
-   t.image("img").hint('Imaxe do proxecto. Ten que ser cadrada, de ser posible 400x400.'),
+   t.hidden("href").required(false).hint('Ligazón principal do proxecto. Pode ser unha canle de Twitch/Youtube ou un beacons/linktree'),
+   t.hidden("img").hint('Imaxe do proxecto. Ten que ser cadrada, de ser posible 400x400.'),
    t.markdown("description").required(true).hint("Descripción breve do proxecto. Recomendamos máximo uns 160 caracteres."),
    t.datetime("date").required(true).timeFormat(false),
-   t.boolean("active"),
+   t.boolean("active").hint('Se está activo o proxecto. Este dato refrescase automáticametne cando se actualiza a WEB'),
    t.select("platform", ["twitch", "youtube", "podcast"]),
    t.object("redes", [
       /* t.string("amazon").hint('Ligazón a páxina de amazon'), */
@@ -115,28 +115,28 @@ const comunidade = t.folder("Comunidade", "/src/comunidade/proxectos", [
       /* t.string("goodreads").hint('Ligazón a páxina de goodreads'), */
       t.string("google-podcast").hint('Ligazón a páxina de Google Podcasts'),
       /* t.string("google").hint('Ligazón a páxina de Google'), */
-      t.string("instagram").hint('Ligazón a canle de Instagram, por exemplo: https://www.instagram.com/twitchengalego/'),
+      t.string("instagram").hint('Ligazón a canle de Instagram, por exemplo: https://www.instagram.com/twitchengalego/').pattern("https:\/\/(?:www\.)?instagram\.com\/([A-Za-z0-9_]+)\/?", "O formato non é correcto"),
       t.string("ivoox").hint('Ligazón a páxina de iVoox, por exemplo: https://www.ivoox.com/podcast-recuncho-gamer-podcast_sq_f11092284_1.html'),
       t.string("link").hint('Ligazón adicional a unha páxina web propia ou outra rede que non esté contemplada.'),
       /* t.string("linkedin").hint('Ligazón a páxina de Linkedin'), */
       t.string("mail").hint('Correo electrónico ao que enviar mails.'),
-      t.string("mastodon").hint('Ligazón o usuario de Mastodon, por exemplo: https://mastodon.gal/acodega'),
+      t.string("mastodon").hint('Ligazón o usuario de Mastodon, por exemplo: https://mastodon.gal/@galizangamer'),
       t.string("patreon").hint('Ligazón a páxina de Patreon, por exemplo: https://www.patreon.com/galizangamer'),
       /* t.string("pinterest").hint('Ligazón a páxina de pinterest'), */
       t.string("rss").hint('Ligazón ao feed RSS de contido, por exemplo: https://www.ivoox.com/podcast-a-gruta-gizamaluke_fg_f1629621_filtro_1.xml'),
       /* t.string("skype").hint('Ligazón a páxina de skype'), */
       /* t.string("snapchat").hint('Ligazón a páxina de snapchat'), */
       /* t.string("soundcloud").hint('Ligazón a páxina de soundcloud'), */
-      t.string("spotify").hint('Ligazón a canle de Telegram, por exemplo: https://open.spotify.com/user/tcciszh0d6inj0tw6w2c0rrd5'),
-      t.string("telegram").hint('Ligazón a canle de Telegram, por exemplo: https://t.me/GalizanGamer'),
-      t.string("tiktok").hint('Ligazón a canle de TikTok, por exemplo: https://www.tiktok.com/@a_lobeira_today'),
+      t.string("spotify").hint('Ligazón a canle de Spotify, por exemplo: https://open.spotify.com/user/tcciszh0d6inj0tw6w2c0rrd5'),
+      t.string("telegram").hint('Ligazón a canle de Telegram, por exemplo: https://t.me/GalizanGamer').pattern("https:\/\/(?:www\.)?t\.me\/([A-Za-z0-9_]+)\/?", "O formato non é correcto"),
+      t.string("tiktok").hint('Ligazón a canle de TikTok, por exemplo: https://www.tiktok.com/@a_lobeira_today').pattern("https:\/\/(?:www\.)?tiktok\.com\/@?([a-z0-9_]+)\/?", "O formato non é correcto"),
       /* t.string("tumblr").hint('Ligazón a páxina de tumblr'), */
-      t.string("twitch").hint('Ligazón o usuario de Twitch, por exemplo: https://twitch.tv/acodega'),
-      t.string("twitter").hint('Ligazón o usuario de Twitter, por exemplo: https://twitter.com/AC_ODC'),
+      t.string("twitch").hint('Ligazón o usuario de Twitch, por exemplo: https://twitch.tv/acodega').pattern("https:\/\/(?:www\.)?twitch\.tv\/([A-Za-z0-9_]+)\/?", "O formato non é correcto"),
+      t.string("twitter").hint('Ligazón o usuario de Twitter, por exemplo: https://twitter.com/AC_ODC').pattern("https:\/\/(?:www\.)?twitter\.com\/([A-Za-z0-9_]+)\/?", "O formato non é correcto"),
       /* t.string("vimeo").hint('Ligazón a páxina de vimeo'), */
       /* t.string("whatsapp").hint('Ligazón o whatsapp, por exemplo: https://wa.me/0034666555444'), */
       t.string("wordpress").hint('Ligazón a un blogue ou páxina de wordpress.'),
-      t.string("youtube").hint('Ligazón a canle de Youtube coa UUID, por exemplo: https://www.youtube.com/channel/UClavUfgzYt5uSgtBJbPoXqA'),
+      t.string("youtube").hint('Ligazón a canle de Youtube coa UUID, por exemplo: https://www.youtube.com/channel/UClavUfgzYt5uSgtBJbPoXqA').pattern("https?:\/\/(?:www\.)?youtube\.com\/channel\/([A-Za-z0-9-_]{24})", "O formato non é correcto."),
    ]),
    t.relation("tags")
       .collection("axustes")
