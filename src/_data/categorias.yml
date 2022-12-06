@@ -20,6 +20,9 @@ tags:
   - id: astronomia
     name: Astronomía
     color: "#f583b3"
+  - id: audiolibro
+    name: Audiolibro
+    color: "#cd69a7"
   - id: deporte
     name: Deporte
     color: lightgray
