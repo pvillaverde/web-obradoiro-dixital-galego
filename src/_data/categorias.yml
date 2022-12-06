@@ -36,20 +36,38 @@ tags:
     name: Conversa
     color: "#d1dbe2"
   - id: cozinha
-    name: Cociña
+    name: Cociña e Gastronomía
     color: lightgray
   - id: cultura
     name: Cultura
     color: pink
+  - id: culturapopular
+    name: Cultura Popular
+    color: "#f4b994"
   - id: deporte
     name: Deporte
     color: lightgray
-  - id: entrevistas
-    name: Entrevistas
-    color: lightgray
+  - id: divulgacion
+    name: Divulgación
+    color: "#ee9b69"
+  - id: documental
+    name: Documental
+    color: "#61eedb"
+  - id: ecoloxia
+    name: Ecoloxía
+    color: "#bdf1e5"
+  - id: emigracion
+    name: Emigración
+    color: "#c4e7f1"
+  - id: emprendemento
+    name: Emprendemento
+    color: "#79cdec"
   - id: ensino
     name: Ensino
     color: lemonchiffon
+  - id: entrevistas
+    name: Entrevistas
+    color: lightgray
   - id: musica
     name: Música
     color: gold
