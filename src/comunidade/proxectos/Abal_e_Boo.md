@@ -14,4 +14,6 @@ tags:
   - asociado
   - divulgacion
   - sexualidade
+  - lgtbi
+  - diversidade
 ---
