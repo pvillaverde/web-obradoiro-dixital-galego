@@ -1,10 +1,10 @@
 ---
 layout: layouts/proxecto.njk
-type: proxecto
-title: A Corte do Director
 img: /img/comunidade/A_Corte_do_Director.webp
 date: 2011-09-29 21:11:45
 platform: youtube
+type: proxecto
+title: A Corte do Director
 description: |-
   MOI IMPORTANTE: Son pobre non me denuncie.
   Canle sobre cinema, critica, política e o que me salga da punta do obxetivo. 
@@ -18,5 +18,3 @@ tags:
   - cinema
   - asociado
 ---
-description: "MOI IMPORTANTE: Son pobre non me denuncie.\nCanle sobre cinema, critica, política e o que me salga da punta do obxetivo. "
-img: /img/comunidade/A_Corte_do_Director.webp
