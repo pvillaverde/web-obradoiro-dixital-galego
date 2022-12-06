@@ -38,3 +38,6 @@ tags:
   - id: ensino
     name: Ensino
     color: lemonchiffon
+  - id: actualidade
+    name: Actualidade
+    color: "#cf1212"
