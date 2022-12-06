@@ -83,6 +83,9 @@ tags:
   - id: humor
     name: Humor
     color: "#e69696"
+  - id: informatica
+    name: Informática
+    color: "#d2a7b2"
   - id: musica
     name: Música
     color: gold
