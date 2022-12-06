@@ -116,6 +116,12 @@ tags:
   - id: novas
     name: Novas
     color: "#feadce"
+  - id: patrimonio
+    name: Patrimonio
+    color: "#ffbfcf"
+  - id: persoal
+    name: Persoal
+    color: "#fad3cf"
   - id: outras
     name: Outras
     color: lightgray
