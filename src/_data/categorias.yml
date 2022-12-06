@@ -95,6 +95,15 @@ tags:
   - id: literatura
     name: Literatura
     color: "#da9abd"
+  - id: magazine
+    name: Magazine
+    color: "#cc85b1"
+  - id: mar
+    name: mar
+    color: "#a5cbf0"
+  - id: medio_rural
+    name: Medio Rural
+    color: "#f9d877"
   - id: musica
     name: Música
     color: gold
@@ -107,12 +116,6 @@ tags:
   - id: videoxogos
     name: Videoxogos
     color: lightgreen
-  - id: magazine
-    name: Magazine
-    color: "#cc85b1"
-  - id: mar
-    name: mar
-    color: "#a5cbf0"
-  - id: medio_rural
-    name: Medio Rural
-    color: "#f9d877"
+  - id: agricultura
+    name: Agricultura
+    color: "#7cbfb6"
