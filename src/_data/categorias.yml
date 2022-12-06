@@ -137,6 +137,12 @@ tags:
   - id: serial
     name: Serial
     color: "#fff0cf"
+  - id: social
+    name: Social
+    color: "#feffd5"
+  - id: teatro
+    name: Teatro
+    color: "#d7ffff"
   - id: outras
     name: Outras
     color: lightgray
