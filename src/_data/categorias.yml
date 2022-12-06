@@ -32,8 +32,8 @@ tags:
   - id: ciencia
     name: Ciencia
     color: "#7fbeaf"
-  - id: cine
-    name: Cinema
+  - id: cinema
+    name: Cine / Series / TV
     color: "#b3dcd1"
   - id: conversa
     name: Conversa
