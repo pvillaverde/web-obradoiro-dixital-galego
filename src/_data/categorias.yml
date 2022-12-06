@@ -11,6 +11,12 @@ tags:
   - id: youtube
     name: Youtube
     color: tomato
+  - id: actualidade
+    name: Actualidade
+    color: "#ffa78c"
+  - color: "#e57a86"
+    id: asociacións
+    name: Asociacións
   - id: deporte
     name: Deporte
     color: lightgray
@@ -23,21 +29,18 @@ tags:
   - id: cozinha
     name: Cociña
     color: lightgray
-  - id: rol
-    name: D&D / Rol
-    color: lightgray
-  - id: videoxogos
-    name: Videoxogos
-    color: lightgreen
+  - id: ensino
+    name: Ensino
+    color: lemonchiffon
   - id: musica
     name: Música
     color: gold
   - id: outras
     name: Outras
     color: lightgray
-  - id: ensino
-    name: Ensino
-    color: lemonchiffon
-  - id: actualidade
-    name: Actualidade
-    color: "#cf1212"
+  - id: rol
+    name: D&D / Rol
+    color: lightgray
+  - id: videoxogos
+    name: Videoxogos
+    color: lightgreen
