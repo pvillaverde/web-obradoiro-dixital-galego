@@ -131,11 +131,14 @@ tags:
   - id: politica
     name: Política
     color: "#da1414"
-  - id: outras
-    name: Outras
-    color: lightgray
   - id: rol
     name: D&D / Rol
+    color: lightgray
+  - id: serial
+    name: Serial
+    color: "#fff0cf"
+  - id: outras
+    name: Outras
     color: lightgray
   - id: videoxogos
     name: Videoxogos
