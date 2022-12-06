@@ -116,7 +116,7 @@ const comunidade = t.folder("Comunidade", "/src/comunidade/proxectos", [
       t.string("google-podcast").hint('Ligazón a páxina de Google Podcasts'),
       /* t.string("google").hint('Ligazón a páxina de Google'), */
       t.string("instagram").hint('Ligazón a canle de Instagram, por exemplo: https://www.instagram.com/twitchengalego/'),
-      t.string("ivoox").hint('Ligazón a canle de Telegram, por exemplo: https://www.ivoox.com/podcast-recuncho-gamer-podcast_sq_f11092284_1.html'),
+      t.string("ivoox").hint('Ligazón a páxina de iVoox, por exemplo: https://www.ivoox.com/podcast-recuncho-gamer-podcast_sq_f11092284_1.html'),
       t.string("link").hint('Ligazón adicional a unha páxina web propia ou outra rede que non esté contemplada.'),
       /* t.string("linkedin").hint('Ligazón a páxina de Linkedin'), */
       t.string("mail").hint('Correo electrónico ao que enviar mails.'),

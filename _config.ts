@@ -14,6 +14,7 @@ import mdToc from "https://deno.land/x/lume_markdown_plugins@v0.1.0/toc/mod.ts";
 import mdFootnote from "https://jspm.dev/markdown-it-footnote";
 import ndIframe from "https://jspm.dev/markdown-it-iframe";
 import mdVideo from "https://jspm.dev/markdown-it-video";
+import checkActivity from "./checkActivity.ts";
 
 /* import pagefind from "lume/plugins/pagefind.ts"; */
 
@@ -42,6 +43,7 @@ const site = lume({
 
 
 site
+   .use(checkActivity())
    .ignore("CONTRIBUTING.md")
    .ignore("README.md")
    .ignore("velociraptor.json")

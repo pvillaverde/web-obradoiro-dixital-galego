@@ -9,6 +9,8 @@ date: 2019-01-25 13:19:07.629387
 active: false
 platform: twitch
 type: proxecto
+redes:
+   rss: https://www.ivoox.com/podcast-a-gruta-gizamaluke_fg_f1629621_filtro_1.xml
 tags:
   - twitch
   - podcast
