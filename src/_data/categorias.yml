@@ -14,6 +14,9 @@ tags:
   - id: actualidade
     name: Actualidade
     color: "#ffa78c"
+  - id: agricultura
+    name: Agricultura
+    color: "#7cbfb6"
   - color: "#e57a86"
     id: asociacións
     name: Asociacións
@@ -77,6 +80,9 @@ tags:
   - id: ficcion_sonora
     name: Ficción Sonora
     color: "#fdcf55"
+  - id: gandeiria
+    name: Gandeiría
+    color: "#92cbdc"
   - id: historia
     name: Historia
     color: "#fdd84c"
@@ -116,6 +122,6 @@ tags:
   - id: videoxogos
     name: Videoxogos
     color: lightgreen
-  - id: agricultura
-    name: Agricultura
-    color: "#7cbfb6"
+  - id: novas
+    name: Novas
+    color: "#feadce"
