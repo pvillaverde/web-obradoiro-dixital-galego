@@ -23,6 +23,9 @@ tags:
   - id: audiolibro
     name: Audiolibro
     color: "#cd69a7"
+  - id: bandadesenhada
+    name: Banda Deseñada
+    color: "#ed7179"
   - id: deporte
     name: Deporte
     color: lightgray
