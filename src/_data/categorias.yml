@@ -10,7 +10,7 @@ tags:
     color: "#a990d2"
   - id: youtube
     name: Youtube
-    color: tomato
+    color: "#e3635e"
   - id: actualidade
     name: Actualidade
     color: "#ffa78c"
