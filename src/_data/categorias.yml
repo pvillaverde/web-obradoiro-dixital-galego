@@ -86,6 +86,15 @@ tags:
   - id: informatica
     name: Informática
     color: "#d2a7b2"
+  - id: internacional
+    name: Internacional
+    color: "#f6c1ce"
+  - id: lingua
+    name: Lingua
+    color: "#f092a5"
+  - id: literatura
+    name: Literatura
+    color: "#da9abd"
   - id: musica
     name: Música
     color: gold
