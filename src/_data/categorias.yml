@@ -122,6 +122,12 @@ tags:
   - id: persoal
     name: Persoal
     color: "#fad3cf"
+  - id: podcasting
+    name: Podcasting
+    color: "#4bbeef"
+  - id: poesia
+    name: Poesía
+    color: "#fee1d1"
   - id: outras
     name: Outras
     color: lightgray
