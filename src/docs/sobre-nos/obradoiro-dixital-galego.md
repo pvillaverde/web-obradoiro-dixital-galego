@@ -5,8 +5,8 @@ order: 0
 menu:
   visible: true
   order: 0
-  title: Información e recursos
-  url: docs
+  title: Sobre nós
+  url: docs-sobre-nos
 ---
 ## Introdución
 

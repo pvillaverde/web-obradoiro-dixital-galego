@@ -43,17 +43,17 @@ support:
       url: https://podgalego.agora.gal
       img: /img/avatars/platforms/podcast.webp
     - name: Twitch - A plataforma de retransmisións en directos.
-      url: https://twitch.tv/
+      url: https://www.twitch.tv/twitch_en_galego
       img: /img/avatars/platforms/twitch.webp
     - name: Youtube - A plataforma de videos baixo demanda
-      url: https://www.youtube.com/
+      url: https://www.youtube.com/channel/UCrXtoHl0f9jEGj6IyOqzuHg
       img: /img/avatars/platforms/youtube.webp
-    - name: Instagram - A rede social de fotografía
-      url: https://www.instagram.com/
-      img: /img/avatars/platforms/instagram.webp
-    - name: Twitch - A rede social de vídeos curtos
-      url: https://www.tiktok.com
-      img: /img/avatars/platforms/tiktok.webp
+#    - name: Instagram - A rede social de fotografía
+#      url: https://www.instagram.com/
+#      img: /img/avatars/platforms/instagram.webp
+#    - name: Twitch - A rede social de vídeos curtos
+#      url: https://www.tiktok.com
+#      img: /img/avatars/platforms/tiktok.webp
   contribute:
     title: Como podo participar na comunidade?
     description: >

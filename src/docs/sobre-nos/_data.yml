@@ -1,1 +1,6 @@
 section_order: 1
+menu:
+  visible: false
+  order: 0
+  title: Sobre nós
+  url: docs-sobre-nos

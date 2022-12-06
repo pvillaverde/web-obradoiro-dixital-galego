@@ -26,7 +26,7 @@
    --text-code: 16px/1.6 var(--font-code);
 
    /* Colors */
-   --color-blue-odg: #3c89b8;
+   --color-blue-odg: #1c3b72;
    --color-blue-odg-light: #3c89b8;
    /* Tokens */
    --color-red-400: hsl(0deg, 50%, 40%);
@@ -96,7 +96,7 @@
    --color-background-3: var(--color-black-860);
 
    & .logoSVG {
-      fill: var(--color-black);
+      fill: var(--color-blue-odg);
    }
 }
 

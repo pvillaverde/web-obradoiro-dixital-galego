@@ -1,1 +1,6 @@
 section_order: 2
+menu:
+  visible: false
+  order: 0
+  title: Recursos
+  url: docs-recursos
