@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCeWH2CqTZbGdGxCBfHFdAOA
 ---
-description: ""
-img: /img/comunidade/Normalizando_con_Alba_e_Ines.webp

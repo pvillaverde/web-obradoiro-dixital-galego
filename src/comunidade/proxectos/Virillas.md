@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCaXke4klGSC3jA2JePA5Iug
 ---
-description: "Gústanche os videoxogos, as entrevistas... Aquí temos de todo para pasalo ben e botar unhas risas. \nApoiemos os contidos en GALEGO!!!"
-img: /img/comunidade/Virillas.webp

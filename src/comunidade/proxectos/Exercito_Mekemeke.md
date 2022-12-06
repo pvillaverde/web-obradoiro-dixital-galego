@@ -14,8 +14,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCQB2WaUno6PRA4sg9anei2w
 ---
-description: |-
-  Ola parroquia! Vén formar parte dos mekemekes que están a invadir o Youtube.
-
-  Un programa presentado por Carlos Vieito acompañado de Lidia Veiga e Miguel Abad para Ames Radio. Non sería posíbel sen Martín Rei detrás das cámaras, coa voz narradora de Antón Rubal e da música de Brais Iriarte creada en exclusiva para o programa.
-img: /img/comunidade/Exercito_Mekemeke.webp

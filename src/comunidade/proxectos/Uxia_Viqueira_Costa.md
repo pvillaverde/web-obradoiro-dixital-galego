@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCqpt1eUf2KhiDP_0cov6mQw
 ---
-description: ""
-img: /img/comunidade/Uxia_Viqueira_Costa.webp

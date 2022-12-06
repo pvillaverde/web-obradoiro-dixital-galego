@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UC21iGRL8VX16PlPWsLNo6uQ/
 ---
-description: ""
-img: /img/comunidade/Noticias_dispersas.webp

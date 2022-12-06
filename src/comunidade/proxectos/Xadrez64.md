@@ -18,12 +18,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCXsLF9OAmvdFIv5GxmATXGQ
 ---
-description: |-
-  Xadrez a todos os niveis... en galego.
-
-  Subiremos vídeos de nivel básico (mover as pezas e regras), de cultura xadrecística, técnicos (teoría de aberturas, finais, táctica, estratexia, etc.) e comentaremos torneos presenciais e de Lichess.
-
-
-  -Email de contacto para dúbidas, suxestións ou comentarios: xadrez64yt@gmail.com
-  -Mensaxe privada de Lichess: https://lichess.org/inbox/Carro-Can
-img: /img/comunidade/Xadrez64.webp

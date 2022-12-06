@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC2a83yjWseb4c-fai9z4AwA
 ---
-description: ""
-img: /img/comunidade/Coordigalegaongd.webp

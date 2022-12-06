@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UChfV-DwD9I2WhVxIMEfXKuw
 ---
-description: A DESESCALDAXE é o arte de fiar as conversas. Sen saber de que falar, sen saber qué dicir, enchemos máis de media hora diaria de caralladas. Se escoitas os nosos programas enteiros chama ao 112.
-img: /img/comunidade/A_Desescalaxe.webp

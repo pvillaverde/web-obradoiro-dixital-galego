@@ -14,8 +14,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCgKg2cDI9GCxd-dHMBPMv2w
 ---
-description: |-
-  Ultrafalangugliatto makers.
-
-  Berto Álvarez e Samuel L. París.
-img: /img/comunidade/Francamente_Carino.webp

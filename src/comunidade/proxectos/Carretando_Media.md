@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCsACm9SjPE3f7XLQu2BLp7g
 ---
-description: "O teu podcast sobre a política galega \U0001F61C\U0001F3DB Xornalismo interpretativo e divulgación politolóxica en autocaravana \U0001F690 #podgalego carretando.substack.com"
-img: /img/comunidade/Carretando_Media.webp

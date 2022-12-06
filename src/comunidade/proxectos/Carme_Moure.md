@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCRHNrIxrWF0vrMbc5U50B-Q
 ---
-description: ""
-img: /img/comunidade/Carme_Moure.webp

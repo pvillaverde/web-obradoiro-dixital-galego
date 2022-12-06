@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC0ycENEZ9UfN_nNCiYASTHQ
 ---
-description: ""
-img: /img/comunidade/Galiza_Livre.webp

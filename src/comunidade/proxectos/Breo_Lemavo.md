@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCTwBEAR0_2g0CJaJiS0Uxaw
 ---
-description: Mateo De Prado.
-img: /img/comunidade/Breo_Lemavo.webp

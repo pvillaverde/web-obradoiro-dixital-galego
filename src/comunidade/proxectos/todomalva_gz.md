@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCF5cyKbU927wm4PDI7LTY6Q
 ---
-description: Galiza • Persoa adulta que fai TikToks • Odio o himno e odio a Pondal
-img: /img/comunidade/todomalva_gz.webp

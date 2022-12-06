@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCi1S6_SoEPmaFokCOsZD5VA/
 ---
-description: ""
-img: /img/comunidade/Lume_de_Carozo.webp

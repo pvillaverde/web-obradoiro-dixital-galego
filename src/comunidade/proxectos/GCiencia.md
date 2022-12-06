@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCU7NHWRS3vm_DHFTTRAu9HA/
 ---
-description: GCiencia é un xornal dixital dedicado á divulgación do coñecemento científico e tecnolóxico
-img: /img/comunidade/GCiencia.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCYLI3g3aB0p2vqr7j0Wz7AQ
 ---
-description: ""
-img: /img/comunidade/Miguel_Lago.webp

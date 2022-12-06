@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC9FPPYygenBsx8D_3r5dVjA
 ---
-description: ""
-img: /img/comunidade/Remoe_a_lingua.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC-shw22OvU2d7vnkSwAq_yA
 ---
-description: Mostra de Traballos de Furancho Filmes
-img: /img/comunidade/Manxo_FernandezFurancho_Films.webp

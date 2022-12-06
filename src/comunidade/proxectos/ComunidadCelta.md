@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCPWgQgTqt3_nGh5tv1S746Q
 ---
-description: Videos de las comunidades Gallega e Irlandesa
-img: /img/comunidade/ComunidadCelta.webp

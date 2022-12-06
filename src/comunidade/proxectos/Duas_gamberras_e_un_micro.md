@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC_PcvfEMdbJNwdvFuh885Kw
 ---
-description: ""
-img: /img/comunidade/Duas_gamberras_e_un_micro.webp

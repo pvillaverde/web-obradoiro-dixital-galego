@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCu0BGblaB48RDKdxKosxulw
 ---
-description: Aloucadas dobraxes o galego e as noticias mais importantes do país narradas como realmente sucederon.
-img: /img/comunidade/Tele_Jaita.webp

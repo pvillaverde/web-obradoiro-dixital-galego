@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCFjsrqRoXTotmXmEhs0wdeA
 ---
-description: ""
-img: /img/comunidade/Asociacion_Galega_de_Matronas.webp

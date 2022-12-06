@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCUUDzh8BePA5yp4VoBXnKCA/
 ---
-description: Agora.gal
-img: /img/comunidade/Agora_Gal.webp

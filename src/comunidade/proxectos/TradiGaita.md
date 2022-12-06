@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCnx5IX_3arNAfuudDQKER_A
 ---
-description: Todo sobre a Gaita Galega
-img: /img/comunidade/TradiGaita.webp

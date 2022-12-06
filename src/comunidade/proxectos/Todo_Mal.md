@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCRu6OIFp4RNM9edPQcQ_lNQ/
 ---
-description: Se estás a ler isto é que es unha belísima persoa e que deberías estar traballando/estudiando pero aí xa non nos metemos.
-img: /img/comunidade/Todo_Mal.webp

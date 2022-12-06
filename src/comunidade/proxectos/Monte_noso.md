@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCLMIO_3Qut3hwihgoU-Sdaw
 ---
-description: ""
-img: /img/comunidade/Monte_noso.webp

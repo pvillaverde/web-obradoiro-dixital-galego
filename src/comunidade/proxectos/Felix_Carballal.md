@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCZvY9vKFFjCmV9athMzhHWQ
 ---
-description: ""
-img: /img/comunidade/Felix_Carballal.webp

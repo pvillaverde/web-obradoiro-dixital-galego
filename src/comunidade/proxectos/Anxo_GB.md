@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCRBltQxHlipsnF2ylWvC9xw
 ---
-description: Mi rincón de entretenimiento, opinión , entrevistas , juegos y mucho más. Así que no lo dudes y Subscríbete
-img: /img/comunidade/Anxo_GB.webp

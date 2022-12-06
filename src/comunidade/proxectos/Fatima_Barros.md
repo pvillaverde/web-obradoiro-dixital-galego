@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCEwrtZqsN9RTecLoB9ghc9A
 ---
-description: Proxectos en galego
-img: /img/comunidade/Fatima_Barros.webp

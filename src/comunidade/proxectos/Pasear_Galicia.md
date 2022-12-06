@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCLU_rQozY2sKV9hrsdivB7w
 ---
-description: Amosando a Galicia Escondida
-img: /img/comunidade/Pasear_Galicia.webp

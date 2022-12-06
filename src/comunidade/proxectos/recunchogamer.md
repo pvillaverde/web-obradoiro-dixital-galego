@@ -18,5 +18,3 @@ redes:
   twitch: https://twitch.tv/recunchogamer
   youtube: https://www.youtube.com/channel/UCqbohZKRrOTtvsR2H1Qjwig
 ---
-description: 'Canle en galego Divulgación de videoxogos. Analizamos o videoxogo como produto cultural cun estilo desenfadado sobre os elementos narrativos e artísticos que se usan en videoxogos de diferentes épocas: retro e actuais.'
-img: /img/comunidade/recunchogamer.webp

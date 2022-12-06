@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCXdzoCndf4D7Co2LuT-WOMg
 ---
-description: ""
-img: /img/comunidade/Rocioromar11.webp

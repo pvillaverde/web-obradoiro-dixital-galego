@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC6x3oYAkmAXcCQ6NFca_2dg
 ---
-description: ""
-img: /img/comunidade/Leandro_Lamas.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCNlp7Cb0di1_6WSmsQDRgHA
 ---
-description: ""
-img: /img/comunidade/Canas_e_Tapas.webp

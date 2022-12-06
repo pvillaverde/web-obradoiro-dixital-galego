@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCe7SvpqnkNLQjXJNgckYpAg
 ---
-description: ""
-img: /img/comunidade/Libraria_Cartabon.webp

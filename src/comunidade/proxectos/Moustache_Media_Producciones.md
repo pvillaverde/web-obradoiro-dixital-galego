@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC6rEokZqBaoN2BBHYWc2c-Q
 ---
-description: Producción de audiovisuales desde Galicia
-img: /img/comunidade/Moustache_Media_Producciones.webp

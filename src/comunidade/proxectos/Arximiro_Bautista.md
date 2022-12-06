@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCFJnLkeqHHlEX8KH0HilhIg
 ---
-description: Canle do Departamento de Lingua e Literatura Galega do CPI Viaño Pequeno (Trazo)
-img: /img/comunidade/Arximiro_Bautista.webp

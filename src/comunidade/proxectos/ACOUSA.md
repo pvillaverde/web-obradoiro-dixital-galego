@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCt3hjKfmc2fTUVYJ31zpx2g
 ---
-description: "Revista galega lifestyle en liña. Proxecto gañador da Bolsa Nacho Mirás do Colexio de Xornalista 2021. \nProximamente | Esta é ACOUSA"
-img: /img/comunidade/ACOUSA.webp

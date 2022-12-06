@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC-KHa7_OXp_07n19-EkuHJw
 ---
-description: ""
-img: /img/comunidade/Xente_de_a_pe.webp

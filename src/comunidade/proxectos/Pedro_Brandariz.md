@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCs_SaGIL167hVBrW2MG_aVQ
 ---
-description: Aquí atoparas videos de Pedro Brandariz. Monólogos, clown, teatro, audiovisual ...
-img: /img/comunidade/Pedro_Brandariz.webp

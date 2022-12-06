@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCTx5Toipxx-sDB6u7oHqPVg
 ---
-description: ""
-img: /img/comunidade/As_Cousas_do_Choio.webp

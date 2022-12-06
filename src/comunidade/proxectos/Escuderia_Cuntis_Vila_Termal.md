@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC614aua1EEPEuPqhn8wN__Q
 ---
-description: ""
-img: /img/comunidade/Escuderia_Cuntis_Vila_Termal.webp

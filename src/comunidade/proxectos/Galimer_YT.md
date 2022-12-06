@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCHUK0lEvCc0XvT4RwzzY7CA
 ---
-description: ""
-img: /img/comunidade/Galimer_YT.webp

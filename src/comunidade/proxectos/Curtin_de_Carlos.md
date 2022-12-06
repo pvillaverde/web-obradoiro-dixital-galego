@@ -13,7 +13,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCKTNKXU1lVOkNBk_ejoTaVw
 ---
-description: |-
-  O Curtin de Carlos: A mel como ten que ser.
-  Un espazo para unir a tradición dos nosos abós coas modernas técnicas de apicultura
-img: /img/comunidade/Curtin_de_Carlos.webp

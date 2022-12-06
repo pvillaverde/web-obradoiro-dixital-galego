@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCojg-JAWWXNa81hAsFWx0cQ
 ---
-description: ""
-img: /img/comunidade/Fala_X2.webp

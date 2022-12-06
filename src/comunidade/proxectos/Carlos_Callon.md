@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCAY7q7Dc9q7NOJX5PT0bD3w
 ---
-description: ""
-img: /img/comunidade/Carlos_Callon.webp

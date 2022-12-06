@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCS-W1wsNA1639iXuNVBR50Q
 ---
-description: Unha valenciana en Alemaña facendo vídeos en galego.
-img: /img/comunidade/Laranxeta.webp

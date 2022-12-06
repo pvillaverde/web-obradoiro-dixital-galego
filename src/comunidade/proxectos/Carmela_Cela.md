@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCcdCDPoZxP-bdDXXwf8id2w
 ---
-description: ""
-img: /img/comunidade/Carmela_Cela.webp

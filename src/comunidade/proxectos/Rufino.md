@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCNi4dmsxjdLkqaDWVDtT-PQ
 ---
-description: Hola! vou deixar por aiquí partidas que, máis ou menos, saliron ben! SUSCRÍBETE
-img: /img/comunidade/Rufino.webp

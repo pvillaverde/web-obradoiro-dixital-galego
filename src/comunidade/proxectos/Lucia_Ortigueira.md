@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCEv8750i39STmiupOJdeWvQ
 ---
-description: ""
-img: /img/comunidade/Lucia_Ortigueira.webp

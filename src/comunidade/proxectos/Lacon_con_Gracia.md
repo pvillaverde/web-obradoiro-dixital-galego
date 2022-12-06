@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCjzOOTxYK2L-jTfo9dIIChA
 ---
-description: Facemos chistes a cambio de droga.
-img: /img/comunidade/Lacon_con_Gracia.webp

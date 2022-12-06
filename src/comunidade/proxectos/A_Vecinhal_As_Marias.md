@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCxquf7xzJCfftUoVp8eYebw
 ---
-description: ""
-img: /img/comunidade/A_Vecinhal_As_Marias.webp

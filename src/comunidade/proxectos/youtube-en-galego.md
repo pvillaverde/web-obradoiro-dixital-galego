@@ -15,5 +15,3 @@ tags:
   - asociado
   - youtube
 ---
-description: Comunidade de persoas que crean contidos en galego na plataforma de YouTube. Sigue a nosa canle de twitter, promociona o contido na nosa lingua e non dubides en nos falar.
-img: /img/comunidade/youtube-en-galego.webp

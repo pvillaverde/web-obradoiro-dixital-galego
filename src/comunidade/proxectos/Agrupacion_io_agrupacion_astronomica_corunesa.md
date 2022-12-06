@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCSe_FqESpzi5l_IKQ52S8Bw
 ---
-description: Canal de comunicaciones de la Agrupación astronómica coruñesa Ío (A Coruña)
-img: /img/comunidade/Agrupacion_io_agrupacion_astronomica_corunesa.webp

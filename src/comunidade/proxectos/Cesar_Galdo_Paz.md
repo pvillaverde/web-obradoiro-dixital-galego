@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCeitDpX0OJi6-pkqWEs27Sg
 ---
-description: ""
-img: /img/comunidade/Cesar_Galdo_Paz.webp

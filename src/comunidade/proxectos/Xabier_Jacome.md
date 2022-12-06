@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCJfRAkMuDb04NqaOk7btT8Q
 ---
-description: ""
-img: /img/comunidade/Xabier_Jacome.webp

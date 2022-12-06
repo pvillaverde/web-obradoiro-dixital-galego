@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC8ea6K3WGR_1psVCjsIoesA
 ---
-description: ""
-img: /img/comunidade/Cachuchastudios.webp

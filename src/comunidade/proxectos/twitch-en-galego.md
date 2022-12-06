@@ -19,8 +19,3 @@ tags:
   - youtube
   - twitch
 ---
-description: |-
-  A primeira e meirande comunidade de streamers que emiten en galego.
-
-  Somos un grupo de persoas que colabora e se organiza non só para crecer individualmente, senón para unir esforzos e que a nosa lingua teña máis visibilidade nesta plataforma.
-img: /img/comunidade/twitch-en-galego.webp

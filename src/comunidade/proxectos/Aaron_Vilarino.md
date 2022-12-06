@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCRtXGBJ0Wc0c8PIUHNjUCXQ
 ---
-description: ""
-img: /img/comunidade/Aaron_Vilarino.webp

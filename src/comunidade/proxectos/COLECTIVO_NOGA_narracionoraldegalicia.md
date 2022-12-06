@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCrVQ7rVWB600JE7zXelPhhA
 ---
-description: Colectivo de Narración Oral Galega
-img: /img/comunidade/COLECTIVO_NOGA_narracionoraldegalicia.webp

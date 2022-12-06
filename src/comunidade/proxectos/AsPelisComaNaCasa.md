@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCoL8AKSVrxFtZIamNWFkBdA
 ---
-description: ""
-img: /img/comunidade/AsPelisComaNaCasa.webp

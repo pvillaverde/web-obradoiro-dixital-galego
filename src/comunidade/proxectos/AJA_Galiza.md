@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCQvp-N_Qy6dPhJHnGx4F5yA
 ---
-description: Canal da Associaçom José Afonso - Galiza.
-img: /img/comunidade/AJA_Galiza.webp

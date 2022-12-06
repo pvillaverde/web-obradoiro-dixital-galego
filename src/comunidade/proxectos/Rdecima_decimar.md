@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC7t3RpBhZXfF7uxPGCIjYmg
 ---
-description: ""
-img: /img/comunidade/Rdecima_decimar.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC4lTd7UCnru7HYKZD8m5DLw
 ---
-description: Consellos, ou mellor conselliños para saber do galego máis do que sabías antes de velos.
-img: /img/comunidade/Galego_para_cascarilleiros.webp

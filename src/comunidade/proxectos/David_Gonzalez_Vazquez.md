@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCNPDTgONJ3ChxSSJGV3YO3Q
 ---
-description: ""
-img: /img/comunidade/David_Gonzalez_Vazquez.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCkOY3UFFbrcZMTKZNUEVKyw
 ---
-description: Si buscas Galicia aqui a encontraras!! Turvegal nace para compartir, entre os amantes da terra galega, a sua historia, cultura, tradicions, experiencias.
-img: /img/comunidade/Turvegal.webp

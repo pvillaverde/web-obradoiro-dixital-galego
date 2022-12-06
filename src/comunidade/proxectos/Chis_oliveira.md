@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCPpDNsr0XVwFnRK3erKWhdw
 ---
-description: ""
-img: /img/comunidade/Chis_oliveira.webp

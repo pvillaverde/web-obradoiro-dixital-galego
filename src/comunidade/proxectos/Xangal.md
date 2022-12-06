@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCh7e9D-4mqcnLqKq3OK--3w
 ---
-description: ""
-img: /img/comunidade/Xangal.webp

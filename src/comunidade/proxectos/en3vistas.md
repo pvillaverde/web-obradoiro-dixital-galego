@@ -17,5 +17,3 @@ redes:
   twitch: https://twitch.tv/en3vistas
   youtube: https://www.youtube.com/channel/UCpbRA-ixHYClhyXmrI7Aqgw
 ---
-description: Facemos entrevistas e falamos de cousas poñendo o foco en diferentes temáticas culturais e sociopolíticas dende unha óptica local. E a ti, que che parece?
-img: /img/comunidade/en3vistas.webp

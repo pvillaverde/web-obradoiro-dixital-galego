@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCchCbqVbGrT4y1oRI_ChE0w
 ---
-description: ""
-img: /img/comunidade/Memorias_da_Pontragha.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC3jVnodG1juXuYrEWEtU04w
 ---
-description: ""
-img: /img/comunidade/Alexandre_Brea_Rodriguez.webp

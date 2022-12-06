@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCktPUT2ranU_-4BtLc2ESfQ
 ---
-description: ""
-img: /img/comunidade/O_Burato.webp

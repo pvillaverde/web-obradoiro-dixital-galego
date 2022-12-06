@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCTOi_Yoz3cou13jsJFNkf7Q
 ---
-description: ""
-img: /img/comunidade/Muros_Memoria.webp

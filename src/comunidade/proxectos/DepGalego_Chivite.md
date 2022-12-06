@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCSB9otTJUXUezmo9eeQT5SA
 ---
-description: ""
-img: /img/comunidade/DepGalego_Chivite.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCbKvTtinNNnPnqGH67FzEpw
 ---
-description: ""
-img: /img/comunidade/A_Xanela_Audiovisual.webp

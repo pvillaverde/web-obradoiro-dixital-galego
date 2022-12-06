@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCqc_aSRRiWgUXyt3JsbJiOA
 ---
-description: ""
-img: /img/comunidade/Profe_Tucho.webp

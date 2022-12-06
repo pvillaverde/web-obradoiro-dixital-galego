@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCQWcdy32LeLz-hoIa30BGQA
 ---
-description: ""
-img: /img/comunidade/Gabo__Briel.webp

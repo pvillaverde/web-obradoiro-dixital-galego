@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC6e8clJZ6IlfxhN7fwgwcCA
 ---
-description: ""
-img: /img/comunidade/O_Galpon_dos_Rochos.webp

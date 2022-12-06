@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCoaYYEUifp037jHeY4vrn-A
 ---
-description: Programación dedicada á normalización e prestixio da lingua galega
-img: /img/comunidade/LinguaGalegaTV.webp

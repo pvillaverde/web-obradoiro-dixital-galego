@@ -16,5 +16,3 @@ redes:
   twitch: https://twitch.tv/amorod0
   youtube: https://youtube.com/channel/UCoPLYkOorsXfaF2R9eaoyRQ/
 ---
-description: ""
-img: /img/comunidade/amorod0.webp

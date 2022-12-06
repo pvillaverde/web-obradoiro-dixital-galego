@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCJSY_Gk99vusOdyQtL7n3pA
 ---
-description: ""
-img: /img/comunidade/AQUI_E_AGORA.webp

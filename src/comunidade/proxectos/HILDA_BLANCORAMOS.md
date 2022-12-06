@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC00eCUuEXFP0_KXTyIvYD9g
 ---
-description: ""
-img: /img/comunidade/HILDA_BLANCORAMOS.webp

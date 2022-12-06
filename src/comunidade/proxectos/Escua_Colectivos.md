@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC1OVNhMGFt5NK1F9qT14n9g
 ---
-description: Espazo cultural alternativo (EsCuA) é a suma de varios colectivos culturais e sociais de Ourense, que presentaron un proxecto de rehabilitación da zona máis degradada do casco histórico de Ourense, por ende, coa cultura.
-img: /img/comunidade/Escua_Colectivos.webp

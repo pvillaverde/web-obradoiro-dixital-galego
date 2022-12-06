@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCYVi-2mmCxG9V3P3J9JZsNg
 ---
-description: ""
-img: /img/comunidade/angela_arnosa.webp

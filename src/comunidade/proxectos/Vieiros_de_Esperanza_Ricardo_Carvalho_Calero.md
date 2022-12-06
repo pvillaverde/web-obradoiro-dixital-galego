@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCh3SO389RebAhvVbz7X8ilQ
 ---
-description: Proxecto documental dedicado ao escritor e profesor ferrolán Ricardo Carvalho Calero. Dirixido por Antón Rodríguez e filmado coa colaboración de Javier Gómez e Sergio Arango no ano 2014, como Traballo de Fin de Grao en Comunicación Audiovisual pola Universidade da Coruña.
-img: /img/comunidade/Vieiros_de_Esperanza_Ricardo_Carvalho_Calero.webp

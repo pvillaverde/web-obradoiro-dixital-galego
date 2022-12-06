@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCHalogCr37p_1WMtISFLjfg
 ---
-description: ""
-img: /img/comunidade/O_Sendeiro.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC_uVWEaYdNW5rBLJNmaQygQ
 ---
-description: Canle de vídeos de rap e improvisaçom e falando sobre distintos temas.
-img: /img/comunidade/O_Rabelo.webp

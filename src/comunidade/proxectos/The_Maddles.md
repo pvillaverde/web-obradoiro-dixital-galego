@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCfHC34tkLBQSVXLIBiyLV2w
 ---
-description: ""
-img: /img/comunidade/The_Maddles.webp

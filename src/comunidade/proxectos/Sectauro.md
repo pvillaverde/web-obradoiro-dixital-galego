@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCL4loawh_zpXwtQcUySvflA/
 ---
-description: Canal completamente sério e dedicado à exploraçom das cartas astrais das mascotas.
-img: /img/comunidade/Sectauro.webp

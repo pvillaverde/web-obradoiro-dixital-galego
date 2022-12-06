@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UChs0CKndUPfgQ7yJDKjQORw
 ---
-description: Pseudo webserie de antoloxía 80% en galego.
-img: /img/comunidade/Rural_Horror_Stories.webp

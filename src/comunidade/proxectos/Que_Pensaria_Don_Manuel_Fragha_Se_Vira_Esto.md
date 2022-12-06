@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCntov1hpIrHSwDX7e-Wz87g/
 ---
-description: Canle en ghallegho sobre anime, literatura, cine e outras cousas
-img: /img/comunidade/Que_Pensaria_Don_Manuel_Fragha_Se_Vira_Esto.webp

@@ -16,10 +16,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC3fixcrrxh_dTRtibMQYYlw
 ---
-description: |-
-  Queres aprender sobre Ciencia e Educación ambiental? Quédate!
-
-  DIVULGACIÓN Científica e Educación AMBIENTAL en galego.
-
-  Canle do Proxecto Naturiza.
-img: /img/comunidade/Naturiza.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCqnWXEw5XHdOASMNjAJPZiw
 ---
-description: ""
-img: /img/comunidade/Victoria_Mocinos.webp

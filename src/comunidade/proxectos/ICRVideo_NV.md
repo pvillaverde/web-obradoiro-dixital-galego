@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCgXBEV_WAlyawLc7PDlWrxA
 ---
-description: Canle dedicada á información, cultura, política, denuncias e moitas cousas máis. Todo en Galego e desde Galiza.
-img: /img/comunidade/ICRVideo_NV.webp

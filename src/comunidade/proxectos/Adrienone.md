@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCXuomwgki7M-cNg7ii6jLGw
 ---
-description: Nada tiene sentido aquí...
-img: /img/comunidade/Adrienone.webp

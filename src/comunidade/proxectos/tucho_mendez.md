@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC_uno-jus5pzSYsOiblKzbQ
 ---
-description: ""
-img: /img/comunidade/tucho_mendez.webp

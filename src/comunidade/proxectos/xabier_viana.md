@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCrOxb5sSsY1nDRVTNYw60rA
 ---
-description: ""
-img: /img/comunidade/xabier_viana.webp

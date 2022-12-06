@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCulEokUqwRzcYirUcovc-zw
 ---
-description: ""
-img: /img/comunidade/Anxo_Gonzalez.webp

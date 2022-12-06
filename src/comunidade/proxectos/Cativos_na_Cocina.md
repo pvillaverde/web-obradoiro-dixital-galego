@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC6QXhNFaNqrwVM4Qx_oCflQ
 ---
-description: ""
-img: /img/comunidade/Cativos_na_Cocina.webp

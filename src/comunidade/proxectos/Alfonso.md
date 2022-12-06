@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCO4d_1LbiephoMkULvvMieA
 ---
-description: Canle para as miñas movidas. Dubs en galego, gameplay de Skyrim, Elden Ring, Dark Souls... o que a min me apeteza realmente.
-img: /img/comunidade/Alfonso.webp

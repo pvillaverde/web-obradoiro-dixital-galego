@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCiVIO1EwXrM-nH2AQnlJ5HA
 ---
-description: ""
-img: /img/comunidade/Cousxs.webp

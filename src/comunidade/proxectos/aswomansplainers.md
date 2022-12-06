@@ -16,5 +16,3 @@ redes:
   youtube: https://www.youtube.com/channel/UC9q1hbJDbloViztNT8WIKhw
   twitch: https://twitch.tv/aswomansplainers
 ---
-description: ""
-img: /img/comunidade/aswomansplainers.webp

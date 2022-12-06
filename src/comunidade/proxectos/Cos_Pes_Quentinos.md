@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCf2Zk3izNtwiRCouPmijozg
 ---
-description: ""
-img: /img/comunidade/Cos_Pes_Quentinos.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC1_F8flaF6RfxRg5vm4WsuA
 ---
-description: ""
-img: /img/comunidade/Daniel_Pazos.webp

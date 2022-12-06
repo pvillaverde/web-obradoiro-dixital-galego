@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UClZ-fWAY2dGzcKXBW5HmlLA
 ---
-description: "Divulgadore cultural. Falo de literatura e música em galego, e de realidades LGBTIQA+. Chamo-me Nee Barros Fernández.\n\nIMPORTANTE: o meu género gramatical é o neutro. Emprego o pronome neutro ELU, as terminaçons em -e. Nom me molesta o masculino se nom sabedes empregá-lo bem, mas em nengum caso vou tolerar o feminino.\n\n#youtubeires #youtubeiras #youtubeiros "
-img: /img/comunidade/neeumatiko.webp

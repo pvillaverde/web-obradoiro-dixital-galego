@@ -13,7 +13,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCFjVxkhSpMtOCIgwp8i1-QA
 ---
-description: |-
-  O televejo da Galiza.
-  Um jeito novo de ver a tele na Galiza.
-img: /img/comunidade/Televejo_da_Galiza.webp

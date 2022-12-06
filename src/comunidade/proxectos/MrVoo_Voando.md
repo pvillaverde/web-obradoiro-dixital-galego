@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC3ruk4MPPDBf0hyemXEYl5g
 ---
-description: ""
-img: /img/comunidade/MrVoo_Voando.webp

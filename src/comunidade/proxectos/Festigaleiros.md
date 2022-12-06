@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCh8DVlZZ04XMZSmK6qfq4hA
 ---
-description: ""
-img: /img/comunidade/Festigaleiros.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC53t5LLXLfAw2DhnqDMKKVQ
 ---
-description: ""
-img: /img/comunidade/A_Pomba_Do_Arco.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCVY873Waoi-pChsi3NQPUiQ
 ---
-description: A Curuxa de Papel é un proxecto cuxo obxectivo é achegar os clásicos da literatura en galego en forma de audiolibros. Agardamos que disfrutedes da canle!
-img: /img/comunidade/A_Curuxa_de_papel.webp

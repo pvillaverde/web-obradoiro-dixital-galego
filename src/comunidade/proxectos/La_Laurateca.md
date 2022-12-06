@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCt9jDSuxF29TR6LOzmoXlrQ
 ---
-description: Leer, viajar y hacer fotos. Un tanto cosmopolita, me pierdo en los ojos de la gente, alma inquieta, poeta principiante. Ah, y friki.
-img: /img/comunidade/La_Laurateca.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCYQKPY8APDV3Y9OZifTJB2A
 ---
-description: ""
-img: /img/comunidade/Noelia_Gomez_Calvo.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCWqBNlKBZAZNZeUU6qWJE1g
 ---
-description: Canle de videos da Sociedade Antropolóxica Galega (SAGA)
-img: /img/comunidade/Sociedade_antropoloxica_de_Galicia.webp

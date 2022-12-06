@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCO1rdShCgoL85PDPN_WYlzQ
 ---
-description: Ola a todos e a todas. Esta é a canle de YouTube de Save e os seus amigos. Unha serie web na que saio eu, Save, máis os meus amigos. Gracias Galicia.
-img: /img/comunidade/Save_e_Amigos.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC6v9H6cu118FVkzRkdEy_Yg
 ---
-description: ""
-img: /img/comunidade/Anton_Caeiro.webp

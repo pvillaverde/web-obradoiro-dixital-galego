@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCoO0KdtQlariVaZ0F0GAqCw
 ---
-description: ""
-img: /img/comunidade/Martinho_Ramos.webp

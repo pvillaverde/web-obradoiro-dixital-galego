@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCauTjd4tHXDUG7-st0OUzFw
 ---
-description: Vídeos para web? Pasen y vean...
-img: /img/comunidade/La_mujer_forzuda.webp

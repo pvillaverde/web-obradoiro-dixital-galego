@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCMuyF_vK_dyMep2wMzaa5kg
 ---
-description: Vídeos creados por Coral Piñeiro, Laura Piñeiro e Beatriz Fernández.
-img: /img/comunidade/Mellibea_Producciones.webp

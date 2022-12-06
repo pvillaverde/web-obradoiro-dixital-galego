@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCPUtxBOUJS1tWCvieYgx3xg
 ---
-description: ""
-img: /img/comunidade/GUIA_DE_SUPERVIVENCIA_UNIVERSITARIA.webp

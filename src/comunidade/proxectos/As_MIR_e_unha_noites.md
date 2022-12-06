@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCE48gsJJ8QDQEdx2Ey936nA
 ---
-description: http://www.asmireunhanoites.com - A historia dun médico que non deu aprobado o MIR
-img: /img/comunidade/As_MIR_e_unha_noites.webp

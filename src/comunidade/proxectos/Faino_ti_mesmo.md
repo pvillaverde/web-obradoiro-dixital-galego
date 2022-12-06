@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UChd207ynJ_Bsnu_MoL58qpA
 ---
-description: ""
-img: /img/comunidade/Faino_ti_mesmo.webp

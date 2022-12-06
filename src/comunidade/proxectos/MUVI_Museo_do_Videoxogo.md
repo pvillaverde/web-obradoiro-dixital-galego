@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCY7LWlIYJ334jBCSyx-s2vw
 ---
-description: Os vídeos do Museo do Vidoxogo, o primeiro museo aberto en España adicado á historia do videoxogo. Xestionado pola Fundación Museo do Videoxogo de Galicia - Cultura e Turismo da Xunta de Galicia.
-img: /img/comunidade/MUVI_Museo_do_Videoxogo.webp

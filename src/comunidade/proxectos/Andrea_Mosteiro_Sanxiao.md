@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCNOB90zqY3cQb015wZA5IEQ
 ---
-description: Páxina creada para darlle visibilidade aos comercios en galego,na Estrada.
-img: /img/comunidade/Andrea_Mosteiro_Sanxiao.webp

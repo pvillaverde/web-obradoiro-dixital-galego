@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCG29qpCWPJidWT4xn1RPH3g
 ---
-description: ""
-img: /img/comunidade/Mocasin_Podcast.webp

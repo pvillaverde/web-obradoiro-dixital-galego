@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC_PONlLv9Wq_QYetHNLttcA
 ---
-description: "Realizador - Guionista\nReseñas de Series de TV e Cine "
-img: /img/comunidade/Marcos_Estebo.webp

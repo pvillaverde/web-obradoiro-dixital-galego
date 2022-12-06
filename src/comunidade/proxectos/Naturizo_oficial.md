@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCA5sFt3B40DQvIwUDgp0HCA
 ---
-description: Canle da colección de contos Naturizo.
-img: /img/comunidade/Naturizo_oficial.webp

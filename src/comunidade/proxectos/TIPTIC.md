@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCeG5Kw8lZFbpIFjytf_J9Wg
 ---
-description: Outra argallada na rede... en vídeo!
-img: /img/comunidade/TIPTIC.webp

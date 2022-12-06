@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCdQVjTeQunlr2wz_s7C8D6A
 ---
-description: ""
-img: /img/comunidade/Xavielinho.webp

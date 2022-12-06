@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCFEoxNBHF4XcWZYKKmHPR1g
 ---
-description: ""
-img: /img/comunidade/Antia_Otero_Garcia.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCOfM_JWRFiEe8zhGVffE6hQ
 ---
-description: ""
-img: /img/comunidade/Efervesciencia.webp

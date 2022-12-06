@@ -17,5 +17,3 @@ redes:
   twitch: https://twitch.tv/nvfgalicia
   youtube: https://www.youtube.com/channel/UCdB4vQ6e70iiX9OdJ8t--ww
 ---
-description: O mellor do fútbol galego en Youtube da mán de Dani Cabo
-img: /img/comunidade/nvfgalicia.webp

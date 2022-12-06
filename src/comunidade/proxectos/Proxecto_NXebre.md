@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCkZQnSHdHh_0AwK4-spiRjQ
 ---
-description: Proxecto transmedia nado co fin de promover a lingua galega na cultura e na xuventude.
-img: /img/comunidade/Proxecto_NXebre.webp

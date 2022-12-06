@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCF6hF4PYg9tLkmAXuWW2AgQ
 ---
-description: 'Imos a facer de rir o chorar, en galego #actor #clown #comediadelarte #mimo #doblaje #navajasuiza #galicia #españa'
-img: /img/comunidade/AlvaritoDeVille.webp

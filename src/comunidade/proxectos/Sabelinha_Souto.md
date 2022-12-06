@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCO0ldNmmtbOkTVdA2qcQySw
 ---
-description: ""
-img: /img/comunidade/Sabelinha_Souto.webp

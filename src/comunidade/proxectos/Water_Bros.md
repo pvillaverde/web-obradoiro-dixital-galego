@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCfoiPPA9PYRNYNLYKgifbVA
 ---
-description: Curtas e humor. Desde 2006.
-img: /img/comunidade/Water_Bros.webp

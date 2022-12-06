@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCS1706pz3taLvpDFMPEesbg
 ---
-description: ""
-img: /img/comunidade/Cre_se_queres.webp

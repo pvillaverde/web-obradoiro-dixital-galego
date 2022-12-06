@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCl7NcTbd1tEQbAHkJOYcSmg
 ---
-description: ""
-img: /img/comunidade/e_die_qs.webp

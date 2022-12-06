@@ -17,5 +17,3 @@ tags:
   - bandadesenhada
   - cinema
 ---
-description: "MOI IMPORTANTE: Son pobre non me denuncie.\nCanle sobre cinema, critica, política e o que me salga da punta do obxetivo. "
-img: /img/comunidade/A_Corte_do_Director.webp

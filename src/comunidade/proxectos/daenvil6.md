@@ -17,5 +17,3 @@ redes:
   twitch: https://twitch.tv/daenvil6
   youtube: https://youtube.com/channel/UCdKcqL0E7FkF3VNIfTIV5Wg/
 ---
-description: Right now I'm mainly making Minecraft datapacks and maybe some other stuff.
-img: /img/comunidade/daenvil6.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC4D05PfPM6ianu_cTmNX8Ig
 ---
-description: ""
-img: /img/comunidade/Gurrucho_vozcast.webp

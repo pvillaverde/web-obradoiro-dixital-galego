@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCmCtxh-g3K4iKnf80TFFIkA
 ---
-description: ""
-img: /img/comunidade/Roi_da_Costa.webp

@@ -13,5 +13,3 @@ tags:
   - youtube
   - twitch
 ---
-description: ""
-img: /img/comunidade/urugaleandoLIVE.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCcdAgDye3ETQouNVb7sbRVQ
 ---
-description: ""
-img: /img/comunidade/Noelia_Outon.webp

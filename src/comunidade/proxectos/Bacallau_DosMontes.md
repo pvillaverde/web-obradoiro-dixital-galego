@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCeUCWT_mN7LwBD30NPiv-ow
 ---
-description: ""
-img: /img/comunidade/Bacallau_DosMontes.webp

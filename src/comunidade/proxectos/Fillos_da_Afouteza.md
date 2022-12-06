@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCbyenLfcCjqvf2dxUqgQjGA
 ---
-description: ""
-img: /img/comunidade/Fillos_da_Afouteza.webp

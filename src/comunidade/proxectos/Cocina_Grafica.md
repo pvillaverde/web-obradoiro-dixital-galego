@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCEmGa72fv7efptY_Ecesuew
 ---
-description: ""
-img: /img/comunidade/Cocina_Grafica.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCmM-KyYOjOGZbC61uWGEVtQ
 ---
-description: Un espazo onde falar de arte e cultura en galego de maneira didáctica e distendida. Un lugar onde coñecer sobre o mundo da Historia da Arte e aprender xuntas
-img: /img/comunidade/Espazo_Bretema.webp

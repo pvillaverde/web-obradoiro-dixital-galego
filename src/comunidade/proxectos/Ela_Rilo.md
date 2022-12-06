@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCz8Ernt60vK9pUS95FEL9Xg
 ---
-description: ""
-img: /img/comunidade/Ela_Rilo.webp

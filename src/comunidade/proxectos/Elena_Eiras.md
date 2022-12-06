@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCTZnIGInpYd4eK3v1nB0JTw
 ---
-description: ""
-img: /img/comunidade/Elena_Eiras.webp

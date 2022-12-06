@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCwZVZ_TrflbrQBzpbihTxWw
 ---
-description: ""
-img: /img/comunidade/Asesoria_Inmo_COLABORA.webp

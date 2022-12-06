@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UChNDLIoeCLb8oieTmbxuqTg
 ---
-description: ""
-img: /img/comunidade/En_Galego.webp

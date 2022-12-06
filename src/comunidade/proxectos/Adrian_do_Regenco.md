@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCyLskIgRxq_giMrHgac_XQQ
 ---
-description: O gilipollas é gilipollas
-img: /img/comunidade/Adrian_do_Regenco.webp

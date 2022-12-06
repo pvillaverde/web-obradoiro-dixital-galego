@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC8s5bssmyEcGQ84LmJMR8GQ
 ---
-description: Aventuras galegas
-img: /img/comunidade/Urbex_Galego.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCZwfyJv6iR1g25z30lx3w5Q
 ---
-description: ""
-img: /img/comunidade/Maria_Trashorras_Cendan.webp

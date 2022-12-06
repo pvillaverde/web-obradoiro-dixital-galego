@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCekmgEXgvgWgJC45n0XIIXQ
 ---
-description: Noemí Díaz Vázquez
-img: /img/comunidade/Noemi_Diaz_Vazquez.webp

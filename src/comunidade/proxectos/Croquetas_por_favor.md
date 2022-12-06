@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC0zlBT5l4-9X0bi3NVFRKFg
 ---
-description: ""
-img: /img/comunidade/Croquetas_por_favor.webp

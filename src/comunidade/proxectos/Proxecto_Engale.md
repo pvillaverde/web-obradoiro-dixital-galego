@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCoYHeq851Yr714jafEoSbig
 ---
-description: No Proxecto Engale tentamos fomentar e divulgar o noso cinema e todo o que xira ao redor del.
-img: /img/comunidade/Proxecto_Engale.webp

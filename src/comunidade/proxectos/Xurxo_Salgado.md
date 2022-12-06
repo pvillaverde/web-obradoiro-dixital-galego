@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCeZrQCbCilRuxf5wEYo6vJg
 ---
-description: ""
-img: /img/comunidade/Xurxo_Salgado.webp

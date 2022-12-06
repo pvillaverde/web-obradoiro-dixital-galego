@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCElOUmBjnIJweqpA2kATH0A
 ---
-description: Un chavalillo de Ourense que hace directos, vídeos para Youtube y el tonto en las demás redes sociales. ¡Únete ya!
-img: /img/comunidade/Reisvas.webp

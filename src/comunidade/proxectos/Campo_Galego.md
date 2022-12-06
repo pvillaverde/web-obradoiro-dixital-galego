@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC2QVW2dUo0uYG1W5AVumndw
 ---
-description: ""
-img: /img/comunidade/Campo_Galego.webp

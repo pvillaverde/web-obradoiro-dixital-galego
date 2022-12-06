@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCrOJBRzSq9NyOOD37PaGrDg
 ---
-description: ""
-img: /img/comunidade/Carla_Scarpenti.webp

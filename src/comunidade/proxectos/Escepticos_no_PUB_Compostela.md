@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UClWwdoNOmJItBfKS1yt9gBQ
 ---
-description: ""
-img: /img/comunidade/Escepticos_no_PUB_Compostela.webp

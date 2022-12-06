@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCRdxv4yFMPq_n9Ho-8vRgbQ
 ---
-description: Canle do Centro Dramático Galego (CDG), compañía pública de teatro da Xunta de Galicia
-img: /img/comunidade/Centro_Dramatico_Galego.webp

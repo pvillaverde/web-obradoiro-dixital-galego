@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCcSPqgKZjKnebe4d2bhqiiw
 ---
-description: ""
-img: /img/comunidade/Ana_Campos_Rodriguez.webp

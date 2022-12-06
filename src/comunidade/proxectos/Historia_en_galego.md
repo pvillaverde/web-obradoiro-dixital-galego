@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCzRCH08EVeFgVvsE6e2E4Rw
 ---
-description: 'Canle para axudar no estudo ao alumnado da ESO. '
-img: /img/comunidade/Historia_en_galego.webp

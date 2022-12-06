@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCDDT_hpnDr0wZriFjndMBCA
 ---
-description: "Resetas delicatessen \U0001F924\nEstrellas Mijelín a capachos ✨ "
-img: /img/comunidade/Corason_De_Churrasco.webp

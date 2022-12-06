@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCG9LMUmNuRoLcnmASr1ITwQ/
 ---
-description: Xeógrafo e Rebotado. Na igrexa cos santos e na taberna cos borrachos.
-img: /img/comunidade/Quinas_das_Fervenzas.webp

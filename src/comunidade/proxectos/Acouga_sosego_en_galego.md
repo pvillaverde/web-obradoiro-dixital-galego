@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCbNBjrt9P7AWIUN4eMwxe5w
 ---
-description: ""
-img: /img/comunidade/Acouga_sosego_en_galego.webp

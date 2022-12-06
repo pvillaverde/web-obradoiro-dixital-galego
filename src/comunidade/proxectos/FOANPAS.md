@@ -13,7 +13,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCw7Rj1TK1cRNh2-bQz1b2tg
 ---
-description: |-
-  EU SON PÚBLICA DA ESCOLA PÚBLICA, E TI?
-  EN DEFENSA DA ESCOLA PÚBLICA, DA EQUIDADE E DA IGUALDADE DE OPORTUNIDADES
-img: /img/comunidade/FOANPAS.webp

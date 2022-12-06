@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC-5egdK-s1eeTXgOx-8OLmQ
 ---
-description: ""
-img: /img/comunidade/Una_Silla_Para_Mi_Coco.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCzhIl7zOOzs9WM2Zdeynmtw
 ---
-description: ""
-img: /img/comunidade/as_candongas_de_quirombo.webp

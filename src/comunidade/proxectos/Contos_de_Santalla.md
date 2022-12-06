@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCnSMLezT_MQWTSHJplkaFTA/
 ---
-description: ""
-img: /img/comunidade/Contos_de_Santalla.webp

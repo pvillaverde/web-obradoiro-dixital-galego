@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCADiV90tcTsnw3YDQW74q8g
 ---
-description: ""
-img: /img/comunidade/Greandcar_Cav.webp

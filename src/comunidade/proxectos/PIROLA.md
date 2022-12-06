@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC2glog4KpWsIY5B1AgrRiGw
 ---
-description: ""
-img: /img/comunidade/PIROLA.webp

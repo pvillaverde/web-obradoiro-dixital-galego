@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCUIANYq4SKQ2oSCinU3U1Og
 ---
-description: ""
-img: /img/comunidade/Manuel_Fernandez_Miguez.webp

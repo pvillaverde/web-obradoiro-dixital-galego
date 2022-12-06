@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCJb6iG4FLBvjDi4XzbSM6ug
 ---
-description: Somos unha nova web dedicada á música galega e pretendemos achegarvos información sobre todo o que acontece arredor das músicas do país. Atrás da páxina estamos vari@s apaixonad@s da nosa música, pero queremos ser cen mil!!!
-img: /img/comunidade/GZMusica.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC6nbiN98wSYI4za5CW1Sc7A
 ---
-description: ""
-img: /img/comunidade/O_Apalpador.webp

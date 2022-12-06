@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCoz8UfIxXJhcZUcrdlw3OMQ
 ---
-description: ""
-img: /img/comunidade/Contacontos_en_galego.webp

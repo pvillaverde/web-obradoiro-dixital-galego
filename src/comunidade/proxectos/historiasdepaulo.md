@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC9zGQyIPFD9TJVyargNDZtA
 ---
-description: ""
-img: /img/comunidade/historiasdepaulo.webp

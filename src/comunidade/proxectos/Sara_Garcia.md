@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC1RKAjOmrWyCsV-d7MmxDpQ
 ---
-description: ""
-img: /img/comunidade/Sara_Garcia.webp

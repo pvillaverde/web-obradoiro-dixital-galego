@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCtTHeADEdpllP-CUQJoxGwQ
 ---
-description: "Este é o espazo de Mar de Lumes — Comité Galego de Solidariedade Internacionalista en Youtube. Aqui disponibilizamos os vídeos que producimos como organización ou en parcerías, e tamén aqueles outros que achamos de interese para a información solidaria. \n\nViva a solidariedade internacionalista!"
-img: /img/comunidade/Mar_de_Lumes.webp

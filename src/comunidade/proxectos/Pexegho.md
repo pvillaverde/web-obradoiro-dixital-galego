@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCo5CrBwGW7UwTqhPoulKFrA
 ---
-description: Falo de libros, series, filmes e animes en galego.
-img: /img/comunidade/Pexegho.webp

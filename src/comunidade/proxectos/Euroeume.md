@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCctmKmTHAXcwSS-jrwCaGtQ
 ---
-description: ""
-img: /img/comunidade/Euroeume.webp

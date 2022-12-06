@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCPBDh6JRPPXMpkWpcoyLoZg
 ---
-description: ""
-img: /img/comunidade/Falame_Galego.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCHjOgGzfO29yTbL4TDXjgLg
 ---
-description: Canal de vídeos en galego que apoia o 'Proxecto Xutube'. Vivamos e falemos como galegos, agora tamén na rede!
-img: /img/comunidade/DalleALingua.webp

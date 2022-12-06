@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCGdn4DN0UgpVbrURp7qmBlQ
 ---
-description: Nesta canle de Youtube tentaremos de aportar videos que mostren comportamentos dos herpetos galegos.
-img: /img/comunidade/AHE_Galicia.webp

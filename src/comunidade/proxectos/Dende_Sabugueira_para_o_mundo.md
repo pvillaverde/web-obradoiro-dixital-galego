@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCz504BPbUhjrUHfVT7mFl9Q
 ---
-description: A Asociación de mulleres rurais de Sabugueira comparte algunhas das súas actividades para mostrar diversas accións de lecer que realizan no Local Sociocultural de Lavacolla. Un espazo para compartir coñecementos e practicar a sororidade.
-img: /img/comunidade/Dende_Sabugueira_para_o_mundo.webp

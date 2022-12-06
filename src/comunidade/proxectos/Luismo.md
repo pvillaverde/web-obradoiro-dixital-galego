@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCouzRQvkfpPs4Tj7Vy9ZZuQ
 ---
-description: ""
-img: /img/comunidade/Luismo.webp

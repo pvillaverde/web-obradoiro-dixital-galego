@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCGd_bn3KwQfVTDP8VHYBBFQ
 ---
-description: ""
-img: /img/comunidade/Silvia_Abades.webp

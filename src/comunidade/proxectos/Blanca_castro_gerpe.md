@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCtEllegfVsh3ksupp2H-sJA
 ---
-description: Xeografía e Historia en galego. IES Lucus Augusti. Educación Secundaria.
-img: /img/comunidade/Blanca_castro_gerpe.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCXq-dgxkTKOUrkIRQ-KF8wA
 ---
-description: Dobraxes en galego de clips de peliculas e series nun tono humoristico. Suscribidevos se vos gusta e dadelle a like!!
-img: /img/comunidade/Made_in_Pandeiro.webp

@@ -20,8 +20,3 @@ redes:
   twitch: https://twitch.tv/ficacoabola
   youtube: https://www.youtube.com/channel/UCbDtck2U0zghve0ZMuHV2dQ
 ---
-description: |-
-  Jústavos o fúrbol?
-
-  A nós tamén :)
-img: /img/comunidade/ficacoabola.webp

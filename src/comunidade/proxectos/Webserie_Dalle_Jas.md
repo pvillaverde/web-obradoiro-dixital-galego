@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCRMq4VOnhwEeCENoxevgCxQ
 ---
-description: 'Canal oficial da webserie Dalle Jas! '
-img: /img/comunidade/Webserie_Dalle_Jas.webp

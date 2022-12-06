@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCsGtH7t-VR3TZMPqE0iFTOw
 ---
-description: ""
-img: /img/comunidade/Sabela_Martinez.webp

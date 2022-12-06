@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC7nmjsw-AFBwYjFQzRPyUqA
 ---
-description: ""
-img: /img/comunidade/Xano.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UClUjiPtre4mqKBNx_ww2njg
 ---
-description: Soluciones informáticas en galego
-img: /img/comunidade/Juan_Enrique.webp

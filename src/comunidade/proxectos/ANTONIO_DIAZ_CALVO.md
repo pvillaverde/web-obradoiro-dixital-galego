@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCdE57YOBwUpm8cKcilRm6AQ
 ---
-description: ""
-img: /img/comunidade/ANTONIO_DIAZ_CALVO.webp

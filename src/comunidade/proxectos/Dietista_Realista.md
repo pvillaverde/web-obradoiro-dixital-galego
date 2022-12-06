@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCkD5L1NoEEyYkLAAvZJWA-g/
 ---
-description: O meu nome é Sandra, son dietista e estou aquí para axudarte a ter unha alimentación saudable mediante o cambio de hábitos pensando sempre na saúde.
-img: /img/comunidade/Dietista_Realista.webp

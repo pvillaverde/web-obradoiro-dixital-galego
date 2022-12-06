@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCHx6tekeXkoRNFJiEn7mXxw
 ---
-description: ""
-img: /img/comunidade/Manuel_Cristian.webp

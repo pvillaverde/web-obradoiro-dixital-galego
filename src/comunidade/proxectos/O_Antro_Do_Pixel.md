@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCgUB8RfTsoI4teIDXuU-Ejg
 ---
-description: ""
-img: /img/comunidade/O_Antro_Do_Pixel.webp

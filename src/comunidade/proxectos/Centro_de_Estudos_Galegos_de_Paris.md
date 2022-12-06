@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCedOF0m_IaR2yhfMvduAw-w
 ---
-description: 'Canle de Youtube do Centro de Estudos Galegos da Universidade Sorbonne Nouvelle de París. '
-img: /img/comunidade/Centro_de_Estudos_Galegos_de_Paris.webp

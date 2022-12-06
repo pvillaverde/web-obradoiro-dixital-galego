@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCiLG1hfrckogtihaTNTo3Dw
 ---
-description: ""
-img: /img/comunidade/O_banco_de_Segis.webp

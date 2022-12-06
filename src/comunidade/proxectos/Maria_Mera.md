@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCSwCIPh_M-ns-jmi-bMC8_g
 ---
-description: Canal Oficial de Youtube María Mera
-img: /img/comunidade/Maria_Mera.webp

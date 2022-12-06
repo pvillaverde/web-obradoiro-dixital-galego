@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCf-qKWuQmcjEHnuDawsRq8Q
 ---
-description: ""
-img: /img/comunidade/Illa_Bufarda.webp

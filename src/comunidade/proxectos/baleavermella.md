@@ -19,8 +19,3 @@ redes:
   twitch: https://twitch.tv/baleavermella
   youtube: https://www.youtube.com/channel/UCcz6VrfBLv0wusla1B8pWEw
 ---
-description: |-
-  Mergúllate connosco no coñecemento científico.
-
-  Coa colaboración de dominio.gal
-img: /img/comunidade/baleavermella.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCiwEF_oPMTKs8IFEAfUSpQQ/
 ---
-description: ""
-img: /img/comunidade/Xanela_de_Espiritualidades.webp

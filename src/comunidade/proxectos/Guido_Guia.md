@@ -13,7 +13,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCNUNVvJVnqoRSLpJCwWSJ9A
 ---
-description: |-
-  Guía Oficial de Turismo de Galicia (GT-17-XG) acreditado en 5 idiomas: Inglés, Francés, Italiano, Galego e Castelán
-  www.guidoalvarezparga.com
-img: /img/comunidade/Guido_Guia.webp

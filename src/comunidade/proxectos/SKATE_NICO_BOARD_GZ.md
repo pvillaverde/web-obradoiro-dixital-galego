@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCqfczEOAJLnps2PJeh7tDFA
 ---
-description: ""
-img: /img/comunidade/SKATE_NICO_BOARD_GZ.webp

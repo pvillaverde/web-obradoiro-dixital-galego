@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCJOp92b4EB9kRyUMG2EKPxw
 ---
-description: cousiñas en galego
-img: /img/comunidade/Xurxo_Varela.webp

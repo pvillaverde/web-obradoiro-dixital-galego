@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCg8o-9tX_1hdIzwQLMAHd_g
 ---
-description: ""
-img: /img/comunidade/Leo_Pereiro.webp

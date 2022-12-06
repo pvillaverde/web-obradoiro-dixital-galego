@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCMeq7Y5Naox3TcDaipqOO4w
 ---
-description: Profesor de Xeografía e Historia no ensino secundario de Galicia. Titoriais, ferramentas, recursos e outras curiosidades útiles para traballar as diferentes materias desta especialidade en galego.
-img: /img/comunidade/AdriXEO.webp

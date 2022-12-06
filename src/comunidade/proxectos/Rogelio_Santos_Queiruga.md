@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCGeDjwXBXvnJa4FQ5WeN3jQ
 ---
-description: 'Mariñeiro e divulgador '
-img: /img/comunidade/Rogelio_Santos_Queiruga.webp

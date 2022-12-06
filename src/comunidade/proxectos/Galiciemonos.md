@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCU0Xku9SxjvBHNq_yL562vQ
 ---
-description: Este canle de You Tube está dedicado a Galicia.
-img: /img/comunidade/Galiciemonos.webp

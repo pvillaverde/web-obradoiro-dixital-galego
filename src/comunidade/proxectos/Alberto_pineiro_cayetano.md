@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCqBtEGyjQLJsqEqWZ7TnsSQ
 ---
-description: A vida e dura
-img: /img/comunidade/Alberto_pineiro_cayetano.webp

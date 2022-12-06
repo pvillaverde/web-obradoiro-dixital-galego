@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCrheEF8uOvAwI6bMOltlGlQ
 ---
-description: Canle das videoconferencias e vídeos de Igaciencia. En galego, a prol da ciencia e da divulgación científica. Para darlle a ciencia o papel que merece na cultura galega.
-img: /img/comunidade/igaciencia.webp

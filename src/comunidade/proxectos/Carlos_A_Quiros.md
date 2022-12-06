@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCsjA-1KWj9hlWlPjJlK12cQ
 ---
-description: ""
-img: /img/comunidade/Carlos_A_Quiros.webp

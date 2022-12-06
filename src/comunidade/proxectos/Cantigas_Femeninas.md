@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC0lFrzaRubGrjexjggIqV7w
 ---
-description: ""
-img: /img/comunidade/Cantigas_Femeninas.webp

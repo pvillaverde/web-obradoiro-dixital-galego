@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCpVcH7dmPlzCX_9YE-fl8cQ
 ---
-description: ""
-img: /img/comunidade/Cousinas_de_Consu.webp

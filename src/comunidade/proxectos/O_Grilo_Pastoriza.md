@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UC9Of2AzsBNbupqNuIzcNXEw/
 ---
-description: As novas da Asociación O Grilo Pastoriza.
-img: /img/comunidade/O_Grilo_Pastoriza.webp

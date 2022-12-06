@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCyEetxDYEMw35mL8X0wTv3g
 ---
-description: Receitas veganas en galego
-img: /img/comunidade/Mais_que_verzas.webp

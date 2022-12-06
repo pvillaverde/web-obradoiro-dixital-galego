@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCVqC1JuDWjTGcv-j3Rbr9-Q
 ---
-description: ""
-img: /img/comunidade/O_cabalo_de_Alberte_Merlo.webp

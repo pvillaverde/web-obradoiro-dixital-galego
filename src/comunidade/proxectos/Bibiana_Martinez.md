@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCghRtQ_rdOl2JbEapktZ6Zg
 ---
-description: ""
-img: /img/comunidade/Bibiana_Martinez.webp

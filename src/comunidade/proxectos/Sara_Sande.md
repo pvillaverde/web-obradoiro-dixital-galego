@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCHo7oewYVNWg_cXqRtp4_ag
 ---
-description: ""
-img: /img/comunidade/Sara_Sande.webp

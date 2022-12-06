@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCd-LjrUPX-iFehaRalllWTA
 ---
-description: Mestre de educación especial que fala de diferentes cousas relacionadas coa educación.
-img: /img/comunidade/Cousas_de_Mestres.webp

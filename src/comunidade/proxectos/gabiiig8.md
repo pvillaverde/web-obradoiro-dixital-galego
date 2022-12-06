@@ -16,5 +16,3 @@ redes:
   twitch: https://twitch.tv/gabiiig8
   youtube: https://www.youtube.com/channel/UCUHkcz7z1PwVzmenx0Gde-A
 ---
-description: Benvidxs berberechos a miña canle de Youtube!! :)
-img: /img/comunidade/gabiiig8.webp

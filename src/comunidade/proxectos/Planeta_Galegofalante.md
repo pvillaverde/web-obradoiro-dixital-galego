@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC6koGrQhJUHfLxbG9A9elOw
 ---
-description: Planeta galegofalante é a canle en galego dunha familia multilingue que vive en Londres.
-img: /img/comunidade/Planeta_Galegofalante.webp

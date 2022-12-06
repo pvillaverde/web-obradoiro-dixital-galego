@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCzAdRFtKIwNrqi6r8gQXeCQ
 ---
-description: Canle de YouTube da Federación Galega de Redeiras Artesás O Peirao.
-img: /img/comunidade/O_Peirao_Federacion_Galega_de_Redeiras_Artesas.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCuDy9pKiV5HzELd1uEyq2Cw
 ---
-description: rosaliatv.com
-img: /img/comunidade/Rosalia_TV.webp

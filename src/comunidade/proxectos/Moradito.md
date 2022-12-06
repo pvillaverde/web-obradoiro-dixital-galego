@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCxidx89PGNEGyKaXqcL0V5g
 ---
-description: "Contacto: \nCorreo: moraditorv@gmail.com\nTwitter: @JorgedeMoradtio"
-img: /img/comunidade/Moradito.webp

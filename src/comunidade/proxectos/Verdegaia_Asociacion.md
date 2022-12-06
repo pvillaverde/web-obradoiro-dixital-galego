@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC_4qZUZjFhoFMg7p-5pNinQ
 ---
-description: ""
-img: /img/comunidade/Verdegaia_Asociacion.webp

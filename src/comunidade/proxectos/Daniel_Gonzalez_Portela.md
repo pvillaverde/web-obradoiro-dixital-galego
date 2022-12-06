@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC_p2bhPR-jmmFJp-oCb4sFw
 ---
-description: ""
-img: /img/comunidade/Daniel_Gonzalez_Portela.webp

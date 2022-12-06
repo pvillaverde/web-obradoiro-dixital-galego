@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCcAoaRkX2Jxk7OEprZuTGxg
 ---
-description: ""
-img: /img/comunidade/Os_Retranquers.webp

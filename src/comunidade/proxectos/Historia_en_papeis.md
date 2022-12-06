@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCi60d5ZnVDGlBbIwy00QrNQ
 ---
-description: ""
-img: /img/comunidade/Historia_en_papeis.webp

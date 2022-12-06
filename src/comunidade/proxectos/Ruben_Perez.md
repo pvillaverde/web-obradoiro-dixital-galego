@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCw3aNeyvXM-Lt7utonQoWiQ
 ---
-description: ""
-img: /img/comunidade/Ruben_Perez.webp

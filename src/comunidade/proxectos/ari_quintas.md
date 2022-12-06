@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCI3zHyChQpYjez0Scv_LVsw
 ---
-description: ""
-img: /img/comunidade/ari_quintas.webp

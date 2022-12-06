@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC_QgJb7K7UhBmedKrXp1hKw
 ---
-description: ""
-img: /img/comunidade/CABESONS_MJ.webp

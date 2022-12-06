@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCAD170AJCSYNveejyPx1mlA
 ---
-description: ""
-img: /img/comunidade/Moucha_Ceibe.webp

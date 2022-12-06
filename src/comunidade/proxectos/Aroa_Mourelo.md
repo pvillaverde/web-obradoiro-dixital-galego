@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCAojIMuwg0ity9TqMt3G91A
 ---
-description: ""
-img: /img/comunidade/Aroa_Mourelo.webp

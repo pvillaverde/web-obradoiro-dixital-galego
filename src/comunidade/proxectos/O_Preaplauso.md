@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCZR96Ry_d43b6uo9As1NOEA
 ---
-description: ""
-img: /img/comunidade/O_Preaplauso.webp

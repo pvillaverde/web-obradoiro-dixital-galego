@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC6eRGUzVcYN0HjSuQA94y1w
 ---
-description: ""
-img: /img/comunidade/O_Chuso_de_Catoira.webp

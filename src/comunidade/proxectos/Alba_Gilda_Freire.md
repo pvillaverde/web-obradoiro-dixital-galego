@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCQCx9WHB_fai7WI9OpEK0bg
 ---
-description: ""
-img: /img/comunidade/Alba_Gilda_Freire.webp

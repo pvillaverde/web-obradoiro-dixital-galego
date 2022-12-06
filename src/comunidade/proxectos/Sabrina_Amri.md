@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCkhC5Yz1uWGlHW6xSYwg9Xg
 ---
-description: ""
-img: /img/comunidade/Sabrina_Amri.webp

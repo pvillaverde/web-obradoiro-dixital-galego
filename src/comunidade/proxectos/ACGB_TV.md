@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCTWcvL77uvzPk8uRBlSy6_Q/
 ---
-description: ""
-img: /img/comunidade/ACGB_TV.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCubdDAQH3BftGNva1kDwc-w
 ---
-description: A canle en galego para cativ@s
-img: /img/comunidade/CACHENA_Channel.webp

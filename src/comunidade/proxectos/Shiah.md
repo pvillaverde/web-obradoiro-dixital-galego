@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCtBwqtJXTpBJburBI-2RQ-w
 ---
-description: ""
-img: /img/comunidade/Shiah.webp

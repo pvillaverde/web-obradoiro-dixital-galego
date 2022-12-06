@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCKsJENdXXd-XUhibA8RpnZw
 ---
-description: ""
-img: /img/comunidade/Observatorioigualdad.webp

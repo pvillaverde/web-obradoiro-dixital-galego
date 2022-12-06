@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCk7ckMTrXVZZGTP8i8OtAgg
 ---
-description: que lo, xa é así?
-img: /img/comunidade/Olaxonmario.webp

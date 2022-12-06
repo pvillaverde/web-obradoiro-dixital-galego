@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCYxdWMt20UtFm3mYSQNrWyg
 ---
-description: ""
-img: /img/comunidade/OO_Aquele.webp

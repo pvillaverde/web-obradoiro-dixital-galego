@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCYGsFLgxYEY7mfP1esy9rOQ
 ---
-description: ""
-img: /img/comunidade/Anxomola.webp

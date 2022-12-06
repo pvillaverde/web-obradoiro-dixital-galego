@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCupwGGNh2UxYXdejNrrwtjA
 ---
-description: ""
-img: /img/comunidade/XOAN_ARCO_DA_VELLA.webp

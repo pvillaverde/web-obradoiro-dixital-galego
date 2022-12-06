@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC5M6raxP3euDNH8CZr2B2Nw
 ---
-description: ""
-img: /img/comunidade/Baia.webp

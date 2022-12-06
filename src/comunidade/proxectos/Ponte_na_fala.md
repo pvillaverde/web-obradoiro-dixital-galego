@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCXoI2UcHrLbEB2q6zJsq8eQ
 ---
-description: Canle do proxecto Ponte na fala, de recollida e difusión de tradición oral no Concello de Ponteceso
-img: /img/comunidade/Ponte_na_fala.webp

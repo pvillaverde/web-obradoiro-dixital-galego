@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCMTpjlMZWtagxjVKRsMALwA/
 ---
-description: Canle oficial do portal mancomún, iniciativas sobre Software Libre en Galicia. Conta xestionada pola Oficina de Coordinación de Software Libre.
-img: /img/comunidade/Mancomun.webp

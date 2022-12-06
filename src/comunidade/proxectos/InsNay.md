@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCnZcwNAzrkf6wHQnqjR8U9A
 ---
-description: 'Pequenos vídeos e titoriais sobre o uso ferramentas dixitais no ámbito da educación (como empregar o Google e outras ferramentas na rede). Sen moitas pretensións. Só para aprender (coas súas dúas acepcións). '
-img: /img/comunidade/InsNay.webp

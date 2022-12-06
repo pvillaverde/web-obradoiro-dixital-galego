@@ -16,10 +16,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC92HhQPchDUqdX4ccvZCUmw
 ---
-description: |-
-  CUMAC Producións
-
-  -Nesta canle atoparás contido audiovisual variado creado por catro mentes creativas. Subiremos un vídeo á semana os venres ás seis da tarde, hora peninsular.
-  -Produción audiovisual
-  -Pontevedra, Galicia
-img: /img/comunidade/Cumac_Producions.webp

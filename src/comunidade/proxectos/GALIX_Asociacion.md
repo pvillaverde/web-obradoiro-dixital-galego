@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCo-SdYdWiHaiTsgYCRC5X7Q/
 ---
-description: Canle de vídeos da Asociación Galega do Libro Infantil e Xuvenil
-img: /img/comunidade/GALIX_Asociacion.webp

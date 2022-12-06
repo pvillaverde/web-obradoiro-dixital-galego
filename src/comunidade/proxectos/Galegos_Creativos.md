@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCxqgBH0uyxEkQMPU4uDMnvg
 ---
-description: ""
-img: /img/comunidade/Galegos_Creativos.webp

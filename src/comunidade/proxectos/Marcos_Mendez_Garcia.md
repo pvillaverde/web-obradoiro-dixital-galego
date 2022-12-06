@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCjbe_8e_xA-iBvcsgQr2iag
 ---
-description: ""
-img: /img/comunidade/Marcos_Mendez_Garcia.webp

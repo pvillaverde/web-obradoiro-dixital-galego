@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC30GyoNVYwchbWRME_j0lNA
 ---
-description: ""
-img: /img/comunidade/San_limia.webp

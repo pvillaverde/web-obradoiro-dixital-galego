@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC4b12hNAgR9JoV5-QXiaenw
 ---
-description: ""
-img: /img/comunidade/Aulas_Galegas.webp

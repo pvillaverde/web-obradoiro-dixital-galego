@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCHbqvz450zQs-zb0CaC1LjQ
 ---
-description: ""
-img: /img/comunidade/Alma_da_Vella_Chousa.webp

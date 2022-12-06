@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCCUTyj9XlxHZIsC9J8xXafQ
 ---
-description: ""
-img: /img/comunidade/Iago_Gordillo.webp

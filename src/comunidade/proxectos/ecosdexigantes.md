@@ -21,10 +21,3 @@ redes:
   twitch: https://twitch.tv/ecosdexigantes
   youtube: https://www.youtube.com/channel/UC5B0dxdXuWZ2jzvs3k3R28g
 ---
-description: |-
-  Somos Carmela Cela, Darío Lago e Diego Ferraz e divulgamos ciencia en twitch dunha forma amena, dinámica e animada.
-
-  Pásate pola nosa canle de twitch, todos os luns ás 20:30!
-
-  Aquí poderás atopar os directos resubidos.
-img: /img/comunidade/ecosdexigantes.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCEgXENYAp01vjHPa969a8RQ
 ---
-description: ""
-img: /img/comunidade/Team_Solo_Xoubas.webp

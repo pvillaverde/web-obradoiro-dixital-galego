@@ -17,5 +17,3 @@ redes:
   twitch: https://twitch.tv/localdemusica
   youtube: https://youtube.com/channel/UCKoiGQvOaKuoqOwghuigX8A/
 ---
-description: O Local de Música de Pontevedra é un centro sociocultural musical pontevedrés
-img: /img/comunidade/localdemusica.webp

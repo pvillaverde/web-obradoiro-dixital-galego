@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCFLSXWvwr7pEry7ArTB2f-g
 ---
-description: canle de videoxogos sen audio por problemas técnicos.
-img: /img/comunidade/Artai_Costas_Fragueiro.webp

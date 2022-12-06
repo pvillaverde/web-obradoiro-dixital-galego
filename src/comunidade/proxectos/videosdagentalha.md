@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC91xBKqxMm4tJXdc14b5FMg
 ---
-description: ""
-img: /img/comunidade/videosdagentalha.webp

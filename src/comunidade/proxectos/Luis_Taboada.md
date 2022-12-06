@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCbLLTfpGinO9rgYqYWepZtA
 ---
-description: Actor&Filmmaker
-img: /img/comunidade/Luis_Taboada.webp

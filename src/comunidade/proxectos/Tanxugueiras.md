@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC-g2p-xkGLXjIOy8FQ5W4Lw
 ---
-description: Canle oficial do grupo de música Tanxugueiras, formado por Olaia e Sabela Maneiro e Aida Tarrío.
-img: /img/comunidade/Tanxugueiras.webp

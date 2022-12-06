@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCqeFzdXjsTgS8N_DMyu1s6g
 ---
-description: Canal sobre a dobraxe en galego.
-img: /img/comunidade/Meigo_da_dobraxe.webp

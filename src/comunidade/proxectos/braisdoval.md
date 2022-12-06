@@ -17,5 +17,3 @@ redes:
   twitch: https://twitch.tv/braisdoval
   youtube: https://www.youtube.com/channel/UCMZWZxBu6kUe2jDQBnyKLMw
 ---
-description: Moi boas! Aquí estamos polas risas e pouco máis
-img: /img/comunidade/braisdoval.webp

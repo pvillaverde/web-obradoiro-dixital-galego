@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC61tNXJ5lzjuUNBJLbUoPpQ
 ---
-description: ""
-img: /img/comunidade/Gafas_Pallaso.webp

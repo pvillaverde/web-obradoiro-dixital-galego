@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCQH5XiUZHegKhb4HFqFeckA
 ---
-description: Este vai ser o meu dump pa subir os videos panas and some other shit…
-img: /img/comunidade/Rosalia_casas.webp

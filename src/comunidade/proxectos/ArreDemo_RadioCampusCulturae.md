@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCpZCnE7WKXxUSvg5D1rto_Q
 ---
-description: ""
-img: /img/comunidade/ArreDemo_RadioCampusCulturae.webp

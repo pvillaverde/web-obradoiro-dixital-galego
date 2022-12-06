@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC3A4V_9F93J3l0JDQh3CiMQ
 ---
-description: ""
-img: /img/comunidade/Xeografia_e_Historia.webp

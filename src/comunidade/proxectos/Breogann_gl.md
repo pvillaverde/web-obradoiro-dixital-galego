@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCgywV9GRFh9sIDRRlH2KJ9A
 ---
-description: Canle en galego de Breogann.
-img: /img/comunidade/Breogann_gl.webp

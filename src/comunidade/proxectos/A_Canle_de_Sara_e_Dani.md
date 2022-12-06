@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCx7vrRD8uQftDGSGGhYGyRw
 ---
-description: Este é a vosa canle en galego, suscribídevos!!!
-img: /img/comunidade/A_Canle_de_Sara_e_Dani.webp

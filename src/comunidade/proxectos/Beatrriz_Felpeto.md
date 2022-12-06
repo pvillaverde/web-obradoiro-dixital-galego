@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCgG8v5L9P-ZimN5VhCNnPkA
 ---
-description: Ola, son Bea
-img: /img/comunidade/Beatrriz_Felpeto.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCMZYGnHmHA7QMivPj0oZaug
 ---
-description: ""
-img: /img/comunidade/La_bisonte.webp

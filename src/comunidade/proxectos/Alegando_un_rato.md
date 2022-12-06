@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCud_m_X-__Rg8FTANIt3GBg
 ---
-description: ""
-img: /img/comunidade/Alegando_un_rato.webp

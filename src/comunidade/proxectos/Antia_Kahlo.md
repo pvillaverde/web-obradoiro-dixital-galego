@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCR-xW5k_XmpxxsyJvfSdgbg
 ---
-description: ""
-img: /img/comunidade/Antia_Kahlo.webp

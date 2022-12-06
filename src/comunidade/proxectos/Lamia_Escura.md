@@ -17,11 +17,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC-BoYZooCANZr7LRsZfaYsw
 ---
-description: |-
-  Contido de rol en galego!
-
-  Partidas en galego, español e inglés!
-
-
-  Namoireime do rol e quero darlle difusión e visibilidade tamén en galego.
-img: /img/comunidade/Lamia_Escura.webp

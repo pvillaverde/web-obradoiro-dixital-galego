@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCpvDP0XEE8TXPa4HYeZpmrA
 ---
-description: Canle oficial da ACF O Fiadeiro de Vigo onde poderás atopar mostras de tódalas actividades que realizamos.
-img: /img/comunidade/ACF_O_fiadeiro.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCfq9k1e6QpEhs6v9Nm7M7Fw
 ---
-description: ""
-img: /img/comunidade/Damian_otero_alvarez.webp

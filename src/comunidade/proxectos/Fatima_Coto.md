@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC0DpqsV--oiQpM9Vn7Z_dQg
 ---
-description: Audiovisual. Entretenimiento.
-img: /img/comunidade/Fatima_Coto.webp

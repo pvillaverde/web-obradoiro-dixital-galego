@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC4iwCZsNrMzs98fffhw5DLQ
 ---
-description: Pepe da Furoca tenta dar explicacións do mundo galego para ós de fora. Pepe da Furoca gives explanations to outsiders about some aspects of Galicia and its singularities.
-img: /img/comunidade/Pepe_da_Furoca.webp

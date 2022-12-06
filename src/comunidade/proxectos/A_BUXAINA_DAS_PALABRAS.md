@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCZR_QcvdNQfi0qD_VrzxHlA
 ---
-description: ""
-img: /img/comunidade/A_BUXAINA_DAS_PALABRAS.webp

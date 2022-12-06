@@ -17,5 +17,3 @@ redes:
   twitch: https://twitch.tv/mars_marcelyn
   youtube: https://www.youtube.com/channel/UCyJ4u-3BkocfUExD4dNXPeQ
 ---
-description: ""
-img: /img/comunidade/mars_marcelyn.webp

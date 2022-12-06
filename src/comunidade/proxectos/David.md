@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCFV1sK1LMkzyMDg7qWttbag
 ---
-description: ""
-img: /img/comunidade/David.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC2D9vDoO9DqmhF2anE2x-eA
 ---
-description: ""
-img: /img/comunidade/Vida_Adulta_xuntos.webp

@@ -28,8 +28,3 @@ redes:
   ivoox: https://www.ivoox.com/podcast-as-conversas-da-lobeira_sq_f11207119_1.html
   mastodon: https://mastodon.gal/@alobeiratoday
 ---
-description: |-
-  A Lobeira today é unha canle comprometida coa visibilización e difusión daquelas que fan contido en galego aquí no YouTube; e tamén con xerar contido de tipo entrevistas, entretemento e mesmo divulgación noutras redes (twitch, instagram e en formato podcast) que tamén redunden nesta. Únete á comunidade Lobeirista e forma parte activa deste proxecto cos teus comentarios e aportacións.
-
-  #YouTubeiras #Youtubeiros
-img: /img/comunidade/a_lobeira_today.webp

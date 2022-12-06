@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCkBOObmK10hrFQRELhG04-g
 ---
-description: ""
-img: /img/comunidade/Historias_de_Rianxo.webp

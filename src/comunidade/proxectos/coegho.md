@@ -17,5 +17,3 @@ redes:
   twitch: https://twitch.tv/coegho
   youtube: https://youtube.com/channel/UC01aM_nCZW_8vAu9YEVRpRQ/
 ---
-description: Non hai moito que contar.
-img: /img/comunidade/coegho.webp

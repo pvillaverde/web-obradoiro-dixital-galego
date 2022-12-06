@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCOB7k4ACITmsVOWd-f51HtQ
 ---
-description: ""
-img: /img/comunidade/Xurxo_Diz_Pico.webp

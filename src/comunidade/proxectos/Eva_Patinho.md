@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCfgENDdVFyPs56_AkEBAZ6A
 ---
-description: Rexoubeira De Luxe
-img: /img/comunidade/Eva_Patinho.webp

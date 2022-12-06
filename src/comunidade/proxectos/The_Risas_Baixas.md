@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCW4KWD5FkgJSWgcnHLGgvZA
 ---
-description: ""
-img: /img/comunidade/The_Risas_Baixas.webp

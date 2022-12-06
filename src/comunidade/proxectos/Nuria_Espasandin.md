@@ -14,8 +14,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCic_6Bztqjpa5p71bvH1fXg
 ---
-description: |-
-  A liberdade, a verdade e a tristeza son as miñas musas.
-
-  #youtubeiras #youtubeiros
-img: /img/comunidade/Nuria_Espasandin.webp

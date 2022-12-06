@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCO2Rmum8rcFncYiDBRH-LLw/
 ---
-description: Canle de entrevistas e actividades culturais
-img: /img/comunidade/Xose_Carlos.webp

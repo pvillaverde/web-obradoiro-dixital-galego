@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCzftHgklVFGj3XvhESzsUvQ
 ---
-description: Mi mizmo
-img: /img/comunidade/Fabio_De_La_Pena_Viturro.webp

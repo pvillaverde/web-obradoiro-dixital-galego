@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCmEH9XMvAidKMrT9YuOjNxA
 ---
-description: mi primera canal de youtuberio galego muy prontor vos enseñare cosas
-img: /img/comunidade/Sergio_Garcia_mancebo.webp

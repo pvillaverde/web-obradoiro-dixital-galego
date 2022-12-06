@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCdrAXPvzGXEPpRuoPGBrEtw
 ---
-description: ""
-img: /img/comunidade/Sabela_Lage.webp

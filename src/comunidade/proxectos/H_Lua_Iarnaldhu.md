@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCU9VdA22djWSKm2UaEiqPXQ
 ---
-description: ""
-img: /img/comunidade/H_Lua_Iarnaldhu.webp

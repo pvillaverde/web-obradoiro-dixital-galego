@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC8zkhNN2Z3YWD1oKfcP86Og
 ---
-description: I did it thirty-five minutes ago
-img: /img/comunidade/Berto_Yanez.webp

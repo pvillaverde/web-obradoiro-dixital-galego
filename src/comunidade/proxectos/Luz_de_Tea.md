@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCLdsm6Ji3slM-UYY763DKdg
 ---
-description: Cultura funeraria de onte, entonte e antantonte en Galicia e o resto do mundo. En Galego.
-img: /img/comunidade/Luz_de_Tea.webp

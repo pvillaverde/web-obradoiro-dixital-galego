@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCVuPhbswyRKdrqUUfLi7GFg
 ---
-description: ""
-img: /img/comunidade/Jun_Dinamita.webp

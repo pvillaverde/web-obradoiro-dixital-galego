@@ -14,8 +14,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCRq6ZKa2cwFiz-3YmpNDLLg
 ---
-description: |-
-  Esta canle foi creada coa intención da dinamización lingüística do galego dun xeito agradábel e informal; con contido adaptado aos tempos presentes!
-  Contidos variados (reviews&unboxings, tutoriais/diy, vlogs, o que caia... malo será)
-  Con cariño dende Galiza, espero que vos guste!
-img: /img/comunidade/Ben_feito.webp

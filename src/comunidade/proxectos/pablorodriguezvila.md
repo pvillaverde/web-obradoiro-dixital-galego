@@ -18,5 +18,3 @@ redes:
   twitch: https://www.twitch.tv/pablorodriguezvila
   youtube: https://www.youtube.com/channel/UCxYITFwMH_hxgBS6kIXPirw
 ---
-description: "\U0001F44B Benvidas e benvidos á canle de titoriais para o profesorado galego.\n\n#youtubeiras #youtubeiros"
-img: /img/comunidade/pablorodriguezvila.webp

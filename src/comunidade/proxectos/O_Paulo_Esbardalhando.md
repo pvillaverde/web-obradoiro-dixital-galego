@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC-wZ4BGhn2j6_C8TAbgsIQw
 ---
-description: Este canal foi criado para partilhar língua e literatura galega com o mundo todo, entre outras coisas.
-img: /img/comunidade/O_Paulo_Esbardalhando.webp

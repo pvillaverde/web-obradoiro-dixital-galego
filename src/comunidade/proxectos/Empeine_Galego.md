@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCBmkHFBYl8ul6ZfddJlXnMA
 ---
-description: ""
-img: /img/comunidade/Empeine_Galego.webp

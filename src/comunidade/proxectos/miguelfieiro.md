@@ -15,5 +15,3 @@ redes:
   twitch: https://twitch.tv/miguelfieiro
   youtube: https://www.youtube.com/channel/UCk8A54ksVuHFD-wmmP7uvdg
 ---
-description: ""
-img: /img/comunidade/miguelfieiro.webp

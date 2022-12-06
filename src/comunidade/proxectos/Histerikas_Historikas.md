@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCDmjm8QlR01jK8XBI16PYAw
 ---
-description: ""
-img: /img/comunidade/Histerikas_Historikas.webp

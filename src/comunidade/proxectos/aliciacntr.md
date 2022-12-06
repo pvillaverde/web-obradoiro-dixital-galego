@@ -15,9 +15,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC39foPEjcaMLtJJyV3CnILg
 ---
-description: |-
-  ༄ ₊˚. ☼ ☽ a creative mind
-  realización | fotografía en @aliciacentronfotografia
-
-  ig: aliciacntr
-img: /img/comunidade/aliciacntr.webp

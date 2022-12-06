@@ -13,7 +13,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC6Uh1tQE-puWUShBUFhaK_Q
 ---
-description: |-
-  Humilde canle 100% en galego,se queredes dicirme temas sobre os que falar comentade nos vídeos
-  Agardo que vos preste
-img: /img/comunidade/Iria_Vazquez.webp

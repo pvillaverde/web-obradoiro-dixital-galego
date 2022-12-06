@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCWcDUaq6XfBShKG7uED07Tg
 ---
-description: ""
-img: /img/comunidade/David_Fidalgo_Omil.webp

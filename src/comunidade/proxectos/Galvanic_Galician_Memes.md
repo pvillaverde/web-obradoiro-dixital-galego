@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC1jgS9n7NIfEtnHpDCz_z8Q
 ---
-description: ""
-img: /img/comunidade/Galvanic_Galician_Memes.webp

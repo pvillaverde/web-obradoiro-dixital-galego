@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCYySmmaiD6QUNSM6VruO_RA
 ---
-description: ""
-img: /img/comunidade/Morango_do_Monte.webp

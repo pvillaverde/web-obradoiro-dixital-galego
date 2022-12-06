@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCkPqmemQMeqQeBfdBusAiWA
 ---
-description: ""
-img: /img/comunidade/Asociacion_ORAL_de_Galicia.webp

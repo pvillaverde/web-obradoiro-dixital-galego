@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCHo9aXxXGuSCaUk58zUXCRQ
 ---
-description: ""
-img: /img/comunidade/Mola.webp

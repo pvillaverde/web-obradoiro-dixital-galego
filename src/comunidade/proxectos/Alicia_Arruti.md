@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://youtube.com/channel/UCQ7IIB_HlpBfM41OgGse1Kg/
 ---
-description: "\U0001F3F3️‍⚧️`★ˎ\U0001F4E2✊\n\nRepresentante do alumnado no consello escolar do I.E.S. Ponte Caldelas\n\nMilitante en Galiza Nova, Erguer Galiza, Avante LGBT, Arelas…\n\n#youtubeiras"
-img: /img/comunidade/Alicia_Arruti.webp

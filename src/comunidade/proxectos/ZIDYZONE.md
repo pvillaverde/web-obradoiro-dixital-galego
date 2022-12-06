@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCssH8Rzr9XjngfnMuYNn2qg
 ---
-description: ""
-img: /img/comunidade/ZIDYZONE.webp

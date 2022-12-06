@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCLe-EvhI2WXkbfwFlpNUe_A
 ---
-description: ""
-img: /img/comunidade/Nel_Vidal_Barral.webp

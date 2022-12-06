@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCEtWpXL7Il2204wduQxLv5g
 ---
-description: ""
-img: /img/comunidade/Baia_Adestradora_emocional_e_da_risa.webp

@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCHKdwL5l3s_AZczeC4ua_eA
 ---
-description: Kosmikoides. Aquí tedes un refuxio onde sendo galegos non vos sentiredes desamparados, libres de todos os desprezos que o país veciño (xa me entendedes), nos brinda. Espero que desfrutedes.
-img: /img/comunidade/O_JATO_KOSMIKO.webp

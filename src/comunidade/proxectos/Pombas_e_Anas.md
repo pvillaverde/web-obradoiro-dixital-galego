@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCF8bgPP9jK2NClgXZPWWJ3Q
 ---
-description: O noso manifesto non foi redactado nin aprobado en asamblea ... aínda.
-img: /img/comunidade/Pombas_e_Anas.webp

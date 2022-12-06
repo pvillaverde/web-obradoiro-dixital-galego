@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCFq3YNnA_NsTaqt86urMO6g
 ---
-description: ""
-img: /img/comunidade/Talento_Galego.webp

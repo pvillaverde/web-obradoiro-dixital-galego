@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCBfGPINQOHUyTR-Wd3sLwbA
 ---
-description: 'Espazo multisección de divulgación científica en Twitch e en galego. Falamos de ciencia tratando sempre de divertirnos. Anteriormente: A Camisola.'
-img: /img/comunidade/Ciencia_e_tal.webp

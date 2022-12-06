@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCZhh6HRGshxBQSm5z_HlY-g
 ---
-description: Es que te lo dicen y te tienes que reír.
-img: /img/comunidade/Samuel_L_Paris.webp

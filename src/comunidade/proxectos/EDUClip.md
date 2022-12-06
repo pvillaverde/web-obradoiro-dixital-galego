@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCnxmb9_9bBoG4u_FghOcZTA
 ---
-description: ""
-img: /img/comunidade/EDUClip.webp

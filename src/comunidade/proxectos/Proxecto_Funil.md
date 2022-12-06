@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCxKlOij-mkspJ4HwTRpYKSA
 ---
-description: Canle de vídeos de experimentos de laboratorio asociados ao proxecto funil. Máis información en www.funil.gal
-img: /img/comunidade/Proxecto_Funil.webp

@@ -14,5 +14,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCQMlL2wMUmM6lxuLpuMkmHg
 ---
-description: Tirabeques enjoyer
-img: /img/comunidade/sekirofan_.webp

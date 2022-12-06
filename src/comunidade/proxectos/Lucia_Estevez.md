@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCFJI6oiEUlvB56_9Y6T4jdA
 ---
-description: ""
-img: /img/comunidade/Lucia_Estevez.webp

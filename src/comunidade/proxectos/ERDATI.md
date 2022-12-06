@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC1ghEyVEuK3p1v4fGaFz0og
 ---
-description: ""
-img: /img/comunidade/ERDATI.webp

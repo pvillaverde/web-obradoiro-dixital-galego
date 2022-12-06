@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCYWYJWiq6o4vuoVDBVAf8-w
 ---
-description: ""
-img: /img/comunidade/Carlos_Medrano_Martinez.webp

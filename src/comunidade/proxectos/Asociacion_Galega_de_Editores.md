@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC6oS6KpZpu8LQ0iIyeRkm_A
 ---
-description: Representación do sector editorial galego
-img: /img/comunidade/Asociacion_Galega_de_Editores.webp

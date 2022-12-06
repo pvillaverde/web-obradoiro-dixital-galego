@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCHnIx5iBDeFBWGxWen9iYLg
 ---
-description: ""
-img: /img/comunidade/SSGQ.webp

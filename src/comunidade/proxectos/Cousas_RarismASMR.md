@@ -17,11 +17,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC59LurczeXkyHRdBkkAePTg
 ---
-description: |-
-  Xiuuuuuum pium ñiaun pum pum zuuuum
-
-  ASMR em galego
-  Galician ASMR
-
-  #youtubeiras #youtubeiros
-img: /img/comunidade/Cousas_RarismASMR.webp

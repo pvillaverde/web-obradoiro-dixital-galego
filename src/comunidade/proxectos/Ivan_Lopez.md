@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCVEE0EjRGEAS7g0JNsdbEKg
 ---
-description: ""
-img: /img/comunidade/Ivan_Lopez.webp

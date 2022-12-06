@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCWB8F9ox0PGtVgxtzbpBI9Q
 ---
-description: ""
-img: /img/comunidade/Patricia_Quintans.webp

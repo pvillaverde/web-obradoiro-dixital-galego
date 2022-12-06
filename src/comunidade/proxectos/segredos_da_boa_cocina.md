@@ -13,7 +13,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC8mna93poTIRLABAcf5mgMA
 ---
-description: |-
-  Cociña en galego.
-  Receitas da cociña tradicional galega doce e salgada.
-img: /img/comunidade/segredos_da_boa_cocina.webp

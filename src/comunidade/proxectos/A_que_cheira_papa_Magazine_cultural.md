@@ -11,5 +11,3 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UCZwgLsb6bbMTDU250axTmAQ
 ---
-description: ""
-img: /img/comunidade/A_que_cheira_papa_Magazine_cultural.webp

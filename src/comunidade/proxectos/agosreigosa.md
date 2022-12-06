@@ -16,5 +16,3 @@ redes:
   twitch: https://twitch.tv/agosreigosa
   youtube: https://www.youtube.com/channel/UCXShe-zffyqMLiPD3tJr1vw
 ---
-description: ""
-img: /img/comunidade/agosreigosa.webp
