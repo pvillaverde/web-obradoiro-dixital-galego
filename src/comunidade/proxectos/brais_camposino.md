@@ -11,7 +11,9 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
   - cozinha
 redes:
   twitch: https://twitch.tv/brais_camposino
+  youtube: https://www.youtube.com/channel/UCGAWwrYny1SGGHglxUTN-OQ
 ---

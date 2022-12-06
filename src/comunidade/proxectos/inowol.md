@@ -14,4 +14,5 @@ tags:
   - videoxogos
 redes:
   twitch: https://twitch.tv/inowol
+  youtube: https://youtube.com/channel/UCQEv8T6GUAiDi2VR1OG3AQw/
 ---

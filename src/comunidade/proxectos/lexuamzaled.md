@@ -1,6 +1,6 @@
 ---
 layout: "layouts/proxecto.njk"
-title: LexuamZaled
+title: "Manuel 'Léxuam' González"
 file: lexuamzaled
 href: https://twitch.tv/lexuamzaled
 img: /img/comunidade/lexuamzaled.webp
@@ -11,6 +11,8 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
 redes:
   twitch: https://twitch.tv/lexuamzaled
+  youtube: https://www.youtube.com/channel/UCLI24sIO7QfCk087F1PA1wQ
 ---

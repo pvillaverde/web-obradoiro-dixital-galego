@@ -15,4 +15,5 @@ tags:
   - cultura
 redes:
   twitch: https://twitch.tv/orgullogalego
+  youtube: https://www.youtube.com/channel/UCe47pH8XQw57JdwKKhZu9pw
 ---

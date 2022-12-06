@@ -11,6 +11,8 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
 redes:
   twitch: https://twitch.tv/kekoneverland
+  youtube: https://youtube.com/channel/UCjV949Pv8umwDuCnY3EdpIw/
 ---

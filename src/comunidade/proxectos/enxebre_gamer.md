@@ -11,7 +11,9 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
   - videoxogos
 redes:
   twitch: https://twitch.tv/enxebre_gamer
+  youtube: https://www.youtube.com/channel/UC_LhiT7Zg0-alZiDLJ4lxig
 ---

@@ -11,6 +11,8 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
 redes:
+  youtube: https://www.youtube.com/channel/UC9q1hbJDbloViztNT8WIKhw
   twitch: https://twitch.tv/aswomansplainers
 ---

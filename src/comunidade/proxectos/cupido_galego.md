@@ -11,7 +11,9 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
   - videoxogos
 redes:
   twitch: https://twitch.tv/cupido_galego
+  youtube: https://www.youtube.com/channel/UCdIiF52xdv_l7pPd753n8lw
 ---

@@ -11,7 +11,9 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
   - videoxogos
 redes:
   twitch: https://twitch.tv/clankirfed
+  youtube: https://www.youtube.com/channel/UC0Mpw_WLwZMp8LoBrvPyzkQ
 ---

@@ -11,7 +11,9 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
   - videoxogos
 redes:
   twitch: https://twitch.tv/aresmenethil
+  youtube: https://youtube.com/channel/UCaeF5CqsaN_iYhbPGPZ2VOA/
 ---

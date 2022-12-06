@@ -17,4 +17,5 @@ tags:
   - entrevistas
 redes:
   twitch: https://twitch.tv/rincondedaniel
+  youtube: https://www.youtube.com/channel/UCln86uoP3Wj80AuV0-nl_fg
 ---

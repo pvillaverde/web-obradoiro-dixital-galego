@@ -10,7 +10,9 @@ active: false
 platform: twitch
 type: proxecto
 tags:
+  - youtube
   - twitch
 redes:
   twitch: https://twitch.tv/ecosdexigantes
+  youtube: https://www.youtube.com/channel/UC5B0dxdXuWZ2jzvs3k3R28g
 ---

@@ -16,4 +16,5 @@ tags:
   - videoxogos
 redes:
   twitch: https://twitch.tv/recunchogamer
+  youtube: https://www.youtube.com/channel/UCqbohZKRrOTtvsR2H1Qjwig
 ---

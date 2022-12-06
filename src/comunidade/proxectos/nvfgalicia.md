@@ -1,6 +1,6 @@
 ---
 layout: "layouts/proxecto.njk"
-title: NVFGalicia
+title: Non Vale Furar
 file: nvfgalicia
 href: https://twitch.tv/nvfgalicia
 img: /img/comunidade/nvfgalicia.webp
@@ -11,7 +11,9 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
   - deporte
 redes:
   twitch: https://twitch.tv/nvfgalicia
+  youtube: https://www.youtube.com/channel/UCdB4vQ6e70iiX9OdJ8t--ww
 ---

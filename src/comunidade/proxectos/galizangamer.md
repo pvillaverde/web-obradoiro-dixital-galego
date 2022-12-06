@@ -15,4 +15,5 @@ tags:
   - videoxogos
 redes:
   twitch: https://twitch.tv/galizangamer
+  youtube: https://www.youtube.com/channel/UCekrsnpj0-Wp84Hfk00SRMQ
 ---

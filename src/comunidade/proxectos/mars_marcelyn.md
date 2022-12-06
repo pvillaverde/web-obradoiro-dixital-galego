@@ -11,6 +11,9 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
+  - videoxogos
 redes:
   twitch: https://twitch.tv/mars_marcelyn
+  youtube: https://www.youtube.com/channel/UCyJ4u-3BkocfUExD4dNXPeQ
 ---

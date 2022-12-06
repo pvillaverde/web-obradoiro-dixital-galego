@@ -11,7 +11,9 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
   - musica
 redes:
   twitch: https://twitch.tv/localdemusica
+  youtube: https://youtube.com/channel/UCKoiGQvOaKuoqOwghuigX8A/
 ---

@@ -14,4 +14,5 @@ tags:
   - videoxogos
 redes:
   twitch: https://twitch.tv/o_hanabi
+  youtube: https://youtube.com/channel/UCBP_iqSFoWi98bZLNFciBIQ/
 ---

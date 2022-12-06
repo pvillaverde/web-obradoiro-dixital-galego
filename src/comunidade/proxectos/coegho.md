@@ -11,7 +11,9 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
   - videoxogos
 redes:
   twitch: https://twitch.tv/coegho
+  youtube: https://youtube.com/channel/UC01aM_nCZW_8vAu9YEVRpRQ/
 ---

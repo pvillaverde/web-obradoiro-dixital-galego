@@ -11,7 +11,9 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
   - entrevistas
 redes:
   twitch: https://twitch.tv/braisdoval
+  youtube: https://www.youtube.com/channel/UCMZWZxBu6kUe2jDQBnyKLMw
 ---

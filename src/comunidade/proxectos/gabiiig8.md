@@ -11,6 +11,8 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
 redes:
   twitch: https://twitch.tv/gabiiig8
+  youtube: https://www.youtube.com/channel/UCUHkcz7z1PwVzmenx0Gde-A
 ---

@@ -11,7 +11,9 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
   - rol
 redes:
   twitch: https://twitch.tv/timcaos
+  youtube: https://youtube.com/channel/UC7njunbZV14Asmu7-4HwMNA/
 ---

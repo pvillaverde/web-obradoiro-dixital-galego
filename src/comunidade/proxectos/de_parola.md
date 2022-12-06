@@ -11,6 +11,9 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
+  - podcast
 redes:
   twitch: https://twitch.tv/de_parola
+  youtube: https://www.youtube.com/channel/UCRP2uk13WE5JKGSGp4efhEA
 ---

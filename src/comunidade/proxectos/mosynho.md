@@ -11,7 +11,9 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
   - videoxogos
 redes:
   twitch: https://twitch.tv/mosynho
+  youtube: https://youtube.com/channel/UCR7d4jbF7YqQ6zXc4_R23jA/
 ---

@@ -11,7 +11,9 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
   - deporte
 redes:
   twitch: https://twitch.tv/ficacoabola
+  youtube: https://www.youtube.com/channel/UCbDtck2U0zghve0ZMuHV2dQ
 ---

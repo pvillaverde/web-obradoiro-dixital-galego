@@ -11,6 +11,8 @@ platform: twitch
 type: proxecto
 tags:
   - twitch
+  - youtube
 redes:
   twitch: https://twitch.tv/amorod0
+  youtube: https://youtube.com/channel/UCoPLYkOorsXfaF2R9eaoyRQ/
 ---

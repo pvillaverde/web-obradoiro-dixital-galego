@@ -1,8 +1,8 @@
 ---
 layout: "layouts/proxecto.njk"
-title: hoenhaim19
-file: hoenhaim19
-href: https://twitch.tv/hoenhaim19
+title: Hoenhaim_
+file: Hoenhaim_
+href: https://twitch.tv/Hoenhaim_
 img: /img/comunidade/hoenhaim19.webp
 description: null
 date: 2018-01-06 21:59:06.785735
@@ -12,5 +12,5 @@ type: proxecto
 tags:
   - twitch
 redes:
-  twitch: https://twitch.tv/hoenhaim19
+  twitch: https://twitch.tv/hoenhaim_
 ---
