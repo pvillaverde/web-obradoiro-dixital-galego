@@ -149,3 +149,9 @@ tags:
   - id: videoxogos
     name: Videoxogos
     color: lightgreen
+  - id: tecnoloxia
+    name: Tecnoloxía
+    color: "#cfffd0"
+  - id: viaxes
+    name: Viaxes
+    color: "#d4f1ff"
