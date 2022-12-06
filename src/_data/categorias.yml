@@ -7,7 +7,7 @@ tags:
     color: lightskyblue
   - id: twitch
     name: Twitch
-    color: violet
+    color: "#a990d2"
   - id: youtube
     name: Youtube
     color: tomato
@@ -17,6 +17,9 @@ tags:
   - color: "#e57a86"
     id: asociacións
     name: Asociacións
+  - id: astronomia
+    name: Astronomía
+    color: "#f583b3"
   - id: deporte
     name: Deporte
     color: lightgray
@@ -44,6 +47,3 @@ tags:
   - id: videoxogos
     name: Videoxogos
     color: lightgreen
-  - id: astronomia
-    name: Astronomía
-    color: "#f583b3"
