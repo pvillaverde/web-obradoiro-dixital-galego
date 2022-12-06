@@ -113,6 +113,9 @@ tags:
   - id: musica
     name: Música
     color: gold
+  - id: novas
+    name: Novas
+    color: "#feadce"
   - id: outras
     name: Outras
     color: lightgray
@@ -122,6 +125,3 @@ tags:
   - id: videoxogos
     name: Videoxogos
     color: lightgreen
-  - id: novas
-    name: Novas
-    color: "#feadce"
