@@ -15,15 +15,15 @@
       grid-row: 2;
       margin-top: 0;
       margin-bottom: var(--row-gap-1);
-   }
 
-   & li {
-      margin: 5px;
-      display: block;
-      border-radius: 9999px;
-      transition: transform .1s ease;
-      height: auto;
-      font-size: 36px;
+      & li {
+         margin: 5px;
+         display: block;
+         border-radius: 9999px;
+         transition: transform .1s ease;
+         height: auto;
+         font-size: 36px;
+      }
    }
 
    & a {
@@ -89,6 +89,10 @@
 
 .social-link-dropbox {
    background-color: #4280ff;
+   color: #fff
+}
+.social-link-discord {
+   background-color: #5865f2;
    color: #fff
 }
 

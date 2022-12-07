@@ -9,12 +9,27 @@ page_css: docs.css
    <main class="doc-content">
       <header class="doc-header">
          <h1>{{ title }}</h1>
-         {{ description | md | safe }}
-
-         {% include "templates/toc.njk" %}
       </header>
 
       <div class="doc-body">
+         {% for section in sections %}
+            <section>
+               <h3>{{section.title}}</h3>
+               <div>{{section.description | md | safe }}</div>
+               <aside class="social-links">
+                  <ul>
+                     {% for rede, ligazon in section.redes %}
+                        <li  class="social-link-{{rede}}">
+                           <a target="_blank" href="{{ ligazon }}" title="{{ rede }}" >
+                              <img src="/icons/social/{{ rede }}.svg" alt="{{ rede }}" inline>
+                           </a>
+                        </li>
+                     {% endfor %}
+                  </ul>
+               </aside>
+            </section>
+         {% endfor %}
+
          {{ content | safe }}
       </div>
 

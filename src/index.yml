@@ -18,8 +18,9 @@ action:
 features:
   - title: Difusión
     img: /icons/difusion.svg
-    description: Promovemos e difundimos o teu contido en galego a través das nosas
-      redes de difusión automatizadas e nos nosos eventos.
+    url: /docs/sobre-nos/redes/
+    description: Promovemos e difundimos o teu contido en galego a través das [nosas
+      redes de difusión](/docs/sobre-nos/redes/) automatizadas e nos nosos eventos.
   - title: Colaboracións
     img: /icons/colaboracion.svg
     description: Xeramos os puntos de encontro de persoas creadores de contido e

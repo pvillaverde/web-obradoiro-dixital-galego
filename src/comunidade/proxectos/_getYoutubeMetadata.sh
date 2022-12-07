@@ -9,7 +9,7 @@ for file in *.md; do
 
    if [ -n "$uuid" ]; then
       response=$(curl -s \
-      "https://youtube.googleapis.com/youtube/v3/channels?part=snippet&id=${uuid}&key=AIzaSyCcOt4mDcPz5aRyzTR_5jCJ1gtsdSPOcHU" \
+      "https://youtube.googleapis.com/youtube/v3/channels?part=snippet&id=${uuid}&key=${API_KEY}" \
       --header 'Accept: application/json' \
       --compressed | jq '.items[0] | {id: .id, title: .snippet.title, description: .snippet.description, thumbnail: .snippet.thumbnails.default.url}')
       title=$(echo $response | jq -r '.title')

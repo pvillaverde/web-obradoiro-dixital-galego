@@ -14,7 +14,7 @@ Na actualidade Twitch en Galego integrase dentro da **Asociación Cultural Obrad
 
 ## Notificacións de emisións en directo
 
-Se formas parte da comunidade galega de twitch, o noso bot de notificacións de directo envía notificacións cando comezas unha emisión a través das nosas **Redes sociais**:
+Se formas parte da comunidade galega de twitch, cando comezas unha emisión o noso bot de notificacións de directo envía notificacións a través das nosas **Redes sociais**:
 - [Twitter](https://twitter.com/GalegoTwitch)
 - [Mastodon](https://botsin.space/web/@GalegoTwitch)
 - [Discord](http://discord.gg/pTbpHp9zwE)
