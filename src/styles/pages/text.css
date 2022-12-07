@@ -1,0 +1,30 @@
+.text {
+   padding: 5vh 5vw;
+   max-width: 1400px;
+   box-sizing: border-box;
+   margin: 0 auto;
+}
+
+.text-header {
+   & h1 {
+      font: var(--text-heading);
+      letter-spacing: var(--text-heading-spacing);
+   }
+}
+
+.text-content {
+   line-height: 1.6;
+   /* Better for reading */
+
+   & h2 {
+      font: var(--text-title);
+      letter-spacing: var(--text-title-spacing);
+      margin: 1.5rem 0 0;
+   }
+
+   & h3 {
+      font: var(--text-body-bold);
+      letter-spacing: var(--text-body-spacing);
+      margin: 1.5em 0 0;
+   }
+}

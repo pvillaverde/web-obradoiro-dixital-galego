@@ -274,8 +274,7 @@
 
 @media (max-width: 768px) {
    .navbar-search {
-      min-width: auto;
-      min-height: auto;
+      display: none;
    }
 
    .DocSearch-Container {

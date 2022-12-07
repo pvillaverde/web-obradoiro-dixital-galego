@@ -16,7 +16,8 @@ import ndIframe from "https://jspm.dev/markdown-it-iframe";
 import mdVideo from "https://jspm.dev/markdown-it-video";
 import checkActivity from "./checkActivity.ts";
 
-/* import pagefind from "lume/plugins/pagefind.ts"; */
+import pagefind from "lume/plugins/pagefind.ts";
+/* import pagefind from "../lume/plugins/pagefind.ts"; */
 
 const markdown = {
    plugins: [mdToc, mdFootnote, [ndIframe, {
@@ -50,14 +51,27 @@ site
    .ignore("scripts")
    .copy("static", ".")
    .copy("_redirects")
-   /* .use(pagefind({
+   .use(pagefind({
       ui: {
-        containerId: "search",
-        showImages: false,
-        showEmptyFilters: true,
-        resetStyles: false,
+         containerId: "search",
+         showImages: true,
+         showEmptyFilters: false,
+         resetStyles: false,
+         /* translations: {
+            placeholder: "Buscar",
+            clear_search: "Limpar",
+            load_more: "Ver máis resultados",
+            search_label: "Buscar neste sitio",
+            filters_label: "Filtros",
+            zero_results: "Non se atoparon resultados para [SEARCH_TERM]",
+            many_results: "[COUNT] resultados atopados para [SEARCH_TERM]",
+            one_result: "[COUNT] resultado atopado para [SEARCH_TERM]",
+            alt_search: "Non se atoparon resultados para [SEARCH_TERM]. Amosando no seu lugar resultados para [DIFFERENT_TERM]",
+            search_suggestion: "Non se atoparon resultados para [SEARCH_TERM]. Probe unha das seguintes pesquisas:",
+            searching: "Buscando [SEARCH_TERM]..."
+         } */
       },
-    })) */
+   }))
    .use(netlifyCMS({ netlifyIdentity: true, }))
    .use(codeHighlight())
    .use(postcss())

@@ -55,12 +55,6 @@
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
       <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
       <link rel="manifest" href="/manifest.json">
-
-      {# <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/@docsearch/css@3.2.1/dist/style.css"
-      integrity="sha256-brWyd+lKlaU/B5Lhqd/FUXyZQu4rVmbFRsP2E8S2CLw="
-      crossorigin="anonymous"> #}
    </head>
    <body>
       {% include "templates/navbar.njk" %}
@@ -68,12 +62,6 @@
          {{ content | safe }}
       </div>
       {% include "templates/footer.njk" %}
-
-      {# <script
-      src="https://cdn.jsdelivr.net/npm/@docsearch/js@3.2.1/dist/umd/index.js"
-      integrity="sha256-7XYP2JLQrbyOqBKrAn8sT3l8PG/v2j6C3A5EyBDp9to="
-      crossorigin="anonymous" defer></script> #}
-
       <script type="text/javascript">
          window.addEventListener('DOMContentLoaded', () => {
             document
@@ -86,10 +74,7 @@
             mediaMatch(mediaQuery).addEventListener("change", (event) => {
                storeTheme(event.matches);
             });
-            /*
-            {# Modificar credenciais co motor de búsqueda #}
-            docsearch({appId: "O7U42EOTRQ", apiKey: "bcb89a19824e0100724bc16011dea6f8", indexName: "lume", container: document.getElementById("search"), debug: false});
-            */
+
          }, false);
       </script>
    </body>

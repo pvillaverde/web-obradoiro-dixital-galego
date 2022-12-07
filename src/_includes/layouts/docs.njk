@@ -6,7 +6,7 @@ page_css: docs.css
 <div class="doc">
    {% include "templates/doc-navbar.njk" %}
 
-   <main class="doc-content">
+   <main class="doc-content" data-pagefind-body data-pagefind-filter="Sección:{{menu.title}}">
       <header class="doc-header">
          <h1>{{ title }}</h1>
          {{ description | md | safe }}

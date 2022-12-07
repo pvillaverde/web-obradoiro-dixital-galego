@@ -1,0 +1,15 @@
+---
+layout: ./base.njk
+page_css: text.css
+---
+<main class="text">
+   <header class="text-header">
+      <h1>{{ title }}</h1>
+   </header>
+   
+  <div id="search"></div>
+
+   <div class="text-content">
+      {{ content | safe }}
+   </div>
+</main>

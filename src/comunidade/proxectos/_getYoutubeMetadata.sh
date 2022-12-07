@@ -18,7 +18,7 @@ for file in *.md; do
       imgURL=${imgURL//s88/s400}
       curl -s "$imgURL" -o ../../img/comunidade/$filename.png
       # print the response
-      yq ".description = \"${description}\", .img = \"/img/comunidade/$filename.webp\"" -i $file
+      yq ".description = \"${description}\", .img = \"/img/comunidade/$filename.webp\"" --front-matter process  -i $file
    fi
 
 done
