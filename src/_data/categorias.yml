@@ -17,6 +17,9 @@ tags:
   - id: agricultura
     name: Agricultura
     color: "#7cbfb6"
+  - id: activismo
+    name: Activismo
+    color: "#7cbcdf"
   - id: alimentacion
     name: Dietética e Alimentación
     color: "#48ce97"
@@ -117,7 +120,7 @@ tags:
     name: Magazine
     color: "#cc85b1"
   - id: mar
-    name: mar
+    name: Mar
     color: "#a5cbf0"
   - id: medio_rural
     name: Medio Rural
