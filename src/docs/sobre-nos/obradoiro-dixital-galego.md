@@ -50,7 +50,7 @@ Ser socio require dunha pequena aportación económica. Tes varias opcións:
 
 Esta aportación é unha grande axuda e que nos permite pagar cousas como:
 - Material e aluguer de postos.
-- Os servidores que alonxa a web e aplicativos que difunden o contido.
+- Os servidores que aloxan a web e aplicativos que difunden o contido.
 - E en definitiva é un apoio directo á normalización da nosa lingua nos novos medios.
 
 ### Estatutos
