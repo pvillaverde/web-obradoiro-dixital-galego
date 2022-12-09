@@ -12,7 +12,7 @@ page_css: proxecto.css
             <h1>
                {{title}}
                {% if active %}
-                  <span class="tag is-small" title="Este proxecto crea contido mensualmente">En activo</span>
+                  <span data-pagefind-ignore class="tag is-small" title="Este proxecto crea contido mensualmente">En activo</span>
                {% endif %}
             </h1>
             {{ description | md | safe }}
