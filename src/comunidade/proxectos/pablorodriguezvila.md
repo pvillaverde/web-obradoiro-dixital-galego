@@ -16,4 +16,5 @@ file: pablorodriguezvila
 redes:
   twitch: https://www.twitch.tv/pablorodriguezvila
   youtube: https://www.youtube.com/channel/UCxYITFwMH_hxgBS6kIXPirw
+  discord: https://discord.gg/376SSfaSvj
 ---

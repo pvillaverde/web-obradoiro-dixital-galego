@@ -22,6 +22,10 @@ description: >-
 
   - E-mail: apalleira@armadinha.gal
 redes:
+  instagram: https://www.instagram.com/a_palleira/
+  link: https://anchor.fm/a-palleira
+  rss: https://anchor.fm/s/5ab542f8/podcast/rss
+  twitter: https://twitter.com/a_palleira
   youtube: https://www.youtube.com/channel/UCkr4RDqqBDrWi_aurO99L_Q
   mail: apalleira@armadinha.gal
   spotify: https://open.spotify.com/show/2pbQ05mz4UKdHphwcvW69O?si=852397e93f7b4664

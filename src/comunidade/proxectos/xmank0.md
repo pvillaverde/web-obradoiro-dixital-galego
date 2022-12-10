@@ -14,4 +14,5 @@ tags:
   - videoxogos
 redes:
   twitch: https://twitch.tv/xmank0
+  discord: https://discord.gg/7EJNH3e9Dw
 ---

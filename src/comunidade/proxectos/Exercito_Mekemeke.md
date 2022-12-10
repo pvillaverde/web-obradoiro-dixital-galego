@@ -11,6 +11,22 @@ platform: youtube
 type: proxecto
 tags:
   - youtube
+  - podcast
+  - actualidade
+  - cinema
+  - conversa
+  - culturapopular
+  - entrevistas
+  - humor
+  - magazine
+  - novas
+  - social
 redes:
   youtube: https://www.youtube.com/channel/UCQB2WaUno6PRA4sg9anei2w
+  instagram: https://instagram.com/exercitomekemeke
+  facebook: https://facebook.com/exercitomekemeke
+  link: https://www.patreon.com/mekemeke
+  rss: https://anchor.fm/s/757b846c/podcast/rss
+  twitter: https://twitter.com/mekemekearmy
+  twitch: https://www.twitch.tv/exercitomekemeke
 ---

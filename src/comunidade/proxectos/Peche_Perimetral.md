@@ -18,7 +18,14 @@ date: 2020-12-17 19:33:13
 platform: youtube
 type: proxecto
 tags:
+  - podcast
   - youtube
+  - humor
 redes:
+  instagram: https://www.instagram.com/pecheperimetral/
+  facebook: https://www.facebook.com/PechePerimetral/
+  link: https://linktr.ee/pecheperimetral
+  rss: https://www.ivoox.com/podcast-peche-perimetral_fg_f11136351_filtro_1.xml
+  twitter: https://twitter.com/pecheperimetral
   youtube: https://www.youtube.com/channel/UCRkbRLN-P8OcoKYAbxINLIQ
 ---
