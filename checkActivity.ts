@@ -10,18 +10,13 @@ export default function () {
       }
    };
    async function checkRSSActivity(rssURL: string) {
-      try {
-         const response = await fetch(rssURL);
-         const xml = await response.text();
-         const feed = await parseFeed(xml);
-         if (feed.entries && feed.entries[0] && feed.entries[0].published) {
-            const lastActiveDate = feed.entries[0].published;
-            return isLessThanMonth(lastActiveDate);
-         } else {
-            return false;
-         }
-      } catch (error) {
-         console.error(`Erro ao recuperar a información de RSS`, error);
+      const response = await fetch(rssURL);
+      const xml = await response.text();
+      const feed = await parseFeed(xml);
+      if (feed.entries && feed.entries[0] && feed.entries[0].published) {
+         const lastActiveDate = feed.entries[0].published;
+         return isLessThanMonth(lastActiveDate);
+      } else {
          return false;
       }
    }
@@ -45,18 +40,13 @@ export default function () {
             }
          }
       }
-      try {
-         const users = await (await fetch(`${requestOptions.baseURL}/users?login=${twitchChannelLogin}`, requestOptions)).json();
-         const userId = users.data[0].id;
-         const videos = await (await fetch(`${requestOptions.baseURL}/videos?user_id=${userId}&first=1`, requestOptions)).json();
-         if (videos.data && videos.data[0]) {
-            const lastActiveDate = new Date(videos.data[0].created_at);
-            return isLessThanMonth(lastActiveDate);
-         } else { return false; }
-      } catch (error) {
-         console.error(`Erro ao recuperar a información de Twitch`, error);
-         return false;
-      }
+      const users = await (await fetch(`${requestOptions.baseURL}/users?login=${twitchChannelLogin}`, requestOptions)).json();
+      const userId = users.data[0].id;
+      const videos = await (await fetch(`${requestOptions.baseURL}/videos?user_id=${userId}&first=1`, requestOptions)).json();
+      if (videos.data && videos.data[0]) {
+         const lastActiveDate = new Date(videos.data[0].created_at);
+         return isLessThanMonth(lastActiveDate);
+      } else { return false; }
    }
 
    function isLessThanMonth(date: Date) {
@@ -82,7 +72,12 @@ export default function () {
 
          for (const [index, page] of pages.entries()) {
             if (page.src.ext === ".md") { // To filter pages by extension
-               console.log(`${index+1}/${pages.length}`, `Comprobando actividade do proxecto ${page.data.title}:`, await checkActivity(page));
+               try {
+                  console.log(`${index + 1}/${pages.length}`, `Comprobando actividade do proxecto ${page.data.title}:`, await checkActivity(page));
+               } catch (error) {
+                  console.error(`Ocurriu un erro ao comprobar a canle ${page.data.title}.`, error);
+                  throw error;
+               }
             }
          }
       });
@@ -92,12 +87,12 @@ export default function () {
          if (page.data.redes.rss) {
             page.data.active = page.data.active || await checkRSSActivity(page.data.redes.rss);
          }
-         if (page.data.redes.youtube) {
+         if (page.data.redes.youtube && page.data.tags?.includes('youtube')) {
             const match = page.data.redes.youtube.match(regexYoutube);
             const youtubeChannelUUID = match[1];
             page.data.active = page.data.active || await checkYoutubeActivity(youtubeChannelUUID);
          }
-         if (page.data.redes.twitch) {
+         if (page.data.redes.twitch && page.data.tags?.includes('twitch')) {
             const match = page.data.redes.twitch.match(regexTwitch);
             const twitchChannelLogin = match[1];
             page.data.active = page.data.active || await checkTwitchActivity(twitchChannelLogin);

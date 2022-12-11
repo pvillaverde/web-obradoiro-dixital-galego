@@ -17,7 +17,7 @@ redes:
   spotify: https://open.spotify.com/show/2NXH6xxWbtPi1l3H6w32Du
   twitter: https://twitter.com/_Lobeira_today
   twitch: https://www.twitch.tv/a_lobeira_today
-  youtube: https://www.youtube.com/c/ALobeiraToday
+  youtube: https://www.youtube.com/channel/UCZZTH6dVk9k_ah6OpZ-w7ZA
 tags:
   - podcast
   - cinema

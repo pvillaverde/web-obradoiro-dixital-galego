@@ -11,7 +11,6 @@ redes:
   link: https://www.facebook.com/ToninhoMiguez/
   rss: https://www.spreaker.com/show/4761399/episodes/feed
   twitter: https://twitter.com/ToninhoMiguez
-  youtube: https://www.youtube.com/c/ToninhoM%C3%ADguez
 tags:
   - podcast
   - medio_rural
