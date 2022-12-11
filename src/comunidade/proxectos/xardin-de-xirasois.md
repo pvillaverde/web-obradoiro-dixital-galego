@@ -11,6 +11,7 @@ redes:
   link: https://open.spotify.com/show/6fLQkjcGA70CI4COBFCONo
   rss: https://anchor.fm/s/b402e194/podcast/rss
   mail: xardindexirasois@gmail.com
+  kofi: https://ko-fi.com/xardindexirasois
 tags:
   - podcast
   - autoaxuda
