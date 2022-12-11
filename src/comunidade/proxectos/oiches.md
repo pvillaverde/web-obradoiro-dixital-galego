@@ -18,6 +18,7 @@ redes:
   twitter: https://twitter.com/podgalego
 tags:
   - podcast
+  - asociado
   - entrevistas
   - podcasting
 ---

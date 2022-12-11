@@ -19,13 +19,14 @@ page_css: plugins.css
          </select>
 
          {% for tag in categorias.tags %}
-            <label class="button is-secondary is-color-{{ tag.id }}"  style="--background-active: {{tag.color}}; --acent: {{tag.color}}">
+            <label class="button is-secondary"  style="--background-active: {{tag.color}}; --acent: {{tag.color}}">
                <input type="checkbox" name="{{ tag.id }}">
                {{ tag.name }}
             </label>
          {% endfor %}
       </form>
 
+      <div id="result-info"></div>
       <ul class="plugins-list">
          {% for item in search.pages("type=proxecto", "date=desc") | data %}
             <li class="plugin {% if item.active %} is-enabled{% endif %}" data-tags="{{ item.tags }}">

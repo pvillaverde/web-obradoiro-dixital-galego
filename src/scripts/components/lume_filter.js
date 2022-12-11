@@ -57,18 +57,20 @@ export default class LumeFilter extends HTMLElement {
 
             tags.push(name);
          }
-
+         let showedItems = items.length;
          items.forEach((item) => {
             switch (status) {
                case "enabled":
                   if (!item.classList.contains("is-enabled")) {
                      item.hidden = true;
+                     showedItems--;
                      return;
                   }
                   break;
                case "disabled":
                   if (item.classList.contains("is-enabled")) {
                      item.hidden = true;
+                     showedItems--;
                      return;
                   }
                   break;
@@ -76,7 +78,12 @@ export default class LumeFilter extends HTMLElement {
             item.hidden = tags.length && (intersection ?
                !tags.every((tag) => item.dataset.tags.split(",").includes(tag)) :
                tags.every((tag) => !item.dataset.tags.split(",").includes(tag)));
+            if (item.hidden) {
+               showedItems--;
+            }
          });
+         const resultInfoElement = document.getElementById('result-info');
+         resultInfoElement.innerHTML = `Atopáronse <span class="found-results">${showedItems}</span> proxectos dun total de <span class="total-results">${items.length}</span>.`;
       }
    }
 }
