@@ -15,9 +15,11 @@ redes:
   rss: https://anchor.fm/s/51f98110/podcast/rss
   mail: mailto:info@viaxantas.gal
   twitter: https://twitter.com/viaxantas
-  youtube: https://www.youtube.com/watch?v=1ToK37dzFjI&list=PLB9S5D2DhKDiFLem_JeCk_yEhr6PUnazW
+  youtube: https://www.youtube.com/channel/UCyvNseunvowE45gGBxRiTpg
   telegram: https://t.me/viaxantas
 tags:
   - podcast
+  - youtube
+  - twitch
   - viaxes
 ---

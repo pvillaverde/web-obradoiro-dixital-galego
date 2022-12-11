@@ -9,7 +9,7 @@ redes:
   instagram: https://instagram.com/culturaluzes
   facebook: https://www.facebook.com/culturaatodasluzes
   link: https://luzes.gal/podcast/
-  rss: https://anchor.fm/cultura-luzes/
+  rss: https://anchor.fm/s/a7d3686c/podcast/rss
   twitter: https://twitter.com/culturaluzes
 tags:
   - podcast

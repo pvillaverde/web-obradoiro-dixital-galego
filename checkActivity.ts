@@ -62,7 +62,7 @@ export default function () {
       const enableCheckActivity = Deno.env.get("CHECK_ACTIVITY");
       if (!enableCheckActivity) return false;
       const regexYoutube = /https?:\/\/(?:www\.)?youtube\.com\/channel\/([A-Za-z0-9-_]{24})/;
-      const regexTwitch = /https:\/\/(?:www\.)?twitch\.tv\/([a-z0-9_]+)\/?/;
+      const regexTwitch = /https?:\/\/(?:www\.)?twitch\.tv\/([a-z0-9_]+)\/?/;
       site.addEventListener("beforeRender", async (event) => {
          if (!event.pages) return;
          const pages = event.pages.filter(p => p.data.type == 'proxecto').sort((a, b) => {

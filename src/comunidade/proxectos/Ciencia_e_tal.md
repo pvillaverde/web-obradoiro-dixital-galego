@@ -7,8 +7,11 @@ date: 2021-03-27 19:44:38
 type: proxecto
 tags:
   - youtube
+  - twitch
   - podcast
   - ciencia
+  - cultura
+  - deporte
   - divulgacion
   - entrevistas
   - humor
@@ -18,5 +21,5 @@ redes:
   link: https://www.ivoox.com/perfil-cienciaetal_aj_26189311_1.html
   rss: https://www.ivoox.com/ciencia-e-tal-temporada-1_fg_f11351092_filtro_1.xml
   twitter: https://twitter.com/cienciaetal
-  twitch: http://twitch.tv/cienciaetal
+  twitch: https://twitch.tv/cienciaetal
 ---
