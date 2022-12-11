@@ -12,7 +12,7 @@ type: proxecto
 tags:
   - youtube
   - podcast
-  - deportes
+  - deporte
   - humor
   - experimental
 redes:

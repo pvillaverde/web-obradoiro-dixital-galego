@@ -3,3 +3,4 @@ _cache
 deno.lock
 .env
 _bin
+_scripts

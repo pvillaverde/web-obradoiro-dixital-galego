@@ -14,6 +14,7 @@ tags:
   - podcast
   - divulgacion
   - saude
+  - muller
 redes:
   instagram: https://www.instagram.com/pingando_gal/
   link: https://www.ivoox.com/podcast-pingando-laura-veiga_sq_f11163197_1.html
