@@ -75,7 +75,7 @@ html[data-theme=dark] {
    width: 20px
 }
 
-@media (max-width:768px) {
+@media (max-width:1280px) {
 
    .DocSearch-Button-Keys,
    .DocSearch-Button-Placeholder {

@@ -3,13 +3,13 @@ layout: ./base.njk
 page_css: proxecto.css
 ---
 <main class="proxecto" data-pagefind-body data-pagefind-filter="Sección:Comunidade">
-   <header>
+   <header class="page-header">
       <figure>
          {% if img %}
             <img src="{{ img }}"  srcset="{{ img }}, {{ img | replace(".webp", "@2x.webp") }} 2x" alt="Logo de {{title}}" data-pagefind-meta="image[src], image_alt[alt]" >
          {% endif %}
          <figcaption>
-            <h1>
+            <h1 class="page-title">
                {{title}}
                {% if active %}
                   <span data-pagefind-ignore class="tag is-small" title="Este proxecto crea contido mensualmente">En activo</span>

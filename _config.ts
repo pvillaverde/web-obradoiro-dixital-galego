@@ -15,6 +15,10 @@ import mdFootnote from "https://jspm.dev/markdown-it-footnote";
 import ndIframe from "https://jspm.dev/markdown-it-iframe";
 import mdVideo from "https://jspm.dev/markdown-it-video";
 import checkActivity from "./checkActivity.ts";
+import readingTime from "https://raw.githubusercontent.com/lumeland/experimental-plugins/main/reading_time/mod.ts";
+import prism, { Options as PrismOptions } from "lume/plugins/prism.ts";
+import date from "lume/plugins/date.ts";
+import type { Page, Site } from "lume/core.ts";
 
 import pagefind from "lume/plugins/pagefind.ts";
 /* import pagefind from "../lume/plugins/pagefind.ts"; */
@@ -51,6 +55,8 @@ site
    .ignore("scripts")
    .copy("static", ".")
    .copy("_redirects")
+   .use(prism())
+   .use(readingTime())
    .use(pagefind({
       ui: {
          containerId: "search",
@@ -81,6 +87,9 @@ site
    .use(esbuild({
       extensions: [".js"],
    }))
+   .use(date({
+      locales: ["gl", "es"],
+   }))
    .use(resolveUrls())
    .use(imagick())
    .use(sitemap())
@@ -90,6 +99,11 @@ site
    .filter("slice", (arr, length) => arr.slice(0, length))
    .filter("channelTags", (allTags, channelTags) => allTags.filter((t: { id: string; }) => channelTags ? channelTags.some((ct: string) => ct == t.id) : false))
    .remoteFile("api/canles.tmpl.js", import.meta.resolve(`./src/api/canles.tmpl.js`))
+   .preprocess([".md"], (page: Page) => {
+     page.data.excerpt ??= (page.data.content as string).split(
+       /<!--\s*more\s*-->/i,
+     )[0];
+   })
    .process([".html"], (page) => {
       const doc = page.document!;
       const blocks = doc.querySelectorAll("lume-code");

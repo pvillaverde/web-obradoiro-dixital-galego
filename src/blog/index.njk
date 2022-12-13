@@ -1,0 +1,54 @@
+---
+layout: layouts/base.njk
+page_css: blog.css
+title: Blogue
+bodyClass: body-narrow
+menu:
+  visible: true
+  order: 9
+  title: Blogue
+  url: blog
+---
+
+{% set postslist = search.pages("type=post", "date=desc", 3) %}
+
+<main class="blog">
+
+   <header class="page-header">
+      <h1 class="page-title">{{ title }}</h1>
+      <div class="search" id="search"></div>
+   </header>
+
+   <section class="postList">
+      {% asyncEach post in postslist %}
+      <article class="post">
+         <header class="post-header">
+            <h2 class="post-title">
+               <a href="{{ post.data.url }}" {% if post.data.url == url %} aria-current="page"{% endif %}>
+                  {{ post.data.title or post.data.url }}
+               </a>
+            </h2>
+
+            {% set date = post.data.date %}
+            {% set tags = post.data.tags %}
+            {% set author = post.data.author %}
+            {% set readingTime = post.data.readingTime %}
+            {% include "templates/post-details.njk" %}
+         </header>
+
+         <div class="post-excerpt">
+            {{ post.data.excerpt | md | safe }}
+         </div>
+
+         <a href="{{ post.data.url }}" class="post-link">
+      Continuar lendo →
+    </a>
+      </article>
+      {% endeach %}
+   </section>
+
+   <hr>
+
+   <p>Máis artigos pódense atopar no <a href="/blog/archive/">arquivo</a>.</p>
+
+</main>
