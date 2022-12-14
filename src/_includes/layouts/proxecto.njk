@@ -6,7 +6,7 @@ page_css: proxecto.css
    <header class="page-header">
       <figure>
          {% if img %}
-            <img src="{{ img }}"  srcset="{{ img }}, {{ img | replace(".webp", "@2x.webp") }} 2x" alt="Logo de {{title}}" data-pagefind-meta="image[src], image_alt[alt]" >
+            <img src="{{ img | replace(r/\.(.*)$/, '.webp') }}"  srcset="{{ img | replace(r/\.(.*)$/, '.webp') }}, {{ img | replace(r/\.(.*)$/, '@2x.webp') }} 2x" alt="Logo de {{title}}" data-pagefind-meta="image[src], image_alt[alt]" >
          {% endif %}
          <figcaption>
             <h1 class="page-title">
@@ -30,7 +30,7 @@ page_css: proxecto.css
       <ul>
          {% for rede, ligazon in redes %}
             <li  class="social-link-{{rede}}">
-               <a target="_blank" href="{{ ligazon }}" title="{{ rede }}" >
+               <a target="_blank" href="{{ ligazon }}" title="{{ rede }}" rel="me">
                   <img src="/icons/social/{{ rede }}.svg" alt="{{ rede }}" inline>
                </a>
             </li>

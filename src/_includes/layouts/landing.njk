@@ -52,7 +52,7 @@ page_css: landing.css
       <lume-carousel role="region" aria-label="Showcase" tabindex="0" class="landing-examples-sites" id="examples">
          {% for item in search.pages("type=proxecto", "date=desc", 8) | data %}
             <a href="{{ item.url }}" title="{{ item.title }}: {{item.description}}" class="site-image">
-               <img src="{{ item.img }}" alt="{{ item.title }}" width="300" height="200">
+               <img src="{{ item.img | replace(r/\.(.*)$/, '.webp') }}" alt="{{ item.title }}" width="300" height="200">
             </a>
          {% endfor %}
          <a href="{{ examples.url }}" class="landing-examples-cta">{{ examples.more }}</a>
@@ -88,7 +88,7 @@ page_css: landing.css
                <blockquote class="landing-testimonials-quote">
                   {{ item.description | md | safe | truncate(200, true) }}
                   <cite class="landing-testimonial-caption">
-                     <img src="{{ item.img }}" srcset="{{ item.img }}, {{ item.img | replace(".webp", "@2x.webp") }} 2x" width="50" height="50" alt="{{ item.author }}">
+                     <img src="{{ item.img }}" srcset="{{ item.img | replace(r/\.(.*)$/, '.webp') }}, {{ item.img | replace(r/\.(.*)$/, '@2x.webp') }} 2x" width="50" height="50" alt="{{ item.author }}">
                      <a href="{{ item.url }}">
                         <strong>{{ item.title }}</strong>
                      </a>

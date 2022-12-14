@@ -33,7 +33,7 @@ page_css: plugins.css
                <figure class="site">
                   {% if item.img %}
                      <a href="{{ item.url }}" class="site-image">
-                        <img src="{{ item.img }}" alt="Logo de {{item.title}}" width="300" height="200">
+                        <img src="{{ item.img | replace(r/\.(.*)$/, '.webp') }}" alt="Logo de {{item.title}}" width="300" height="200">
                      </a>
                   {% endif %}
                   <figcaption class="site-description">
