@@ -26,6 +26,7 @@
       & a {
          text-decoration: none;
          color: inherit;
+
          &:hover {
             color: var(--color-foreground-1);
          }
@@ -110,4 +111,10 @@
 .post-link {
    display: inline-block;
    color: var(--color-primary);
+}
+
+.post img,
+.post code {
+   max-width: var(--max-width);
+   width: 75vw;
 }
