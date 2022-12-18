@@ -63,7 +63,7 @@ site
          showImages: true,
          showEmptyFilters: false,
          resetStyles: false,
-         /* translations: {
+         translations: {
             placeholder: "Buscar",
             clear_search: "Limpar",
             load_more: "Ver máis resultados",
@@ -75,7 +75,7 @@ site
             alt_search: "Non se atoparon resultados para [SEARCH_TERM]. Amosando no seu lugar resultados para [DIFFERENT_TERM]",
             search_suggestion: "Non se atoparon resultados para [SEARCH_TERM]. Probe unha das seguintes pesquisas:",
             searching: "Buscando [SEARCH_TERM]..."
-         } */
+         }
       },
    }))
    .use(netlifyCMS({ netlifyIdentity: true, }))
@@ -103,9 +103,9 @@ site
    .remoteFile("api/canles.tmpl.js", import.meta.resolve(`./src/api/canles.tmpl.js`))
    .remoteFile("api/canles.tmpl.js", import.meta.resolve(`./src/api/canles.tmpl.js`)) */
    .preprocess([".md"], (page: Page) => {
-     page.data.excerpt ??= (page.data.content as string).split(
-       /<!--\s*more\s*-->/i,
-     )[0];
+      page.data.excerpt ??= (page.data.content as string).split(
+         /<!--\s*more\s*-->/i,
+      )[0];
    })
    .process([".html"], (page) => {
       const doc = page.document!;
