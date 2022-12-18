@@ -40,10 +40,9 @@ page_css: proxecto.css
    <article>
       {{ content | safe }}
    </article>
-
-   {# <iframe 
-      src="https://www.ivoox.com/player_es_podcast_1207119_zp_1.html" 
-      style="border: 1px solid #FFFFFF;"
-</iframe> #}
-
+   {% if redes.rss %}
+      <aside>
+         {{ comp.podcastPlayer({ feedURL: redes.rss }) | safe }}
+      </aside>
+   {% endif %}
 </main>
