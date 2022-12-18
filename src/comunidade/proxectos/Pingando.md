@@ -19,6 +19,7 @@ tags:
 redes:
   instagram: https://www.instagram.com/pingando_gal/
   link: https://www.ivoox.com/podcast-pingando-laura-veiga_sq_f11163197_1.html
+  ivoox: https://www.ivoox.com/podcast-pingando-laura-veiga_sq_f11163197_1.html
   rss: https://www.ivoox.com/podcast-pingando-laura-veiga_fg_f11163197_filtro_1.xml
   spotify: https://open.spotify.com/show/7JvZSBEO546qXuOZ3OS3Ch
   twitter: https://twitter.com/PingandoG

@@ -9,6 +9,7 @@ redes:
   instagram: https://www.instagram.com/cbarros1789
   facebook: https://www.facebook.com/carlosbarrosg
   link: https://www.ivoox.com/podcast-historia-medieval-galicia_sq_f11475643_1.html
+  ivoox: https://www.ivoox.com/podcast-historia-medieval-galicia_sq_f11475643_1.html
   rss: https://www.ivoox.com/podcast-historia-medieval-galicia_fg_f11475643_filtro_1.xml
   twitter: https://twitter.com/cbarrosg
   youtube: https://www.youtube.com/channel/UCBXIzuludxS12tf-PM5dbQg

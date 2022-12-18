@@ -8,6 +8,7 @@ description: SONS REVELA2 é un programa de radio que fala de música, fotograf�
 redes:
   facebook: https://www.facebook.com/SONS-REVELA2-373958322767733/about/
   link: https://www.ivoox.com/podcast-sons-revela2_sq_f1419646_1.html
+  ivoox: https://www.ivoox.com/podcast-sons-revela2_sq_f1419646_1.html
   rss: https://www.ivoox.com/podcast-sons-revela2_fg_f1419646_filtro_1.xml
   mail: mailto:sonsrevela2@gmail.com
 tags:

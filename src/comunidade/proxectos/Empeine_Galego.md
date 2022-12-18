@@ -17,6 +17,7 @@ tags:
   - experimental
 redes:
   link: https://www.ivoox.com/podcast-empeine-galego_sq_f11076642_1.html
+  ivoox: https://www.ivoox.com/podcast-empeine-galego_sq_f11076642_1.html
   rss: https://www.ivoox.com/podcast-empeine-galego_fg_f11076642_filtro_1.xml
   twitter: https://twitter.com/empeinegalego
   youtube: https://www.youtube.com/channel/UCBmkHFBYl8ul6ZfddJlXnMA

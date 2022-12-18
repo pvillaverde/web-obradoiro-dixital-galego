@@ -14,6 +14,7 @@ description: |-
   Haverá tamém umha secçom fixa especializada em literatura lusófona. Co objectivo de achegar à audiência a literatura produzida noutros países na nossa língua, tentaremos espertar a curiosidade —senom o interesse— por obras clássicas e mais modernas, sem seguir umha estrita orde cronológica. As mais das vezes, podem estar relacionadas co tema geral do programa; ou todo o contrário, usando-as como sugestivo contraponto final.
 redes:
   link: https://www.ivoox.com/podcast-palavra-perduda_sq_f11260254_1.html
+  ivoox: https://www.ivoox.com/podcast-palavra-perduda_sq_f11260254_1.html
   rss: https://www.ivoox.com/palavra-perduda_fg_f11260254_filtro_1.xml
 tags:
   - podcast

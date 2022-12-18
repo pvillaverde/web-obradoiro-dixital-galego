@@ -19,6 +19,7 @@ redes:
   youtube: https://www.youtube.com/channel/UCBfGPINQOHUyTR-Wd3sLwbA
   instagram: https://www.instagram.com/ciencia_e_tal/
   link: https://www.ivoox.com/perfil-cienciaetal_aj_26189311_1.html
+  ivoox: https://www.ivoox.com/perfil-cienciaetal_aj_26189311_1.html
   rss: https://www.ivoox.com/ciencia-e-tal-temporada-1_fg_f11351092_filtro_1.xml
   twitter: https://twitter.com/cienciaetal
   twitch: https://twitch.tv/cienciaetal

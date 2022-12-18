@@ -8,6 +8,7 @@ description: '**Xeración Bravú** é o programa da xeración que vai vivir peor
 redes:
   facebook: https://www.facebook.com/xeracionbravu
   link: https://www.ivoox.com/podcast-xeracion-bravu_sq_f1165501_1.html
+  ivoox: https://www.ivoox.com/podcast-xeracion-bravu_sq_f1165501_1.html
   rss: https://www.ivoox.com/podcast-xeracion-bravu_fg_f1165501_filtro_1.xml
   twitter: https://twitter.com/xeracionbravu
 tags:

@@ -10,6 +10,7 @@ description: |-
   Cousas que se contan… escoita!
 redes:
   link: https://www.ivoox.com/podcast-un-ollo-vidro_sq_f11463975_1.html
+  ivoox: https://www.ivoox.com/podcast-un-ollo-vidro_sq_f11463975_1.html
   rss: https://www.ivoox.com/un-ollo-vidro_fg_f11463975_filtro_1.xml
   twitter: https://twitter.com/nubeseceos
 tags:

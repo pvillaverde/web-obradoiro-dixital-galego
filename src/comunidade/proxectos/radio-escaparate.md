@@ -12,6 +12,7 @@ redes:
   instagram: https://www.instagram.com/escaparateuvigo/
   facebook: https://www.facebook.com/EscaparateUvigo/
   link: https://www.ivoox.com/podcast-radio-escaparate_sq_f1630413_1.html
+  ivoox: https://www.ivoox.com/podcast-radio-escaparate_sq_f1630413_1.html
   rss: https://www.ivoox.com/podcast-radio-escaparate_fg_f1630413_filtro_1.xml
   twitter: https://twitter.com/EscaparateUVigo
   youtube: https://www.youtube.com/channel/UCQpna59cXlTytTJbkVK0-UQ

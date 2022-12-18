@@ -12,6 +12,7 @@ redes:
   instagram: https://www.instagram.com/pablochichas/
   facebook: https://www.facebook.com/PabloChichas/
   link: https://www.ivoox.com/podcast-salta-da-cama_sq_f1323089_1.html
+  ivoox: https://www.ivoox.com/podcast-salta-da-cama_sq_f1323089_1.html
   rss: https://www.ivoox.com/podcast-salta-da-cama_fg_f1323089_filtro_1.xml
   mail: mailto:pablo.comunicando@gmail.com
   twitter: https://twitter.com/pablochichas

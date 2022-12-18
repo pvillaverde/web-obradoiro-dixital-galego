@@ -11,6 +11,7 @@ description: |-
 redes:
   instagram: https://www.instagram.com/lapisepapel_gal/
   link: https://www.ivoox.com/podcast-lapis-e-papel_sq_f1736400_1.html
+  ivoox: https://www.ivoox.com/podcast-lapis-e-papel_sq_f1736400_1.html
   rss: https://br.ivoox.com/pt/ptpodcast-lapis-e-papel_fg_f1736400_filtro_1.xml
   twitter: https://twitter.com/lapisepapel_gal
 tags:

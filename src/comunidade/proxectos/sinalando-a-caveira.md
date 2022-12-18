@@ -18,6 +18,7 @@ redes:
   instagram: https://www.instagram.com/brancatrigo/
   facebook: https://www.facebook.com/blanca.trigocabaleiro.5
   link: https://www.ivoox.com/podcast-sinalando-a-caveira_sq_f11603000_1.html
+  ivoox: https://www.ivoox.com/podcast-sinalando-a-caveira_sq_f11603000_1.html
   rss: https://www.ivoox.com/sinalando-a-caveira_fg_f11603000_filtro_1.xml
   twitter: https://twitter.com/feracorrupia
   twitch: https://www.twitch.tv/feracorrupia

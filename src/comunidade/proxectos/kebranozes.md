@@ -10,6 +10,7 @@ description: |-
   Aceptamos contribucións e propostas de colaboración en: <a rel="noreferrer noopener" href="mailto:kebranozes.kalimera@gmail.com" target="_blank">kebranozes.kalimera@gmail.com</a>
 redes:
   link: https://www.ivoox.com/perfil-kebranozes_a8_listener_28926187_1.html
+  ivoox: https://www.ivoox.com/perfil-kebranozes_a8_listener_28926187_1.html
   rss: https://www.ivoox.com/podcast-kebranozes_fg_f11567243_filtro_1.xml
 tags:
   - podcast

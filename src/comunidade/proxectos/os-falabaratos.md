@@ -10,6 +10,7 @@ description: |-
   Cando non temos claras as nosas opinións, invitamos a expertos.
 redes:
   link: https://www.ivoox.com/podcast-os-falabaratos_sq_f11199562_1.html
+  ivoox: https://www.ivoox.com/podcast-os-falabaratos_sq_f11199562_1.html
   rss: https://www.ivoox.com/podcast-os-falabaratos_fg_f11199562_filtro_1.xml
   twitter: https://twitter.com/falabaratos
 tags:

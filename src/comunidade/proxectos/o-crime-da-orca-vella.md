@@ -11,6 +11,7 @@ description: |-
 redes:
   facebook: https://www.facebook.com/concellodefisterra/posts/pfbid0eoTDQCbGtUWwjh2HRcYvNMVqcc4YkZL2yZ4R54eKnk7GbSFEjuzmj3dm9tnuKH5hl
   link: https://www.ivoox.com/podcast-escola-de-teatro-fisterra-o-crime-da_sq_f11366840_1.html
+  ivoox: https://www.ivoox.com/podcast-escola-de-teatro-fisterra-o-crime-da_sq_f11366840_1.html
   rss: https://www.ivoox.com/escola-de-teatro-fisterra-o-crime-da_fg_f11366840_filtro_1.xml
 tags:
   - podcast

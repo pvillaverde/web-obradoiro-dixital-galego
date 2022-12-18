@@ -9,6 +9,7 @@ redes:
   instagram: https://www.instagram.com/lamadriguera.roots.dub/
   facebook: https://www.facebook.com/lamadrigueraroots
   link: https://www.ivoox.com/podcast-podcast-la-madriguera_sq_f1106231_1.html
+  ivoox: https://www.ivoox.com/podcast-podcast-la-madriguera_sq_f1106231_1.html
   rss: https://www.ivoox.com/feed_fg_f1106231_filtro_1.xml
 tags:
   - podcast

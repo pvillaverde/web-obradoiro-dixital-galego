@@ -8,6 +8,7 @@ description: Podcast en galego para analizar a Historia de Galicia. O principal 
 redes:
   facebook: https://www.facebook.com/xoubasSCQ/
   link: https://www.ivoox.com/podcast-xoubas_sq_f1424134_1.html
+  ivoox: https://www.ivoox.com/podcast-xoubas_sq_f1424134_1.html
   rss: https://www.ivoox.com/xoubas_fg_f1424134_filtro_1.xml
   twitter: https://twitter.com/XOUBASscq
 tags:

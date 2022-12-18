@@ -14,6 +14,7 @@ description: |-
   **Podes tamén escoitalo en [castelán](https://www.ivoox.com/podcast-en-fondo_sq_f11248579_1.html) ou [inglés](https://www.ivoox.com/podcast-deep-down_sq_f11248637_1.html).**
 redes:
   link: https://www.ivoox.com/podcast-no-fondo_sq_f11248426_1.html
+  ivoox: https://www.ivoox.com/podcast-no-fondo_sq_f11248426_1.html
   rss: https://www.ivoox.com/no-fondo_fg_f11248426_filtro_1.xml
   twitter: https://twitter.com/raquelcoutoante
 tags:

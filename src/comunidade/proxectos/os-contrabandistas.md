@@ -11,6 +11,7 @@ description: |-
 redes:
   facebook: https://www.facebook.com/oscontrabandistas/
   link: https://www.ivoox.com/podcast-os-contrabandistas_sq_f1913952_1.html
+  ivoox: https://www.ivoox.com/podcast-os-contrabandistas_sq_f1913952_1.html
   rss: https://www.ivoox.com/podcast-os-contrabandistas_fg_f1913952_filtro_1.xml
   wordpress: http://grandesvozes.com/pt/contrabandistas
 tags:

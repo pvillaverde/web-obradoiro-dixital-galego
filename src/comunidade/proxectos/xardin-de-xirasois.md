@@ -9,6 +9,7 @@ redes:
   instagram: ' http://www.instagram.com/xardindexirasois'
   facebook: https://www.facebook.com/xardindexirasois
   link: https://open.spotify.com/show/6fLQkjcGA70CI4COBFCONo
+  spotify: https://open.spotify.com/show/6fLQkjcGA70CI4COBFCONo
   rss: https://anchor.fm/s/b402e194/podcast/rss
   mail: xardindexirasois@gmail.com
   kofi: https://ko-fi.com/xardindexirasois

@@ -10,6 +10,7 @@ description: |-
   Escrito, realizado e narrado por **Samuel Lago**.
 redes:
   link: https://www.ivoox.com/podcast-historias-dun-pirata_sq_f11351366_1.html
+  ivoox: https://www.ivoox.com/podcast-historias-dun-pirata_sq_f11351366_1.html
   rss: https://www.ivoox.com/historias-dun-pirata_fg_f11351366_filtro_1.xml
   twitter: https://twitter.com/Samuellago17
   youtube: https://www.youtube.com/channel/UCGkvowbWAYxAWIU8jJO6D1Q

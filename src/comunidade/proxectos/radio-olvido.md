@@ -11,6 +11,7 @@ description: |-
 redes:
   instagram: https://www.instagram.com/radio.olvido
   link: https://www.ivoox.com/podcast-radio-olvido_sq_f1915783_1.html
+  ivoox: https://www.ivoox.com/podcast-radio-olvido_sq_f1915783_1.html
   rss: https://www.ivoox.com/radio-olvido_fg_f1915783_filtro_1.xml
   twitter: https://twitter.com/RadioOlvido
 tags:

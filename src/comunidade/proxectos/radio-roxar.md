@@ -9,6 +9,7 @@ redes:
   instagram: https://instagram.com/coledecea
   facebook: https://www.facebook.com/coledeCea/
   link: https://www.ivoox.com/podcast-radio-roxar_sq_f11091468_1.html
+  ivoox: https://www.ivoox.com/podcast-radio-roxar_sq_f11091468_1.html
   rss: https://www.ivoox.com/radio-roxar_fg_f11091468_filtro_1.xml
   twitter: https://twitter.com/coledecea
   youtube: https://www.youtube.com/channel/UCsVKHU-VKxDF0SmvT87Q-qw

@@ -18,6 +18,7 @@ redes:
   instagram: https://www.instagram.com/contacontosengalego/
   facebook: https://www.facebook.com/Contacontos-en-galego-103077331899481
   link: https://www.ivoox.com/podcast-contacontos-galego_sq_f11234003_1.html
+  ivoox: https://www.ivoox.com/podcast-contacontos-galego_sq_f11234003_1.html
   rss: https://www.ivoox.com/contacontos-galego_fg_f11234003_filtro_1.xml
   youtube: https://www.youtube.com/channel/UCoz8UfIxXJhcZUcrdlw3OMQ
 ---

@@ -14,6 +14,7 @@ redes:
   youtube: https://www.youtube.com/channel/UC7DHFMrkI60HPI_u8I-2EDg
   facebook: https://www.facebook.com/comerefalartodoecomezar/
   link: https://www.ivoox.com/podcast-comer-e-falar-todo-e-comezar-si-radio-galicia_sq_f1435132_1.html
+  ivoox: https://www.ivoox.com/podcast-comer-e-falar-todo-e-comezar-si-radio-galicia_sq_f1435132_1.html
   rss: https://www.ivoox.com/podcast-comer-e-falar-todo-e-comezar-si-radio-galicia_fg_f1435132_filtro_1.xml
   mail: mailto:comerefalarsiradio@gmail.com
   twitter: https://twitter.com/comer_e_falar

@@ -12,6 +12,7 @@ tags:
   - videoxogos
 redes:
   link: https://www.ivoox.com/podcast-o-antro-do-pixel_sq_f1631637_1.html
+  ivoox: https://www.ivoox.com/podcast-o-antro-do-pixel_sq_f1631637_1.html
   rss: https://www.ivoox.com/podcast-o-antro-do-pixel_fg_f1631637_filtro_1.xml
   youtube: https://www.youtube.com/channel/UCgUB8RfTsoI4teIDXuU-Ejg
 ---
