@@ -9,8 +9,8 @@ description: |-
 
   **Equipo:** Gonzalo Louzao e Antonio Felpeto
 redes:
-  link: ' https://www.ivoox.com/podcast-descifrando-a-historia_sq_f11062871_1.html
-  ivoox: ' https://www.ivoox.com/podcast-descifrando-a-historia_sq_f11062871_1.html'
+  link: https://www.ivoox.com/podcast-descifrando-a-historia_sq_f11062871_1.html
+  ivoox: https://www.ivoox.com/podcast-descifrando-a-historia_sq_f11062871_1.html
   rss: http://www.ivoox.com/os-outros-feirantes_fg_f1472443_filtro_1.xml
 tags:
   - podcast

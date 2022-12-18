@@ -1,14 +1,15 @@
-export const url = "/api/youtube.json";
+export const url = "/api/twitch.json";
+
 export default function ({ search }) {
-   const regex = /https?:\/\/(?:www\.)?youtube\.com\/channel\/([A-Za-z0-9-_]{24})/;
+   const regex = /https?:\/\/(?:www\.)?twitch\.tv\/([a-z0-9_]+)\/?/;
    const items = [];
-   for (const item of search.pages("type=proxecto youtube", "title=asc")) {
-      if (item.data.redes && item.data.redes.youtube) {
-         const match = item.data.redes.youtube.match(regex);
-         const channelId = match[1]; // UCdQohUqp3v3gU_r5X7p5VZQ
+   for (const item of search.pages("type=proxecto twitch", "title=asc")) {
+      if (item.data.redes && item.data.redes.twitch) {
+         const match = item.data.redes.twitch.match(regex);
+         const twitchChannelLogin = match[1]; // galizangamer
          const itemInfo = {
             title: item.data.title,
-            youtube: channelId,
+            twitch: twitchChannelLogin,
          }
          if (item.data.redes.twitter) {
             itemInfo.twitter = "@" + item.data.redes.twitter.match(/twitter\.com\/([^/]+)/)[1];

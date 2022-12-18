@@ -98,7 +98,10 @@ site
    )
    .filter("slice", (arr, length) => arr.slice(0, length))
    .filter("channelTags", (allTags, channelTags) => allTags.filter((t: { id: string; }) => channelTags ? channelTags.some((ct: string) => ct == t.id) : false))
+   // Os Remote filees é para importar arquivos remotos coma se fosen locais. https://lume.land/docs/core/remote-files/#override-remote-files
+   /* .remoteFile("api/canles.tmpl.js", import.meta.resolve(`./src/api/canles.tmpl.js`))
    .remoteFile("api/canles.tmpl.js", import.meta.resolve(`./src/api/canles.tmpl.js`))
+   .remoteFile("api/canles.tmpl.js", import.meta.resolve(`./src/api/canles.tmpl.js`)) */
    .preprocess([".md"], (page: Page) => {
      page.data.excerpt ??= (page.data.content as string).split(
        /<!--\s*more\s*-->/i,
