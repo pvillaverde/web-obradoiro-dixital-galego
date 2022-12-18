@@ -18,7 +18,7 @@ export default function (
          id: url(post.data.url, true),
          url: url(post.data.url, true),
          title: post.data.title,
-         content_html: htmlUrl(md(post.data.excerpt || post.data.content), true),
+         content_html: htmlUrl(md(post.data.content || post.data.excerpt), true),
          date_published: date(post.data.date, "ATOM"),
       });
    }

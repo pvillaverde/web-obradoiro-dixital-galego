@@ -14,7 +14,7 @@
          <link href="{{ post.data.url | url(true) }}"/>
          <updated>{{ post.data.date | date("ATOM") }}</updated>
          <id>{{ post.data.url | url(true) }}</id>
-         {% set content = post.data.excerpt or post.data.content %}
+         {% set content = post.data.content or post.data.excerpt %}
          <content type="html">{{ content | md | htmlUrl(true) }}</content>
       </entry>
    {%- endfor %}
