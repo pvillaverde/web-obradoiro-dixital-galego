@@ -8,6 +8,11 @@ page_css: blog.css
       <h1 class="post-title">{{ title }}</h1>
 
       {% include "templates/post-details.njk" %}
+      {% if img %}
+         <figure>
+            <img src="{{ img | replace(r/\.(.*)$/, '.webp') }}" alt="{{imgalt}}" title="{{imgalt}}">
+         </figure>
+      {% endif %}
    </header>
 
    <div class="post-body">

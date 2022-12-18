@@ -2,6 +2,24 @@
    list-style: none;
    padding: 0;
 
+   & .post {
+      display: flex;
+      flex-direction: row;
+
+      & figure {
+         flex: 3;
+         margin: 0 10px 0 0;
+      }
+
+      & main {
+         flex: 7;
+      }
+
+      & img {
+         max-width: 100%;
+      }
+   }
+
    & article.post+article.post {
       margin-top: var(--row-gap-2);
    }
@@ -32,6 +50,7 @@
          }
       }
    }
+
 }
 
 .post-header {
@@ -117,4 +136,12 @@
 .post code {
    max-width: var(--max-width);
    width: 75vw;
+}
+
+.post img {
+   border-radius: .75rem;
+}
+
+.post figure {
+   margin: 20px 0 0 0;
 }

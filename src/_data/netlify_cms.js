@@ -166,9 +166,10 @@ const novas = t.folder("Novas", "/src/blog/posts", [
    t.string("title").required(true).hint('Título da nova.'),
    t.hidden("author").default("Obradoiro Dixital Galego").required(true).hint('Quén escribiu a nova? Por defecto "Obradoiro Dixital Galego".'),
    t.image("img").hint('Imaxe de portada da nova.'),
+   t.string("imgalt").hint('Texto alternativo da imaxe de portada (para os lectores de pantalla)'),
    t.list("tags").collapsed(false).hint('Categorías para clasificar as novas'),
    t.datetime("date").required(true).timeFormat(false).dateFormat('yyyy-MM-DD'),
-   t.markdown("Body").required(true),
+   t.markdown("Body").required(true).hint("O texto da nova. Podes engadir <!--more--> onde queiras que se corte o extracto da nova"),
 ])
    .description("Aquí podes editar as novas que se publican na web")
    .sortableFields("title", "date")
@@ -177,7 +178,7 @@ const novas = t.folder("Novas", "/src/blog/posts", [
    .mediaFolder("/src/img/blog")
    .publicFolder("/img/blog")
    .create(true).delete(true)
-   .slug("{{title}}");
+   .slug("{{year}}-{{month}}-{{day}}_{{title}}");
 
 export default {
    backend: {
