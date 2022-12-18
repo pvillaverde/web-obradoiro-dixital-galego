@@ -12,6 +12,7 @@ redes:
   mail: aolestedonorte@gmail.com
   twitter: https://twitter.com/AoLesteDoNorte
 tags:
+  - asociado
   - podcast
   - cultura
   - emigracion

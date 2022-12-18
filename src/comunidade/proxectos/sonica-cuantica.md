@@ -12,6 +12,7 @@ redes:
   link: http://www.radiocampusculturae.org/sonica-cuantica/
   rss: https://www.ivoox.com/podcast-sonica-cuantica_fg_f1766325_filtro_1.xml
 tags:
+  - asociado
   - podcast
   - musica
 ---

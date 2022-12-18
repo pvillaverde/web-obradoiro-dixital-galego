@@ -11,6 +11,7 @@ redes:
   rss: https://anchor.fm/s/172bc0e8/podcast/rss
   twitter: http://twitter.com/XabierRolan
 tags:
+  - asociado
   - podcast
   - tecnoloxia
 ---

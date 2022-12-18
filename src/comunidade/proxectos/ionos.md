@@ -11,6 +11,7 @@ redes:
   rss: https://anchor.fm/s/47a451e0/podcast/rss
   telegram: https://t.me/ionos_podcast
 tags:
+  - asociado
   - podcast
   - bandadesenhada
   - musica

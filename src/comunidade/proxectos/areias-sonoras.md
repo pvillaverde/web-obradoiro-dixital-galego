@@ -14,6 +14,7 @@ redes:
   twitter: https://twitter.com/homedareia
   tumblr: https://areiassonoras.tumblr.com/
 tags:
+  - asociado
   - podcast
   - experimental
   - persoal

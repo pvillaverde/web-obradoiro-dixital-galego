@@ -9,6 +9,7 @@ redes:
   link: https://ateneodesantiago.gal/radio/programas/32/gastro-radio
   rss: https://www.spreaker.com/show/4917755/episodes/feed
 tags:
+  - asociado
   - podcast
   - cultura
   - cozinha

@@ -3,7 +3,7 @@ layout: layouts/proxecto.njk
 img: /img/comunidade/viaxantas.webp
 date: "2021-01-20"
 type: proxecto
-title: Viaxantas
+title: Viaxantas - Cris Terceiro
 description: |-
   Viaxantas é un podcast mensual en galego para os amantes das viaxes, as experiencias e a boa comida.
 
@@ -16,8 +16,10 @@ redes:
   mail: mailto:info@viaxantas.gal
   twitter: https://twitter.com/viaxantas
   youtube: https://www.youtube.com/channel/UCyvNseunvowE45gGBxRiTpg
+  twitch: https://www.twitch.tv/cristerceiro
   telegram: https://t.me/viaxantas
 tags:
+  - asociado
   - podcast
   - youtube
   - twitch

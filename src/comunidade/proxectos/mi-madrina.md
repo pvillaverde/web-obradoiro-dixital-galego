@@ -11,6 +11,7 @@ redes:
   mail: mailto:mimadrinalondon@gmail.com
   twitter: https://twitter.com/londonmadrina
 tags:
+  - asociado
   - podcast
   - emigracion
   - magazine

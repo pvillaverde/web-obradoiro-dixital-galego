@@ -12,6 +12,7 @@ redes:
   mail: mailto:gtcomunicacion.gal@asfes.org
   twitter: https://twitter.com/ASF_Habitando
 tags:
+  - asociado
   - podcast
   - arquitectura
   - social

@@ -12,6 +12,7 @@ redes:
   mail: mailto:radiomanoplas@riseup.net
   twitter: https://twitter.com/radiomanoplas
 tags:
+  - asociado
   - podcast
   - entrevistas
 ---

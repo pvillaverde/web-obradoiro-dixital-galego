@@ -10,6 +10,7 @@ date: 2021-09-28 20:49:46
 platform: youtube
 type: proxecto
 tags:
+  - asociado
   - youtube
   - podcast
   - actualidade

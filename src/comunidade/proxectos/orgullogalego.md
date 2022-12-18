@@ -8,6 +8,7 @@ description: "\U0001F4A5\U0001F4A5 Ti podes contribuir a que este tipo de contid
 date: 2021-01-01 12:25:07.077937
 type: proxecto
 tags:
+  - asociado
   - twitch
   - youtube
   - podcast

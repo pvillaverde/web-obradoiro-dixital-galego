@@ -10,6 +10,7 @@ redes:
   rss: https://www.spreaker.com/show/1922320/episodes/feed
   twitter: https://twitter.com/facemoshistoria
 tags:
+  - asociado
   - podcast
   - ensino
   - historia

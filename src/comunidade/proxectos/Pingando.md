@@ -10,6 +10,7 @@ date: 2020-09-10 06:33:20
 platform: youtube
 type: proxecto
 tags:
+  - asociado
   - youtube
   - podcast
   - divulgacion

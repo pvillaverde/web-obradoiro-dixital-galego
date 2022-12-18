@@ -7,6 +7,7 @@ platform: twitch
 type: proxecto
 title: Galizan Gamer
 tags:
+  - asociado
   - youtube
   - twitch
   - videoxogos
