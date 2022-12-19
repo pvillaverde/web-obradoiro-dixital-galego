@@ -20,7 +20,7 @@ page_css: plugins.css
 
          {% for tag in categorias.tags %}
             <label class="button is-secondary"  style="--background-active: {{tag.color}}; --acent: {{tag.color}}">
-               <input type="checkbox" name="{{ tag.id }}">
+               <input type="checkbox" name="{{ tag.id }}"  {% if tag.id == 'asociado' %} checked {% endif %}>
                {{ tag.name }}
             </label>
          {% endfor %}
