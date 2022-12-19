@@ -1,6 +1,6 @@
 ---
 title: Podgalego
-description: Agrupación de podcasts e farangullos en galego
+description: Agrupación de podcasts e falangullos en galego
 order: 3
 ---
 
