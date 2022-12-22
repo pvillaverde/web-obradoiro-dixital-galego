@@ -14,7 +14,12 @@ tags:
   - youtube
   - podcast
   - videoxogos
+  - culturapopular
 redes:
   twitch: https://twitch.tv/recunchogamer
   youtube: https://www.youtube.com/channel/UCqbohZKRrOTtvsR2H1Qjwig
+  discord: https://discord.gg/9VZC4Wnfdc
+  rss: https://www.ivoox.com/feed_fg_f11092284_filtro_1.xml
+  ivoox: https://www.ivoox.com/podcast-recuncho-gamer-podcast_sq_f11092284_1.html
+  twitter: https://twitter.com/RecunchoGamer
 ---

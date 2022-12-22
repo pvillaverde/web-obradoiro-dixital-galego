@@ -185,3 +185,39 @@ tags:
   - id: diversidade
     name: Diversidade funcional
     color: "#6ae3d9"
+  - id: antropoloxia
+    name: Antropoloxía
+    color: "#cccccc"
+  - id: arquitectura
+    name: Arquitectura
+    color: "#cccccc"
+  - id: autoaxuda
+    name: Autoaxuda
+    color: "#cccccc"
+  - id: saude
+    name: Saúde
+    color: "#cccccc"
+  - id: muller
+    name: Muller
+    color: "#cccccc"
+  - id: galiza
+    name: Galiza
+    color: "#cccccc"
+  - id: infantil
+    name: Infantil
+    color: "#cccccc"
+  - id: maternidade
+    name: Maternidade
+    color: "#cccccc"
+  - id: crime
+    name: Crime
+    color: "#cccccc"
+  - id: lusofonia
+    name: Lusofonía
+    color: "#cccccc"
+  - id: misterio
+    name: Misterio
+    color: "#cccccc"
+  - id: oral
+    name: Oral
+    color: "#cccccc"

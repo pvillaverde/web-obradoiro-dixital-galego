@@ -18,11 +18,11 @@ date: 2020-04-09 10:30:11.312203
 platform: twitch
 title: A Lobeira Today
 tags:
+  - asociado
   - twitch
   - youtube
   - podcast
   - entrevistas
-  - asociado
   - alimentacion
   - arte
   - lingua

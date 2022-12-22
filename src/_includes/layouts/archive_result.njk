@@ -1,0 +1,14 @@
+---
+layout: layouts/base.njk
+bodyClass: body-default
+page_css: blog.css
+---
+<header class="page-header">
+   <p>
+      <a href="/blog/archive/">← Atrás</a>
+   </p>
+   <h1 class="page-title">{{ title }}</h1>
+</header>
+
+{% set postslist = search.pages(search_query) %}
+{% include "templates/post-list.njk" %}

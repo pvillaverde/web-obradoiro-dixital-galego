@@ -1,0 +1,63 @@
+---
+layout: layouts/base.njk
+page_css: blog.css
+title: Novas
+bodyClass: body-default
+menu:
+  visible: true
+  order: 9
+  title: Novas
+  url: blog
+---
+
+{% set postslist = search.pages("type=post", "date=desc", 3) %}
+
+<main class="blog">
+
+   <header class="page-header">
+      <h1 class="page-title">{{ title }}</h1>
+      <div class="feeds">
+         <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="3" cy="13" r="2" fill="currentColor"/><path d="M14 13C14 6.925 9.075 2 3 2M9 13a6 6 0 0 0-6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg> RSS:
+    <a href="/blog/feed.xml">Atom</a>, <a href="/blog/feed.json">JSON</a>
+      </div>
+      {# <div class="search" id="search"></div> #}
+   </header>
+
+   <section class="postList">
+      {% asyncEach post in postslist %}
+      <article class="post">
+         {% if post.data.img %}
+            <figure>
+               <img src="{{ post.data.img | replace(r/\.(.*)$/, '.webp') }}" alt="{{post.data.imgalt}}" title="{{post.data.imgalt}}">
+            </figure>
+         {% endif %}
+         <main>
+            <header class="post-header">
+               <h2 class="post-title">
+                  <a href="{{ post.data.url }}" {% if post.data.url == url %} aria-current="page"{% endif %}>
+                     {{ post.data.title or post.data.url }}
+                  </a>
+               </h2>
+
+               {% set date = post.data.date %}
+               {% set tags = post.data.tags %}
+               {% set author = post.data.author %}
+               {% set readingTime = post.data.readingTime %}
+               {% include "templates/post-details.njk" %}
+            </header>
+
+            <div class="post-excerpt">
+               {{ post.data.excerpt | md | safe }}
+            </div>
+
+            <a href="{{ post.data.url }}" class="post-link">Continuar lendo →</a>
+         </main>
+      </article>
+      {% endeach %}
+   </section>
+
+   <hr>
+
+   <p>Máis artigos pódense atopar no <a href="/blog/archive/">arquivo</a>.</p>
+
+</main>

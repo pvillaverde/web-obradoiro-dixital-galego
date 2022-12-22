@@ -23,12 +23,14 @@ features:
       redes de difusión](/docs/sobre-nos/redes/) automatizadas e nos nosos eventos.
   - title: Colaboracións
     img: /icons/colaboracion.svg
-    description: Xeramos os puntos de encontro de persoas creadores de contido e
-      fomentamos a colaboración entre elas.
+    url: /docs/sobre-nos/galegotwitch/#eventos
+    description: Xeramos os [puntos de encontro](/docs/sobre-nos/galegotwitch/#eventos) de persoas creadores de contido e
+      fomentamos as sinerxias e colaboración entre elas.
   - title: Formación
     img: /icons/formacion.svg
-    description: Asesoramos e prestamos asistencia ás persoas creadores de contido
-      ou con intención de crear contido en galego.
+    url: /docs/recursos/multimedia/
+    description: Proporcionamos [recursos, asesoramos e prestamos asistencia](/docs/recursos/multimedia/) ás persoas creadores de contido
+      ou con intención de crear contido.
   - title: Dinamizar a lingua
     img: /icons/lingua.svg
     description: Establecemos redes de cooperación con centros educativos para
@@ -40,7 +42,7 @@ examples:
 support:
   title: Plataformas nas que estamos presentes
   sponsors:
-    - name: Podgalego - A agrupación de podcasts e farangullos en galego
+    - name: Podgalego - A agrupación de podcasts e falangullos en galego
       url: https://podgalego.agora.gal
       img: /img/avatars/platforms/podcast.webp
     - name: Twitch - A plataforma de retransmisións en directos.
@@ -63,19 +65,19 @@ support:
 
       - Asina a [petición pra incluír o galego en Twitch](https://twitch.uservoice.com/forums/310210-discover-browsing-and-searching/suggestions/41359657-add-galician-option-on-live-stream-information-set).
 
-      - Siguenos nas nosas redes sociais e difunde o contido en galego.
+      - Siguenos nas [nosas redes sociais](/docs/sobre-nos/redes/) e difunde o contido en galego.
 
       - Únete e participa ou fai as túas preguntas na comunidade de [Discord](https://discord.gg/pTbpHp9zwE).
 testimonials:
-  title: Proxectos activos da comunidade
+  title: Proxectos activos asociados na comunidade
 faq:
   title: FAQs
   description: Tes algunha pregunta? Non o dubides e ponte en contacto con nós en
     [obradoirodixitalgalego@gmail.com](mailto:obradoirodixitalgalego@gmail.com)
   questions:
     - title: Cómo se determina que proxectos están activos?
-      answer: Actualmente consideramos activas as canles e farangullos que xeran
+      answer: Actualmente consideramos activas as canles e falangullos que xeran
         contido polo menos unha vez ó mes.
     - title: Hai algún xeito de buscar por temática?
-      answer: Si! Con esta web podes entrar en [comunidade](/comunidade) e utilizar
-        os filtros para buscar polas categorías que máis che presten.
+      answer: Si! Podes entrar en [comunidade](/comunidade) e utilizar
+        os filtros para buscar polas categorías que máis che presten. Tamén podes utilizar o buscador que hai no menú superior e buscar a temática que che interese.

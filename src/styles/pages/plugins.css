@@ -68,6 +68,21 @@
    }
 }
 
+#result-info {
+   margin-top: var(--row-gap-1);
+   font: var(--text-caption);
+   color: var(--color-foreground-1);
+   font-weight: 600;
+
+   & .found-results {
+      color: var(--color-yellow-800);
+   }
+
+   & .total-results {
+      color: var(--color-foreground-1);
+   }
+}
+
 .plugin-info {
    font: var(--text-caption);
    color: var(--color-foreground-1);

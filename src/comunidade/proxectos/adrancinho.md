@@ -10,6 +10,7 @@ active: false
 platform: twitch
 type: proxecto
 tags:
+  - asociado
   - twitch
 redes:
   twitch: https://twitch.tv/adrancinho

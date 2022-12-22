@@ -9,6 +9,7 @@ date: 2021-02-19 10:48:53.734791
 active: false
 platform: twitch
 tags:
+  - asociado
   - twitch
   - youtube
   - ensino
@@ -16,4 +17,5 @@ file: pablorodriguezvila
 redes:
   twitch: https://www.twitch.tv/pablorodriguezvila
   youtube: https://www.youtube.com/channel/UCxYITFwMH_hxgBS6kIXPirw
+  discord: https://discord.gg/376SSfaSvj
 ---

@@ -9,7 +9,7 @@ page_css: plugins.css
       {{ description | md | safe }}
    </header>
 
-   <lume-filter intersection="true">
+   <lume-filter>
       <form class="plugins-filter">
          <input type="hidden" name="intersection" value="true"/>
          <select name="status" class="selector">
@@ -19,20 +19,21 @@ page_css: plugins.css
          </select>
 
          {% for tag in categorias.tags %}
-            <label class="button is-secondary is-color-{{ tag.id }}"  style="--background-active: {{tag.color}}; --acent: {{tag.color}}">
-               <input type="checkbox" name="{{ tag.id }}">
+            <label class="button is-secondary"  style="--background-active: {{tag.color}}; --acent: {{tag.color}}">
+               <input type="checkbox" name="{{ tag.id }}"  {% if tag.id == 'asociado' %} checked {% endif %}>
                {{ tag.name }}
             </label>
          {% endfor %}
       </form>
 
+      <div id="result-info"></div>
       <ul class="plugins-list">
          {% for item in search.pages("type=proxecto", "date=desc") | data %}
             <li class="plugin {% if item.active %} is-enabled{% endif %}" data-tags="{{ item.tags }}">
                <figure class="site">
                   {% if item.img %}
                      <a href="{{ item.url }}" class="site-image">
-                        <img src="{{ item.img }}" alt="Logo de {{item.title}}" width="300" height="200">
+                        <img src="{{ item.img | replace(r/\.(.*)$/, '.webp') }}" alt="Logo de {{item.title}}" width="300" height="200">
                      </a>
                   {% endif %}
                   <figcaption class="site-description">

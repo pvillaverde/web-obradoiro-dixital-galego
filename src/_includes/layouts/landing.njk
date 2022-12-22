@@ -52,7 +52,7 @@ page_css: landing.css
       <lume-carousel role="region" aria-label="Showcase" tabindex="0" class="landing-examples-sites" id="examples">
          {% for item in search.pages("type=proxecto", "date=desc", 8) | data %}
             <a href="{{ item.url }}" title="{{ item.title }}: {{item.description}}" class="site-image">
-               <img src="{{ item.img }}" alt="{{ item.title }}" width="300" height="200">
+               <img src="{{ item.img | replace(r/\.(.*)$/, '.webp') }}" alt="{{ item.title }}" width="300" height="200">
             </a>
          {% endfor %}
          <a href="{{ examples.url }}" class="landing-examples-cta">{{ examples.more }}</a>
@@ -83,12 +83,44 @@ page_css: landing.css
       <h2>{{ testimonials.title }}</h2>
 
       <ul class="landing-testimonials-quotes">
-         {% for item in search.pages("type=proxecto active=true", "date=desc") | data %}
+         {% for item in search.pages("type=proxecto active=true asociado", "date=desc") | data %}
             <li>
+               {# {% if item.cover %}
+                  <figure class="landing-testimonials-cover">
+                     {% if item.type == "video" %}
+                        <a href="{{ item.url }}" class="is-video">
+                           <img src="{{ item.cover }}" alt="{{ item.text }}" width="300" height="200">
+                        </a>
+                     {% else %}
+                        <a href="{{ item.url }}" class="is-article">
+                           <img src="{{ item.cover }}" width="300">
+                           <p>{{ item.text }}</p>
+                        </a>
+                     {% endif %}
+                     <figcaption class="landing-testimonial-caption">
+                        <img src="{{ item.avatar }}" srcset="{{ item.avatar }}, {{ item.avatar | replace(".webp", "@2x.webp") }} 2x" width="50" height="50" alt="{{ item.author }}">
+                        <a href="{{ item.url }}">
+                           <strong>{{ item.author }}</strong>
+                           <time>{{ item.date }}</time>
+                        </a>
+                     </figcaption>
+                  </figure>
+               {% else %}
+                  <blockquote class="landing-testimonials-quote">
+                     {{ item.text | md | safe }}
+                     <cite class="landing-testimonial-caption">
+                        <img src="{{ item.avatar }}" srcset="{{ item.avatar }}, {{ item.avatar | replace(".webp", "@2x.webp") }} 2x" width="50" height="50" alt="{{ item.author }}">
+                        <a href="{{ item.url }}">
+                           <strong>{{ item.author }}</strong>
+                           <time>{{ item.date }}</time>
+                        </a>
+                     </cite>
+                  </blockquote>
+               {% endif %} #}
                <blockquote class="landing-testimonials-quote">
                   {{ item.description | md | safe | truncate(200, true) }}
                   <cite class="landing-testimonial-caption">
-                     <img src="{{ item.img }}" srcset="{{ item.img }}, {{ item.img | replace(".webp", "@2x.webp") }} 2x" width="50" height="50" alt="{{ item.author }}">
+                     <img src="{{ item.img }}" srcset="{{ item.img | replace(r/\.(.*)$/, '.webp') }}, {{ item.img | replace(r/\.(.*)$/, '@2x.webp') }} 2x" width="50" height="50" alt="{{ item.author }}">
                      <a href="{{ item.url }}">
                         <strong>{{ item.title }}</strong>
                      </a>

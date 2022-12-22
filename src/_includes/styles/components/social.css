@@ -44,7 +44,10 @@
    }
 }
 
-.social-link, .social-link-rss, .social-link-link,.social-link-mail {
+.social-link,
+.social-link-rss,
+.social-link-link,
+.social-link-mail {
    background-color: #f0f0f0;
    color: #444
 }
@@ -52,6 +55,7 @@
 .social-link-google-podcast {
    background-color: #f0f0f0;
 }
+
 .social-link-ivoox {
    background-color: #fff;
    color: #ff6d0b
@@ -91,6 +95,7 @@
    background-color: #4280ff;
    color: #fff
 }
+
 .social-link-discord {
    background-color: #5865f2;
    color: #fff
@@ -163,6 +168,11 @@
 
 .social-link-meetup {
    background-color: #f6405f;
+   color: #fff
+}
+
+.social-link-kofi {
+   background-color: #00b9fe;
    color: #fff
 }
 

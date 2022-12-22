@@ -1,13 +1,14 @@
 .toc {
-  font: var(--text-caption);
-  color: var(--color-foreground-1);
-  margin: 0;
+   font: var(--text-caption);
+   color: var(--color-foreground-1);
+   margin: 0;
 
-  & ol,
-  & ul {
-    padding-left: 1.5em;
-  }
-  & a {
-    color: currentColor;
-  }
+   & ol,
+   & ul {
+      padding-left: 1.5em;
+   }
+
+   & a {
+      color: currentColor;
+   }
 }

@@ -101,9 +101,9 @@ const comunidade = t.folder("Comunidade", "/src/comunidade/proxectos", [
    t.hidden("type", "proxecto").required(true),
    t.string("title").required(true).hint('Título do proxecto: Pode ser o nome da canle ou do farangullo.'),
    t.hidden("href").required(false).hint('Ligazón principal do proxecto. Pode ser unha canle de Twitch/Youtube ou un beacons/linktree'),
-   t.hidden("img").hint('Imaxe do proxecto. Ten que ser cadrada, de ser posible 400x400.'),
+   t.image("img").hint('Imaxe do proxecto. Ten que ser cadrada, de ser posible 400x400.'),
    t.markdown("description").required(true).hint("Descripción breve do proxecto. Recomendamos máximo uns 160 caracteres."),
-   t.datetime("date").required(true).timeFormat(false),
+   t.datetime("date").required(true).timeFormat(false).dateFormat('yyyy-MM-DD'),
    /* t.boolean("active").hint('Se está activo o proxecto. Este dato refrescase automáticametne cando se actualiza a WEB'), */
    t.object("redes", [
       /* t.string("amazon").hint('Ligazón a páxina de amazon'), */
@@ -161,6 +161,25 @@ const comunidade = t.folder("Comunidade", "/src/comunidade/proxectos", [
    .create(true).delete(true)
    .slug("{{title}}");
 
+// Proxectos da comunidade
+const novas = t.folder("Novas", "/src/blog/posts", [
+   t.string("title").required(true).hint('Título da nova.'),
+   t.hidden("author").default("Obradoiro Dixital Galego").required(true).hint('Quén escribiu a nova? Por defecto "Obradoiro Dixital Galego".'),
+   t.image("img").hint('Imaxe de portada da nova.'),
+   t.string("imgalt").hint('Texto alternativo da imaxe de portada (para os lectores de pantalla)'),
+   t.list("tags").collapsed(false).hint('Categorías para clasificar as novas'),
+   t.datetime("date").required(true).timeFormat(false).dateFormat('yyyy-MM-DD'),
+   t.markdown("Body").required(true).hint("O texto da nova. Podes engadir <!--more--> onde queiras que se corte o extracto da nova"),
+])
+   .description("Aquí podes editar as novas que se publican na web")
+   .sortableFields("title", "date")
+   .viewGroup("Data", "date", "\\d{4}-\\d{2}")
+   .preview(false)
+   .mediaFolder("/src/img/blog")
+   .publicFolder("/img/blog")
+   .create(true).delete(true)
+   .slug("{{year}}-{{month}}-{{day}}_{{title}}");
+
 export default {
    backend: {
       name: "git-gateway",
@@ -179,5 +198,6 @@ export default {
       globalData.toJSON(),
       pages.toJSON(),
       comunidade.toJSON(),
+      novas.toJSON()
    ],
 };

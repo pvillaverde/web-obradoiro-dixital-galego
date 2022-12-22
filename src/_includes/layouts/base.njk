@@ -58,7 +58,7 @@
    </head>
    <body>
       {% include "templates/navbar.njk" %}
-      <div>
+      <div class=" {{ bodyClass }}">
          {{ content | safe }}
       </div>
       {% include "templates/footer.njk" %}

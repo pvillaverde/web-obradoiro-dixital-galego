@@ -13,6 +13,7 @@ redes:
   instagram: https://www.instagram.com/makarenkofrancisco/
   twitter: https://twitter.com/leninmola
 tags:
+  - asociado
   - youtube
   - bandadesenhada
   - cinema

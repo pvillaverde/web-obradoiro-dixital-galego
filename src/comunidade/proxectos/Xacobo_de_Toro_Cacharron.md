@@ -7,6 +7,7 @@ date: 2009-10-20 11:19:38
 platform: youtube
 type: proxecto
 tags:
+  - asociado
   - youtube
 redes:
   youtube: https://www.youtube.com/channel/UCBpPB8kJ6IlbaH2U2zZqnYQ
