@@ -21,7 +21,6 @@ cultural que impulsaron as comunidades de Podcast, Youtube e Twitch en galego.
       poder atopar calquera dun xeito áxil.
 - [x] Xestión das comunidades dende NetlifyCMS
 - [x] Blogue para engadir novas da comunidade.
-- [ ] Reprodutor para os podcasts nos proxectos que teñen RSS.
 - [ ] Facer outra `Landing Page` para visualizar toda a información útil de
       xeito dinámico no caso de poñer a web nun evento, incorporando feeds.
 - [ ] Incorporar os formularios de contacto aproveitando a
@@ -43,3 +42,4 @@ cultural que impulsaron as comunidades de Podcast, Youtube e Twitch en galego.
       [PodGalego](https://podgalego.agora.gal/xardin-de-xirasois/). Tamén hai un
       [CodePen](https://codepen.io/davatron5000/pen/nbXaqP) cunha funcionalidade
       básica. E [outro por aqui](https://codepen.io/ivorpad/pen/mZmYEj)
+- [ ] Poñer Comando en lugar de CTRL 
