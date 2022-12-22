@@ -17,5 +17,4 @@ tags:
   - youtube
   - bandadesenhada
   - cinema
-  - asociado
 ---
