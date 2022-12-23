@@ -2,10 +2,10 @@
    {% if author %}
       {% set page = search.page("type=author author='" + author + "'") %}
       {% if page %}
-         <p>Escrito por <a data-pagefind-filter="Autoría" href="{{ page.data.url }}">{{ author }}</a>
+         <p>Publicado por <a data-pagefind-filter="Autoría" href="{{ page.data.url }}">{{ author }}</a>
          </p>
       {% else %}
-         <p>Escrito por {{ author }}</p>
+         <p>Publicado por {{ author }}</p>
       {% endif %}
    {% endif %}
 

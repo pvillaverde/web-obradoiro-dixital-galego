@@ -37,9 +37,4 @@ cultural que impulsaron as comunidades de Podcast, Youtube e Twitch en galego.
       ([GitHub](https://github.com/snowballstem/snowball/blob/master/algorithms/portuguese.sbl))
       ou o [castelán](https://snowballstem.org/algorithms/spanish/stemmer.html)
       ([GitHub](https://github.com/snowballstem/snowball/blob/master/algorithms/spanish.sbl))
-- [ ] Engadir un reprodutor de Podcasts
-      [Exemplo de Wordpress](https://vedathemes.com/pp-demo/) // Exemplo en
-      [PodGalego](https://podgalego.agora.gal/xardin-de-xirasois/). Tamén hai un
-      [CodePen](https://codepen.io/davatron5000/pen/nbXaqP) cunha funcionalidade
-      básica. E [outro por aqui](https://codepen.io/ivorpad/pen/mZmYEj)
 - [ ] Poñer Comando en lugar de CTRL 

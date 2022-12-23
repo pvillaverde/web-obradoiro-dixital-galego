@@ -40,23 +40,11 @@ examples:
   more: e moitos máis!
   url: /comunidade/
 support:
-  title: Plataformas nas que estamos presentes
+  title: Entidades colaboradoras
   sponsors:
-    - name: Podgalego - A agrupación de podcasts e falangullos en galego
-      url: https://podgalego.agora.gal
-      img: /img/avatars/platforms/podcast.webp
-    - name: Twitch - A plataforma de retransmisións en directos.
-      url: https://www.twitch.tv/twitch_en_galego
-      img: /img/avatars/platforms/twitch.webp
-    - name: Youtube - A plataforma de videos baixo demanda
-      url: https://www.youtube.com/channel/UCrXtoHl0f9jEGj6IyOqzuHg
-      img: /img/avatars/platforms/youtube.webp
-#    - name: Instagram - A rede social de fotografía
-#      url: https://www.instagram.com/
-#      img: /img/avatars/platforms/instagram.webp
-#    - name: Twitch - A rede social de vídeos curtos
-#      url: https://www.tiktok.com
-#      img: /img/avatars/platforms/tiktok.webp
+    - name: PuntoGal, a xestora do dominio galego. Colabora coa asociación e temos un convenio con beneficios para as persoas socias que podes consultar en "Sobre nós".
+      url: https://dominio.gal
+      img: /icons/colaboradoras/puntogal.svg
   contribute:
     title: Como podo participar na comunidade?
     description: >

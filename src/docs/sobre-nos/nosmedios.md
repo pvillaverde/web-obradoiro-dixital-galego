@@ -6,6 +6,7 @@ order: 5
 
 Esto é o que din de nós nos medios:
 
+- 22.12.2022 | Nós diario. ["Francisco Bermúdez: "A asociación vai ser o tecido que envolva as comunidades de Podgalego, Twitch e Youtube" ](https://www.nosdiario.gal/articulo/cultura/francisco-bermudez/20221222205103158858.html)
 - 25.11.2022 | CRTVG. ["A Asociación Cultural Obradoiro Dixital Galego na Culturgal", a partir do minuto 22:17](http://www.crtvg.es/rg/a-carta/a-tarde-a-tarde-do-dia-25-11-2022-5896116?t=1350)
 - 08.12.2021 | Nós diario. [Balea Vermella: “En Twitch estase a crear unha comunidade moi ampla de persoas que crean contido en galego”](https://www.nosdiario.gal/articulo/cultura/balea-vermella/20211208162957133708.amp.html)
 - 29.11.2021 | El Correo Gallego. [“A ciencia en galego está no Twitch”](https://www.elcorreogallego.es/tendencias/a-ciencia-en-galego-esta-no-twitch-AY9724471)

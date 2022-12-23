@@ -42,6 +42,10 @@ Ser unha asociación cultural permítenos ser moito máis participativas e ter u
 Como socia poderás participar de todas as nosas actividades e funcionamento interno. Só tes que descargar e cubrir a ficha que atoparás [premendo nesta ligazón](/asociate/), asinala e devolvérnola ás direcións indicadas. Asociarnos danos unha forza que ningunha de nós pode chegar a ter por si mesma para defender a nosa lingua e a nosa cultura nos novos medios, no presente e no futuro.
 
 A partir de que recibamos a túa ficha de afiliación, porémonos en contacto contigo polo correo electrónico que nos indiques e comezarás a recibir as comunicacións oficiais da asociación.
+
+#### Vantaxes das asociadas
+- O convenio que temos con [PuntoGal](https://dominio.gal) permite as persoas asociadas contratar dominios .gal a un prezo non superior a 13€+IVE.
+- Personalización das etiquetas e textos de promoción na páxina web, ademáis de aparecer destacada na páxina.
 #### Cota de socio
 Ser socio require dunha pequena aportación económica. Tes varias opcións:
 - 12 € como **cota reducida** para estudantes e persoas desempregadas
