@@ -16,10 +16,14 @@ Aquí podedes atopar algúns recursos libres, ou case, que podedes empregar para
 
 - [Cousxs](https://www.youtube.com/watch?v=16P8yYt1v3s) tivo a ben crear [estes temas Lo-Fi](https://drive.google.com/drive/folders/1zZf1ul6TdXIvfwQhumCvmWc2Bdy_ojZx?usp=sharing) para todas aquelas persoas que crean contidos na nosa lingua. Non deixedes de atribuír e pasar polo seu [Twitter](https://twitter.com/cousxs) se che gusta o que oes.
 - [FreeSound](https://freesound.org/) – recursos sonoros, efectos, gravacións de campo, etc. Muitas con licenzas CC-0.
+- [GameSounds](https://gamesounds.xyz/) - recursos de son para videoxogos.
 - [CCMixter](http://dig.ccmixter.org/) – músicas instrumentales, para bandas sonoras, etc. Licenzas CC-NC, CC-BY e [TuneTrack](http://tunetrack.net/artistech/pages/music-licensing/).
 - [Jamendo](https://www.jamendo.com/) – música de todos os estilos con [licencias para uso comercial](https://licensing.jamendo.com/es/catalogo?jmm=catalog) (consultar condicións e prezos).
 - [Epidemic Sound](https://www.epidemicsound.com/) – outra opción para conseguir música con licencias para uso comercial (consultar condicións e prezos).
 - [WhatFunk](https://www.whatfunk.com/) – música libre instrumental para usos comerciais, ou non, organizada por estilos, xéneros ou instrumentos.
+- [AudioLibrary] - Músicas lo-fi de distintos estilos, moitas con licencias CC-0.
+- [FreeMusicArchive] - Música de libre uso e que podes utilizar en calquera proxecto.
+- [BandCamp](https://bandcamp.com) - Aquí pódese consultar os dereitos de uso, por exemplo [Ataque Escampe ten uso libre](https://ataqueescampe.bandcamp.com/)
 
 ## Imaxes libres
 
@@ -29,6 +33,7 @@ Se precisas imaxes para o directo ou para deseños estas son algunhas das webs m
 - [Pxfuel](https://pxfuel.com/) – Outro banco de imaxes de uso libre.e
 - [Stock Up](https://stockup.sitebuilderreport.com/) – Banco de imaxes xeralmente libres. Consultar a licenza de cada unha.
 - [unDraw](https://undraw.co/) – Se o que buscas son ilustracións.
+- [Pixabay](https://pixabay.com/) e [PublicDomainVectors](https://publicdomainvectors.org/) - Se buscas imaxes vectoriais.
 
 ## Vídeos libres
 

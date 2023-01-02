@@ -25,6 +25,11 @@ Se é a túa primeira vez con OBS ou Streamlabs recomendámosche estos dous víd
 
 E se o que queres é facer algo en grupo sen complicacións a nosa opcións é [Streamyard](https://streamyard.com/), podes velo funcionando [nos nosos directos](/docs/sobre-nos/galegotwitch/#eventos).
 
+## Aprende con Twitch en Galego
+### O son nas retransmisións
+Unha colaboración co [Local de Música de Pontevedra](https://www.localdemusica.gal/) na que abordamos distintos aspectos a ter en conta a hora de transmitir: Clases de micrófonos, filtros, eliminación de ruído, porta anti-ruídos, compresor, ganancia...
+@[youtube](HyxKQtyEmJ8)
+
 ## Bots para o chat
 
 Twitch permite integrar no chat bots que nos axuden durante os nosos directos, lembrando detalles, mostrando información, creando avisos cando alguén nos segue ou simplemente mantendo a conversa do chat limpa, estes son os máis coñecidos:
