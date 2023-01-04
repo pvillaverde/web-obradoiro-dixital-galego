@@ -12,6 +12,5 @@ redes:
   youtube: https://www.youtube.com/channel/UCVY873Waoi-pChsi3NQPUiQ
 tags:
   - youtube
-  - audiolibro
-  - literatura
+
 ---

@@ -13,6 +13,7 @@ redes:
   rss: https://feeds.feedburner.com/radioburan
   twitter: https://twitter.com/radioburan
 tags:
+  - asociado
   - podcast
   - cultura
   - culturapopular

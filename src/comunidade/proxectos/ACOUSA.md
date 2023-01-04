@@ -15,8 +15,5 @@ redes:
   twitter: https://twitter.com/acousagal
 tags:
   - youtube
-  - arte
-  - cultura
-  - social
-  - cozinha
+
 ---

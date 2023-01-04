@@ -10,9 +10,5 @@ redes:
   youtube: https://www.youtube.com/channel/UCxquf7xzJCfftUoVp8eYebw
 tags:
   - youtube
-  - asociacións
-  - feminismo
-  - culturapopular
-  - cozinha
-  - musica
+
 ---

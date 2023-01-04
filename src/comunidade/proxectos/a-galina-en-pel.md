@@ -19,6 +19,7 @@ redes:
   twitch: https://www.twitch.tv/a_lobeira_today
   youtube: https://www.youtube.com/channel/UCZZTH6dVk9k_ah6OpZ-w7ZA
 tags:
+  - asociado
   - podcast
   - cinema
   - experimental

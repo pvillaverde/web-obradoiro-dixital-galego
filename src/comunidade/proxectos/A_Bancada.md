@@ -17,5 +17,4 @@ redes:
   mail: Abancadaraul@gmail.com
 tags:
   - youtube
-  - deporte
 ---

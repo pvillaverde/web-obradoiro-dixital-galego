@@ -17,8 +17,5 @@ redes:
   twitter: " https://twitter.com/acanledafati"
 tags:
   - youtube
-  - culturapopular
-  - arte
-  - sexualidade
-  - feminismo
+
 ---

@@ -8,7 +8,8 @@ platform: youtube
 type: proxecto
 tags:
   - youtube
-  - "Magazine"
+  - podcast
+  - magazine
 redes:
   youtube: https://www.youtube.com/channel/UCJSY_Gk99vusOdyQtL7n3pA
   facebook: https://www.facebook.com/radiodaxentewapa/

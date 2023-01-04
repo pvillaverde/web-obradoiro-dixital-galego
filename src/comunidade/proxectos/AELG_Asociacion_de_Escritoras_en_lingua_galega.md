@@ -8,7 +8,7 @@ platform: youtube
 type: proxecto
 tags:
   - youtube
-  - literatura
+
 redes:
   youtube: https://www.youtube.com/channel/UCY0he9M8FU52uV21SKVeBew
 ---

@@ -7,7 +7,12 @@ date: 2018-04-10 21:09:29
 platform: youtube
 type: proxecto
 tags:
+  - asociado
   - youtube
+  - arte
+  - cultura
+  - poesia
+
 redes:
   youtube: https://www.youtube.com/channel/UCu3XQBqXzmwCphlrnNNZkwg
 ---

@@ -8,7 +8,7 @@ platform: youtube
 type: proxecto
 tags:
   - youtube
-  - saude
+
 redes:
   youtube: https://www.youtube.com/channel/UC7_iBWlxN7OgKPxI1qgUHOw
 ---

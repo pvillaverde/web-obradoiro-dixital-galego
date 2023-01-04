@@ -1,6 +1,6 @@
 ---
 layout: 'layouts/proxecto.njk'
-title: Pingando
+title: Pingando - Laura Veiga
 description: |-
   Ola! Son Laura Veiga, xornalista especializada na educación e divulgación sobre o ciclo menstrual.
 

@@ -11,8 +11,5 @@ redes:
   youtube: https://www.youtube.com/channel/UCpvDP0XEE8TXPa4HYeZpmrA
 tags:
   - youtube
-  - asociacións
-  - culturapopular
-  - musica
-  - social
+
 ---

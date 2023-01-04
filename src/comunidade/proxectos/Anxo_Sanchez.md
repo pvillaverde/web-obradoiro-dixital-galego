@@ -17,4 +17,10 @@ tags:
   - tecnoloxia
 redes:
   youtube: https://www.youtube.com/channel/UCK1RqGFQZ4U1JtRWXiU0how
+  instagram: https://instagram.com/sanchezanxo
+  twitter: https://twitter.com/SanchezAnxo
+  twitch: https://twitch.tv/sanchezanxo
+  mail: anxo89@gmail.com
+  tiktok: https://tiktok.com/@sanchezanxo
+  link: https://www.anxosanchez.com/
 ---

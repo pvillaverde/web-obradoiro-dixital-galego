@@ -8,6 +8,7 @@ platform: youtube
 type: proxecto
 tags:
   - youtube
+  - twitch
   - podcast
   - humor
   - entrevistas
@@ -18,4 +19,5 @@ redes:
   link: https://linktr.ee/carallobueno
   rss: https://anchor.fm/s/4520d5d8/podcast/rss
   twitter: https://twitter.com/carallobueno
+  twitch: https://www.twitch.tv/carallobueno
 ---

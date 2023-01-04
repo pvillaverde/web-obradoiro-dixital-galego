@@ -21,9 +21,5 @@ redes:
   youtube: https://youtube.com/channel/UC4AmmWnu1ycMw3oHsZ62WJA/
 tags:
   - youtube
-  - cultura
-  - cinema
-  - historia
-  - documental
-  - outras
+
 ---

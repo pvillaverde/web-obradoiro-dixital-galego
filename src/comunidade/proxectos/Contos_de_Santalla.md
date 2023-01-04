@@ -9,6 +9,11 @@ type: proxecto
 tags:
   - asociado
   - youtube
+  - antropoloxia
+  - audiolibro
+  - crime
+  - ficcion_sonora
+  - misterio
 redes:
   youtube: https://youtube.com/channel/UCnSMLezT_MQWTSHJplkaFTA/
 ---

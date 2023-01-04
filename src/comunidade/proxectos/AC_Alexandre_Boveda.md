@@ -13,10 +13,5 @@ redes:
   youtube: https://www.youtube.com/channel/UC1cNfaqvm7fB3MqDNHT4jmA
 tags:
   - youtube
-  - asociacións
-  - cultura
-  - lingua
-  - divulgacion
-  - politica
-  - social
+
 ---

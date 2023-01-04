@@ -18,10 +18,9 @@ tags:
 redes:
   twitch: https://twitch.tv/descifrandohistoria
   instagram: https://www.instagram.com/descifrandohistoria/
-  link:  https://www.ivoox.com/podcast-descifrando-a-historia_sq_f11062871_1.html
   ivoox:  https://www.ivoox.com/podcast-descifrando-a-historia_sq_f11062871_1.html
   rss: https://www.ivoox.com/descifrando-a-historia_fg_f11062871_filtro_1.xml
-  mail: mailto:descifrandohistoria@gmail.com
+  mail: descifrandohistoria@gmail.com
   twitter: https://twitter.com/DescifrandoH
   telegram: https://t.me/descifrandoahistoria
 ---

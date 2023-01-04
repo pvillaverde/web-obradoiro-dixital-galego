@@ -13,15 +13,5 @@ redes:
   youtube: https://www.youtube.com/channel/UCGctq4mJw3TgoCfYv8gWT-A
 tags:
   - youtube
-  - asociacións
-  - cultura
-  - culturapopular
-  - patrimonio
-  - paisaxe
-  - historia
-  - novas
-  - politica
-  - actualidade
-  - social
-  - entrevistas
+
 ---

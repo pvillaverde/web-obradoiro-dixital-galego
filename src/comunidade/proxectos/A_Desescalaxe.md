@@ -12,7 +12,5 @@ redes:
   youtube: https://www.youtube.com/channel/UChfV-DwD9I2WhVxIMEfXKuw
 tags:
   - youtube
-  - conversa
-  - humor
-  - actualidade
+
 ---

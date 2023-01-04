@@ -9,11 +9,16 @@ description: Canle de Youtube - Se é a túa e lle queres engadir unha descripci
   e etiquetas, ponte en contacto con nós.
 redes:
   youtube: https://www.youtube.com/channel/UCDhfQB4yNDt090m7N_GGqdQ
+  facebook: https://www.facebook.com/AbaleBoo
+  instagram: https://www.instagram.com/abal_e_boo/
+  tiktok: https://www.tiktok.com/@abaleboo
+  link: https://www.abaleboo.com
 tags:
-  - youtube
   - asociado
+  - youtube
   - divulgacion
   - sexualidade
   - lgtbi
   - diversidade
+  - ensino
 ---

@@ -9,6 +9,17 @@ type: proxecto
 tags:
   - asociado
   - youtube
+  - arquitectura
+  - arte
+  - culturapopular
+  - divulgacion
+  - documental
+  - humor
+  - magazine
+  - misterio
+  - outras
+  - persoal
 redes:
   youtube: https://www.youtube.com/channel/UCh7e9D-4mqcnLqKq3OK--3w
+  
 ---
