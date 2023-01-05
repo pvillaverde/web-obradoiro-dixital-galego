@@ -11,6 +11,7 @@ redes:
   twitter: https://twitter.com/amazadaeva
   twitch: https://www.twitch.tv/a_lobeira_today
 tags:
+  - asociado
   - podcast
   - divulgacion
   - feminismo

@@ -11,7 +11,4 @@ redes:
   twitter: https://twitter.com/buxaina_a
 tags:
   - youtube
-  - ensino
-  - lingua
-  - feminismo
 ---

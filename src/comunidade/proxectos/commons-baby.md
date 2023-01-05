@@ -11,6 +11,7 @@ redes:
   rss: https://feeds.feedburner.com/commonsbaby
   twitter: https://twitter.com/commonsbaby
 tags:
+  - asociado
   - podcast
   - musica
 ---

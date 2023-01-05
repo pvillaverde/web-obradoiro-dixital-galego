@@ -1,6 +1,6 @@
 ---
 layout: 'layouts/proxecto.njk'
-title: Carla Scarpenti
+title: Carla.gal
 description: ""
 img: /img/comunidade/Carla_Scarpenti.webp
 date: 2020-07-10 04:16:14

@@ -10,8 +10,5 @@ redes:
   youtube: https://youtube.com/channel/UCTWcvL77uvzPk8uRBlSy6_Q/
 tags:
   - youtube
-  - asociacións
-  - lingua
-  - cultura
-  - novas
+
 ---

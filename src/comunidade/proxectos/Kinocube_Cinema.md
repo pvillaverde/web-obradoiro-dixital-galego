@@ -7,7 +7,21 @@ date: 2022-03-31 10:34:05
 platform: youtube
 type: proxecto
 tags:
+  - asociado
   - youtube
+  - arte
+  - cinema
+  - cultura
+  - culturapopular
+  - divulgacion
+  - documental
+  - literatura
+  - teatro
+
 redes:
   youtube: https://www.youtube.com/channel/UC3XIGAakW0W_pXnI57bcZ0w
+  facebook: https://www.facebook.com/KinocubeCinema
+  instagram: https://www.instagram.com/kinocubecinema/
+  twitter: https://twitter.com/KinocubeCinema
+  link: https://kinocube.tumblr.com
 ---

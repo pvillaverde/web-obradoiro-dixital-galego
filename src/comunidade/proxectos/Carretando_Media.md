@@ -15,6 +15,7 @@ platform: youtube
 type: proxecto
 tags:
   - youtube
+  - podcast
   - actualidade
   - entrevistas
   - novas

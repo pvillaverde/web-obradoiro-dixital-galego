@@ -9,6 +9,22 @@ type: proxecto
 tags:
   - asociado
   - youtube
+  - ciencia
+  - cultura
+  - culturapopular
+  - divulgacion
+  - documental
+  - ecoloxia
+  - ensino
+  - galiza
+  - infantil
+  - mar
+  - paisaxe
+
 redes:
   youtube: https://www.youtube.com/channel/UCBpPB8kJ6IlbaH2U2zZqnYQ
+  facebook: https://www.facebook.com/xacobodetoro
+  instagram: https://www.instagram.com/xacobodetoro/
+  twitter: https://twitter.com/xacobodetoro
+
 ---

@@ -12,7 +12,7 @@ type: proxecto
 tags:
   - twitch
   - youtube
-  - entrevistas
+
 redes:
   twitch: https://twitch.tv/en3vistas
   youtube: https://www.youtube.com/channel/UCpbRA-ixHYClhyXmrI7Aqgw

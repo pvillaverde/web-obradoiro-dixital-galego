@@ -12,7 +12,20 @@ type: proxecto
 tags:
   - asociado
   - twitch
+  - youtube
   - videoxogos
+  - cultura
+  - culturapopular
+  - ensino
+  - galiza
+  - historia
+  - internacional
+  - medio_rural
+  - paisaxe
+  - patrimonio
 redes:
   twitch: https://twitch.tv/madialevo
+  youtube: https://youtube.com/channel/UCRSr5zG2sAUJ1tgG8f8yftA
+  instagram: https://www.instagram.com/madialevo/
+  twitter: https://twitter.com/madialevo
 ---

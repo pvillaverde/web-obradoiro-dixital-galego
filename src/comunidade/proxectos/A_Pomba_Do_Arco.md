@@ -10,11 +10,5 @@ redes:
   youtube: https://www.youtube.com/channel/UC53t5LLXLfAw2DhnqDMKKVQ
 tags:
   - youtube
-  - arte
-  - cultura
-  - musica
-  - asociacións
-  - historia
-  - culturapopular
-  - fotografia
+
 ---
