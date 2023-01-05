@@ -15,7 +15,7 @@ redes:
   rss: https://anchor.fm/s/8ca59b28/podcast/rss
   twitter: https://twitter.com/RecunchoGamer
   twitch: https://www.twitch.tv/recunchogamer
-  youtube: https://www.youtube.com/recunchogamer
+  youtube: https://www.youtube.com/channel/UCqbohZKRrOTtvsR2H1Qjwig
   tiktok: https://www.tiktok.com/@recunchogamer
 tags:
   - podcast

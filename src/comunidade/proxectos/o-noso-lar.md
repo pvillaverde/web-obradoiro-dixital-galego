@@ -10,7 +10,7 @@ redes:
   facebook: http://facebook.com/Onosolar
   link: http://onosolar.gal/OnL/podcast/
   rss: https://anchor.fm/s/1409bc8/podcast/rss
-  youtube: https://www.youtube.com/user/Onosolar
+  youtube: https://www.youtube.com/channel/UCZENCCcT3IojPsb6DHFtNkg
 tags:
   - podcast
   - ensino

@@ -13,7 +13,7 @@ redes:
   link: https://proxectoneo.blogspot.com/
   rss: https://www.ivoox.com/podcast-podcast-proxecto-neo_fg_f1131749_filtro_1.xml
   twitter: https://twitter.com/ProxectoNeo
-  youtube: https://www.youtube.com/user/ProxectoNeo
+  youtube: https://www.youtube.com/channel/UCu9ZpsvTP3PTJcfeasgXsxw
 tags:
   - podcast
   - ensino

@@ -9,7 +9,7 @@ description: |-
 redes:
   link: https://praza.gal/especial/conexion.gal
   rss: https://www.ivoox.com/pt/feed_fg_f11360671_filtro_1.xml
-  youtube: https://www.youtube.com/watch?v=_jYvKf1sKOE&list=PLUqy98xVFvR4qeJXUedhpaGN39l9igilb
+  youtube: https://www.youtube.com/watch?v=_jYvKf1sKOE&list=PLUqy98xVFvR4qeJXUedhpaGN39l9igilb # Non é unha canle válida
 tags:
   - podcast
   - actualidade

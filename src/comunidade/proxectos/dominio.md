@@ -15,7 +15,7 @@ redes:
   rss: https://www.ivoox.com/podcast-dominio_fg_f11683487_filtro_1.xml
   twitter: ' https://twitter.com/raquelcoutoante'
   twitch: https://www.twitch.tv/raquelcoutoantelo
-  youtube: https://www.youtube.com/watch?v=fE0qunIytUY
+  youtube: https://www.youtube.com/watch?v=fE0qunIytUY # Non é unha canle válida, a canle de Raquel Couto ten a súa propia canle.
 tags:
   - podcast
   - audiolibro

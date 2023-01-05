@@ -9,7 +9,7 @@ redes:
   link: https://anchor.fm/fran-da-lobeira
   rss: https://anchor.fm/s/69b69770/podcast/rss
   twitch: https://www.twitch.tv/a_lobeira_today
-  youtube: https://anchor.fm/s/69b69770/podcast/rss
+  youtube: https://www.youtube.com/channel/UCZZTH6dVk9k_ah6OpZ-w7ZA
 tags:
   - podcast
   - conversa

@@ -11,7 +11,7 @@ redes:
   link: https://galicia.isf.es/noticias/
   rss: https://feeds.feedburner.com/ESFradio
   twitter: https://twitter.com/esfgalicia
-  youtube: https://www.youtube.com/user/esfgalicia
+  youtube: https://www.youtube.com/channel/UCOrhpYHbUWZaV0OC6vTfRew
 tags:
   - podcast
   - social
