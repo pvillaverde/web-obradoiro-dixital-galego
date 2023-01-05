@@ -15,11 +15,11 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UC2kA-gyYqV_cUdOeQMg6tqQ
   twitter: https://twitter.com/comumola
-  twitter: https://twitter.com/chio_en_galego
-  Instagram: https://www.instagram.com/comumola/
-  Instagram: https://www.instagram.com/instaengalego
+#  twitter: https://twitter.com/chio_en_galego
+  instagram: https://www.instagram.com/comumola/
+#  instagram: https://www.instagram.com/instaengalego
   tiktok: https://www.tiktok.com/@comumola
-  tiktok: https://www.tiktok.com/@tiktokengalego
+#  tiktok: https://www.tiktok.com/@tiktokengalego
   link: https://linktr.ee/comumola
 
 ---
