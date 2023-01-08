@@ -16,7 +16,6 @@ import ndIframe from "https://jspm.dev/markdown-it-iframe";
 import mdVideo from "https://jspm.dev/markdown-it-video";
 import checkActivity from "./checkActivity.ts";
 import readingTime from "https://raw.githubusercontent.com/lumeland/experimental-plugins/main/reading_time/mod.ts";
-import prism, { Options as PrismOptions } from "lume/plugins/prism.ts";
 import date from "lume/plugins/date.ts";
 import type { Page, Site } from "lume/core.ts";
 
@@ -55,7 +54,6 @@ site
    .ignore("scripts")
    .copy("static", ".")
    .copy("_redirects")
-   .use(prism())
    .use(readingTime())
    .use(pagefind({
       ui: {
