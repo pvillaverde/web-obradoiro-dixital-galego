@@ -84,6 +84,12 @@ export default function () {
       async function checkActivity(page: Page) {
          if (page.data.type != 'proxecto' || !page.data.redes) return;
          page.data.active = page.data.active || false;
+         if (page.data.metas) {
+            page.data.metas.title = page.data.title as string;
+            page.data.metas.description = page.data.description as string;
+            page.data.metas.image = page.data.img as string;
+            page.data.metas.keywords = page.data.metas.keywords.concat(page.data.tags as string[]);
+         }
          if (page.data.redes.rss) {
             page.data.active = page.data.active || await checkRSSActivity(page.data.redes.rss);
          }
