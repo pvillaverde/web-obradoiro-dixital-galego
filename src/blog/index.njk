@@ -26,32 +26,31 @@ menu:
    <section class="postList">
       {% asyncEach post in postslist %}
       <article class="post">
+         <header class="post-header">
+            <h2 class="post-title">
+               <a href="{{ post.data.url }}" {% if post.data.url == url %} aria-current="page"{% endif %}>
+                  {{ post.data.title or post.data.url }}
+               </a>
+            </h2>
+
+            {% set date = post.data.date %}
+            {% set tags = post.data.tags %}
+            {% set author = post.data.author %}
+            {% set readingTime = post.data.readingTime %}
+            {% include "templates/post-details.njk" %}
+         </header>
+
          {% if post.data.img %}
-            <figure>
-               <img src="{{ post.data.img | replace(r/\.(.*)$/, '.webp') }}" alt="{{post.data.imgalt}}" title="{{post.data.imgalt}}">
-            </figure>
+         <figure class="post-image">
+            <img src="{{ post.data.img | replace(r/\.(.*)$/, '.webp') }}" alt="{{post.data.imgalt}}" title="{{post.data.imgalt}}">
+         </figure>
          {% endif %}
-         <main>
-            <header class="post-header">
-               <h2 class="post-title">
-                  <a href="{{ post.data.url }}" {% if post.data.url == url %} aria-current="page"{% endif %}>
-                     {{ post.data.title or post.data.url }}
-                  </a>
-               </h2>
 
-               {% set date = post.data.date %}
-               {% set tags = post.data.tags %}
-               {% set author = post.data.author %}
-               {% set readingTime = post.data.readingTime %}
-               {% include "templates/post-details.njk" %}
-            </header>
+         <div class="post-excerpt">
+            {{ post.data.excerpt | md | safe }}
+         </div>
 
-            <div class="post-excerpt">
-               {{ post.data.excerpt | md | safe }}
-            </div>
-
-            <a href="{{ post.data.url }}" class="post-link">Continuar lendo →</a>
-         </main>
+         <a href="{{ post.data.url }}" class="post-link">Continuar lendo →</a>
       </article>
       {% endeach %}
    </section>
