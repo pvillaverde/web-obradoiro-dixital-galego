@@ -1,4 +1,8 @@
 ---
+metas: 
+  title: Clan Kirfed
+  description: Proxecto de OpenTTD no que estamos a desenvolver un mapa de Galiza que recrea con detalle a nosa toponimia.
+  image: /img/comunidade/clankirfed.webp
 layout: "layouts/proxecto.njk"
 title: Clan Kirfed
 href: https://twitch.tv/clankirfed
