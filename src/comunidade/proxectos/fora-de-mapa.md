@@ -14,6 +14,7 @@ redes:
   twitter: https://twitter.com/ForadeMapa
   goodreads: https://www.goodreads.com/group/show/1158236-f-ra-de-mapa
 tags:
+  - asociado
   - podcast
   - actualidade
   - historia
