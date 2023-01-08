@@ -34,4 +34,4 @@ redes:
   .GAL
 
 - A xente que nos apoia en [**Patreon**](https://www.patreon.com/galizangamer)
-  mes a mes coa súa aportación.u
+  mes a mes coa súa aportación.
