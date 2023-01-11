@@ -6,6 +6,7 @@
 https://podcast.obradoirodixitalgalego.gal/*  https://obradoirodixitalgalego.gal/comunidade/?status=all&podcast=on  302!
 https://youtube.obradoirodixitalgalego.gal/*  https://obradoirodixitalgalego.gal/comunidade/?status=all&youtube=on  302!
 https://twitch.obradoirodixitalgalego.gal/*  https://obradoirodixitalgalego.gal/comunidade/?status=all&twitch=on  302!
-https://twitchengalego.gal/*  https://obradoirodixitalgalego.gal/  302!
-https://www.twitchengalego.gal/*  https://obradoirodixitalgalego.gal/  302!
+https://twitchengalego.gal/*  https://obradoirodixitalgalego.gal/  301!
+https://www.twitchengalego.gal/*  https://obradoirodixitalgalego.gal/  301!
+https://obradoiro-dixital-galego.netlify.app/*  https://obradoirodixitalgalego.gal/  302!
 /*  /404/  404
