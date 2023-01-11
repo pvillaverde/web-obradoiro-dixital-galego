@@ -21,7 +21,7 @@ redes:
   instagram: https://instagram.com/lume_de_carozo
   link: https://linktr.ee/lumedecarozo
   rss: https://www.ivoox.com/lume-de-carozo_fg_f11727014_filtro_1.xml
-  mail: mailto:lumedecarozo257@gmail.com
+  mail: lumedecarozo257@gmail.com
   spotify: ' https://open.spotify.com/show/01muBi28e5rk0GTiQXvX2e'
   twitter: https://twitter.com/LumeCarozo
   twitch: https://www.twitch.tv/lume_de_carozo

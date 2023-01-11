@@ -14,7 +14,7 @@ redes:
   facebook: https://www.facebook.com/podgalego
   link: https://anchor.fm/oiches
   rss: https://anchor.fm/s/5eb7d488/podcast/rss
-  mail: mailto:podgalego@agora.gal
+  mail: podgalego@agora.gal
   twitter: https://twitter.com/podgalego
 tags:
   - podcast

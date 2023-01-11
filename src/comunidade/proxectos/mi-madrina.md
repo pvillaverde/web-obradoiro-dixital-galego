@@ -8,7 +8,7 @@ description: Un podcast en galego (desde London), para galegos. Pasa o tempo con
 redes:
   link: https://anchor.fm/mimadrinalondon
   rss: https://anchor.fm/s/33d36c8c/podcast/rss
-  mail: mailto:mimadrinalondon@gmail.com
+  mail: mimadrinalondon@gmail.com
   twitter: https://twitter.com/londonmadrina
 tags:
   - asociado

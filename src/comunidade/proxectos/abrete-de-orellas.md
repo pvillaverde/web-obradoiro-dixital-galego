@@ -12,7 +12,7 @@ redes:
   facebook: https://www.facebook.com/abretedeorellas/
   link: http://www.abretedeorellas.com/
   rss: https://www.ivoox.com/podcast-abrete-orellas_fg_f186732_filtro_1.xml
-  mail: mailto:abretedeorellas@gmail.com
+  mail: abretedeorellas@gmail.com
   twitter: https://twitter.com/abretedeorellas
 tags:
   - podcast

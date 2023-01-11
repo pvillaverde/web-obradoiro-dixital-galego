@@ -30,7 +30,7 @@ page_css: proxecto.css
       <ul>
          {% for rede, ligazon in redes %}
             <li  class="social-link-{{rede}}">
-               <a target="_blank" href="{{ ligazon }}" title="{{ rede }}" rel="me">
+               <a target="_blank" href="{% if rede == 'mail' %}mailto:{% endif %}{{ ligazon }}" title="{{ rede }}" rel="me">
                   <img src="/icons/social/{{ rede }}.svg" alt="{{ rede }}" inline>
                </a>
             </li>

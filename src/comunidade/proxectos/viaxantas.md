@@ -13,7 +13,7 @@ redes:
   facebook: https://www.facebook.com/groups/3558732530911721
   link: https://viaxantas.gal/
   rss: https://anchor.fm/s/51f98110/podcast/rss
-  mail: mailto:info@viaxantas.gal
+  mail: info@viaxantas.gal
   twitter: https://twitter.com/viaxantas
   youtube: https://www.youtube.com/channel/UCyvNseunvowE45gGBxRiTpg
   twitch: https://www.twitch.tv/cristerceiro

@@ -10,7 +10,7 @@ redes:
   link: https://www.ivoox.com/podcast-sons-revela2_sq_f1419646_1.html
   ivoox: https://www.ivoox.com/podcast-sons-revela2_sq_f1419646_1.html
   rss: https://www.ivoox.com/podcast-sons-revela2_fg_f1419646_filtro_1.xml
-  mail: mailto:sonsrevela2@gmail.com
+  mail: sonsrevela2@gmail.com
 tags:
   - podcast
   - fotografia

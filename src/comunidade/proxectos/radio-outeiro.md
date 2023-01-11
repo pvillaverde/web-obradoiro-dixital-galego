@@ -13,7 +13,7 @@ redes:
   link: https://www.ivoox.com/perfil-radio-outeiro_aj_17905095_1.html
   ivoox: https://www.ivoox.com/perfil-radio-outeiro_aj_17905095_1.html
   rss: https://www.ivoox.com/radio-outeiro_fg_f1912241_filtro_1.xml
-  mail: mailto:radioouteiro@gmail.com
+  mail: radioouteiro@gmail.com
 tags:
   - podcast
   - actualidade

@@ -13,7 +13,7 @@ redes:
   facebook: https://www.facebook.com/ALareirapod
   link: https://linktr.ee/Lareira
   rss: https://anchor.fm/s/5b2d5b80/podcast/rss
-  mail: mailto:olalareira@gmail.com
+  mail: olalareira@gmail.com
   twitter: https://twitter.com/alareirapod
 tags:
   - podcast

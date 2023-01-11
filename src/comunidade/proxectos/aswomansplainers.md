@@ -22,6 +22,6 @@ redes:
   instagram: https://www.instagram.com/AsWomansplainers/
   link: https://anchor.fm/as-womansplainers
   rss: https://anchor.fm/s/4b7891a0/podcast/rss
-  mail: mailto:aswomansplainers@gmail.com
+  mail: aswomansplainers@gmail.com
   twitter: https://twitter.com/womansplainers
 ---

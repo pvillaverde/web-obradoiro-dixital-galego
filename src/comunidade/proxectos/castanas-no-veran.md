@@ -11,7 +11,7 @@ redes:
   link: https://www.ivoox.com/podcast-castanas-no-veran_sq_f1894037_1.html
   ivoox: https://www.ivoox.com/podcast-castanas-no-veran_sq_f1894037_1.html
   rss: https://www.ivoox.com/podcast-castanas-no-veran_fg_f1894037_filtro_1.xml
-  mail: mailto:castanhasnoveran@gmail.com
+  mail: castanhasnoveran@gmail.com
   twitter: https://twitter.com/castanasnoveran
 tags:
   - podcast

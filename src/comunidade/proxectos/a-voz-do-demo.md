@@ -13,7 +13,7 @@ redes:
   facebook: https://www.facebook.com/demo.editorial
   link: http://demoeditorial.com/gl/
   rss: https://www.ivoox.com/a-voz-do-demo_fg_f11214080_filtro_1.xml
-  mail: mailto:info@demoeditorial.com
+  mail: info@demoeditorial.com
   twitter: https://twitter.com/DemoEditorial
 tags:
   - podcast

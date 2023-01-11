@@ -15,6 +15,6 @@ redes:
   facebook: https://www.facebook.com/efervesciencia/
   link: http://www.crtvg.es/rg/podcast/programa/efervescencia
   rss: https://www.ivoox.com/podcast-efervesciencia_fg_f1264656_filtro_1.xml
-  mail: mailto:efervesciencia@radiogalega.es
+  mail: efervesciencia@radiogalega.es
   twitter: https://twitter.com/efervesciencia
 ---

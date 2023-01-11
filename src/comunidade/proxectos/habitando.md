@@ -9,7 +9,7 @@ redes:
   facebook: https://www.facebook.com/ArquitecturaSenFronteiras
   link: http://www.galicia.asfes.org/comunicacion/habitando/
   rss: https://feeds.feedburner.com/asfhabitando
-  mail: mailto:gtcomunicacion.gal@asfes.org
+  mail: gtcomunicacion.gal@asfes.org
   twitter: https://twitter.com/ASF_Habitando
 tags:
   - asociado

@@ -10,7 +10,7 @@ redes:
   facebook: https://www.facebook.com/forademapapodcast
   link: https://linktr.ee/forademapa
   rss: https://anchor.fm/s/4bcefa54/podcast/rss
-  mail: mailto:forademapapodcast@gmail.com
+  mail: forademapapodcast@gmail.com
   twitter: https://twitter.com/ForadeMapa
   goodreads: https://www.goodreads.com/group/show/1158236-f-ra-de-mapa
 tags:
