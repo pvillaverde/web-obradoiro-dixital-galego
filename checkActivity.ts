@@ -10,13 +10,17 @@ export default function () {
       }
    };
    async function checkRSSActivity(rssURL: string) {
-      const response = await fetch(rssURL);
-      const xml = await response.text();
-      const feed = await parseFeed(xml);
-      if (feed.entries && feed.entries[0] && feed.entries[0].published) {
-         const lastActiveDate = feed.entries[0].published;
-         return isLessThanMonth(lastActiveDate);
-      } else {
+      try {
+         const response = await fetch(rssURL);
+         const xml = await response.text();
+         const feed = await parseFeed(xml);
+         if (feed.entries && feed.entries[0] && feed.entries[0].published) {
+            const lastActiveDate = feed.entries[0].published;
+            return isLessThanMonth(lastActiveDate);
+         } else {
+            return false;
+         }
+      } catch (_error) {
          return false;
       }
    }
@@ -76,7 +80,6 @@ export default function () {
                   console.log(`${index + 1}/${pages.length}`, `Comprobando actividade do proxecto ${page.data.title}:`, await checkActivity(page));
                } catch (error) {
                   console.error(`Ocurriu un erro ao comprobar a canle ${page.data.title}.`, error);
-                  throw error;
                }
             }
          }
