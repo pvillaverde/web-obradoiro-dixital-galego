@@ -4,7 +4,6 @@ title: Os Retranquers
 description: ""
 img: /img/comunidade/Os_Retranquers.webp
 date: 2021-01-04 16:41:39
-platform: youtube
 type: proxecto
 tags:
   - youtube

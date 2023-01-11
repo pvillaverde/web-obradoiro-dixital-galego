@@ -4,7 +4,6 @@ type: proxecto
 title: A Burla Negra🏴‍☠️
 img: /img/comunidade/A_Burla_Negra.webp
 date: 2022-11-01
-platform: youtube
 description: |-
   ❧ A cultura ten que ser libre e accesíbel
   ❧ O galego e o portugués son a mesma lingua

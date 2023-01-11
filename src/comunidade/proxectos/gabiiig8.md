@@ -1,8 +1,6 @@
 ---
 layout: "layouts/proxecto.njk"
 title: gabiiig8
-file: gabiiig8
-href: https://twitch.tv/gabiiig8
 img: /img/comunidade/gabiiig8.webp
 description: Benvidxs berberechos a miña canle de Youtube!! :)
 date: 2015-10-24 03:17:53.867864

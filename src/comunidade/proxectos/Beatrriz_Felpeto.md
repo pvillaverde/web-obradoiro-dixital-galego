@@ -4,7 +4,6 @@ title: Beatrriz Felpeto
 description: Ola, son Bea
 img: /img/comunidade/Beatrriz_Felpeto.webp
 date: 1970-01-01
-platform: youtube
 type: proxecto
 tags:
   - youtube

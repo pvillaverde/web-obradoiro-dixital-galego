@@ -4,7 +4,6 @@ title: Felix Carballal
 description: ""
 img: /img/comunidade/Felix_Carballal.webp
 date: 2013-09-08 08:53:11
-platform: youtube
 type: proxecto
 tags:
   - youtube

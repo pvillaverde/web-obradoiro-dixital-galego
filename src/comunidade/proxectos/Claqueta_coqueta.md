@@ -12,7 +12,6 @@ description: |-
   Arrieiros Somos
 img: /img/comunidade/Claqueta_coqueta.webp
 date: 2010-03-17 00:22:44
-platform: youtube
 type: proxecto
 tags:
   - youtube

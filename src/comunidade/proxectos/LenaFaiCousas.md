@@ -8,7 +8,6 @@ description: |-
   Espero que che guste!^-^
 img: /img/comunidade/LenaFaiCousas.webp
 date: 2020-05-31 18:06:45
-platform: youtube
 type: proxecto
 tags:
   - youtube

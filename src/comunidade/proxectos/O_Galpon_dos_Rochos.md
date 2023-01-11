@@ -4,7 +4,6 @@ title: O Galpon dos Rochos
 description: ""
 img: /img/comunidade/O_Galpon_dos_Rochos.webp
 date: 2020-11-30 10:08:22
-platform: youtube
 type: proxecto
 tags:
   - youtube

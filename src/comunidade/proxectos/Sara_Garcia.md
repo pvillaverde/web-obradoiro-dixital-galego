@@ -4,7 +4,6 @@ title: Sara García
 description: ""
 img: /img/comunidade/Sara_Garcia.webp
 date: 2015-01-13 14:37:55
-platform: youtube
 type: proxecto
 tags:
   - youtube

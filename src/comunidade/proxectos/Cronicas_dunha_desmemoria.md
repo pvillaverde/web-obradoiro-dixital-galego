@@ -2,7 +2,6 @@
 layout: layouts/proxecto.njk
 img: /img/comunidade/Cronicas_dunha_desmemoria.webp
 date: 2022-11-01
-platform: youtube
 type: proxecto
 title: Crónicas dunha desmemoria
 description: >-

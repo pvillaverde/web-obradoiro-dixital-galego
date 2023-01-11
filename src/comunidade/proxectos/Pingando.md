@@ -7,7 +7,6 @@ description: |-
   Aquí atoparás historias que descoñecías, mitos desmontados pola evidencia científica e moito máis!
 img: /img/comunidade/Pingando.webp
 date: 2020-09-10 06:33:20
-platform: youtube
 type: proxecto
 tags:
   - asociado

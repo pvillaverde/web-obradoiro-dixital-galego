@@ -4,7 +4,6 @@ title: Bacallau DosMontes
 description: ""
 img: /img/comunidade/Bacallau_DosMontes.webp
 date: 2016-11-17 20:09:11
-platform: youtube
 type: proxecto
 tags:
   - youtube

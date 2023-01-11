@@ -4,7 +4,6 @@ title: Mazarelos
 description: Revista de historia e cultura na rede e na rúa.
 img: /img/comunidade/Mazarelos.webp
 date: 2019-01-17 20:00:06
-platform: youtube
 type: proxecto
 tags:
   - youtube

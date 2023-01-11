@@ -4,7 +4,6 @@ title: Moucha Ceibe
 description: ""
 img: /img/comunidade/Moucha_Ceibe.webp
 date: 1970-01-01
-platform: youtube
 type: proxecto
 tags:
   - youtube

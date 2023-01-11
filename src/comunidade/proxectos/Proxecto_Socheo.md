@@ -13,7 +13,6 @@ description: |-
   Agradecementos: FACULTADE CC. SS. E DA COMUNICACIÓN DA UNIVERSIDADE DE VIGO
 img: /img/comunidade/Proxecto_Socheo.webp
 date: 2012-06-04 06:47:26
-platform: youtube
 type: proxecto
 tags:
   - youtube

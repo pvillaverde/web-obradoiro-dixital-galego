@@ -4,7 +4,6 @@ title: Iago Varela Martínez
 description: ""
 img: /img/comunidade/Iago_Varela_Martinez.webp
 date: 2017-01-18 14:17:39
-platform: youtube
 type: proxecto
 tags:
   - youtube

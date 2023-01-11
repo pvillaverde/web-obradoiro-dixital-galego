@@ -9,7 +9,6 @@ description: |-
   TikTok: todos os días ás 20:00h e 22:00h
 img: /img/comunidade/tomashow.webp
 date: 2020-10-08 21:54:41
-platform: youtube
 type: proxecto
 tags:
   - youtube

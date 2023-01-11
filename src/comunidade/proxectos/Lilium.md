@@ -6,7 +6,6 @@ description: |-
   Um dos objetivos do canal é divulgar sobre cultura japonesa pop em galego já que é um âmbito pouco explorado desde a Galiza, assim como falar das novidades mais fescas como podem ser novas traduçons de videojojos ou mangá-animes que podamos ver em qualquer variedade da nossa língua.
 img: /img/comunidade/Lilium.webp
 date: 2021-08-14 18:53:49
-platform: youtube
 type: proxecto
 tags:
   - youtube

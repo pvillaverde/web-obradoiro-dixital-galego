@@ -4,7 +4,6 @@ title: O Burato
 description: ""
 img: /img/comunidade/O_Burato.webp
 date: 2018-03-14 22:06:47
-platform: youtube
 type: proxecto
 tags:
   - youtube

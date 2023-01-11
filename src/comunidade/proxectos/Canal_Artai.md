@@ -6,7 +6,6 @@ description: |-
   Inscreve-te! :)
 img: /img/comunidade/Canal_Artai.webp
 date: 2016-04-08 13:03:38
-platform: youtube
 type: proxecto
 tags:
   - youtube

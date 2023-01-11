@@ -4,7 +4,6 @@ title: The Risas Baixas
 description: ""
 img: /img/comunidade/The_Risas_Baixas.webp
 date: 2018-01-14 22:01:09
-platform: youtube
 type: proxecto
 tags:
   - youtube

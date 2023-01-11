@@ -4,7 +4,6 @@ title: Breo Lemavo
 description: Mateo De Prado.
 img: /img/comunidade/Breo_Lemavo.webp
 date: 2006-03-04 13:55:31
-platform: youtube
 type: proxecto
 tags:
   - youtube

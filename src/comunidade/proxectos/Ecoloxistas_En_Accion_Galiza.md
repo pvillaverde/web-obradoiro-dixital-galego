@@ -4,7 +4,6 @@ title: Ecoloxistas En Acción Galiza
 description: Canle de Ecoloxistas en Acción para difundir actuacións en defensa da ecoloxía como ben común
 img: /img/comunidade/Ecoloxistas_En_Accion_Galiza.webp
 date: 2019-09-12 19:57:55
-platform: youtube
 type: proxecto
 tags:
   - youtube

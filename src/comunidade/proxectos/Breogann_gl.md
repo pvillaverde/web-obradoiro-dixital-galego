@@ -4,7 +4,6 @@ title: Breogann gl
 description: Canle en galego de Breogann.
 img: /img/comunidade/Breogann_gl.webp
 date: 2019-07-11 17:19:11
-platform: youtube
 type: proxecto
 tags:
   - youtube

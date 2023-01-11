@@ -4,7 +4,6 @@ title: Neon Ciencia
 description: "Proxecto en construción \n*************************\nProxecto de divulgación científica \U0001F9EA\nFotos e vídeos de ciencia e tecnoloxía\nConferencias e obradoiros\n\nSíguenos en twitter e instagram: @neonciencia"
 img: /img/comunidade/Neon_Ciencia.webp
 date: 2019-09-19 09:35:46
-platform: youtube
 type: proxecto
 tags:
   - youtube

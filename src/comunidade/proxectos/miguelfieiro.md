@@ -1,8 +1,6 @@
 ---
 layout: "layouts/proxecto.njk"
 title: miguelfieiro
-file: miguelfieiro
-href: https://twitch.tv/miguelfieiro
 img: /img/comunidade/miguelfieiro.webp
 description: ""
 date: 2019-10-13 20:50:40.872305

@@ -7,7 +7,6 @@ description: |-
   WebSerie producida por Conxuro Produción
 img: /img/comunidade/Os_tempos_mortos_do_Furer.webp
 date: 2021-10-18 12:43:33
-platform: youtube
 type: proxecto
 tags:
   - youtube

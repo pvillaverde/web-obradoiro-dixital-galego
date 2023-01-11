@@ -11,7 +11,6 @@ description: |-
   Muchos de les habitantes de Vacaloura dejan atrás historias de maltrato, explotación y abandono. En Vacaloura se lucha para que los animales recuperen la salud, la tranquilidad y puedan vivir en paz.
 img: /img/comunidade/Vacaloura_Santuario_Animal.webp
 date: 2015-01-12 22:31:39
-platform: youtube
 type: proxecto
 tags:
   - youtube

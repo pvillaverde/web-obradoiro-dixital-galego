@@ -1,8 +1,6 @@
 ---
 layout: "layouts/proxecto.njk"
 title: AresMenethil
-file: aresmenethil
-href: https://twitch.tv/aresmenethil
 img: /img/comunidade/aresmenethil.webp
 description: |-
   Buenas, soy Ares Menethil (también conocido como ManuRois). Si crees que eres manco en los videojuegos mira alguno de mis vídeos y se te pasará. Y si no, pues no estás solo. xP

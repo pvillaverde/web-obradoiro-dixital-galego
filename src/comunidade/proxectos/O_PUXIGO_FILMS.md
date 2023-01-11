@@ -8,7 +8,6 @@ description: |-
   De VIlalba a Jólibu pasando Samarugo, a Legua Dereita e Franfur...
 img: /img/comunidade/O_PUXIGO_FILMS.webp
 date: 2020-05-30 18:34:55
-platform: youtube
 type: proxecto
 tags:
   - youtube

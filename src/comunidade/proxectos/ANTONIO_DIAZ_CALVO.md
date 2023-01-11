@@ -4,7 +4,6 @@ title: ANTONIO DÍAZ CALVO
 description: ""
 img: /img/comunidade/ANTONIO_DIAZ_CALVO.webp
 date: 2020-04-07 15:22:53
-platform: youtube
 type: proxecto
 tags:
   - youtube

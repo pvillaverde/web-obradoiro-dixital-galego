@@ -11,7 +11,6 @@ description: |-
   Súbete connosco!
 img: /img/comunidade/Carretando_Media.webp
 date: 2021-03-21 09:34:28
-platform: youtube
 type: proxecto
 tags:
   - youtube

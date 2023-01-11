@@ -7,7 +7,6 @@ description: |-
   Los próximos días 14, 15 y 16 de junio, Lugo arderá de nuevo. Este año llegamos a la décimo segunda edición de una de las fiestas más espectaculares de toda Galicia que le ha hecho merecedora de su distinción como Fiesta de Interés Turístico Gallego.
 img: /img/comunidade/Arde_Lucus.webp
 date: 2011-05-10 11:53:43
-platform: youtube
 type: proxecto
 tags:
   - youtube

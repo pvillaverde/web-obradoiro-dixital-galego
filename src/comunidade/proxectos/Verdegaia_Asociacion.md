@@ -4,7 +4,6 @@ title: Verdegaia Asociación
 description: ""
 img: /img/comunidade/Verdegaia_Asociacion.webp
 date: 2018-05-17 18:52:16
-platform: youtube
 type: proxecto
 tags:
   - youtube

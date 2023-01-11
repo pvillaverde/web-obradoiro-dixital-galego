@@ -1,8 +1,6 @@
 ---
 layout: "layouts/proxecto.njk"
 title: AsWomansplainers
-file: aswomansplainers
-href: https://twitch.tv/aswomansplainers
 img: /img/comunidade/aswomansplainers.webp
 description: "As señoras explícanche cousas. Agora é a nosa quenda."
 date: 2021-06-17 18:07:11.70876

@@ -4,7 +4,6 @@ title: Meigo da dobraxe
 description: Canal sobre a dobraxe en galego.
 img: /img/comunidade/Meigo_da_dobraxe.webp
 date: 2019-08-13 12:32:09
-platform: youtube
 type: proxecto
 tags:
   - youtube

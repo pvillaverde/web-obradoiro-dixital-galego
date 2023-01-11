@@ -4,7 +4,6 @@ title: Raquel Couto Antelo
 description: Historias e pequenas trasnadas.
 img: /img/comunidade/Raquel_Couto_Antelo.webp
 date: 2022-11-01
-platform: youtube
 type: proxecto
 tags:
   - asociado

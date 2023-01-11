@@ -4,7 +4,6 @@ title: Moustache Media Producciones
 description: Producción de audiovisuales desde Galicia
 img: /img/comunidade/Moustache_Media_Producciones.webp
 date: 2018-03-14 11:08:02
-platform: youtube
 type: proxecto
 tags:
   - youtube

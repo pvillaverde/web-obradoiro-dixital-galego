@@ -4,7 +4,6 @@ title: Anxo González
 description: ""
 img: /img/comunidade/Anxo_Gonzalez.webp
 date: 2009-02-03 19:53:57
-platform: youtube
 type: proxecto
 tags:
   - asociado

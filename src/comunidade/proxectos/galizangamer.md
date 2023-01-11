@@ -1,6 +1,5 @@
 ---
 layout: layouts/proxecto.njk
-href: https://twitch.tv/galizangamer
 img: /img/comunidade/galizangamer.webp
 date: 2020-09-28 21:27:02.558366
 platform: twitch
@@ -11,7 +10,6 @@ tags:
   - youtube
   - twitch
   - videoxogos
-file: galizangamer
 description: Somos 4 persoas que durante a semana emitimos o que xogamos e os sábados pola mañá nos reunimos para darlle ó pico sobre as novas da semana e que andivemos a facer.
 redes:
   twitch: https://twitch.tv/galizangamer

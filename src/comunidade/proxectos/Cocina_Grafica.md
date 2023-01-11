@@ -4,7 +4,6 @@ title: Cociña Gráfica
 description: ""
 img: /img/comunidade/Cocina_Grafica.webp
 date: 2020-03-20 11:06:58
-platform: youtube
 type: proxecto
 tags:
   - youtube

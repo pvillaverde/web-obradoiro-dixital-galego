@@ -4,7 +4,6 @@ title: As Cousas do Choio
 description: ""
 img: /img/comunidade/As_Cousas_do_Choio.webp
 date: 2018-02-19 16:44:38
-platform: youtube
 type: proxecto
 tags:
   - youtube

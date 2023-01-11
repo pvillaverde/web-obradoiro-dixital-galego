@@ -4,7 +4,6 @@ type: proxecto
 title: A que cheira papá Magazine cultural
 img: /img/comunidade/A_que_cheira_papa_Magazine_cultural.webp
 date: 2018-03-01 18:41:11
-platform: youtube
 description: "Magazine cultura galego. Unha revista onde falar de cultura galega
   desde unha perspectiva nova e fresca, onde cabe todo: música, videoxogos a
   literatura ou o que for, fóra dos circuítos xa coñecidos ou das voces de

@@ -4,7 +4,6 @@ type: proxecto
 title: Abal e Boo
 img: /img/comunidade/galegotube.webp
 date: 2016-09-20 18:05:43
-platform: youtube
 description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción
   e etiquetas, ponte en contacto con nós.
 redes:

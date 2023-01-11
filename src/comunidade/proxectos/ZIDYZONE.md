@@ -4,7 +4,6 @@ title: ZIDYZONE
 description: ""
 img: /img/comunidade/ZIDYZONE.webp
 date: 2018-03-19 11:37:10
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ title: Andrea Mosteiro Sanxiao
 description: Páxina creada para darlle visibilidade aos comercios en galego,na Estrada.
 img: /img/comunidade/Andrea_Mosteiro_Sanxiao.webp
 date: 2015-08-05 23:26:47
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ title: Marcos Mendez Garcia
 description: ""
 img: /img/comunidade/Marcos_Mendez_Garcia.webp
 date: 2007-11-24 21:20:47
-platform: youtube
 type: proxecto
 tags:
   - youtube

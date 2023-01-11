@@ -7,7 +7,6 @@ description: |-
   2ª) Duración arredor de 2 minutos
 img: /img/comunidade/videos_explicativos_matematicas.webp
 date: 2017-05-11 10:02:09
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ title: Cachuchastudios
 description: ""
 img: /img/comunidade/Cachuchastudios.webp
 date: 1970-01-01
-platform: youtube
 type: proxecto
 tags:
   - youtube

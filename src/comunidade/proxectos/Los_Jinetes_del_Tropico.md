@@ -4,7 +4,6 @@ title: Los Jinetes del Trópico
 description: "Cumbia, reggaeton antimachista e punk Tropical from Galicia \U0001F34D"
 img: /img/comunidade/Los_Jinetes_del_Tropico.webp
 date: 2015-06-15 20:03:36
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ type: proxecto
 title: A PALLEIRA
 img: /img/comunidade/A_PALLEIRA.webp
 date: 2021-05-03 17:23:50
-platform: youtube
 description: >-
   Un programa de entrevistas no que atoparás conversas de persoas da cultura e
   da nosa contorna. 

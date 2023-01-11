@@ -6,7 +6,6 @@ description: |-
   EN DEFENSA DA ESCOLA PÚBLICA, DA EQUIDADE E DA IGUALDADE DE OPORTUNIDADES
 img: /img/comunidade/FOANPAS.webp
 date: 2019-02-19 21:09:57
-platform: youtube
 type: proxecto
 tags:
   - youtube

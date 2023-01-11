@@ -12,7 +12,6 @@ description: |-
   #baile popular galego
 img: /img/comunidade/Un_punto_ao_dia_con_Luis_Prego.webp
 date: 2019-03-01 00:36:21
-platform: youtube
 type: proxecto
 tags:
   - youtube

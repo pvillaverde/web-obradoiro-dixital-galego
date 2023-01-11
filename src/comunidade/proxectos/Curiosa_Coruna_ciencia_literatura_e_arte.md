@@ -7,7 +7,6 @@ description: |-
   Dirixidos por Estíbaliz Espinosa. Escritora, astrónoma amadora, mezzosoprano.
 img: /img/comunidade/Curiosa_Coruna_ciencia_literatura_e_arte.webp
 date: 2020-02-02 22:10:13
-platform: youtube
 type: proxecto
 tags:
   - youtube

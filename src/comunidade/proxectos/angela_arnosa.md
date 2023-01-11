@@ -4,7 +4,6 @@ title: angela arnosa
 description: ""
 img: /img/comunidade/angela_arnosa.webp
 date: 2012-05-26 17:45:42
-platform: youtube
 type: proxecto
 tags:
   - youtube

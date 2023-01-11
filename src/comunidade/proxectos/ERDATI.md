@@ -4,7 +4,6 @@ title: ERDATI
 description: ""
 img: /img/comunidade/ERDATI.webp
 date: 2012-10-03 22:38:55
-platform: youtube
 type: proxecto
 tags:
   - youtube

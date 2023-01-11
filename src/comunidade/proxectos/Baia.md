@@ -4,7 +4,6 @@ title: Baia
 description: ""
 img: /img/comunidade/Baia.webp
 date: 2015-08-27 19:08:11
-platform: youtube
 type: proxecto
 tags:
   - youtube

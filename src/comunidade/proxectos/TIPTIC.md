@@ -6,7 +6,6 @@ description: |-
   Agora na tempada 2: Só en falangullo en Anchor e en Ivoox.
 img: /img/comunidade/TIPTIC.webp
 date: 2020-03-31 16:57:12
-platform: youtube
 type: proxecto
 tags:
   - youtube

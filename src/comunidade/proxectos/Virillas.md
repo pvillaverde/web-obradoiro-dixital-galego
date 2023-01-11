@@ -4,7 +4,6 @@ title: Virillas
 description: "Gústanche os videoxogos, as entrevistas... Aquí temos de todo para pasalo ben e botar unhas risas. \nApoiemos os contidos en GALEGO!!!"
 img: /img/comunidade/Virillas.webp
 date: 2013-12-16 09:02:04
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ title: Silvia Abades
 description: ""
 img: /img/comunidade/Silvia_Abades.webp
 date: 2016-08-09 10:42:56
-platform: youtube
 type: proxecto
 tags:
   - youtube

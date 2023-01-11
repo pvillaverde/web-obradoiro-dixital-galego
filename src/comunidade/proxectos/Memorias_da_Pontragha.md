@@ -4,7 +4,6 @@ title: Memorias da Pontragha
 description: ""
 img: /img/comunidade/Memorias_da_Pontragha.webp
 date: 2018-01-12 15:31:57
-platform: youtube
 type: proxecto
 tags:
   - youtube

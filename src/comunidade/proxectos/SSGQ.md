@@ -4,7 +4,6 @@ title: SSGQ
 description: ""
 img: /img/comunidade/SSGQ.webp
 date: 2015-09-01 22:37:51
-platform: youtube
 type: proxecto
 tags:
   - youtube

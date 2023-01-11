@@ -4,7 +4,6 @@ title: Historia en papeis
 description: ""
 img: /img/comunidade/Historia_en_papeis.webp
 date: 2019-03-03 17:58:18
-platform: youtube
 type: proxecto
 tags:
   - youtube

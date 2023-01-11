@@ -4,7 +4,6 @@ title: Xurxo Diz Pico
 description: ""
 img: /img/comunidade/Xurxo_Diz_Pico.webp
 date: 2006-02-28 04:05:03
-platform: youtube
 type: proxecto
 tags:
   - youtube

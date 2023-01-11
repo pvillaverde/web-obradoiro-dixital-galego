@@ -4,7 +4,6 @@ title: Rubén Pérez
 description: ""
 img: /img/comunidade/Ruben_Perez.webp
 date: 2015-07-11 17:30:53
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ title: Lucía Estevez
 description: ""
 img: /img/comunidade/Lucia_Estevez.webp
 date: 2019-05-23 11:32:58
-platform: youtube
 type: proxecto
 tags:
   - youtube

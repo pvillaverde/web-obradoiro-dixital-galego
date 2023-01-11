@@ -4,7 +4,6 @@ title: Berto Yáñez
 description: I did it thirty-five minutes ago
 img: /img/comunidade/Berto_Yanez.webp
 date: 2006-09-18 13:50:11
-platform: youtube
 type: proxecto
 tags:
   - youtube

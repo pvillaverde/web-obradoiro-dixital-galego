@@ -4,7 +4,6 @@ title: O Antro Do Pixel
 description: Podcast no que falamos das nosas andanzas polos mundos virtuais de maneira moi pouco profesional, comentamos a actualidade e repasamos os nosos xogos favoritos.
 img: /img/comunidade/O_Antro_Do_Pixel.webp
 date: 2018-11-02 22:22:23
-platform: youtube
 type: proxecto
 tags:
   - youtube

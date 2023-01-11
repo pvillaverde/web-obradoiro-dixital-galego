@@ -4,7 +4,6 @@ title: Refuxio Enxebre
 description: ""
 img: /img/comunidade/Refuxio_Enxebre.webp
 date: 2021-02-13 12:12:48
-platform: youtube
 type: proxecto
 tags:
   - youtube

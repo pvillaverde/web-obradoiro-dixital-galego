@@ -6,7 +6,6 @@ description: |-
   Receitas da cociña tradicional galega doce e salgada.
 img: /img/comunidade/segredos_da_boa_cocina.webp
 date: 2021-01-29 18:22:04
-platform: youtube
 type: proxecto
 tags:
   - youtube

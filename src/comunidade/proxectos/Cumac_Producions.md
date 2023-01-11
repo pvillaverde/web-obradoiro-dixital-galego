@@ -9,7 +9,6 @@ description: |-
   -Pontevedra, Galicia
 img: /img/comunidade/Cumac_Producions.webp
 date: 2020-06-16 15:09:43
-platform: youtube
 type: proxecto
 tags:
   - youtube

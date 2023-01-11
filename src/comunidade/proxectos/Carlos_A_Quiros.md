@@ -4,7 +4,6 @@ title: Carlos A Quirós
 description: ""
 img: /img/comunidade/Carlos_A_Quiros.webp
 date: 2006-08-13 18:44:04
-platform: youtube
 type: proxecto
 tags:
   - youtube

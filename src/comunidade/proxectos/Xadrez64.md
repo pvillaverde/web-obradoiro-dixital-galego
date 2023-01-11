@@ -11,7 +11,6 @@ description: |-
   -Mensaxe privada de Lichess: https://lichess.org/inbox/Carro-Can
 img: /img/comunidade/Xadrez64.webp
 date: 2020-03-28 18:53:22
-platform: youtube
 type: proxecto
 tags:
   - youtube

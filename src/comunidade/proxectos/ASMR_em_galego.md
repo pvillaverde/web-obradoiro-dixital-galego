@@ -4,7 +4,6 @@ title: ASMR em galego
 description: ""
 img: /img/comunidade/ASMR_em_galego.webp
 date: 2016-04-15 09:33:49
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ title: Carlos Callón
 description: ""
 img: /img/comunidade/Carlos_Callon.webp
 date: 2008-04-03 22:41:49
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ title: Mars Invaders
 description: ""
 img: /img/comunidade/Mars_Invaders.webp
 date: 2020-10-23 16:54:27
-platform: youtube
 type: proxecto
 tags:
   - youtube

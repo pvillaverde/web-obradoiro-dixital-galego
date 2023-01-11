@@ -4,7 +4,6 @@ title: Noelia Outón
 description: ""
 img: /img/comunidade/Noelia_Outon.webp
 date: 2013-09-20 23:45:47
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ title: Xavielinho
 description: ""
 img: /img/comunidade/Xavielinho.webp
 date: 2014-02-20 13:23:54
-platform: youtube
 type: proxecto
 tags:
   - youtube

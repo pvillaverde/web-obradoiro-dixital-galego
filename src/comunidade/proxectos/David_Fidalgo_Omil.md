@@ -4,7 +4,6 @@ title: David Fidalgo Omil
 description: ""
 img: /img/comunidade/David_Fidalgo_Omil.webp
 date: 2010-05-26 09:03:57
-platform: youtube
 type: proxecto
 tags:
   - youtube

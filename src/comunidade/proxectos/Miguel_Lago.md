@@ -4,7 +4,6 @@ title: Miguel Lago
 description: ""
 img: /img/comunidade/Miguel_Lago.webp
 date: 2011-08-10 13:46:57
-platform: youtube
 type: proxecto
 tags:
   - youtube

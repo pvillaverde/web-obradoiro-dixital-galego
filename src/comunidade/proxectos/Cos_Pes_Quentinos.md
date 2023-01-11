@@ -4,7 +4,6 @@ title: Cos Pés Quentiños
 description: ""
 img: /img/comunidade/Cos_Pes_Quentinos.webp
 date: 2019-05-31 15:43:05
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ title: Rocioromar11
 description: ""
 img: /img/comunidade/Rocioromar11.webp
 date: 2011-05-27 23:03:48
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -6,7 +6,6 @@ description: |-
   Xusto cando arrecian as agresións á nosa Terra(extensión do monocultivo de eucalipto, proxectos extractivistas, avalancha de macroparques eólicos, contaminación do litoral e dos húmedais, arboricidios) faise necesario visibilizar estas problemáticas dando a voz a persoas do ámbito do ecoloxismo e das plataformas que loitan contra a depredación de Galiza. Nese sentido, en EcoCanle atoparedes entrevistas, reportaxes de actualidade, videodenuncias e crónicas de mobilizacións, sempre desde unha perspectiva ecofeminista. 
 img: /img/comunidade/EcoCanle_Galiza.webp
 date: 2021-02-02 15:45:37
-platform: youtube
 type: proxecto
 tags:
   - youtube

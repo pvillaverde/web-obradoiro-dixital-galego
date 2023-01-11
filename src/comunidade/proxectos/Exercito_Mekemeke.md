@@ -7,7 +7,6 @@ description: |-
   Un programa presentado por Carlos Vieito acompañado de Lidia Veiga e Miguel Abad para Ames Radio. Non sería posíbel sen Martín Rei detrás das cámaras, coa voz narradora de Antón Rubal e da música de Brais Iriarte creada en exclusiva para o programa.
 img: /img/comunidade/Exercito_Mekemeke.webp
 date: 2021-09-28 20:49:46
-platform: youtube
 type: proxecto
 tags:
   - asociado

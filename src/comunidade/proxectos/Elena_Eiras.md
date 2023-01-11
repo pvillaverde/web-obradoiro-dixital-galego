@@ -4,7 +4,6 @@ title: Elena Eiras
 description: ""
 img: /img/comunidade/Elena_Eiras.webp
 date: 2014-02-07 14:11:36
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -2,7 +2,6 @@
 layout: layouts/proxecto.njk
 img: /img/comunidade/A_Corte_do_Director.webp
 date: 2011-09-29 21:11:45
-platform: youtube
 type: proxecto
 title: A Corte do Director
 description: |-

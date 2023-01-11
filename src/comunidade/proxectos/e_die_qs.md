@@ -4,7 +4,6 @@ title: ê die qs
 description: ""
 img: /img/comunidade/e_die_qs.webp
 date: 2012-10-26 14:30:01
-platform: youtube
 type: proxecto
 tags:
   - youtube

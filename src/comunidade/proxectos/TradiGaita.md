@@ -4,7 +4,6 @@ title: TradiGaita
 description: Todo sobre a Gaita Galega
 img: /img/comunidade/TradiGaita.webp
 date: 2016-11-22 12:23:46
-platform: youtube
 type: proxecto
 tags:
   - youtube

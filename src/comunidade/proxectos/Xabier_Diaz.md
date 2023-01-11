@@ -7,7 +7,6 @@ description: |-
   Xabier Díaz musician chanel.
 img: /img/comunidade/Xabier_Diaz.webp
 date: 2013-11-12 15:24:20
-platform: youtube
 type: proxecto
 tags:
   - youtube

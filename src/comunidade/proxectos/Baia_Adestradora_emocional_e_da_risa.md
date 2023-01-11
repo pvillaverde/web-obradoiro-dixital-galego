@@ -4,7 +4,6 @@ title: Baia Adestradora emocional e da risa
 description: ""
 img: /img/comunidade/Baia_Adestradora_emocional_e_da_risa.webp
 date: 2020-06-08 22:08:47
-platform: youtube
 type: proxecto
 tags:
   - youtube

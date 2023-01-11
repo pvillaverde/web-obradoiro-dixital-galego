@@ -11,7 +11,6 @@ description: |-
   Miniatura da canle: @yago_oh
 img: /img/comunidade/AstroXabi.webp
 date: 2020-06-01 12:55:59
-platform: youtube
 type: proxecto
 tags:
   - youtube

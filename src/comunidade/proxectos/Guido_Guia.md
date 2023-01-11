@@ -6,7 +6,6 @@ description: |-
   www.guidoalvarezparga.com
 img: /img/comunidade/Guido_Guia.webp
 date: 2011-10-24 16:09:07
-platform: youtube
 type: proxecto
 tags:
   - youtube

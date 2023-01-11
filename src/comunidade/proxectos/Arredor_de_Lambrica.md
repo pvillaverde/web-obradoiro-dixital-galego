@@ -7,7 +7,6 @@ description: |-
   https://lambrica.fala.gal/
 img: /img/comunidade/Arredor_de_Lambrica.webp
 date: 2018-09-11 09:04:02
-platform: youtube
 type: proxecto
 tags:
   - youtube

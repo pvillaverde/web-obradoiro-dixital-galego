@@ -4,7 +4,6 @@ title: Páramo Pictures
 description: ""
 img: /img/comunidade/Paramo_Pictures.webp
 date: 2013-06-25 18:52:58
-platform: youtube
 type: proxecto
 tags:
   - youtube

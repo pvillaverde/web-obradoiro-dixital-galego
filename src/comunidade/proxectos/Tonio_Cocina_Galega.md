@@ -9,7 +9,6 @@ description: |-
   Unha aperta moi forte e moitas grazas, polo teu apoio e por compartir!!!
 img: /img/comunidade/Tonio_Cocina_Galega.webp
 date: 2020-06-25 16:04:42
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ title: CACHENA Channel
 description: A canle en galego para cativ@s
 img: /img/comunidade/CACHENA_Channel.webp
 date: 2020-04-30 14:11:48
-platform: youtube
 type: proxecto
 tags:
   - youtube

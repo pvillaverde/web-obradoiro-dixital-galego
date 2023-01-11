@@ -7,7 +7,6 @@ description: |-
   Realmente somos uns *amateurs* que facemos isto por pasar un bo tempo xuntos.
 img: /img/comunidade/Empeine_Galego.webp
 date: 2020-10-09 19:09:17
-platform: youtube
 type: proxecto
 tags:
   - youtube

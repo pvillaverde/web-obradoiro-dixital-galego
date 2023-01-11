@@ -4,7 +4,6 @@ title: Bueno Carallo Bueno
 description: "A última mala nova do 2020. Outro podcast.\n\nPresentado por [Silvio Falcón](https://twitter.com/silviofalcon) e [Alberte Montes](https://twitter.com/albertemontes)."
 img: /img/comunidade/Bueno_Carallo_Bueno.webp
 date: 2021-12-15 09:42:57
-platform: youtube
 type: proxecto
 tags:
   - youtube

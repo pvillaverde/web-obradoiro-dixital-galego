@@ -6,7 +6,6 @@ description: |-
   Também falo muito da lusifonia.
 img: /img/comunidade/Galiza_101.webp
 date: 2022-11-01
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ title: Adrienone
 description: Nada tiene sentido aquí...
 img: /img/comunidade/Adrienone.webp
 date: 2008-10-02 19:12:55
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -11,7 +11,6 @@ description: |-
   Intento subir vídeos cada semana/dúas semanas tratando temas diversos e outras cousas que se me van ocorrendo sobre a marcha...
 img: /img/comunidade/Miguel_FP.webp
 date: 2015-05-23 23:02:23
-platform: youtube
 type: proxecto
 tags:
   - youtube

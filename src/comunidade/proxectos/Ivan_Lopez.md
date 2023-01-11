@@ -4,7 +4,6 @@ title: Iván López
 description: ""
 img: /img/comunidade/Ivan_Lopez.webp
 date: 2014-06-08 13:45:24
-platform: youtube
 type: proxecto
 tags:
   - youtube

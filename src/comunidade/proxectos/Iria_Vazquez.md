@@ -6,7 +6,6 @@ description: |-
   Agardo que vos preste
 img: /img/comunidade/Iria_Vazquez.webp
 date: 2015-01-27 20:50:32
-platform: youtube
 type: proxecto
 tags:
   - youtube

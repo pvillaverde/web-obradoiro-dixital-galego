@@ -4,7 +4,6 @@ title: Noticias dispersas
 description: ""
 img: /img/comunidade/Noticias_dispersas.webp
 date: 2022-11-01
-platform: youtube
 type: proxecto
 tags:
   - youtube

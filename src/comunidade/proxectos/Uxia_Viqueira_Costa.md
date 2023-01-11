@@ -4,7 +4,6 @@ title: Uxía Viqueira Costa
 description: ""
 img: /img/comunidade/Uxia_Viqueira_Costa.webp
 date: 2014-04-01 19:30:41
-platform: youtube
 type: proxecto
 tags:
   - youtube

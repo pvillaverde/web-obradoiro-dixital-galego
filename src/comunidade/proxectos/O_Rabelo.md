@@ -4,7 +4,6 @@ title: O Rabelo
 description: Canle de vídeos de rap e improvisaçom e falando sobre distintos temas.
 img: /img/comunidade/O_Rabelo.webp
 date: 2019-06-21 20:50:34
-platform: youtube
 type: proxecto
 tags:
   - youtube

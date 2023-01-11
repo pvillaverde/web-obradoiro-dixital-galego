@@ -2,7 +2,6 @@
 layout: layouts/proxecto.njk
 img: /img/comunidade/A_Bancada.webp
 date: 2019-09-28 20:07:11
-platform: youtube
 type: proxecto
 title: A Bancada
 description: A Bancada é un espacio web adicado ao fútbol galego. Concretamente

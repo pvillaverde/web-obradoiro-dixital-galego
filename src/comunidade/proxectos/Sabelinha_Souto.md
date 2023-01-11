@@ -4,7 +4,6 @@ title: Sabelinha Souto
 description: ""
 img: /img/comunidade/Sabelinha_Souto.webp
 date: 2011-10-06 13:49:38
-platform: youtube
 type: proxecto
 tags:
   - youtube

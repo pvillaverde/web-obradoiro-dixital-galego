@@ -4,7 +4,6 @@ title: Gurrucho vozcast
 description: "Programa no que charlamos sobre os nosos gustos e inquedanzas: literatura, cinema, banda deseñada, series ou o que se nos pase pola cachola, e en galego."
 img: /img/comunidade/Gurrucho_vozcast.webp
 date: 2017-02-27 14:54:55
-platform: youtube
 type: proxecto
 tags:
   - youtube

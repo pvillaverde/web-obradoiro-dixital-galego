@@ -4,7 +4,6 @@ title: Una Silla Para Mi Coco
 description: ""
 img: /img/comunidade/Una_Silla_Para_Mi_Coco.webp
 date: 2018-01-10 15:42:47
-platform: youtube
 type: proxecto
 tags:
   - youtube

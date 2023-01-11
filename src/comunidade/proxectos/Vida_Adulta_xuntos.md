@@ -4,7 +4,6 @@ title: Vida Adulta xuntos
 description: ""
 img: /img/comunidade/Vida_Adulta_xuntos.webp
 date: 2018-03-13 15:36:22
-platform: youtube
 type: proxecto
 tags:
   - youtube

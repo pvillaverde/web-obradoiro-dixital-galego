@@ -4,7 +4,6 @@ title: Chis oliveira
 description: ""
 img: /img/comunidade/Chis_oliveira.webp
 date: 2010-09-07 11:16:24
-platform: youtube
 type: proxecto
 tags:
   - youtube

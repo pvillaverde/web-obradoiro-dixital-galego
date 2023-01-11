@@ -4,7 +4,6 @@ title: Cantigas Femeninas
 description: ""
 img: /img/comunidade/Cantigas_Femeninas.webp
 date: 1970-01-01
-platform: youtube
 type: proxecto
 tags:
   - youtube

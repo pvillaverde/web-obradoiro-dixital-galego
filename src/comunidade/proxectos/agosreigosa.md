@@ -1,8 +1,6 @@
 ---
 layout: "layouts/proxecto.njk"
 title: AgosReigosa
-file: agosreigosa
-href: https://twitch.tv/agosreigosa
 img: /img/comunidade/agosreigosa.webp
 description: ""
 date: 2012-12-01 14:38:59

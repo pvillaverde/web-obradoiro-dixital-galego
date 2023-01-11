@@ -2,7 +2,6 @@
 layout: layouts/proxecto.njk
 img: /img/comunidade/A_Canle_da_Fati.webp
 date: 2013-07-07 13:12:03
-platform: youtube
 type: proxecto
 title: A Canle da Fati
 description: |-

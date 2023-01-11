@@ -10,7 +10,6 @@ description: |-
   Hago covers, un podcast y de vez en cuando subo algún reportaje o corto en el que participase. Sígueme en mis redes sociales si te apetece y espero que te lo pases bien viendo lo que comparto!!
 img: /img/comunidade/Ivan_Iglesias.webp
 date: 2014-05-10 22:07:38
-platform: youtube
 type: proxecto
 tags:
   - youtube

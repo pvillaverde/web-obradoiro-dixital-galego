@@ -4,7 +4,6 @@ title: Escua Colectivos
 description: Espazo cultural alternativo (EsCuA) é a suma de varios colectivos culturais e sociais de Ourense, que presentaron un proxecto de rehabilitación da zona máis degradada do casco histórico de Ourense, por ende, coa cultura.
 img: /img/comunidade/Escua_Colectivos.webp
 date: 2012-09-06 20:21:22
-platform: youtube
 type: proxecto
 tags:
   - youtube

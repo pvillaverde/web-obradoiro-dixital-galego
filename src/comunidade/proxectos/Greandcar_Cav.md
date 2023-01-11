@@ -4,7 +4,6 @@ title: Greandcar Cav
 description: ""
 img: /img/comunidade/Greandcar_Cav.webp
 date: 2017-04-26 20:07:06
-platform: youtube
 type: proxecto
 tags:
   - youtube

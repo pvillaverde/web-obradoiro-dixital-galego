@@ -4,7 +4,6 @@ title: Xurxo Salgado
 description: ""
 img: /img/comunidade/Xurxo_Salgado.webp
 date: 2010-06-05 13:35:41
-platform: youtube
 type: proxecto
 tags:
   - youtube

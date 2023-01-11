@@ -1,8 +1,6 @@
 ---
 layout: "layouts/proxecto.njk"
 title: FicaCoaBola
-file: ficacoabola
-href: https://twitch.tv/ficacoabola
 img: /img/comunidade/ficacoabola.webp
 description: |-
   Jústavos o fúrbol?

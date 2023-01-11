@@ -4,7 +4,6 @@ title: Libraría Cartabón
 description: ""
 img: /img/comunidade/Libraria_Cartabon.webp
 date: 2014-01-22 15:19:31
-platform: youtube
 type: proxecto
 tags:
   - youtube

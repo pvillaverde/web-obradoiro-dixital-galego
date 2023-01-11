@@ -4,7 +4,6 @@ title: Rdecima decimar
 description: ""
 img: /img/comunidade/Rdecima_decimar.webp
 date: 2017-01-20 08:34:01
-platform: youtube
 type: proxecto
 tags:
   - youtube

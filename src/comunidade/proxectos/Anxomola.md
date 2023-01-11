@@ -4,7 +4,6 @@ title: Anxomola
 description: ""
 img: /img/comunidade/Anxomola.webp
 date: 2013-06-14 15:19:41
-platform: youtube
 type: proxecto
 tags:
   - youtube

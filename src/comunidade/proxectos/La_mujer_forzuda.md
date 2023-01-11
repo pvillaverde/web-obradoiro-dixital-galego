@@ -4,7 +4,6 @@ title: La mujer forzuda
 description: Vídeos para web? Pasen y vean...
 img: /img/comunidade/La_mujer_forzuda.webp
 date: 2012-05-24 15:49:47
-platform: youtube
 type: proxecto
 tags:
   - youtube

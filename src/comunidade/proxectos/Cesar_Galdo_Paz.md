@@ -4,7 +4,6 @@ title: Cesar Galdo Paz
 description: ""
 img: /img/comunidade/Cesar_Galdo_Paz.webp
 date: 2006-03-22 12:55:17
-platform: youtube
 type: proxecto
 tags:
   - youtube

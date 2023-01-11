@@ -4,7 +4,6 @@ title: Xurxo Varela
 description: cousiñas en galego
 img: /img/comunidade/Xurxo_Varela.webp
 date: 2013-09-26 17:39:47
-platform: youtube
 type: proxecto
 tags:
   - youtube

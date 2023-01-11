@@ -4,7 +4,6 @@ title: El rinconcito de Aida
 description: ""
 img: /img/comunidade/El_rinconcito_de_Aida.webp
 date: 2010-08-26 14:39:35
-platform: youtube
 type: proxecto
 tags:
   - youtube

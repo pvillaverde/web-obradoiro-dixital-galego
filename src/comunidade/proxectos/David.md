@@ -4,7 +4,6 @@ title: David
 description: ""
 img: /img/comunidade/David.webp
 date: 2015-10-16 05:58:06
-platform: youtube
 type: proxecto
 tags:
   - youtube

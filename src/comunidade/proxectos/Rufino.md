@@ -4,7 +4,6 @@ title: Rufino
 description: Hola! vou deixar por aiquí partidas que, máis ou menos, saliron ben! SUSCRÍBETE
 img: /img/comunidade/Rufino.webp
 date: 2020-04-18 11:58:21
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ title: As Cousas de Sara
 description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
 img: /img/comunidade/galegotube.webp
 date: 2018-02-18 16:14:39
-platform: youtube
 type: proxecto
 tags:
   - youtube

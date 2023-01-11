@@ -1,8 +1,6 @@
 ---
 layout: "layouts/proxecto.njk"
 title: PardoDeGaming
-file: pardodegaming
-href: https://twitch.tv/pardodegaming
 img: /img/comunidade/pardodegaming.webp
 description: null
 date: 2020-12-29 18:54:14.812863

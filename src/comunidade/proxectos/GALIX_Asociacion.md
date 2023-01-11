@@ -4,7 +4,6 @@ title: GÁLIX Asociación
 description: Canle de vídeos da Asociación Galega do Libro Infantil e Xuvenil
 img: /img/comunidade/GALIX_Asociacion.webp
 date: 2022-11-01
-platform: youtube
 type: proxecto
 tags:
   - youtube

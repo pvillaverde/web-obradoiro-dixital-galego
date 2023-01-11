@@ -1,8 +1,6 @@
 ---
 layout: "layouts/proxecto.njk"
 title: coegho
-file: coegho
-href: https://twitch.tv/coegho
 img: /img/comunidade/coegho.webp
 description: Non hai moito que contar.
 date: 2018-05-08 21:20:54.890104

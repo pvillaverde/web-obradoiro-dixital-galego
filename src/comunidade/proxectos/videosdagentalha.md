@@ -4,7 +4,6 @@ title: videosdagentalha
 description: ""
 img: /img/comunidade/videosdagentalha.webp
 date: 2010-07-16 10:19:58
-platform: youtube
 type: proxecto
 tags:
   - youtube

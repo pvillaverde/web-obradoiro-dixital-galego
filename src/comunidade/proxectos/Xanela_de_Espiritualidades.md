@@ -4,7 +4,6 @@ title: Xanela de Espiritualidades
 description: ""
 img: /img/comunidade/Xanela_de_Espiritualidades.webp
 date: 2022-11-01
-platform: youtube
 type: proxecto
 tags:
   - youtube

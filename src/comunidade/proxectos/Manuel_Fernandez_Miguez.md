@@ -4,7 +4,6 @@ title: Manuel Fernández Míguez
 description: ""
 img: /img/comunidade/Manuel_Fernandez_Miguez.webp
 date: 2013-07-11 11:55:26
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ title: Histérikas Histórikas
 description: ""
 img: /img/comunidade/Histerikas_Historikas.webp
 date: 2022-02-24 17:31:45
-platform: youtube
 type: proxecto
 tags:
   - youtube

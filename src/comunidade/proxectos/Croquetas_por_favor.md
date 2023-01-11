@@ -4,7 +4,6 @@ title: Croquetas por favor
 description: ""
 img: /img/comunidade/Croquetas_por_favor.webp
 date: 2022-04-18 15:31:01
-platform: youtube
 type: proxecto
 tags:
   - youtube

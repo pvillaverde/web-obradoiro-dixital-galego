@@ -9,7 +9,6 @@ description: |-
   A que esperas para comezar a seguirnos? ; )
 img: /img/comunidade/GZT.webp
 date: 2020-05-13 17:57:16
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ title: Alma da Vella Chousa
 description: ""
 img: /img/comunidade/Alma_da_Vella_Chousa.webp
 date: 2021-03-28 19:35:41
-platform: youtube
 type: proxecto
 tags:
   - youtube

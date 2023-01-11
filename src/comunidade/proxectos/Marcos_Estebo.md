@@ -4,7 +4,6 @@ title: Marcos Estebo
 description: "Realizador - Guionista\nReseñas de Series de TV e Cine "
 img: /img/comunidade/Marcos_Estebo.webp
 date: 2010-03-10 19:15:47
-platform: youtube
 type: proxecto
 tags:
   - youtube

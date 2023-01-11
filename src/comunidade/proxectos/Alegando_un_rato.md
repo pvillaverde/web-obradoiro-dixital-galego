@@ -4,7 +4,6 @@ title: Alegando un rato
 description: ""
 img: /img/comunidade/Alegando_un_rato.webp
 date: 1970-01-01
-platform: youtube
 type: proxecto
 tags:
   - youtube

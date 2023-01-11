@@ -4,7 +4,6 @@ title: Carla.gal
 description: ""
 img: /img/comunidade/Carla_Scarpenti.webp
 date: 2020-07-10 04:16:14
-platform: youtube
 type: proxecto
 tags:
   - youtube

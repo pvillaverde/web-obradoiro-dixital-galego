@@ -4,7 +4,6 @@ title: Anton Caeiro
 description: ""
 img: /img/comunidade/Anton_Caeiro.webp
 date: 2006-04-22 07:17:58
-platform: youtube
 type: proxecto
 tags:
   - youtube

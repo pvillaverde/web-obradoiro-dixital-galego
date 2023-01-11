@@ -9,7 +9,6 @@ description: |-
   #Youtubeiras #Youtubeiros #YoutubeEnGalego
 img: /img/comunidade/TOXIO.webp
 date: 2017-10-12 13:32:02
-platform: youtube
 type: proxecto
 tags:
   - youtube

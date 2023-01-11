@@ -6,7 +6,6 @@ description: |-
   Música en galego para nenas, nenos, calamares, lobos, osos panda, miñocas e demáis fauna.
 img: /img/comunidade/Faneca_e_Longueiron_FL.webp
 date: 2017-12-29 14:52:41
-platform: youtube
 type: proxecto
 tags:
   - youtube

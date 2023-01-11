@@ -7,7 +7,6 @@ description: |-
   Mais canles [aquí](https://www.ivoox.com/escuchar-audios-galizalivre_al_15149409_1.html?show=programs).
 img: /img/comunidade/Galiza_Livre.webp
 date: 2019-07-31 10:20:05
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ title: Sabela Martinez
 description: ""
 img: /img/comunidade/Sabela_Martinez.webp
 date: 2012-01-27 18:29:18
-platform: youtube
 type: proxecto
 tags:
   - youtube

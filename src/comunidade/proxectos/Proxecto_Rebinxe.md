@@ -9,7 +9,6 @@ description: |-
   Defendemos o dereito a unha vida digna no rural galego, que debe estar dotado de servizos, garantir a diversidade económica e potenciar as actividades agrogandeiras respectuosas co medio.
 img: /img/comunidade/Proxecto_Rebinxe.webp
 date: 2018-05-12 16:54:05
-platform: youtube
 type: proxecto
 tags:
   - youtube

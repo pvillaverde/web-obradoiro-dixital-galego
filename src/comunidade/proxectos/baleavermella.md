@@ -1,8 +1,6 @@
 ---
 layout: "layouts/proxecto.njk"
 title: BaleaVermella
-file: baleavermella
-href: https://twitch.tv/baleavermella
 img: /img/comunidade/baleavermella.webp
 description: "Directos en Twitch de [Javier Balea](https://twitter.com/javierbalea) e [A Raíña Vermella](https://twitter.com/rainhavermella) falando sobre diversos temas relacionados coa ciencia."
 date: 2021-02-21 20:28:59.003732

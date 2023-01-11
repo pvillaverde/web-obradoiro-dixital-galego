@@ -4,7 +4,6 @@ title: En Galego
 description: ""
 img: /img/comunidade/En_Galego.webp
 date: 2020-05-12 14:18:16
-platform: youtube
 type: proxecto
 tags:
   - youtube

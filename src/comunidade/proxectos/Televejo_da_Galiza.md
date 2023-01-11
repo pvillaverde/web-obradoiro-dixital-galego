@@ -6,7 +6,6 @@ description: |-
   Um jeito novo de ver a tele na Galiza.
 img: /img/comunidade/Televejo_da_Galiza.webp
 date: 2010-12-31 15:18:29
-platform: youtube
 type: proxecto
 tags:
   - youtube

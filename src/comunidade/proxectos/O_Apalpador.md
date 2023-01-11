@@ -4,7 +4,6 @@ title: O Apalpador
 description: ""
 img: /img/comunidade/O_Apalpador.webp
 date: 2012-12-17 15:51:43
-platform: youtube
 type: proxecto
 tags:
   - youtube

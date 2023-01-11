@@ -7,7 +7,6 @@ description: |-
   Dirixido por [Miguel Rodríguez Fernández](http://www.twitter.com/miguelrofer) e [Duarte Romero Varela](https://twitter.com/Xan_Guindan).
 img: /img/comunidade/Te_con_Gotas.webp
 date: 2020-05-15 23:25:03
-platform: youtube
 type: proxecto
 tags:
   - youtube

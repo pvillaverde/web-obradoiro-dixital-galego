@@ -4,7 +4,6 @@ title: xabier viana
 description: ""
 img: /img/comunidade/xabier_viana.webp
 date: 2007-03-16 12:55:08
-platform: youtube
 type: proxecto
 tags:
   - youtube

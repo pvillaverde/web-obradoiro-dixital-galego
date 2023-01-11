@@ -4,7 +4,6 @@ title: ASPG
 description: Canle da Asociación Socio-Pedagóxica Galega
 img: /img/comunidade/ASPG.webp
 date: 2020-10-22 13:01:12
-platform: youtube
 type: proxecto
 tags:
   - youtube

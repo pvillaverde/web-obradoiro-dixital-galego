@@ -4,7 +4,6 @@ title: Luismo
 description: ""
 img: /img/comunidade/Luismo.webp
 date: 2014-10-08 14:49:18
-platform: youtube
 type: proxecto
 tags:
   - youtube

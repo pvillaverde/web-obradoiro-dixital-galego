@@ -1,8 +1,6 @@
 ---
 layout: "layouts/proxecto.njk"
 title: Mosynho
-file: mosynho
-href: https://twitch.tv/mosynho
 img: /img/comunidade/mosynho.webp
 description: ""
 date: 2015-09-20 23:35:47.005503

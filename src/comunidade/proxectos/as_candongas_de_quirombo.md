@@ -4,7 +4,6 @@ title: as candongas de quirombo
 description: ""
 img: /img/comunidade/as_candongas_de_quirombo.webp
 date: 2010-08-25 11:17:38
-platform: youtube
 type: proxecto
 tags:
   - youtube

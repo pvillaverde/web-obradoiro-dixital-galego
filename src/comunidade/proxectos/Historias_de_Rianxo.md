@@ -4,7 +4,6 @@ title: Historias de Rianxo
 description: ""
 img: /img/comunidade/Historias_de_Rianxo.webp
 date: 2019-06-24 15:28:34
-platform: youtube
 type: proxecto
 tags:
   - youtube

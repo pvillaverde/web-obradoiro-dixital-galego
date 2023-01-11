@@ -6,7 +6,6 @@ description: |-
   Nesta canle de Youtube poderedes ir vendo como vai o desenvolvemento deste proxecto, así como, acceder a contidos exclusivos e a todas as promos dos programas.
 img: /img/comunidade/XuvenTV_Online.webp
 date: 2017-03-20 11:53:19
-platform: youtube
 type: proxecto
 tags:
   - youtube

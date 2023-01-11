@@ -9,7 +9,6 @@ description: |-
   As e os amantes do libro sabedes do que estamos a falar. Entrar nunha libraría é algo máis que atravesar unha porta, elixir un libro, pagalo e marchar. Entrar nunha libraría é un pracer para os sentidos, unha maneira de relacionarse con esta paixón de ler que compartimos tanta xente, e que comprende todo un proceso completo, dende que nos achegamos a unha libraría ata que lemos a última páxina, pechamos o libro e o deixamos, con nostalxia, de novo nun andel.
 img: /img/comunidade/Maruxairas_Libros_lidos.webp
 date: 2022-11-01
-platform: youtube
 type: proxecto
 tags:
   - youtube

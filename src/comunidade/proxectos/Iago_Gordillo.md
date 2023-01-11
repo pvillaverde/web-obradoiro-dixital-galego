@@ -4,7 +4,6 @@ title: Iago Gordillo
 description: ""
 img: /img/comunidade/Iago_Gordillo.webp
 date: 2006-03-25 17:49:04
-platform: youtube
 type: proxecto
 tags:
   - youtube

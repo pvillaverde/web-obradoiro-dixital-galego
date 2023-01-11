@@ -4,7 +4,6 @@ type: proxecto
 title: ACLP ROXÍN ROXAL
 img: /img/comunidade/ACLP_ROXIN_ROXAL.webp
 date: 2019-12-11 21:00:49
-platform: youtube
 description: >-
   Canal de vídeos da Asociación Cultural Libre de Paderne Roxín Roxal
 

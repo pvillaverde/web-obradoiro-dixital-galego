@@ -15,7 +15,6 @@ description: |-
   Cooltura e técnica: Chon
 img: /img/comunidade/Peche_Perimetral.webp
 date: 2020-12-17 19:33:13
-platform: youtube
 type: proxecto
 tags:
   - podcast

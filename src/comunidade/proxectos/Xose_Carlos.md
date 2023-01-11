@@ -4,7 +4,6 @@ title: Xose Carlos
 description: Canle de entrevistas e actividades culturais
 img: /img/comunidade/Xose_Carlos.webp
 date: 2022-11-01
-platform: youtube
 type: proxecto
 tags:
   - youtube

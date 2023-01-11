@@ -4,7 +4,6 @@ title: Sara Sande
 description: ""
 img: /img/comunidade/Sara_Sande.webp
 date: 2014-01-09 15:00:16
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ title: Qar
 description: Si bueno non.
 img: /img/comunidade/Qar.webp
 date: 2011-10-06 13:35:40
-platform: youtube
 type: proxecto
 tags:
   - youtube

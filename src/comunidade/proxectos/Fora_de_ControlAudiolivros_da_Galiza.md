@@ -6,7 +6,6 @@ description: |-
   De audición libre en: https://archive.org e https://t.me/GalizaForadeControl
 img: /img/comunidade/Fora_de_ControlAudiolivros_da_Galiza.webp
 date: 2020-08-11 16:14:02
-platform: youtube
 type: proxecto
 tags:
   - youtube

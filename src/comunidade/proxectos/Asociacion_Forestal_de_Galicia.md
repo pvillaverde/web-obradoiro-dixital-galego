@@ -9,7 +9,6 @@ description: |-
   THE GALICIA FORESTRY ASSOCIATION (AFG) is a private non-profit association, created in Santiago de Compostela in 1986. It brings together private individual forest owners and private communal neighbourhood forest owners.
 img: /img/comunidade/Asociacion_Forestal_de_Galicia.webp
 date: 2016-07-04 19:05:01
-platform: youtube
 type: proxecto
 tags:
   - youtube

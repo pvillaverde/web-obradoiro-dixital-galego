@@ -9,7 +9,6 @@ description: |-
   www.puntoevolta.com
 img: /img/comunidade/Punto_e_Volta.webp
 date: 2016-10-04 09:23:14
-platform: youtube
 type: proxecto
 tags:
   - youtube

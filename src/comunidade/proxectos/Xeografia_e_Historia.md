@@ -4,7 +4,6 @@ title: Xeografía e Historia
 description: ""
 img: /img/comunidade/Xeografia_e_Historia.webp
 date: 2018-12-06 15:53:28
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -6,7 +6,6 @@ description: |-
   Tamén traemos invitados de diversas áreas que aportan coñecemento e dinamismo.
 img: /img/comunidade/Lume_de_Carozo.webp
 date: 2022-11-01
-platform: youtube
 type: proxecto
 tags:
   - youtube

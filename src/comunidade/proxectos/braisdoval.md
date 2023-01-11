@@ -1,8 +1,6 @@
 ---
 layout: "layouts/proxecto.njk"
 title: BraisDoval
-file: braisdoval
-href: https://twitch.tv/braisdoval
 img: /img/comunidade/braisdoval.webp
 description: Moi boas! Aquí estamos polas risas e pouco máis
 date: 2017-11-20 17:19:39.841865

@@ -4,7 +4,6 @@ title: O Preaplauso
 description: ""
 img: /img/comunidade/O_Preaplauso.webp
 date: 2020-04-29 12:09:35
-platform: youtube
 type: proxecto
 tags:
   - youtube

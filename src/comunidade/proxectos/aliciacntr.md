@@ -8,7 +8,6 @@ description: |-
   ig: aliciacntr
 img: /img/comunidade/aliciacntr.webp
 date: 2019-02-16 23:10:20
-platform: youtube
 type: proxecto
 tags:
   - youtube

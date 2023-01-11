@@ -8,7 +8,6 @@ description: |-
   https://www.facebook.com/FARTURA.GAL
 img: /img/comunidade/Carmen_Rey.webp
 date: 2009-03-10 20:53:25
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -7,7 +7,6 @@ description: |-
   #youtubeiras #youtubeiros
 img: /img/comunidade/Nuria_Espasandin.webp
 date: 2016-12-01 11:52:32
-platform: youtube
 type: proxecto
 tags:
   - youtube

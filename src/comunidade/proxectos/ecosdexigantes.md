@@ -1,8 +1,6 @@
 ---
 layout: "layouts/proxecto.njk"
 title: EcosdeXigantes
-file: ecosdexigantes
-href: https://twitch.tv/ecosdexigantes
 img: /img/comunidade/ecosdexigantes.webp
 description: |-
   Somos Carmela Cela, Darío Lago e Diego Ferraz e divulgamos ciencia en twitch dunha forma amena, dinámica e animada.

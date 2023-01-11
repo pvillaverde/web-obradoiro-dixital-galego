@@ -4,7 +4,6 @@ title: Xangal
 description: ""
 img: /img/comunidade/Xangal.webp
 date: 2012-06-04 21:19:10
-platform: youtube
 type: proxecto
 tags:
   - asociado

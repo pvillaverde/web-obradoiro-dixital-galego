@@ -4,7 +4,6 @@ title: Alberto piñeiro cayetano
 description: A vida e dura
 img: /img/comunidade/Alberto_pineiro_cayetano.webp
 date: 2013-09-25 09:25:32
-platform: youtube
 type: proxecto
 tags:
   - youtube

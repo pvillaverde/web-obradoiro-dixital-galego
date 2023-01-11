@@ -4,7 +4,6 @@ title: Carmela Cela
 description: ""
 img: /img/comunidade/Carmela_Cela.webp
 date: 2011-10-28 16:18:46
-platform: youtube
 type: proxecto
 tags:
   - youtube

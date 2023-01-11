@@ -1,8 +1,6 @@
 ---
 layout: "layouts/proxecto.njk"
 title: De_Parola
-file: de_parola
-href: https://twitch.tv/de_parola
 img: /img/comunidade/de_parola.webp
 description: |-
   [Martín Sorga](https://twitter.com/MartinSorga) e [Iván Iglesias](https://twitter.com/ivaniglesiasi) fundan o podcast **De Parola** pola inquedanza de crear o seu propio espazo divulgativo en galego. Atendendo a todo tipo de temáticas de interese cultural e da actualidade, pero sempre dende unha perspectiva predominantemente humorística.\n\nImos falar da nosa casa, do que nos pete, na nosa lingua.\nBenvidos e benvidas, estades convidados a participar. Inda que sexa mandándonos á merda.

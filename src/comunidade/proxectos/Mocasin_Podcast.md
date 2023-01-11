@@ -4,7 +4,6 @@ title: Mocasín Podcast
 description: ""
 img: /img/comunidade/Mocasin_Podcast.webp
 date: 2021-09-05 19:22:24
-platform: youtube
 type: proxecto
 tags:
   - youtube

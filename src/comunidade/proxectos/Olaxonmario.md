@@ -4,7 +4,6 @@ title: Olaxonmario
 description: que lo, xa é así?
 img: /img/comunidade/Olaxonmario.webp
 date: 2018-07-19 12:59:20
-platform: youtube
 type: proxecto
 tags:
   - youtube

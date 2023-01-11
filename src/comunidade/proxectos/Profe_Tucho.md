@@ -4,7 +4,6 @@ title: Profe Tucho
 description: ""
 img: /img/comunidade/Profe_Tucho.webp
 date: 2011-10-25 09:37:22
-platform: youtube
 type: proxecto
 tags:
   - youtube

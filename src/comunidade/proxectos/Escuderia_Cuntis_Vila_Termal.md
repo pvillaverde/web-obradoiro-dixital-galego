@@ -4,7 +4,6 @@ title: Escudería Cuntis Vila Termal
 description: ""
 img: /img/comunidade/Escuderia_Cuntis_Vila_Termal.webp
 date: 2017-03-09 08:31:50
-platform: youtube
 type: proxecto
 tags:
   - youtube

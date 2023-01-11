@@ -4,7 +4,6 @@ title: Noelia Gómez Calvo
 description: ""
 img: /img/comunidade/Noelia_Gomez_Calvo.webp
 date: 2013-01-26 13:38:43
-platform: youtube
 type: proxecto
 tags:
   - youtube

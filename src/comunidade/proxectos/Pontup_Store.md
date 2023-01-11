@@ -12,7 +12,6 @@ description: |-
   Trátase dun evento multisectorial con proxectos que proveñen dun gran abano de sectores de actividade procedentes tanto do ámbito urbano coma do rural cunha gran calidade contrastada derivada dun rigoroso proceso de selección das numerosas candidaturas recibidas cada edición.
 img: /img/comunidade/Pontup_Store.webp
 date: 2015-07-21 08:10:36
-platform: youtube
 type: proxecto
 tags:
   - youtube

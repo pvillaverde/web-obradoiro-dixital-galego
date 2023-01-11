@@ -28,7 +28,6 @@ description: |-
   Dareille contido a este canal
 img: /img/comunidade/Vivi_Arou.webp
 date: 2010-09-07 14:44:45
-platform: youtube
 type: proxecto
 tags:
   - youtube

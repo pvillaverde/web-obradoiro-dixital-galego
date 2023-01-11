@@ -4,7 +4,6 @@ title: Alexandre Brea Rodríguez
 description: ""
 img: /img/comunidade/Alexandre_Brea_Rodriguez.webp
 date: 2012-10-15 09:51:58
-platform: youtube
 type: proxecto
 tags:
   - youtube

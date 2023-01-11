@@ -1,8 +1,6 @@
 ---
 layout: "layouts/proxecto.njk"
 title: falarsensaber
-file: falarsensaber
-href: https://twitch.tv/falarsensaber
 img: /img/comunidade/falarsensaber.webp
 description: |-
   Falamos de merdas os domingos, pero en galego.

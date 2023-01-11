@@ -7,7 +7,6 @@ description: |-
   Con cariño dende Galiza, espero que vos guste!
 img: /img/comunidade/Ben_feito.webp
 date: 2016-12-24 19:16:51
-platform: youtube
 type: proxecto
 tags:
   - youtube

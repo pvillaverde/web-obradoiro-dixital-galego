@@ -8,7 +8,6 @@ description: |-
   Para contactar comigo: nubesbaixoti@gmail.com
 img: /img/comunidade/Nubes_Baixo_Ti.webp
 date: 2014-04-27 17:56:56
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ title: Tele Jaita
 description: Aloucadas dobraxes o galego e as noticias mais importantes do país narradas como realmente sucederon.
 img: /img/comunidade/Tele_Jaita.webp
 date: 2016-02-12 16:06:55
-platform: youtube
 type: proxecto
 tags:
   - youtube

@@ -4,7 +4,6 @@ title: Talento Galego
 description: ""
 img: /img/comunidade/Talento_Galego.webp
 date: 2016-11-13 22:54:19
-platform: youtube
 type: proxecto
 tags:
   - youtube

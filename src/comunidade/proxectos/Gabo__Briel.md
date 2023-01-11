@@ -4,7 +4,6 @@ title: Gabo  Briel
 description: ""
 img: /img/comunidade/Gabo__Briel.webp
 date: 2013-10-12 10:02:02
-platform: youtube
 type: proxecto
 tags:
   - youtube
