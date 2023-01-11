@@ -3,7 +3,6 @@ img: /img/comunidade/a_lobeira_today.webp
 active: false
 layout: layouts/proxecto.njk
 type: proxecto
-href: https://twitch.tv/a_lobeira_today
 description: >-
   A Lobeira today é unha canle comprometida coa visibilización e difusión
   daquelas que fan contido en galego aquí no YouTube; e tamén con xerar contido
@@ -15,7 +14,6 @@ description: >-
 
   #YouTubeiras #Youtubeiros
 date: 2020-04-09 10:30:11.312203
-platform: twitch
 title: A Lobeira Today
 tags:
   - asociado
@@ -34,7 +32,6 @@ tags:
   - cozinha
   - culturapopular
   - outras
-file: a_lobeira_today
 redes:
   youtube: https://www.youtube.com/channel/UCZZTH6dVk9k_ah6OpZ-w7ZA
   facebook: https://www.facebook.com/ALobeiratoday
