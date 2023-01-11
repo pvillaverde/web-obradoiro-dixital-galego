@@ -5,7 +5,6 @@ img: /img/comunidade/kekoneverland.webp
 description: ""
 date: 2013-07-26 13:06:10.331498
 active: false
-platform: twitch
 type: proxecto
 tags:
   - twitch

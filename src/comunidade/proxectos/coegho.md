@@ -5,7 +5,6 @@ img: /img/comunidade/coegho.webp
 description: Non hai moito que contar.
 date: 2018-05-08 21:20:54.890104
 active: false
-platform: twitch
 type: proxecto
 tags:
   - twitch

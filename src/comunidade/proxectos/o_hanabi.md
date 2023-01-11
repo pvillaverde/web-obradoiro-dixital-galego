@@ -5,7 +5,6 @@ img: /img/comunidade/o_hanabi.webp
 description: "Editor e intento de escritor. Fago directos en lingua galega, normalmente xogando a xogos de medo ou a algunha novidade.. #saúdeMental Bio"
 date: 2015-04-04 15:04:16.671866
 active: false
-platform: twitch
 type: proxecto
 tags:
   - asociado

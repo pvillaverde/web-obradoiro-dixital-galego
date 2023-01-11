@@ -10,7 +10,6 @@ description: |-
   Aquí poderás atopar os directos resubidos.
 date: 2021-01-25 19:36:34.623116
 active: false
-platform: twitch
 type: proxecto
 tags:
   - youtube

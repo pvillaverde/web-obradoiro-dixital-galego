@@ -5,7 +5,6 @@ img: /img/comunidade/nvfgalicia.webp
 description: O mellor do fútbol galego en Youtube da mán de Dani Cabo
 date: 2021-04-12 21:36:53.671401
 active: false
-platform: twitch
 type: proxecto
 tags:
   - twitch

@@ -5,7 +5,6 @@ img: /img/comunidade/agosreigosa.webp
 description: ""
 date: 2012-12-01 14:38:59
 active: false
-platform: twitch
 type: proxecto
 tags:
   - twitch

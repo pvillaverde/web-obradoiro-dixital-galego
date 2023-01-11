@@ -5,7 +5,6 @@ img: /img/comunidade/enxebre_gamer.webp
 description: ""
 date: 2019-06-06 15:50:59.891543
 active: false
-platform: twitch
 type: proxecto
 tags:
   - twitch

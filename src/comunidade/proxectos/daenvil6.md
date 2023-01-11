@@ -5,7 +5,6 @@ img: /img/comunidade/daenvil6.webp
 description: Right now I'm mainly making Minecraft datapacks and maybe some other stuff.
 date: 2014-03-06 18:35:32.031787
 active: false
-platform: twitch
 type: proxecto
 tags:
   - twitch

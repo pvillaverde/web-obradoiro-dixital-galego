@@ -5,7 +5,6 @@ img: /img/comunidade/oputopablo.webp
 description: Genghis Khan podería ser meu pai.
 date: 2020-11-08 14:21:50.351886
 active: false
-platform: twitch
 type: proxecto
 tags:
   - twitch

@@ -5,7 +5,6 @@ img: /img/comunidade/descifrando-a-historia.webp
 description: "Podcast en galego para analizar a Historia de Galicia. O principal obxectivo é contar partes da historia do pobo galego que se descoñecen ou que merecen verse desde outra perspectiva, e que así o oínte se faga a súa propia reflexión persoal. Non son curiosidades, é Historia."
 date: 2021-10-08 09:28:46
 active: false
-platform: twitch
 type: proxecto
 tags:
   - asociado

@@ -5,7 +5,6 @@ img: /img/comunidade/aswomansplainers.webp
 description: "As señoras explícanche cousas. Agora é a nosa quenda."
 date: 2021-06-17 18:07:11.70876
 active: false
-platform: twitch
 type: proxecto
 tags:
   - asociado

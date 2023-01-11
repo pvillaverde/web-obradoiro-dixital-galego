@@ -10,7 +10,6 @@ description: |-
   Si, somos cutres.
 date: 2021-04-03 16:17:08.611925
 active: false
-platform: twitch
 type: proxecto
 tags:
   - twitch

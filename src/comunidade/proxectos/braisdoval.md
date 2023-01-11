@@ -5,7 +5,6 @@ img: /img/comunidade/braisdoval.webp
 description: Moi boas! Aquí estamos polas risas e pouco máis
 date: 2017-11-20 17:19:39.841865
 active: false
-platform: twitch
 type: proxecto
 tags:
   - twitch

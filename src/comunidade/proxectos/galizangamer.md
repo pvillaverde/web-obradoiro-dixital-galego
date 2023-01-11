@@ -2,7 +2,6 @@
 layout: layouts/proxecto.njk
 img: /img/comunidade/galizangamer.webp
 date: 2020-09-28 21:27:02.558366
-platform: twitch
 type: proxecto
 title: Galizan Gamer
 tags:

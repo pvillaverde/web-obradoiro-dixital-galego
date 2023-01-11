@@ -5,7 +5,6 @@ img: /img/comunidade/gabiiig8.webp
 description: Benvidxs berberechos a miña canle de Youtube!! :)
 date: 2015-10-24 03:17:53.867864
 active: false
-platform: twitch
 type: proxecto
 tags:
   - twitch

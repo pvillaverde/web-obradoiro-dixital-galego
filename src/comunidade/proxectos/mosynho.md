@@ -5,7 +5,6 @@ img: /img/comunidade/mosynho.webp
 description: ""
 date: 2015-09-20 23:35:47.005503
 active: false
-platform: twitch
 type: proxecto
 tags:
   - twitch

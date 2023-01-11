@@ -24,7 +24,6 @@ description: |-
   · Ratón Logitech G402 Hyperion Fury
 date: 2016-01-23 18:29:24
 active: false
-platform: twitch
 type: proxecto
 tags:
   - twitch

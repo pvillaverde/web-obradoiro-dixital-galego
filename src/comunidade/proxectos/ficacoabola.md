@@ -8,7 +8,6 @@ description: |-
   A nós tamén :)
 date: 2021-01-05 15:57:52.320473
 active: false
-platform: twitch
 type: proxecto
 tags:
   - asociado
