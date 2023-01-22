@@ -1,8 +1,8 @@
 /podcast/*  /comunidade/?status=all&podcast=on  302
 /youtube/*  /comunidade/?status=all&youtube=on  302
 /twitch/*  /comunidade/?status=all&twitch=on  302
-/asociate https://drive.google.com/file/d/19fBnJkz0cCGvM1LfNXOjjH7QQwLuIVF4/view 200
-/estatutos https://drive.google.com/file/d/102ePIsz_PlLkLAA8AqMa66Hay0VH0HMv/view 200
+/asociate https://drive.google.com/file/d/19fBnJkz0cCGvM1LfNXOjjH7QQwLuIVF4/view 302
+/estatutos https://drive.google.com/file/d/102ePIsz_PlLkLAA8AqMa66Hay0VH0HMv/view 302
 https://podcast.obradoirodixitalgalego.gal/*  https://obradoirodixitalgalego.gal/comunidade/?status=all&podcast=on  302!
 https://youtube.obradoirodixitalgalego.gal/*  https://obradoirodixitalgalego.gal/comunidade/?status=all&youtube=on  302!
 https://twitch.obradoirodixitalgalego.gal/*  https://obradoirodixitalgalego.gal/comunidade/?status=all&twitch=on  302!
