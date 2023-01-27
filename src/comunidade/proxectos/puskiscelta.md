@@ -7,7 +7,10 @@ date: 2013-03-11 16:50:14
 active: false
 type: proxecto
 tags:
+  - asociado
   - twitch
+  - videoxogos
 redes:
   twitch: https://twitch.tv/puskiscelta
+  twitter: https://twitter.com/PuskisCelta
 ---

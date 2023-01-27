@@ -11,7 +11,9 @@ img: /img/comunidade/TOXIO.webp
 date: 2017-10-12 13:32:02
 type: proxecto
 tags:
+  - asociado
   - youtube
+  - viaxes
 redes:
   youtube: https://www.youtube.com/channel/UCirenQprE-itZVkd9EGOP4Q
 ---
