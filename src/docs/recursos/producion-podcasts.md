@@ -83,5 +83,6 @@ Curso producido por [Jorge Lama](https://twitter.com/raivenra) para toda a comun
 
 ## Outros recursos
 - [Como extraer audio dun vídeo con Audacity](https://www.youtube.com/watch?v=AAJN8nGcS4o).
+- [Cómo instalar librerías FFmpeg en Audacity](https://www.youtube.com/watch?v=-uxSedIgnIs&t=4s&ab_channel=JoseLuisTecno).
 - [Como posprocesar automaticamente arquivos de audio (Auphonic)](https://auphonic.com/).
 - [Como facer vídeos promocionais co efecto de “ondas sonoras” con ShotCut](https://www.youtube.com/watch?v=PWPY1_-pCHo) (en inglés).

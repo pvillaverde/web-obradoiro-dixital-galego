@@ -16,6 +16,8 @@ Aquí podedes atopar algúns recursos libres, ou case, que podedes empregar para
 
 - [Cousxs](https://www.youtube.com/watch?v=16P8yYt1v3s) tivo a ben crear [estes temas Lo-Fi](https://drive.google.com/drive/folders/1zZf1ul6TdXIvfwQhumCvmWc2Bdy_ojZx?usp=sharing) para todas aquelas persoas que crean contidos na nosa lingua. Non deixedes de atribuír e pasar polo seu [Twitter](https://twitter.com/cousxs) se che gusta o que oes.
 - [FreeSound](https://freesound.org/) – recursos sonoros, efectos, gravacións de campo, etc. Muitas con licenzas CC-0.
+- [FreeMusicArchive](https://www.freemusicarchive.org/) – recursos sonoros, efectos, gravacións de campo, etc. Muitas con licenzas CC-0.
+- [FreePD](https://freepd.com) - Nesta páxina tes música dividida por temas (Comedia, drama, bandas sonoras...)
 - [GameSounds](https://gamesounds.xyz/) - recursos de son para videoxogos.
 - [CCMixter](http://dig.ccmixter.org/) – músicas instrumentales, para bandas sonoras, etc. Licenzas CC-NC, CC-BY e [TuneTrack](http://tunetrack.net/artistech/pages/music-licensing/).
 - [Jamendo](https://www.jamendo.com/) – música de todos os estilos con [licencias para uso comercial](https://licensing.jamendo.com/es/catalogo?jmm=catalog) (consultar condicións e prezos).
@@ -24,6 +26,11 @@ Aquí podedes atopar algúns recursos libres, ou case, que podedes empregar para
 - [AudioLibrary] - Músicas lo-fi de distintos estilos, moitas con licencias CC-0.
 - [FreeMusicArchive] - Música de libre uso e que podes utilizar en calquera proxecto.
 - [BandCamp](https://bandcamp.com) - Aquí pódese consultar os dereitos de uso, por exemplo [Ataque Escampe ten uso libre](https://ataqueescampe.bandcamp.com/)
+- [Mobygratis](https://mobygratis.com) - Música libre de dereitos para cinema e vídeos non comerciais do DJ Moby.
+- [Banco de imaxes e sons do Ministerio de Educación](http://recursostic.educacion.es/bancoimagenes/web) - Nesta web hai moitos recursos aínda que navegar por ela e sacar sons de calidade pode ser compricado.
+- [Biblioteca sonora de Youtube](https://www.youtube.com/audiolibrary/music) - O propio arquivo de Youtube para engadir músicas e sons directamente nos teus vídeos.
+- [Arquivo do Patrimonio Oral da Identidade](http://www.apoi-mpg.org) - Aquí podes atopar rexistros sonoros e audiovisuais das coleccións do patrimonio inmaterial do Museo do Pobo Galego.
+- [GameChops](https://gamechops.com/) - Música gratis (con recoñecemento) para os directos / vídeos, basadas en videoxogos.
 
 ## Imaxes libres
 
@@ -53,3 +60,4 @@ Nos últimos tempos saíron ferramentas de intelixencia artificial que nos permi
 - [OpenAI](https://openai.com/api/) - Permite xerar textos en galego para artigos de blogue, páxinas web, relatos curtos, traducións, extraer palabras chave dun texto. Pódese utilizar para xerar o guión dun vídeo de titoriais por exemplo. Ao igual que DALL·E, ten uns créditos gratuitos e posteriormente hai que pagar para recargalos.
 - [WriteSonic](https://writesonic.com/) - Tamén é outra IA para xerar textos, é gratuita pero non recoñece o galego polo momento.
 - [Synthesia](https://www.synthesia.io/) - Permite xerar vídeos cunha persoa xesticulando e narrando un texto. Pódese entrenar para que o faga con imaxes propias e está dispoñible en galego.
+- [ChatGPT](https://chat.openai.com/) - Unha IA conversacional que che permite xerar guións e ir guiandoa para que che xere o contido. O límite é a túa imaxinación!

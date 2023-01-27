@@ -38,3 +38,12 @@ Twitch permite integrar no chat bots que nos axuden durante os nosos directos, l
 - [**StreamLabs OBS Chatbot**](https://streamlabs.com/chatbot)
 - [**Moobot**](https://moo.bot/)
 - [**StreamElements Chatbot**](https://streamelements.com/features/chatbot)
+
+## Outros recursos
+- [VoiceMeter Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Este programa serve para facer tarxetas virtuais de audio, usao bastante xente que fai streams grupais para nivelar os volumes dos diferentes participantes a falta dunha opción co propio programa de emitir.
+- [Twitch Predictions Overlay](https://www.boingy.co.uk/predictions) - Permite poñer unha capa no directo na que ver a evolución en tempo real das prediccións
+- [Modelos de configuración básicos](https://stream.twitch.tv/encoding/) que recomenda twitch para emitir segundo a resolución e codec. Especialmente interesante se o teu PC ou a banda ancha non che permite emitir a 1080p, podes xogar con 720p ou 900p.
+- Para ver o rendemento dun xogo no voso PC podedes utilizar [MSI Afterburner](https://www.msi.com/Landing/afterburner) ou [RivaTuner](https://www.guru3d.com/content-page/rivatuner.html). E se utilizades linux tendes [GOverlay](https://github.com/benjamimgois/goverlay).
+- [Cuñas de suscrición Prime](https://twitter.com/MoisesPombo/status/1367836711443632134?s=20) feitas e cedidas por [MoisesPombo](/comunidade/proxectos/moisespombo)
+- [Engadir subtítulos automáticos](https://webcaptioner.com/help/integrations/obs) para integrar no OBS ou en [Streamlabs](https://webcaptioner.com/help/integrations/streamlabs-obs)
+- Aplicación para [transformar os clips de twitch en historias de Tik-Tok](https://www.getstreamkit.com/).
