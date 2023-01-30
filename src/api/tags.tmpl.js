@@ -4,7 +4,8 @@ export default function ({ search, categorias }) {
    for (const tag of categorias.tags) {
       const pagesByTag = search.pages(`type=proxecto ${tag.id}`, "title=asc");
       items.push({
-         etiqueta: tag.id,
+         etiqueta_id: tag.id,
+         etiqueta_nome: tag.name,
          total: pagesByTag.length,
          proxectos: pagesByTag.map(p => p.data.title)
       });
