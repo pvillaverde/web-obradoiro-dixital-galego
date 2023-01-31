@@ -13,7 +13,7 @@ redes:
   twitter: https://twitter.com/GalegoTwitch
   twitch: https://www.twitch.tv/twitch_en_galego
   youtube: https://www.youtube.com/channel/UClavUfgzYt5uSgtBJbPoXqA
-  mastodon: https://botsin.space/@GalegoTwitch
+  mastodon: https://bots.automatica.dev/@GalegoTwitch
 tags:
   - asociado
   - youtube
