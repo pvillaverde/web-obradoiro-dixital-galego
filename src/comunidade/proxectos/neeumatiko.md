@@ -6,7 +6,18 @@ img: /img/comunidade/neeumatiko.webp
 date: 2020-03-12 18:00:47
 type: proxecto
 tags:
+  - asociado
   - youtube
+  - ensino
+  - ciencia
+  - literatura
+  - autoaxuda
+  - activismo
+  - divulgacion
+  - lgtbi
+  - lusofonia
 redes:
   youtube: https://www.youtube.com/channel/UClZ-fWAY2dGzcKXBW5HmlLA
+  twitter: https://twitter.com/neeumatiko
+  mastodon: https://mastodon.gal/@alobeiratoday
 ---
