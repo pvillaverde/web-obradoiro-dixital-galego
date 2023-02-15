@@ -1,7 +1,7 @@
 ---
 layout: layouts/proxecto.njk
 img: /img/comunidade/caixanegra_nostromo.webp
-date: 2011-09-29 21:11:45
+date: 2023-02-14 21:11:45
 type: proxecto
 title: A Caixa negra da Nostromo
 description: Canle de cinema en galego na que tratamos os filmes que nos molan e sobre todo os dos 80 e 90

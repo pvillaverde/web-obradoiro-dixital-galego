@@ -3,7 +3,7 @@ layout: 'layouts/proxecto.njk'
 title: Kinocube Cinema
 description: "Bitácora e canle de YouTube de reflexión sobre cinema."
 img: /img/comunidade/Kinocube_Cinema.webp
-date: 2022-03-31 10:34:05
+date: 2023-02-14 10:34:05
 type: proxecto
 tags:
   - asociado

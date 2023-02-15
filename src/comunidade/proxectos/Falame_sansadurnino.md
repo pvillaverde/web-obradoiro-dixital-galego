@@ -3,7 +3,7 @@ layout: 'layouts/proxecto.njk'
 title: Fálame de San Sadurniño
 description: "Canle audiovisual do proxecto colaborativo 'Fálame de San Sadurniño'."
 img: /img/comunidade/Falame_sansadurnino.webp
-date: 2022-03-31 10:34:05
+date: 2023-02-15 10:34:05
 type: proxecto
 tags:
   - podcast
