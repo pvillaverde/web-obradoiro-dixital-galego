@@ -19,5 +19,5 @@ tags:
 redes:
   youtube: https://www.youtube.com/channel/UClZ-fWAY2dGzcKXBW5HmlLA
   twitter: https://twitter.com/neeumatiko
-  mastodon: https://mastodon.gal/@alobeiratoday
+  mastodon: https://mastodon.gal/@neeumatiko
 ---
