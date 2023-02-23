@@ -48,9 +48,9 @@ A partir de que recibamos a túa ficha de afiliación, porémonos en contacto co
 - Personalización das etiquetas e textos de promoción na páxina web, ademáis de aparecer destacada na páxina.
 #### Cota de socio
 Ser socio require dunha pequena aportación económica. Tes varias opcións:
-- 12 € como **cota reducida** para estudantes e persoas desempregadas
-- 24 € como **cota xeral** para o resto de persoas
-- Podes **personalizar a cota** se queres aportar máis de 24€
+- 12€/ano como **cota reducida** para estudantes e persoas desempregadas
+- 24€/ano como **cota xeral** para o resto de persoas
+- Podes **personalizar a cota** se queres aportar máis de 24€/ano
 
 Esta aportación é unha grande axuda e que nos permite pagar cousas como:
 - Material e aluguer de postos.
