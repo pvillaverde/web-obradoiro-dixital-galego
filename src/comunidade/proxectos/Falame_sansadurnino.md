@@ -6,6 +6,7 @@ img: /img/comunidade/Falame_sansadurnino.webp
 date: 2023-02-15 10:34:05
 type: proxecto
 tags:
+  - asociado
   - podcast
   - youtube
   - agricultura
