@@ -1,6 +1,6 @@
 ---
 layout: layouts/proxecto.njk
-img: /img/comunidade/planeta_hoxe_en_dia.webp
+img: /img/comunidade/planeta_hoxe_en_dia_noticias.webp
 date: "2021-12-10"
 type: proxecto
 title: O Planeta de Hoxe en Día Noticias
