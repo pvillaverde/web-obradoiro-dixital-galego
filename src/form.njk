@@ -1,0 +1,19 @@
+---
+layout: layouts/base.njk
+bodyClass: body-default
+page_css: blog.css
+---
+<article class="post" data-pagefind-body data-title="{{ title }}" data-pagefind-index-attrs="data-title" data-pagefind-filter="Sección:Legal">
+   <form name="contact" netlify>
+      <p>
+         <label>Name <input type="text" name="name"/></label>
+      </p>
+      <p>
+         <label>Email <input type="email" name="email"/></label>
+      </p>
+      <p>
+         <button type="submit">Send</button>
+      </p>
+   </form>
+
+</article>
