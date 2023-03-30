@@ -54,3 +54,22 @@
       }
    }
 }
+
+.footer-cookies {
+   position: fixed;
+   bottom: 0;
+   right: 0;
+   font: var(--text-caption);
+   background: var(--color-background-2);
+   width: 20em;
+   max-width: 100%;
+   box-sizing: border-box;
+   box-shadow: 0 0 10px #0003;
+   padding: 1.5em;
+   border-top-left-radius: 8px;
+   color: var(--color-foreground);
+
+   & p {
+      margin-top: 0;
+   }
+}
