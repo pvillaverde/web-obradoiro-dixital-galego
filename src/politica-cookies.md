@@ -73,7 +73,4 @@ Finalmente, e segundo a súa finalidade, temos:
 | Nome | Finalidade | Tipo | Caducidade |
 | ----------- | ----------- | ----- | ----- |
 | _ga | A cookie _ga, instalada por Google Analytics, calcula os datos de visitantes, sesións e campañas e tamén fai un seguimento do uso do sitio para o informe de análise do sitio. A cookie almacena información de forma anónima e asigna un número xerado aleatoriamente para recoñecer visitantes únicos. | Analítica | 2 anos |
-| _ga_FC87MENHJK | Esta cookie é instalada por Google Analytics. | Analítica | 2 anos |
-| io | Esta cookie é instalada por Google Analytics. | Analítica | sesión |
-| JSESSIONID | Esta cookie é instalada por Google Analytics. | Analítica | sesión |
-| usersession | Esta cookie é instalada por Google Analytics. | Analítica | sesión |
+| _ga_MM0JSGXJJK | Esta cookie é instalada por Google Analytics. | Analítica | 2 anos |

@@ -14,12 +14,7 @@ metas:
 - NIF: G72547912.
 - Correo electrónico:
   [contacto@obradoirodixitalgalego.gal](mailto:contacto@obradoirodixitalgalego.gal)
-
-<!-- Asociación Cultural Obradoiro Dixital Galego (G72547912)
-
-O Casal, 16A (Centro Municipal de Empresas)
-15560 San Sadurniño
-A Coruña (ES) -->
+- Dirección: O Casal, 16A (Centro Municipal de Empresas) 5560 San Sadurniño, A Coruña (ES)
 
 A aceptación da política de privacidade de **OBRADOIRODIXITALGALEGO.GAL** (en
 diante “Política de Privacidade”), é condición necesaria para o uso da nosa
