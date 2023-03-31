@@ -51,12 +51,17 @@ page_css: plugins.css
                </figure>
 
                <nav class="plugin-tags">
-                  {% for tag in categorias.tags | channelTags(item.tags) %}
-                     <a href="?{{ tag.id }}=on" class="button is-secondary is-small"  style="--background: {{tag.color}}">
+                  {% set tags = categorias.tags | channelTags(item.tags) %}
+                  {% for tag in tags| slice(10) %}
+                     <a href="?{{ tag.id }}=on" class="button is-secondary is-small" style="--background: {{tag.color}}">
                         {{ tag.name }}
                      </a>
                   {% endfor %}
+                  {% if tags| length > 10 %}
+                     <a title="Hai máis etiquetas que non se poden amosar" href="#" class="button is-secondary is-small" style="--background: white">...</a>
+                  {% endif %}
                </nav>
+
             </li>
          {% endfor %}
       </ul>
