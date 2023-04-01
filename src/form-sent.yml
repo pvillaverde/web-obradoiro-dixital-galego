@@ -1,0 +1,10 @@
+layout: layouts/error.njk
+title: "Formulario enviado!"
+description: |
+  Enviouse o teu formulario con éxito!
+
+content:
+  title: "Formulario <span>enviado!</span>"
+  description: Déixanos que o revisemos nun prazo de 24-48h e, se é preciso, porémonos en contacto contigo.
+  button:
+    title: Volver ó Inicio

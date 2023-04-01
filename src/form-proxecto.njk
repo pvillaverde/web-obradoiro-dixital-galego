@@ -1,0 +1,142 @@
+---
+layout: layouts/base.njk
+bodyClass: body-default
+page_css: form.css
+title: Actualizar proxecto
+---
+
+<script type="text/javascript">
+   function updateCharCount() {
+      var textarea = document.getElementById("description");
+      var charCount = textarea.value.length;
+      var maxLength = textarea.maxLength;
+      document
+         .getElementById("charCount")
+         .innerHTML = charCount + " / " + maxLength;
+   }
+</script>
+<article class="post">
+   <header>
+      <h1>Engadir ou actualizar proxecto</h1>
+      <p>Queres rexistrar o teu proxecto no nosos sitema ou personalizar a información que aparece na web? Axúdanos cubrindo este formulario para que podamos engadir toda a información relevante.</p>
+   </header>
+   <form name="actualizacion-canles" netlify class="contact-form" action="/form-sent">
+      <div class="input-field">
+         <label for="name">Nome do proxecto:</label>
+         <input type="text" id="name" name="name" required placeholder="Canle de youtube, Twitch ou Podcast">
+      </div>
+      <div class="input-field">
+         <label for="description">Descripción:</label>
+         <textarea rows="4" id="description" name="description" oninput="updateCharCount()" maxlength="300" required placeholder="Este é o texto que sairá na portada ou na páxina da comunidade. Trata de que non sexa excesivamente longo xa que a partir de dos 200 caracteres quedará cortado cunha elipse de puntos suspensivos."></textarea>
+         <span id="charCount" class="textarea-guide">0 / 300</span>
+      </div>
+      <div class="input-field">
+         <label for="body">Descripción longa:</label>
+         <textarea rows="8" id="body" name="body" required placeholder="Aquí podes extender moito máis a descripción. Este será o corpo da túa páxina na web e podes facer parágrafos, listas, encabezados, e outros compoñentes utilizando a linguaxe de Markdown."></textarea>
+         <span class="textarea-guide">
+            <a href="https://www.markdownguide.org/basic-syntax/">Guía de Markdown</a>
+         </span>
+      </div>
+      <fieldset>
+         <legend>
+            <strong>Ligazóns do proxecto:</strong> Cubre só aquelas nas que o teu proxecto teña presenza
+         </legend>
+         <div class="input-field">
+            <label for="youtube">Canle de Youtube:</label>
+            <input type="text" id="youtube" name="youtube" placeholder="https://www.youtube.com/channel/UClavUfgzYt5uSgtBJbPoXqA">
+         </div>
+         <div class="input-field">
+            <label for="twitch">Canle de Twitch:</label>
+            <input type="text" id="twitch" name="twitch" placeholder="https://www.twitch.tv/twitch_en_galego">
+         </div>
+         <div class="input-field">
+            <label for="rss">RSS do Podcast:</label>
+            <input type="text" id="rss" name="rss" placeholder="https://anchor.fm/s/5eb7d488/podcast/rss">
+         </div>
+      </fieldset>
+      <fieldset>
+         <legend>
+            <strong>Ligazóns as redes sociais:</strong> Cubre só aquelas nas que o teu proxecto teña presenza
+         </legend>
+         <div class="input-field">
+            <label for="twitter">Twitter:</label>
+            <input type="text" id="twitter" name="twitter" placeholder="https://twitter.com/AC_ODG">
+         </div>
+         <div class="input-field">
+            <label for="mastodon">Mastodon:</label>
+            <input type="text" id="mastodon" name="mastodon" placeholder="https://mastodon.gal/@obradoirodixitalgalego">
+         </div>
+         <div class="input-field">
+            <label for="instagram">Instagram:</label>
+            <input type="text" id="instagram" name="instagram" placeholder="https://www.instagram.com/twitchengalego/">
+         </div>
+         <div class="input-field">
+            <label for="discord">Discord:</label>
+            <input type="text" id="discord" name="discord" placeholder="http://discord.gg/pTbpHp9zwE">
+         </div>
+         <div class="input-field">
+            <label for="facebook">Facebook:</label>
+            <input type="text" id="facebook" name="facebook" placeholder=".e: https://www.facebook.com/GalegoTwitch">
+         </div>
+         <div class="input-field">
+            <label for="ivoox">Ivoox:</label>
+            <input type="text" id="ivoox" name="ivoox" placeholder="https://www.ivoox.com/podcast-oiches_sq_f11302431_1.html">
+         </div>
+         <div class="input-field">
+            <label for="kofi">Ko-fi:</label>
+            <input type="text" id="kofi" name="kofi" placeholder="https://ko-fi.com/mastodongal">
+         </div>
+         <div class="input-field">
+            <label for="patreon">Patreon:</label>
+            <input type="text" id="patreon" name="patreon" placeholder="https://www.patreon.com/galizangamer">
+         </div>
+         <div class="input-field">
+            <label for="spotify">Spotify:</label>
+            <input type="text" id="spotify" name="spotify" placeholder="https://podcasters.spotify.com/pod/show/oiches">
+         </div>
+         <div class="input-field">
+            <label for="telegram">Telegram:</label>
+            <input type="text" id="telegram" name="telegram" placeholder="https://t.me/podgalego_episodios">
+         </div>
+         <div class="input-field">
+            <label for="tumblr">Tumblr:</label>
+            <input type="text" id="tumblr" name="tumblr" placeholder="https://obradoirodixitalgalego.tumblr.com">
+         </div>
+         <div class="input-field">
+            <label for="tiktok">Tik-Tok:</label>
+            <input type="text" id="tiktok" name="tiktok" placeholder="https://www.tiktok.com/@obradoirodixitalgalego">
+         </div>
+         <div class="input-field">
+            <label for="link">Páxina web:</label>
+            <input type="text" id="link" name="link" placeholder="https://obradoirodixitalgalego.gal">
+         </div>
+         <div class="input-field">
+            <label for="mail">Correo electrónico:</label>
+            <input type="text" id="mail" name="mail" placeholder="contacto@obradoirodixitalgalego.gal">
+         </div>
+      </fieldset>
+      <fieldset>
+         <legend>
+            <strong>Etiquetas:</strong> Indica as principais etiquetas do teu proxecto
+         </legend>
+         <div class="tags-form">
+            {% for tag in categorias.tags %}
+               <label>
+                  <input type="checkbox" name="{{ tag.id }}" >
+                  {{ tag.name }}
+               </label>
+            {% endfor %}
+         </div>
+      </fieldset>
+      <div class="input-field">
+         <label for="contact-mail">Enderezo electrónico de contacto</label>
+         <input type="text" id="contact-mail" name="contact-mail" placeholder="Introduce aquí o teu correo se queres que che contestemos as notas ou confirmemos cando engadamos a información que nos envías na web">
+      </div>
+      <div class="input-field">
+         <label for="body">Notas / Observacións:</label>
+         <textarea rows="4" id="body" name="body" placeholder="Se queres comentarnos algunha cousa a maiores podes engadilo aquí"></textarea>
+      </div>
+      <button type="submit">Enviar o formulario</button>
+   </form>
+
+</article>

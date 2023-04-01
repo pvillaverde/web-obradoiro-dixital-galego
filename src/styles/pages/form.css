@@ -1,0 +1,98 @@
+header {
+   & h1 {
+      font: var(--text-display);
+      letter-spacing: var(--text-display-spacing);
+      text-align: center;
+      margin: 0;
+   }
+
+   & p {
+      font: var(--text-body);
+      letter-spacing: var(--text-body-spacing);
+      color: var(--color-foreground-1);
+      text-align: center;
+   }
+}
+
+.contact-form {
+   display: flex;
+
+   & fieldset {
+      display: flex;
+      flex-wrap: wrap;
+      column-gap: 25px;
+      margin-bottom: 10px;
+
+      & legend {
+         margin-bottom: 10px;
+      }
+   }
+
+   & .input-field {
+      flex-basis: calc(33% - 20px);
+      display: flex;
+      position: relative;
+      flex-direction: column;
+   }
+
+   & button {
+      font-size: 18px;
+      padding: 30px;
+      background-color: var(--color-background-1);
+      color: var(--color-foreground-2);
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+
+      &:hover {
+         background-color: var(--color-background-2);
+      }
+   }
+}
+
+input,
+textarea {
+   padding: 10px;
+   margin-top: 5px;
+   margin-bottom: 20px;
+   border-radius: 5px;
+   border: none;
+   background: var(--color-background-2);
+   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.textarea-guide {
+   position: absolute;
+   bottom: 0;
+   right: 0;
+   font-size: 12px;
+   color: #999;
+}
+
+
+form {
+   display: flex;
+   flex-direction: column;
+}
+
+.tags-form {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.tags-form label {
+   flex-basis: calc(20% - 20px);
+   /* Subtracting 20px for the margins between the columns */
+   margin: 10px;
+}
+
+@media screen and (max-width: 767px) {
+
+   .tags-form label {
+      flex-basis: 100%;
+   }
+}
+
+label {
+   font-weight: bold;
+}

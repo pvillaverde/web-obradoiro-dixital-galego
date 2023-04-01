@@ -1,0 +1,40 @@
+---
+layout: layouts/base.njk
+bodyClass: body-default
+page_css: form.css
+title: Contacto
+---
+
+<script type="text/javascript">
+   function updateCharCount() {
+      var textarea = document.getElementById("description");
+      var charCount = textarea.value.length;
+      var maxLength = textarea.maxLength;
+      document
+         .getElementById("charCount")
+         .innerHTML = charCount + " / " + maxLength;
+   }
+</script>
+<article class="post">
+   <header>
+      <h1>Formulario de contacto</h1>
+      <p>Queres porte en contacto con nós? Envíanos este formulario ou envíanos un correo a <a href="mailto:contacto@obradoirodixitalgalego.gal">contacto@obradoirodixitalgalego.gal</a>
+      </p>
+   </header>
+   <form name="actualizacion-canles" netlify class="contact-form" action="/form-sent">
+      <div class="input-field">
+         <label for="name">Nome:</label>
+         <input type="text" id="name" name="name" required placeholder="O nome co que nos dirixiremos a ti na nosa resposta">
+      </div>
+      <div class="input-field">
+         <label for="message">Mensaxe:</label>
+         <textarea rows="8" id="message" name="message" required placeholder="Coméntanos por aquí o que precises ou as suxerencias que teñas"></textarea>
+      </div>
+      <div class="input-field">
+         <label for="mail">Enderezo electrónico de contacto</label>
+         <input type="text" id="mail" name="mail" placeholder="contacto@obradoirodixitalgalego.gal">
+      </div>
+      <button type="submit">Enviar o formulario</button>
+   </form>
+
+</article>
