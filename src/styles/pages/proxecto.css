@@ -29,7 +29,7 @@
    }
 
    & aside {
-      /* 
+      /*
       border-bottom: solid 1px var(--color-background-2); */
       position: relative;
    }
@@ -102,6 +102,10 @@
       & dt {
          font-weight: 600;
       }
+   }
+
+   & footer {
+      margin-top: 200px;
    }
 }
 
