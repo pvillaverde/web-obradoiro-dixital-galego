@@ -76,7 +76,7 @@ title: Actualizar proxecto
          </div>
          <div class="input-field">
             <label for="facebook">Facebook:</label>
-            <input type="text" id="facebook" name="facebook" placeholder=".e: https://www.facebook.com/GalegoTwitch">
+            <input type="text" id="facebook" name="facebook" placeholder="https://www.facebook.com/GalegoTwitch">
          </div>
          <div class="input-field">
             <label for="ivoox">Ivoox:</label>
@@ -122,7 +122,7 @@ title: Actualizar proxecto
          <div class="tags-form">
             {% for tag in categorias.tags %}
                <label>
-                  <input type="checkbox" name="{{ tag.id }}" >
+                  <input type="checkbox" name="tags" value="{{ tag.id }}" >
                   {{ tag.name }}
                </label>
             {% endfor %}
@@ -133,8 +133,8 @@ title: Actualizar proxecto
          <input type="text" id="contact-mail" name="contact-mail" placeholder="Introduce aquí o teu correo se queres que che contestemos as notas ou confirmemos cando engadamos a información que nos envías na web">
       </div>
       <div class="input-field">
-         <label for="body">Notas / Observacións:</label>
-         <textarea rows="4" id="body" name="body" placeholder="Se queres comentarnos algunha cousa a maiores podes engadilo aquí"></textarea>
+         <label for="notas">Notas / Observacións:</label>
+         <textarea rows="4" id="notas" name="notas" placeholder="Se queres comentarnos algunha cousa a maiores podes engadilo aquí"></textarea>
       </div>
       <button type="submit">Enviar o formulario</button>
    </form>
