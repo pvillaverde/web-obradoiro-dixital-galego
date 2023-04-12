@@ -186,7 +186,7 @@ export default {
       branch: "main",
    },
    publish_mode: "editorial_workflow",
-   site_url: "https://obradoiro-dixital-galego.netlify.app/",
+   site_url: "https://obradoirodixitalgalego.gal/",
    logo_url: "/logo.png",
    media_folder: "src/img/comunidade",
    public_folder: "/img/comunidade",
