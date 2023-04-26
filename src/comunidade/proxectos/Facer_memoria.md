@@ -2,7 +2,7 @@
 layout: "layouts/proxecto.njk"
 title: Facer Memoria
 img: /img/comunidade/Facer_memoria.webp
-description: "Facer memoria é un proxecto no que a veciñanza dos concellos participantes ten unha serie de encontros con compoñentes da compañía Berrobambán. "
+description: "Un podcast de historias contadas en primeira persoa. Facer memoria é un proxecto no que a veciñanza dos concellos participantes ten unha serie de encontros con compoñentes da compañía Berrobambán. "
 date: 2023-04-26 09:08:00
 active: false
 type: proxecto
