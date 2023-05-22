@@ -1,12 +1,21 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Galiza en pé
-description: "Son Adriana Romero e esta é a miña canle de youtube. Aquí podedes ver moitos vídeos falando de diferentes temas: veganismo, antifascismo, galeguismo, etc.\n\nPodedes seguirme nas minhas redes sociais:\n\nlinktree: https://linktr.ee/galizaenpe \n\no meu blogue: https://en-pe7.webnode.es/ \n\nredes sociais:\ninstagram: https://www.instagram.com/galizaempe/\ntwitter: https://twitter.com/galizaenpe\ntiktok: https://www.tiktok.com/@galizaenpe?lang=es \ntwitch: https://www.twitch.tv/galizaenp "
+description: "Son Adriana Romero e traballo para intentar crear un mundo mellor, tratando temas como o veganismo, feminismo, antifascismo, en xeral as causas que creo inxustas da sociedade"
 img: /img/comunidade/Galiza_en_pe.webp
 date: 2020-11-23 21:37:00
 type: proxecto
 tags:
   - youtube
+  - twitch
+  - entrevistas
+  - social
+  - activismo
+  - conversa
 redes:
   youtube: https://www.youtube.com/channel/UCslCRGVK4WAHDTGh0ZripYw
+  twitch: https://www.twitch.tv/galizaenpe
+  tiktok: https://www.tiktok.com/@galizaenpe
+  twitter: https://twitter.com/galizaenpe
+  instagram: https://www.instagram.com/galizaenpe/
 ---
