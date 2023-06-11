@@ -11,6 +11,9 @@ tags:
   - id: youtube
     name: Youtube
     color: "#e3635e"
+  - id: instagram
+    name: Instagram
+    color: "#5B51D8"
   - id: actualidade
     name: Actualidade
     color: "#ffa78c"
