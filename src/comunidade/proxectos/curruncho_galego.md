@@ -13,7 +13,7 @@ redes:
   tiktok: https://www.tiktok.com/@currunchogalego
   mail: lucia.moure.bg@gmail.com
 tags:
-  - asociada
+  - asociado
   - twitch
   - instagram
   - cultura
