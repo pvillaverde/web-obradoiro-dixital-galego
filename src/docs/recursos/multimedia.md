@@ -31,6 +31,7 @@ Aquí podedes atopar algúns recursos libres, ou case, que podedes empregar para
 - [Biblioteca sonora de Youtube](https://www.youtube.com/audiolibrary/music) - O propio arquivo de Youtube para engadir músicas e sons directamente nos teus vídeos.
 - [Arquivo do Patrimonio Oral da Identidade](http://www.apoi-mpg.org) - Aquí podes atopar rexistros sonoros e audiovisuais das coleccións do patrimonio inmaterial do Museo do Pobo Galego.
 - [GameChops](https://gamechops.com/) - Música gratis (con recoñecemento) para os directos / vídeos, basadas en videoxogos.
+- [MyInstants](https://www.myinstants.com) - Efectos de son populares de películas, videoxogos, series e moito máis. **Ollo coas licenzas de copyright que poidan ter.**
 
 ## Imaxes libres
 
