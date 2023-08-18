@@ -1,6 +1,6 @@
 ---
 layout: layouts/proxecto.njk
-active: false
+active: true
 type: proxecto
 title: Luís do Río Pena
 img: /img/comunidade/luisdoriopena.webp

@@ -1,6 +1,6 @@
 ---
 layout: layouts/proxecto.njk
-active: false
+active: true
 type: proxecto
 title: Curruncho Galego
 img: /img/comunidade/curruncho_galego.webp
