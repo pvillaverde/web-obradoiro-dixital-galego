@@ -22,8 +22,8 @@ cultural que impulsaron as comunidades de Podcast, Youtube e Twitch en galego.
 - [x] Xestión das comunidades dende NetlifyCMS
 - [x] Blogue para engadir novas da comunidade.
 - [ ] Facer outra `Landing Page` para visualizar toda a información útil de
-      xeito dinámico no caso de poñer a web nun evento, incorporando feeds.
-- [ ] Incorporar os formularios de contacto aproveitando a
+      xeito dinámico no caso de poñer a web nun evento, incorporando [feeds](https://github.com/sampsyo/emfed).
+- [x] Incorporar os formularios de contacto aproveitando a
       [opción de Netlify](https://docs.netlify.com/forms/setup/?_ga=2.128002252.1521612662.1669115883-1421975056.1669115883).
 - [ ] Engadir posibilidade de ter múltiplos autores nas novas e que estes teñan
       avatar. ([Exemplo](https://minimalist-blog-x8c5ngg3kzt0.deno.dev/))
@@ -31,10 +31,10 @@ cultural que impulsaron as comunidades de Podcast, Youtube e Twitch en galego.
       incorporar outros resultados da web, e viceversa. [Non decidido se facelo]
       ([Exemplo](https://jrson.me/blog/tag/inertiajs/) e
       [código](https://github.com/jrson83/jrson.me/blob/main/src/_includes/layouts/posts.tsx))
-- [ ] Engadir información sobre as colaboracións e enlazala na landing page.
+- [x] Engadir información sobre as colaboracións e enlazala na landing page.
 - [ ] Engadir o algoritmo das búsquedas ó galego. Pódese utilizar de base o
       [portugués](https://snowballstem.org/algorithms/portuguese/stemmer.html)
       ([GitHub](https://github.com/snowballstem/snowball/blob/master/algorithms/portuguese.sbl))
       ou o [castelán](https://snowballstem.org/algorithms/spanish/stemmer.html)
       ([GitHub](https://github.com/snowballstem/snowball/blob/master/algorithms/spanish.sbl))
-- [ ] Poñer Comando en lugar de CTRL 
+- [ ] Poñer Comando en lugar de CTRL cando se está nun MacOS na barra de búsqueda 

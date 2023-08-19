@@ -12,9 +12,12 @@ action:
   title: Consulta a [información da
     asociación](/docs/sobre-nos/obradoiro-dixital-galego/#a-asociación) para ver
     os requisitos e máis beneficios
-  code: Queres formar parte da comunidade?
-  button: Únete
-  url: /asociate/
+  main:
+    title: Afíliate!
+    url: /asociate
+  secondary: 
+    title: Engade o teu proxecto!
+    url: /form-proxecto
 features:
   - title: Difusión
     img: /icons/difusion.svg

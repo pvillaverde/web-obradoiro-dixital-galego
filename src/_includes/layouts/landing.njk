@@ -10,15 +10,12 @@ page_css: landing.css
          {{ comp.logo360() | safe }}
       </figure>
 
-      <div class="landing-install">
+      <div class="landing-action">
          {{ action.title | md | safe }}
 
-         <div class="landing-install-code">
-            <pre><code>{{ action.code }}</code></pre>
-            <a class="landing-install-cta" href="{{ action.url }}" aria-label="Continue to Getting Started">
-               {{ action.button | md | safe }}
-               <img src="/icons/arrow-right.svg" inline>
-            </a>
+         <div class="landing-action-buttons">
+            <a class="landing-action-buttons-main" href="{{ action.main.url }}">{{ action.main.title | md | safe }}</a>
+            <a class="landing-action-buttons-secondary" href="{{ action.secondary.url }}">{{ action.secondary.title | md | safe }}</a>
          </div>
       </div>
    </header>

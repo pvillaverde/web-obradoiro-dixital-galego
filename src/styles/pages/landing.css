@@ -48,6 +48,73 @@
    }
 }
 
+/** Action */
+.landing-action {
+   margin: var(--row-gap-0) 0 0;
+   font: var(--text-caption);
+   color: var(--color-foreground-1);
+   grid-area: install;
+
+   & p {
+      margin: 0;
+      display: inline-block;
+   }
+
+   & img {
+      vertical-align: middle;
+      margin-right: .5em;
+   }
+}
+
+.landing-action-buttons {
+   display: flex;
+   flex-flow: row wrap;
+   align-items: center;
+   margin: 10px;
+
+   & a {
+
+      @media (max-width: 650px) {
+         width: 100%;
+      }
+
+      margin: 10px 20px;
+      border-radius: var(--border-radius-small);
+      padding: 5px 30px;
+      font: var(--text-body-bold);
+      letter-spacing: var(--text-body-spacing);
+      text-decoration: none;
+      transition: background var(--animation-duration);
+      text-align: center;
+
+      & svg,
+      & path {
+         fill: currentColor
+      }
+   }
+
+   & .landing-action-buttons-main {
+      background: var(--color-primary);
+      color: var(--color-background);
+
+      &:hover {
+         background: var(--color-primary-1);
+      }
+   }
+
+   & .landing-action-buttons-secondary {
+      background: var(--color-background);
+      color: var(--color-primary);
+      border: var(--color-primary) solid 1px;
+
+      &:hover {
+         background: var(--color-background-a);
+      }
+   }
+}
+
+
+
 /** Install */
 .landing-install {
    margin: var(--row-gap-0) 0 0;
