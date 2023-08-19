@@ -6,7 +6,7 @@ imgalt: Captura de pantalla coas instruccións para chegar as ligazóns de RSS.
   Premer en "Sobre nós", despois en "As nosas redes de difusión" e
   posteriormente nas ligazóns RSS que nos interesen.
 tags:
-  - consellos
+  - recursos
 date: 2023-08-19T15:41:26.040Z
 ---
 Vimos de actualizar a páxina para engadir as **canles RSS** tanto da asociación como das distintas comunidades (GalegoTwitch, GalegoTube e PodGalego). Deste xeito, se non tendes redes sociais ou non queredes que vos salan as publicacións nas vosas redes e preferides telas por separado no voso xestor RSS preferido, agora podedes facelo!
