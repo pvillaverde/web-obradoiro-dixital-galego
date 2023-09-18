@@ -62,3 +62,4 @@ Nos últimos tempos saíron ferramentas de intelixencia artificial que nos permi
 - [WriteSonic](https://writesonic.com/) - Tamén é outra IA para xerar textos, é gratuita pero non recoñece o galego polo momento.
 - [Synthesia](https://www.synthesia.io/) - Permite xerar vídeos cunha persoa xesticulando e narrando un texto. Pódese entrenar para que o faga con imaxes propias e está dispoñible en galego.
 - [ChatGPT](https://chat.openai.com/) - Unha IA conversacional que che permite xerar guións e ir guiandoa para que che xere o contido. O límite é a túa imaxinación!
+- [Future AI LAB](https://futureailab.com/tools/) - Nesta páxina podedes atopar multitude de IAs cada unha para o seu propósito e filtralas comodamente en base o custo (ou se son gratuitas) e a categoría que vos interese.
