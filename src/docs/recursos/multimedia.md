@@ -50,16 +50,3 @@ Se o que precisas son vídeos para o seu uso nos directos nestas webs atoparás 
 
 - [Videvo](https://www.videvo.net/) – Modeleos de Premiere, Afecter Effects e clips varios de vídeo de uso libre.
 - [Mixkit](https://mixkit.co/) – Clips de video, música, efectos de son, dispoñibles libremente.
-
-## Intelixencias Artificiais
-
-Nos últimos tempos saíron ferramentas de intelixencia artificial que nos permiten crear os nosos propios recursos gratuitos en base a descripcións que lles facemos. Podedes consultar [este vídeo de Anxo Sánchez](https://www.youtube.com/watch?v=HeIx0kueH_o) para velo na práctica.
-
-- [DALL·E 2](https://openai.com/dall-e-2/) - Unha IA que pode xerar imaxes realísticas e artísticas a partir dunha descripción. Ten uns créditos gratuitos e despois hai que pagar para recargalos, xa que utiliza a computación na nube.
-- [Stable Diffusion GUI](https://nmkd.itch.io/t2i-gui) - Outra IA que permite xerar imaxes utilizando a computación do teu PC, pode ser máis lenta xa que utiliza o teu propio equipo pero é completamente gratuita.
-- [Lexica](lexica.art) - Nesta páxina podemos ver imaxes xeradas con Stable Diffusion e ver con que frase a xeraron, moi útil para aprender a usar a ferramenta.
-- [OpenAI](https://openai.com/api/) - Permite xerar textos en galego para artigos de blogue, páxinas web, relatos curtos, traducións, extraer palabras chave dun texto. Pódese utilizar para xerar o guión dun vídeo de titoriais por exemplo. Ao igual que DALL·E, ten uns créditos gratuitos e posteriormente hai que pagar para recargalos.
-- [WriteSonic](https://writesonic.com/) - Tamén é outra IA para xerar textos, é gratuita pero non recoñece o galego polo momento.
-- [Synthesia](https://www.synthesia.io/) - Permite xerar vídeos cunha persoa xesticulando e narrando un texto. Pódese entrenar para que o faga con imaxes propias e está dispoñible en galego.
-- [ChatGPT](https://chat.openai.com/) - Unha IA conversacional que che permite xerar guións e ir guiandoa para que che xere o contido. O límite é a túa imaxinación!
-- [Future AI LAB](https://futureailab.com/tools/) - Nesta páxina podedes atopar multitude de IAs cada unha para o seu propósito e filtralas comodamente en base o custo (ou se son gratuitas) e a categoría que vos interese.
