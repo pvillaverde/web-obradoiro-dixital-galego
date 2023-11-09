@@ -40,6 +40,7 @@ Twitch permite integrar no chat bots que nos axuden durante os nosos directos, l
 - [**StreamElements Chatbot**](https://streamelements.com/features/chatbot)
 
 ## Outros recursos
+- [Kdenlive](https://kdenlive.org/es/) - Editor de vídeo de código aberto.
 - [VoiceMeter Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Este programa serve para facer tarxetas virtuais de audio, usao bastante xente que fai streams grupais para nivelar os volumes dos diferentes participantes a falta dunha opción co propio programa de emitir.
 - [Twitch Predictions Overlay](https://www.boingy.co.uk/predictions) - Permite poñer unha capa no directo na que ver a evolución en tempo real das prediccións
 - [Modelos de configuración básicos](https://stream.twitch.tv/encoding/) que recomenda twitch para emitir segundo a resolución e codec. Especialmente interesante se o teu PC ou a banda ancha non che permite emitir a 1080p, podes xogar con 720p ou 900p.
