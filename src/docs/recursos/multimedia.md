@@ -32,6 +32,7 @@ Aquí podedes atopar algúns recursos libres, ou case, que podedes empregar para
 - [Arquivo do Patrimonio Oral da Identidade](http://www.apoi-mpg.org) - Aquí podes atopar rexistros sonoros e audiovisuais das coleccións do patrimonio inmaterial do Museo do Pobo Galego.
 - [GameChops](https://gamechops.com/) - Música gratis (con recoñecemento) para os directos / vídeos, basadas en videoxogos.
 - [MyInstants](https://www.myinstants.com) - Efectos de son populares de películas, videoxogos, series e moito máis. **Ollo coas licenzas de copyright que poidan ter.**
+- [APOI - Arquivo do Patrimonio Oral da Identidade - Museo do Pobo Galego](http://apoi.museodopobo.gal/) - Velaquí poderás atopar cantigas populares, entrevistas e moitas máis pezas recollidas polo Museo do Pobo Galego e que poderás utilizar acreditando correctamente o APOI. **Ollo, se tes un ánimo de lucro importante (mais alá da subsistencia de twitch, por exemplo), tes que lles pedir permiso.**
 
 ## Imaxes libres
 
