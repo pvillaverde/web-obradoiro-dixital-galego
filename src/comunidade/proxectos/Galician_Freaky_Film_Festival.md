@@ -6,6 +6,7 @@ img: /img/comunidade/Galician_Freaky_Film_Festival.webp
 date: 2018-12-05 21:30:48
 type: proxecto
 tags:
+  - asociado
   - youtube
 redes:
   youtube: https://www.youtube.com/channel/UC0dYpCFT_Ie6QcSiEqhe2bA
