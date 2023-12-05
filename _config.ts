@@ -36,7 +36,7 @@ const site = lume({
    src: "./src",
    dest: "./_site",
    emptyDest: true,
-   location: new URL("https://obradoiro-dixital-galego.netlify.app/"),
+   location: new URL("https://obradoirodixitalgalego.gal/"),
    prettyUrls: true, // Disable pretty urls
    server: {
       port: 3000,

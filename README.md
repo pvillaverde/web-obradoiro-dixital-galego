@@ -38,3 +38,4 @@ cultural que impulsaron as comunidades de Podcast, Youtube e Twitch en galego.
       ou o [castelán](https://snowballstem.org/algorithms/spanish/stemmer.html)
       ([GitHub](https://github.com/snowballstem/snowball/blob/master/algorithms/spanish.sbl))
 - [ ] Poñer Comando en lugar de CTRL cando se está nun MacOS na barra de búsqueda 
+- [ ] Engadir unha marca para os proxectos axeitados como recurso educativo.
