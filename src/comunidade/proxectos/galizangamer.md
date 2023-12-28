@@ -5,7 +5,6 @@ date: 2020-09-28 21:27:02.558366
 type: proxecto
 title: Galizan Gamer
 tags:
-  - asociado
   - youtube
   - twitch
   - videoxogos
