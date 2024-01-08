@@ -13,7 +13,6 @@ redes:
   tiktok: https://www.tiktok.com/@abaleboo
   link: https://www.abaleboo.com
 tags:
-  - asociado
   - youtube
   - divulgacion
   - sexualidade
