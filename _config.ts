@@ -104,6 +104,12 @@ site
       page.data.excerpt ??= (page.data.content as string).split(
          /<!--\s*more\s*-->/i,
       )[0];
+      if (page.data.type == 'post' && page.data.metas) {
+         page.data.metas.title = page.data.title as string;
+         page.data.metas.description = page.data.description as string;
+         page.data.metas.image = page.data.img as string;
+         page.data.metas.keywords = page.data.metas.keywords.concat(page.data.tags as string[]);
+      }
    })
    .process([".html"], (page) => {
       const doc = page.document!;
