@@ -1,229 +1,232 @@
 tags:
-  - id: asociado
-    name: Asoc. na ACODG
-    color: "#ffffff"
-  - id: podcast
-    name: Podcast
-    color: "#5b8ddb"
-  - id: twitch
-    name: Twitch
-    color: "#a990d2"
-  - id: youtube
-    name: Youtube
-    color: "#e3635e"
-  - id: instagram
-    name: Instagram
-    color: "#5B51D8"
-  - id: tiktok
-    name: Tik-Tok
-    color: "#00f2ea"
-  - id: actualidade
-    name: Actualidade
-    color: "#ffa78c"
-  - id: agricultura
-    name: Agricultura
-    color: "#7cbfb6"
-  - id: activismo
-    name: Activismo
-    color: "#7cbcdf"
-  - id: alimentacion
-    name: Dietética e Alimentación
-    color: "#48ce97"
-  - id: arte
-    name: Arte
-    color: "#afd760"
-  - color: "#e57a86"
-    id: asociacións
-    name: Asociacións
-  - id: astronomia
-    name: Astronomía
-    color: "#f583b3"
-  - id: audiolibro
-    name: Audiolibro
-    color: "#cd69a7"
-  - id: bandadesenhada
-    name: Banda Deseñada
-    color: "#ed7179"
-  - id: ciencia
-    name: Ciencia
-    color: "#7fbeaf"
-  - id: cinema
-    name: Cine / Series / TV
-    color: "#b3dcd1"
-  - id: conversa
-    name: Conversa
-    color: "#d1dbe2"
-  - id: cozinha
-    name: Cociña e Gastronomía
-    color: lightgray
-  - id: cultura
-    name: Cultura
-    color: pink
-  - id: culturapopular
-    name: Cultura Popular
-    color: "#f4b994"
-  - id: deporte
-    name: Deporte
-    color: lightgray
-  - id: divulgacion
-    name: Divulgación
-    color: "#ee9b69"
-  - id: documental
-    name: Documental
-    color: "#61eedb"
-  - id: ecoloxia
-    name: Ecoloxía
-    color: "#bdf1e5"
-  - id: emigracion
-    name: Emigración
-    color: "#c4e7f1"
-  - id: emprendemento
-    name: Emprendemento
-    color: "#79cdec"
-  - id: ensino
-    name: Ensino
-    color: lemonchiffon
-  - id: entrevistas
-    name: Entrevistas
-    color: lightgray
-  - id: experimental
-    name: Experimental
-    color: "#6f89a1"
-  - id: feminismo
-    name: Feminismo
-    color: "#fedfa1"
-  - id: ficcion_sonora
-    name: Ficción Sonora
-    color: "#fdcf55"
-  - id: fotografia
-    name: Fotografía e Vídeo
-    color: "#7691d7"
-  - id: gandeiria
-    name: Gandeiría
-    color: "#92cbdc"
-  - id: historia
-    name: Historia
-    color: "#fdd84c"
-  - id: humor
-    name: Humor
-    color: "#e69696"
-  - id: informatica
-    name: Informática
-    color: "#d2a7b2"
-  - id: internacional
-    name: Internacional
-    color: "#f6c1ce"
-  - id: lgtbi
-    name: LGBTQIA+
-    color: "#7988e5"
-  - id: lingua
-    name: Lingua
-    color: "#f092a5"
-  - id: literatura
-    name: Literatura
-    color: "#da9abd"
-  - id: magazine
-    name: Magazine
-    color: "#cc85b1"
-  - id: mar
-    name: Mar
-    color: "#a5cbf0"
-  - id: medio_rural
-    name: Medio Rural
-    color: "#f9d877"
-  - id: musica
-    name: Música
-    color: gold
-  - id: novas
-    name: Novas
-    color: "#feadce"
-  - id: paisaxe
-    name: Paisaxe
-    color: "#18eb1f"
-  - id: patrimonio
-    name: Patrimonio
-    color: "#ffbfcf"
-  - id: persoal
-    name: Persoal
-    color: "#fad3cf"
-  - id: podcasting
-    name: Podcasting
-    color: "#4bbeef"
-  - id: poesia
-    name: Poesía
-    color: "#fee1d1"
-  - id: politica
-    name: Política
-    color: "#da1414"
-  - id: rol
-    name: D&D / Rol
-    color: lightgray
-  - id: sexualidade
-    name: Sexualidade
-    color: "#de74db"
-  - id: serial
-    name: Serial
-    color: "#fff0cf"
-  - id: social
-    name: Social
-    color: "#feffd5"
-  - id: teatro
-    name: Teatro
-    color: "#d7ffff"
-  - id: tecnoloxia
-    name: Tecnoloxía
-    color: "#cfffd0"
-  - id: turismo
-    name: Turismo
-    color: "#f89f4b"
-  - id: viaxes
-    name: Viaxes
-    color: "#d4f1ff"
-  - id: videoxogos
-    name: Videoxogos
-    color: lightgreen
-  - id: xornalismo
-    name: Xornalismo
-    color: "#63d763"
-  - id: outras
-    name: Outras
-    color: lightgray
-  - id: diversidade
-    name: Diversidade funcional
-    color: "#6ae3d9"
-  - id: antropoloxia
-    name: Antropoloxía
-    color: "#cccccc"
-  - id: arquitectura
-    name: Arquitectura
-    color: "#cccccc"
-  - id: autoaxuda
-    name: Autoaxuda
-    color: "#cccccc"
-  - id: saude
-    name: Saúde
-    color: "#cccccc"
-  - id: muller
-    name: Muller
-    color: "#cccccc"
-  - id: galiza
-    name: Galiza
-    color: "#cccccc"
-  - id: infantil
-    name: Infantil
-    color: "#cccccc"
-  - id: maternidade
-    name: Maternidade
-    color: "#cccccc"
-  - id: crime
-    name: Crime
-    color: "#cccccc"
-  - id: lusofonia
-    name: Lusofonía
-    color: "#cccccc"
-  - id: misterio
-    name: Misterio
-    color: "#cccccc"
-  - id: oral
-    name: Oral
-    color: "#cccccc"
+- id: asociado
+  name: Asoc. na ACODG
+  color: "#ffffff"
+- id: podcast
+  name: Podcast
+  color: "#5b8ddb"
+- id: twitch
+  name: Twitch
+  color: "#a990d2"
+- id: youtube
+  name: Youtube
+  color: "#e3635e"
+- id: instagram
+  name: Instagram
+  color: "#5B51D8"
+- id: tiktok
+  name: Tik-Tok
+  color: "#00f2ea"
+- id: blogue
+  name: Blogue
+  color: "#f3c72a"
+- id: actualidade
+  name: Actualidade
+  color: "#ffa78c"
+- id: agricultura
+  name: Agricultura
+  color: "#7cbfb6"
+- id: activismo
+  name: Activismo
+  color: "#7cbcdf"
+- id: alimentacion
+  name: Dietética e Alimentación
+  color: "#48ce97"
+- id: arte
+  name: Arte
+  color: "#afd760"
+- color: "#e57a86"
+  id: asociacións
+  name: Asociacións
+- id: astronomia
+  name: Astronomía
+  color: "#f583b3"
+- id: audiolibro
+  name: Audiolibro
+  color: "#cd69a7"
+- id: bandadesenhada
+  name: Banda Deseñada
+  color: "#ed7179"
+- id: ciencia
+  name: Ciencia
+  color: "#7fbeaf"
+- id: cinema
+  name: Cine / Series / TV
+  color: "#b3dcd1"
+- id: conversa
+  name: Conversa
+  color: "#d1dbe2"
+- id: cozinha
+  name: Cociña e Gastronomía
+  color: lightgray
+- id: cultura
+  name: Cultura
+  color: pink
+- id: culturapopular
+  name: Cultura Popular
+  color: "#f4b994"
+- id: deporte
+  name: Deporte
+  color: lightgray
+- id: divulgacion
+  name: Divulgación
+  color: "#ee9b69"
+- id: documental
+  name: Documental
+  color: "#61eedb"
+- id: ecoloxia
+  name: Ecoloxía
+  color: "#bdf1e5"
+- id: emigracion
+  name: Emigración
+  color: "#c4e7f1"
+- id: emprendemento
+  name: Emprendemento
+  color: "#79cdec"
+- id: ensino
+  name: Ensino
+  color: lemonchiffon
+- id: entrevistas
+  name: Entrevistas
+  color: lightgray
+- id: experimental
+  name: Experimental
+  color: "#6f89a1"
+- id: feminismo
+  name: Feminismo
+  color: "#fedfa1"
+- id: ficcion_sonora
+  name: Ficción Sonora
+  color: "#fdcf55"
+- id: fotografia
+  name: Fotografía e Vídeo
+  color: "#7691d7"
+- id: gandeiria
+  name: Gandeiría
+  color: "#92cbdc"
+- id: historia
+  name: Historia
+  color: "#fdd84c"
+- id: humor
+  name: Humor
+  color: "#e69696"
+- id: informatica
+  name: Informática
+  color: "#d2a7b2"
+- id: internacional
+  name: Internacional
+  color: "#f6c1ce"
+- id: lgtbi
+  name: LGBTQIA+
+  color: "#7988e5"
+- id: lingua
+  name: Lingua
+  color: "#f092a5"
+- id: literatura
+  name: Literatura
+  color: "#da9abd"
+- id: magazine
+  name: Magazine
+  color: "#cc85b1"
+- id: mar
+  name: Mar
+  color: "#a5cbf0"
+- id: medio_rural
+  name: Medio Rural
+  color: "#f9d877"
+- id: musica
+  name: Música
+  color: gold
+- id: novas
+  name: Novas
+  color: "#feadce"
+- id: paisaxe
+  name: Paisaxe
+  color: "#18eb1f"
+- id: patrimonio
+  name: Patrimonio
+  color: "#ffbfcf"
+- id: persoal
+  name: Persoal
+  color: "#fad3cf"
+- id: podcasting
+  name: Podcasting
+  color: "#4bbeef"
+- id: poesia
+  name: Poesía
+  color: "#fee1d1"
+- id: politica
+  name: Política
+  color: "#da1414"
+- id: rol
+  name: D&D / Rol
+  color: lightgray
+- id: sexualidade
+  name: Sexualidade
+  color: "#de74db"
+- id: serial
+  name: Serial
+  color: "#fff0cf"
+- id: social
+  name: Social
+  color: "#feffd5"
+- id: teatro
+  name: Teatro
+  color: "#d7ffff"
+- id: tecnoloxia
+  name: Tecnoloxía
+  color: "#cfffd0"
+- id: turismo
+  name: Turismo
+  color: "#f89f4b"
+- id: viaxes
+  name: Viaxes
+  color: "#d4f1ff"
+- id: videoxogos
+  name: Videoxogos
+  color: lightgreen
+- id: xornalismo
+  name: Xornalismo
+  color: "#63d763"
+- id: outras
+  name: Outras
+  color: lightgray
+- id: diversidade
+  name: Diversidade funcional
+  color: "#6ae3d9"
+- id: antropoloxia
+  name: Antropoloxía
+  color: "#cccccc"
+- id: arquitectura
+  name: Arquitectura
+  color: "#cccccc"
+- id: autoaxuda
+  name: Autoaxuda
+  color: "#cccccc"
+- id: saude
+  name: Saúde
+  color: "#cccccc"
+- id: muller
+  name: Muller
+  color: "#cccccc"
+- id: galiza
+  name: Galiza
+  color: "#cccccc"
+- id: infantil
+  name: Infantil
+  color: "#cccccc"
+- id: maternidade
+  name: Maternidade
+  color: "#cccccc"
+- id: crime
+  name: Crime
+  color: "#cccccc"
+- id: lusofonia
+  name: Lusofonía
+  color: "#cccccc"
+- id: misterio
+  name: Misterio
+  color: "#cccccc"
+- id: oral
+  name: Oral
+  color: "#cccccc"
