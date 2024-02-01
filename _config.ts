@@ -107,7 +107,7 @@ site
       if (page.data.type == 'post' && page.data.metas) {
          page.data.metas.title = page.data.title as string;
          page.data.metas.description = page.data.excerpt as string;
-         page.data.metas.image = page.data.img.replace(/\.(.*)$/, '.webp') as string;
+         page.data.metas.image = page.data.img?.replace(/\.(.*)$/, '.webp') as string;
          page.data.metas.keywords = page.data.metas.keywords.concat(page.data.tags as string[]);
       }
    })
