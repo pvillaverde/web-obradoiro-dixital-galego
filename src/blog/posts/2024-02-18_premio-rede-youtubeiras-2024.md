@@ -1,5 +1,5 @@
 ---
-title: Un ano de Obradoiro Dixital Galego! 🥳
+title: Youtube en Galego gañou o Premio Rede! 🥳
 author: Obradoiro Dixital Galego
 img: /img/blog/premio_rede_2024.png
 imgalt: |
@@ -9,7 +9,7 @@ tags:
   - novas
   - asociación
   - Youtube
-date: 2024-02-01T17:06:40.060Z
+date: 2024-02-18T17:06:40.060Z
 ---
 O Obradoiro Dixital Galego, por medio da súa canle de YouTube, Youtube en galego, ven de ser galardoado co Premio Rede na última edición do certame Youtubeiras, do que se celebrou a súa gala de entrega de premios onte sábado 17 de febreiro.
 
