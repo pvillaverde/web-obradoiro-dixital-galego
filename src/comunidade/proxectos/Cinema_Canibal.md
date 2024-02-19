@@ -7,6 +7,7 @@ date: 2022-02-03 14:17:08
 type: proxecto
 tags:
   - youtube
+  - asociado
 redes:
   youtube: https://www.youtube.com/channel/UCeWC9SnbDhY8HX7yAc_oNPA
 ---
