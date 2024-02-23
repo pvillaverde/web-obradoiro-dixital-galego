@@ -17,7 +17,5 @@ Podes descargar **en alta calidade** todos os recursos gráficos da asociación 
 
 -----
 
-<img src="/recursos/logo_cadrado.png" alt="Logo cadrado " style="width:300px;"/>
-<img src="/recursos/logo_vertical.png" alt="Logo vertical" style="width:300px;"/>
-<img src="/recursos/logo_horizontal.png" alt="Logo horizontal" style="width:325px;"/>
-<img src="/recursos/lona.jpg" alt="Lona coa carta de axustes" style="width:925px;"/>
+<img src="/recursos/logos.jpg" alt="Logo cadrado " style="width:462px;height:315px;"/>
+<img src="/recursos/lona.jpg" alt="Lona coa carta de axustes" style="width:462px;height:315px;"/>
