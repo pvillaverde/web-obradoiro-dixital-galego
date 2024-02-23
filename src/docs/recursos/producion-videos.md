@@ -1,7 +1,7 @@
 ---
 title: Produción / Emisión de vídeo
 description: Programas, consellos e titoriais para producir vídeos para youtube ou emitir en Twitch
-order: 1
+order: 2
 ---
 Neste apartado atoparedes titoriais, consellos e recursos para producir vídeos para youtube, twitch ou outras plataformas. Botas algunha cousa en falta? Pregunta na nosa comunidade de discord ou suxire que a engadamos!
 

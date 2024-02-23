@@ -1,12 +1,7 @@
 ---
 title: Multimedia de uso libre
 description: Músicas, sons, imaxes e vídeos para utilizar no teu contido
-order: 0
-menu:
-  visible: true
-  order: 1
-  title: Recursos
-  url: docs-recursos
+order: 1
 ---
 Aquí podedes atopar algúns recursos libres, ou case, que podedes empregar para os vosos vídeos, directos ou podcasts. Coñeces algunha outra páxina que ofreza este contido ou ferramenta que permite xeralo? Comentanos para engadila!
 

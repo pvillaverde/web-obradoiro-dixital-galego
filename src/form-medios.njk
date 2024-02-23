@@ -1,0 +1,37 @@
+---
+layout: layouts/base.njk
+bodyClass: body-default
+page_css: form.css
+title: Solicitar medios
+---
+
+<article class="post">
+   <header>
+      <h1>Solicitude de medios</h1>
+      <p>Se formas parte da asociación, podes solicitar o uso dos nosos medios para o teu proxecto mediante este formulario ou enviando un correo a <a href="mailto:contacto@obradoirodixitalgalego.gal">contacto@obradoirodixitalgalego.gal</a>
+      </p>
+   </header>
+   <form name="solicitudemedios" netlify class="contact-form" action="/form-sent">
+      <div class="input-field">
+         <label for="name">Nome:</label>
+         <input type="text" id="name" name="name" required placeholder="O nome co que nos dirixiremos a ti na nosa resposta">
+      </div>
+      <div class="input-field">
+         <label for="date">Cando o precisas(Pode ser unha data aproximada)?</label>
+         <input type="date" id="date" name="date" required></input>
+      </div>
+      <div class="input-field">
+         <label for="medios">Con que che podemos axudar?</label>
+         <textarea rows="8" id="medios" name="medios" required placeholder="Necesitas usar as nosas redes sociais, a canle de Youtube/Twitch, a nosa conta de Steamlabs? Ou precisas dalguén que leve a cabo algunha tarefa (por exemplo a xestión dunha emisión)"></textarea>
+      </div>
+      <div class="input-field">
+         <label for="programacion">Cal é a programación que queres levar a cabo?</label>
+         <textarea rows="8" id="programacion" name="programacion" required placeholder="Aquí podes comentarnos por enriba a programación que precises. Se é moi extenso tamén o podes desenvolver unha vez estemeos en contacto"></textarea>
+      </div>
+      <div class="input-field">
+         <label for="mail">Enderezo electrónico de contacto</label>
+         <input type="text" id="mail" name="mail" placeholder="contacto@obradoirodixitalgalego.gal">
+      </div>
+      <button type="submit">Enviar o formulario</button>
+   </form>
+</article>

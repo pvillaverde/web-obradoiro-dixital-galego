@@ -1,7 +1,7 @@
 ---
 title: Produción de podcasts
 description: Recursos e consellos para facer ou escoitar podcasts
-order: 2
+order: 3
 ---
 Neste apartado atoparedes titoriais, consellos e recursos para producir podcasts. Botas algunha cousa en falta? Pregunta na nosa comunidade de discord ou suxire que a engadamos!
 
