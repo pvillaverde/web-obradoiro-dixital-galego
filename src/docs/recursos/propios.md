@@ -13,7 +13,9 @@ Se formas parte da nosa asociación, podes solicitar o uso dos nosos medios para
 
 ## Recursos gráficos da asociación
 
-Podes descargar todos os recursos gráficos da asociación (logo, carta de axuste, animacións, etc..) dende [esta ligazón de Google Drive](https://drive.google.com/drive/folders/1-0aQbo4-zQx5K96oKRiNPCT5PmKaUpK6).
+Podes descargar **en alta calidade** todos os recursos gráficos da asociación (logo, carta de axuste, animacións, etc..) dende [esta ligazón de Google Drive](https://drive.google.com/drive/folders/1-0aQbo4-zQx5K96oKRiNPCT5PmKaUpK6).
+
+-----
 
 <img src="/recursos/logo_cadrado.png" alt="Logo cadrado " style="width:300px;"/>
 <img src="/recursos/logo_vertical.png" alt="Logo vertical" style="width:300px;"/>
