@@ -18,6 +18,10 @@ Para gravar “en solitario”, recomendamos [Audacity](https://www.audacityteam
 - Zencastr: [https://zencastr.com/](https://zencastr.com/)
 - Zoom: [https://zoom.us/](https://zoom.us/)
 
+## Titorial de edición de podcast
+Nos seguintes vídeos, do podcast Nada Orixinal, tendes titoriais de como é o seu proceso de edición de podcast e os seus consellos e experiencias aprendidas cos anos en Audacity para editar eficientemente e de xeito colaborativo un podcast grabado por tres persoas, cada un na súa casa. 
+@[youtube](wfYQ0dXiVfc)
+@[youtube](bPoPuPCKdRE)
 ## Onde subir o teu podcast?
 
 Hai unha chea de sitios para escoller. Aquí poñemos as opcións que nos parecen máis relevantes e interesantes. Ti escolles a que mellor che acaia para o teu propósito.
