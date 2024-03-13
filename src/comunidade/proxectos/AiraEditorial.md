@@ -6,7 +6,7 @@ title: Aira Editorial
 img: /img/comunidade/AiraEditorial.webp
 description: >-
  Editorial xeneralista en lingua galega. Fundada en Allariz no 2017.
-date: YYYY-MM-DD 10:30:11.312203
+date: 2024-03-13 10:30:11.312203
 redes:
   youtube: https://www.youtube.com/channel/UCfqGxXt_RTGobkLD2V74rUg
   twitter: https://www.twitter.com/airaeditorial
