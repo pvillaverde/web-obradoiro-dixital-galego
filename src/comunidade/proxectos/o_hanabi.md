@@ -7,7 +7,6 @@ date: 2015-04-04 15:04:16.671866
 active: false
 type: proxecto
 tags:
-  - asociado
   - twitch
   - youtube
   - videoxogos
