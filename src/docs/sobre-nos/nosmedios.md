@@ -6,8 +6,12 @@ order: 5
 
 Esto é o que din de nós nos medios:
 
+- 14.03.2024 | Nós diario. ["Están en auxe os podcast en galego?](https://www.nosdiario.gal/articulo/cultura/estan-auxe-podcast-galego/20240314180727193055.html)
+- 17.02.2024 | Nós Televisión ["Youtube en Galego gañadora do Premio Rede"](https://nostelevision.gal/os-premios-youtubeiras-no-impulso-da-creacion-de-contidos-en-galego-de-calidade-nesta-rede-social/)
+- 07.11.2024 | Diario da uVigo [O galego pode ser unha “vantaxe diferencial” na creación de contidos na rede ](https://www.uvigo.gal/universidade/comunicacion/duvi/galego-pode-ser-vantaxe-diferencial-creacion-contidos-rede)
 - 22.12.2022 | Nós diario. ["Francisco Bermúdez: "A asociación vai ser o tecido que envolva as comunidades de Podgalego, Twitch e Youtube" ](https://www.nosdiario.gal/articulo/cultura/francisco-bermudez/20221222205103158858.html)
 - 25.11.2022 | CRTVG. ["A Asociación Cultural Obradoiro Dixital Galego na Culturgal", a partir do minuto 22:17](http://www.crtvg.es/rg/a-carta/a-tarde-a-tarde-do-dia-25-11-2022-5896116?t=1350)
+- 21.11.2022 | Galici@Press ["El auge del podcast en gallego: desde el primer "proyecto artístico" hasta una gran comunidad de creadores"](https://www.galiciapress.es/texto-diario/amp/4053154/auge-podcast-gallego-desde-primer-proyecto-artistico-hasta-gran-comunidad-creadores)
 - 08.12.2021 | Nós diario. [Balea Vermella: “En Twitch estase a crear unha comunidade moi ampla de persoas que crean contido en galego”](https://www.nosdiario.gal/articulo/cultura/balea-vermella/20211208162957133708.amp.html)
 - 29.11.2021 | El Correo Gallego. [“A ciencia en galego está no Twitch”](https://www.elcorreogallego.es/tendencias/a-ciencia-en-galego-esta-no-twitch-AY9724471)
 - 26.08.2021 | Vinte – Praza Pública. [“Streamers. Máis de 60 xogadores comparten as súas partidas en directo e en galego”](https://vinte.praza.gal/artigo/mais-de-60-xogadores-comparten-as-suas-partidas-en-directo-e-en-galego)
