@@ -2,7 +2,7 @@
 layout: layouts/proxecto.njk
 active: false
 type: proxecto
-title: Infúe.gal
+title: Inflúe.gal
 img: /img/comunidade/influegal.webp
 description: Podcast que navega polas ondas da influencia e a cultura en galego.
 date: 2024-03-22 10:30:11.312203
