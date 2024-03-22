@@ -12,6 +12,7 @@ redes:
   tiktok: https://www.tiktok.com/@influe.gal
   mail: influegal@gmail.com
 tags:
+  - asociado
   - podcast
   - conversa
   - cultura
