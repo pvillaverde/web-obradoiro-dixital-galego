@@ -9,7 +9,7 @@ t.defaults.markdown.minimal();
 const metas = [
    t.string("Title").hint('Título da páxina concreta (ou xeral), sae na miniatura das ligazóns.'),
    t.string("Site").hint('Título do sitio web, sae na miniatura das ligazóns.'),
-   t.string("Description").hint('Descripción do sitio web, sae na miniatura das ligazóns.'),
+   t.string("Description").hint('Descrición do sitio web, sae na miniatura das ligazóns.'),
    t.list("keywords").collapsed(false).hint('Palabras chave para que os navegadores indexen o contido, separadas por comas'),
    t.image("Image").hint("Esta imaxe será a que sala nas miniaturas cando se enlaze a páxina"),
    t.boolean("Robots").default(true).hint("Permite os robots dos navegadores indexar a páxina e que apareza nos resultados de búsqueda"),
@@ -102,7 +102,7 @@ const comunidade = t.folder("Comunidade", "/src/comunidade/proxectos", [
    t.string("title").required(true).hint('Título do proxecto: Pode ser o nome da canle ou do farangullo.'),
    t.hidden("href").required(false).hint('Ligazón principal do proxecto. Pode ser unha canle de Twitch/Youtube ou un beacons/linktree'),
    t.image("img").hint('Imaxe do proxecto. Ten que ser cadrada, de ser posible 400x400.'),
-   t.markdown("description").required(true).hint("Descripción breve do proxecto. Recomendamos máximo uns 160 caracteres."),
+   t.markdown("description").required(true).hint("Descrición breve do proxecto. Recomendamos máximo uns 160 caracteres."),
    t.datetime("date").required(true).timeFormat(false).dateFormat('yyyy-MM-DD'),
    /* t.boolean("active").hint('Se está activo o proxecto. Este dato refrescase automáticametne cando se actualiza a WEB'), */
    t.object("redes", [

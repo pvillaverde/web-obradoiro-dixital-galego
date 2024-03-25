@@ -1,7 +1,7 @@
 ---
 layout: 'layouts/proxecto.njk'
 title: Pequenos Musiquiños
-description: Canle de Youtube - Se é a túa e lle queres engadir unha descripción e etiquetas, ponte en contacto con nós.
+description: Canle de Youtube - Se é a túa e lle queres engadir unha descrición e etiquetas, ponte en contacto con nós.
 img: /img/comunidade/galegotube.webp
 date: 2020-05-17 14:05:10
 type: proxecto

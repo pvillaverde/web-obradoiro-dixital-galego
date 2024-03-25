@@ -19,4 +19,4 @@ tags:
 redes:
   twitch: https://twitch.tv/deirexe
 ---
-Eu falando a cámara, é a única descripción que podo facer sen faltarlle á verdade, considerando que o resto ira cambiando segundo a miña preferencia persoal.
+Eu falando a cámara, é a única descrición que podo facer sen faltarlle á verdade, considerando que o resto ira cambiando segundo a miña preferencia persoal.
