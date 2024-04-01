@@ -9,7 +9,7 @@ sections:
      redes:
          rss: https://mastodon.gal/@obradoirodixitalgalego.rss
          discord: http://discord.gg/pTbpHp9zwE
-         twitter: https://twitter.com/AC_ODG
+         twitter: https://twitter.com/ob_dixital
          mastodon: https://mastodon.gal/@obradoirodixitalgalego
    - title: Youtube en Galego
      description: Cando subes algún vídeo a Youtube en Galego, publícase unha mensaxe anunciandoo nas seguintes redes. Tamén temeos unha canle de Youtube na que se suben vídeos especiais da comunidade.
