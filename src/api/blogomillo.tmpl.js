@@ -1,7 +1,7 @@
-export const url = "/api/blogue.json";
+export const url = "/api/blogomillo.json";
 export default function ({ search }) {
    const items = [];
-   for (const item of search.pages("type=proxecto blogue", "title=asc")) {
+   for (const item of search.pages("type=proxecto blogomillo", "title=asc")) {
       if (item.data.redes && item.data.redes.rss) {
          const itemInfo = {
             title: item.data.title,
