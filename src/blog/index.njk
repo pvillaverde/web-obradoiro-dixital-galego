@@ -18,7 +18,7 @@ menu:
       <h1 class="page-title">{{ title }}</h1>
       <div class="feeds">
          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="3" cy="13" r="2" fill="currentColor"/><path d="M14 13C14 6.925 9.075 2 3 2M9 13a6 6 0 0 0-6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg> RSS:
-    <a href="/blog/feed.xml">Atom</a>, <a href="/blog/feed.json">JSON</a>
+    <a href="/blog/feed.rss">Atom</a>, <a href="/blog/feed.json">JSON</a>
       </div>
       {# <div class="search" id="search"></div> #}
    </header>
@@ -28,29 +28,29 @@ menu:
       <article class="post">
          <header class="post-header">
             <h2 class="post-title">
-               <a href="{{ post.data.url }}" {% if post.data.url == url %} aria-current="page"{% endif %}>
-                  {{ post.data.title or post.data.url }}
+               <a href="{{ post.url }}" {% if post.url == url %} aria-current="page"{% endif %}>
+                  {{ post.title or post.url }}
                </a>
             </h2>
 
-            {% set date = post.data.date %}
-            {% set tags = post.data.tags %}
-            {% set author = post.data.author %}
-            {% set readingTime = post.data.readingTime %}
+            {% set date = post.date %}
+            {% set tags = post.tags %}
+            {% set author = post.author %}
+            {% set readingInfo = post.readingInfo %}
             {% include "templates/post-details.njk" %}
          </header>
 
-         {% if post.data.img %}
-         <figure class="post-image">
-            <img src="{{ post.data.img | replace(r/\.(.*)$/, '.webp') }}" alt="{{post.data.imgalt}}" title="{{post.data.imgalt}}">
-         </figure>
+         {% if post.img %}
+            <figure class="post-image">
+               <img src="{{ post.img | replace(r/\.(.*)$/, '.webp') }}" alt="{{post.imgalt}}" title="{{post.imgalt}}">
+            </figure>
          {% endif %}
 
          <div class="post-excerpt">
-            {{ post.data.excerpt | md | safe }}
+            {{ post.excerpt | md | safe }}
          </div>
 
-         <a href="{{ post.data.url }}" class="post-link">Continuar lendo →</a>
+         <a href="{{ post.url }}" class="post-link">Continuar lendo →</a>
       </article>
       {% endeach %}
    </section>

@@ -8,7 +8,7 @@ page_css: blog.css
 
    <aside>
       <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="3" cy="13" r="2" fill="currentColor"/><path d="M14 13C14 6.925 9.075 2 3 2M9 13a6 6 0 0 0-6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg> RSS:
-    <a href="/blog/feed.xml">Atom</a>, <a href="/blog/feed.json">JSON</a>
+    <a href="/blog/feed.rss">Atom</a>, <a href="/blog/feed.json">JSON</a>
    </aside>
 
    {# {% if pagination.page == 1 %}
@@ -23,7 +23,7 @@ page_css: blog.css
       <ul class="page-navigation-tags">
          {% for page in search.pages("type=tag", "tag") %}
             <li>
-               <a href="{{ page.data.url }}" class="tag">{{ page.data.tag }}</a>
+               <a href="{{ page.url }}" class="tag">{{ page.tag }}</a>
             </li>
          {% endfor %}
       </ul>

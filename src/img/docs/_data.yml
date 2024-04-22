@@ -1,2 +1,2 @@
-imagick:
-  - format: webp
+transformImages:
+- format: webp

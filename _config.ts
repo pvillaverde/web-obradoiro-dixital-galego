@@ -4,20 +4,24 @@ import codeHighlight from "lume/plugins/code_highlight.ts";
 import inline from "lume/plugins/inline.ts";
 import resolveUrls from "lume/plugins/resolve_urls.ts";
 import esbuild from "lume/plugins/esbuild.ts";
-import imagick from "lume/plugins/imagick.ts";
+import transformImages from "lume/plugins/transform_images.ts";
 import minifyHTML from "lume/plugins/minify_html.ts";
 import lightningCss from "lume/plugins/lightningcss.ts";
 import sitemap from "lume/plugins/sitemap.ts";
-import netlifyCMS from "lume/plugins/netlify_cms.ts";
+// import decapCMS from "lume/plugins/decap_cms.ts";
 import metas from "lume/plugins/metas.ts";
 import mdToc from "https://deno.land/x/lume_markdown_plugins@v0.1.0/toc/mod.ts";
 import mdFootnote from "https://jspm.dev/markdown-it-footnote";
 import ndIframe from "https://jspm.dev/markdown-it-iframe";
 import mdVideo from "https://jspm.dev/markdown-it-video";
 import checkActivity from "./checkActivity.ts";
-import readingTime from "https://raw.githubusercontent.com/lumeland/experimental-plugins/main/reading_time/mod.ts";
+import readInfo from "lume/plugins/reading_info.ts";
 import date from "lume/plugins/date.ts";
-import type { Page, Site } from "lume/core.ts";
+import { gl } from "npm:date-fns/locale/gl";
+import { es } from "npm:date-fns/locale/es";
+import feed from "lume/plugins/feed.ts";
+import nunjucks from "lume/plugins/nunjucks.ts";
+
 
 import pagefind from "lume/plugins/pagefind.ts";
 /* import pagefind from "../lume/plugins/pagefind.ts"; */
@@ -48,13 +52,14 @@ const site = lume({
 
 site
    .use(checkActivity())
+   .use(nunjucks(/* Options */))
    .ignore("CONTRIBUTING.md")
    .ignore("README.md")
    .ignore("velociraptor.json")
    .ignore("scripts")
    .copy("static", ".")
    .copy("_redirects")
-   .use(readingTime())
+   .use(readInfo())
    .use(pagefind({
       ui: {
          containerId: "search",
@@ -76,7 +81,9 @@ site
          }
       },
    }))
-   .use(netlifyCMS({ netlifyIdentity: true, }))
+   // .use(decapCMS({
+   //    identity: "netlify",
+   // }))
    .use(codeHighlight())
    .use(postcss())
    .use(lightningCss())
@@ -86,10 +93,10 @@ site
       extensions: [".js"],
    }))
    .use(date({
-      locales: ["gl", "es"],
+      locales: { gl, es },
    }))
    .use(resolveUrls())
-   .use(imagick())
+   .use(transformImages())
    .use(sitemap())
    .scopedUpdates(
       (path) => path.endsWith(".png") || path.endsWith(".jpg"),
@@ -101,18 +108,34 @@ site
    .remoteFile("api/canles.tmpl.js", import.meta.resolve(`./src/api/canles.tmpl.js`))
    .remoteFile("api/canles.tmpl.js", import.meta.resolve(`./src/api/canles.tmpl.js`)) */
    .preprocess([".md"], (page: Page) => {
-      page.data.excerpt ??= (page.data.content as string).split(
+      page.excerpt ??= (page.content as string)?.split(
          /<!--\s*more\s*-->/i,
       )[0];
-      if (page.data.type == 'post' && page.data.metas) {
-         page.data.metas.title = page.data.title as string;
-         page.data.metas.description = page.data.excerpt as string;
-         page.data.metas.image = page.data.img?.replace(/\.(.*)$/, '.webp') as string;
-         page.data.metas.keywords = page.data.metas.keywords.concat(page.data.tags as string[]);
+      if (page.type == 'post' && page.metas) {
+         page.metas.title = page.title as string;
+         page.metas.description = page.excerpt as string;
+         page.metas.image = page.img?.replace(/\.(.*)$/, '.webp') as string;
+         page.metas.keywords = page.metas.keywords.concat(page.tags as string[]);
       }
    })
+   .use(feed({
+      output: ["/blog/feed.rss", "/blog/feed.json"],
+      query: "type=post",
+      info: {
+         title: "=site.title",
+         description: "=site.description",
+         updated: "=date",
+      },
+      items: {
+         title: "=title",
+         description: "=description",
+         updated: "=date",
+         published: "=date", // New option!
+      },
+   }))
    .process([".html"], (page) => {
-      const doc = page.document!;
+      if (!page.document) return;
+      const doc = page.document;
       const blocks = doc.querySelectorAll("lume-code");
 
       blocks.forEach((block, i) => {

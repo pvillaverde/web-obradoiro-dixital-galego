@@ -28,7 +28,7 @@ page_css: plugins.css
 
       <div id="result-info"></div>
       <ul class="plugins-list">
-         {% for item in search.pages("type=proxecto", "date=desc") | data %}
+         {% for item in search.pages("type=proxecto", "date=desc") %}
             <li class="plugin {% if item.active %} is-enabled{% endif %}" data-tags="{{ item.tags }}">
                <figure class="site">
                   {% if item.img %}
@@ -52,12 +52,12 @@ page_css: plugins.css
 
                <nav class="plugin-tags">
                   {% set tags = categorias.tags | channelTags(item.tags) %}
-                  {% for tag in tags| slice(10) %}
+                  {% for tag in tags | slice(10) %}
                      <a href="?{{ tag.id }}=on" class="button is-secondary is-small" style="--background: {{tag.color}}">
                         {{ tag.name }}
                      </a>
                   {% endfor %}
-                  {% if tags| length > 10 %}
+                  {% if tags | length > 10 %}
                      <a title="Hai máis etiquetas que non se poden amosar" href="#" class="button is-secondary is-small" style="--background: white">...</a>
                   {% endif %}
                </nav>
