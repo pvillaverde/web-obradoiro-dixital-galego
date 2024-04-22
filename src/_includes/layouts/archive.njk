@@ -23,7 +23,7 @@ page_css: blog.css
       <ul class="page-navigation-tags">
          {% for page in search.pages("type=tag", "tag") %}
             <li>
-               <a href="{{ page.data.url }}" class="tag">{{ page.data.tag }}</a>
+               <a href="{{ page.url }}" class="tag">{{ page.tag }}</a>
             </li>
          {% endfor %}
       </ul>

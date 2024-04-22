@@ -4,18 +4,18 @@ export default function ({ search }) {
    const regex = /https?:\/\/(?:www\.)?twitch\.tv\/([a-z0-9_]+)\/?/;
    const items = [];
    for (const item of search.pages("type=proxecto twitch", "title=asc")) {
-      if (item.data.redes && item.data.redes.twitch) {
-         const match = item.data.redes.twitch.match(regex);
+      if (item.redes && item.redes.twitch) {
+         const match = item.redes.twitch.match(regex);
          const twitchChannelLogin = match[1]; // galizangamer
          const itemInfo = {
-            title: item.data.title,
+            title: item.title,
             twitch: twitchChannelLogin,
          }
-         if (item.data.redes.twitter) {
-            itemInfo.twitter = "@" + item.data.redes.twitter.match(/twitter\.com\/([^/]+)/)[1];
+         if (item.redes.twitter) {
+            itemInfo.twitter = "@" + item.redes.twitter.match(/twitter\.com\/([^/]+)/)[1];
          }
-         if (item.data.redes.mastodon) {
-            const [, domain, user] = item.data.redes.mastodon.match(/https:\/\/([^/]+)\/(.+)/);
+         if (item.redes.mastodon) {
+            const [, domain, user] = item.redes.mastodon.match(/https:\/\/([^/]+)\/(.+)/);
             itemInfo.mastodon = `${user}@${domain}`;
          }
          items.push(itemInfo);

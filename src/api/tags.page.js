@@ -7,7 +7,7 @@ export default function ({ search, categorias }) {
          etiqueta_id: tag.id,
          etiqueta_nome: tag.name,
          total: pagesByTag.length,
-         proxectos: pagesByTag.map(p => p.data.title)
+         proxectos: pagesByTag.map(p => p.title)
       });
    }
    items.sort((a, b) => a.total - b.total);

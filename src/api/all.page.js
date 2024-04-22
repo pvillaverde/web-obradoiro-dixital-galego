@@ -2,17 +2,17 @@ export const url = "/api/all.json";
 export default function ({ search }) {
    const items = [];
    for (const item of search.pages("type=proxecto", "title=asc")) {
-      if (item.data.redes) {
+      if (item.redes) {
          const itemInfo = {
-            title: item.data.title,
-            date: item.data.date,
-            active: item.data.active,
-            asociado: item.data.tags.some(t => t === "asociado"),
-            podcast: item.data.tags.some(t => t === "podcast"),
-            youtube: item.data.tags.some(t => t === "youtube"),
-            twitch: item.data.tags.some(t => t === "twitch"),
+            title: item.title,
+            date: item.date,
+            active: item.active,
+            asociado: item.tags.some(t => t === "asociado"),
+            podcast: item.tags.some(t => t === "podcast"),
+            youtube: item.tags.some(t => t === "youtube"),
+            twitch: item.tags.some(t => t === "twitch"),
          }
-         itemInfo.tags = item.data.tags;
+         itemInfo.tags = item.tags;
          items.push(itemInfo);
       }
    }

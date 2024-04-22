@@ -1,6 +1,6 @@
-imagick:
-  - resize: [400, 400]
-    format: webp
-  - resize: [100, 100]
-    suffix: "@2x"
-    format: webp
+transformImages:
+- resize: [400, 400]
+  format: webp
+- resize: [100, 100]
+  suffix: "@2x"
+  format: webp

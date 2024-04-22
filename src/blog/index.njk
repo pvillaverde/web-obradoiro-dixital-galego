@@ -28,29 +28,29 @@ menu:
       <article class="post">
          <header class="post-header">
             <h2 class="post-title">
-               <a href="{{ post.data.url }}" {% if post.data.url == url %} aria-current="page"{% endif %}>
-                  {{ post.data.title or post.data.url }}
+               <a href="{{ post.url }}" {% if post.url == url %} aria-current="page"{% endif %}>
+                  {{ post.title or post.url }}
                </a>
             </h2>
 
-            {% set date = post.data.date %}
-            {% set tags = post.data.tags %}
-            {% set author = post.data.author %}
-            {% set readingTime = post.data.readingTime %}
+            {% set date = post.date %}
+            {% set tags = post.tags %}
+            {% set author = post.author %}
+            {% set readingInfo = post.readingInfo %}
             {% include "templates/post-details.njk" %}
          </header>
 
-         {% if post.data.img %}
-         <figure class="post-image">
-            <img src="{{ post.data.img | replace(r/\.(.*)$/, '.webp') }}" alt="{{post.data.imgalt}}" title="{{post.data.imgalt}}">
-         </figure>
+         {% if post.img %}
+            <figure class="post-image">
+               <img src="{{ post.img | replace(r/\.(.*)$/, '.webp') }}" alt="{{post.imgalt}}" title="{{post.imgalt}}">
+            </figure>
          {% endif %}
 
          <div class="post-excerpt">
-            {{ post.data.excerpt | md | safe }}
+            {{ post.excerpt | md | safe }}
          </div>
 
-         <a href="{{ post.data.url }}" class="post-link">Continuar lendo →</a>
+         <a href="{{ post.url }}" class="post-link">Continuar lendo →</a>
       </article>
       {% endeach %}
    </section>

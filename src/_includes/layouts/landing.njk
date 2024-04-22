@@ -47,7 +47,7 @@ page_css: landing.css
       </header>
 
       <lume-carousel role="region" aria-label="Showcase" tabindex="0" class="landing-examples-sites" id="examples">
-         {% for item in search.pages("type=proxecto", "date=desc", 8) | data %}
+         {% for item in search.pages("type=proxecto", "date=desc", 8) %}
             <a href="{{ item.url }}" title="{{ item.title }}: {{item.description}}" class="site-image">
                <img src="{{ item.img | replace(r/\.(.*)$/, '.webp') }}" alt="{{ item.title }}" width="300" height="200">
             </a>
@@ -80,7 +80,7 @@ page_css: landing.css
       <h2>{{ testimonials.title }}</h2>
 
       <ul class="landing-testimonials-quotes">
-         {% for item in search.pages("type=proxecto active=true asociado", "date=desc") | data %}
+         {% for item in search.pages("type=proxecto active=true asociado", "date=desc") %}
             <li>
                {# {% if item.cover %}
                   <figure class="landing-testimonials-cover">
