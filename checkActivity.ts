@@ -68,44 +68,44 @@ export default function () {
       const regexTwitch = /https?:\/\/(?:www\.)?twitch\.tv\/([a-z0-9_]+)\/?/;
       site.addEventListener("beforeRender", async (event) => {
          if (!event.pages) return;
-         const pages = event.pages.filter(p => p.type == 'proxecto').sort((a, b) => {
-            if (!a.title || !b.title) return 0;
-            return a.title.localeCompare(b.title, undefined, { sensitivity: 'accent', caseFirst: 'false' })
+         const pages = event.pages.filter(p => p.data.type == 'proxecto').sort((a, b) => {
+            if (!a.data.title || !b.data.title) return 0;
+            return a.data.title.localeCompare(b.data.title, undefined, { sensitivity: 'accent', caseFirst: 'false' })
          });
 
          for (const [index, page] of pages.entries()) {
             if (page.src.ext === ".md") { // To filter pages by extension
                try {
-                  console.log(`${index + 1}/${pages.length}`, `Comprobando actividade do proxecto ${page.title}:`, await checkActivity(page));
+                  console.log(`${index + 1}/${pages.length}`, `Comprobando actividade do proxecto ${page.data.title}:`, await checkActivity(page));
                } catch (error) {
-                  console.error(`Ocurriu un erro ao comprobar a canle ${page.title}.`, error);
+                  console.error(`Ocurriu un erro ao comprobar a canle ${page.data.title}.`, error);
                }
             }
          }
       });
       async function checkActivity(page: Page) {
-         if (page.type != 'proxecto' || !page.redes) return;
-         page.active = page.active || false;
-         if (page.metas) {
-            page.metas.title = page.title as string;
-            page.metas.description = page.description as string;
-            page.metas.image = page.img as string;
-            page.metas.keywords = page.metas.keywords.concat(page.tags as string[]);
+         if (page.data.type != 'proxecto' || !page.data.redes) return;
+         page.data.active = page.data.active || false;
+         if (page.data.metas) {
+            page.data.metas.title = page.data.title as string;
+            page.data.metas.description = page.data.description as string;
+            page.data.metas.image = page.data.img as string;
+            page.data.metas.keywords = page.data.metas.keywords.concat(page.data.tags as string[]);
          }
-         if (page.redes.rss) {
-            page.active = page.active || await checkRSSActivity(page.redes.rss);
+         if (page.data.redes.rss) {
+            page.data.active = page.data.active || await checkRSSActivity(page.data.redes.rss);
          }
-         if (page.redes.youtube && page.tags?.includes('youtube')) {
-            const match = page.redes.youtube.match(regexYoutube);
+         if (page.data.redes.youtube && page.data.tags?.includes('youtube')) {
+            const match = page.data.redes.youtube.match(regexYoutube);
             const youtubeChannelUUID = match[1];
-            page.active = page.active || await checkYoutubeActivity(youtubeChannelUUID);
+            page.data.active = page.data.active || await checkYoutubeActivity(youtubeChannelUUID);
          }
-         if (page.redes.twitch && page.tags?.includes('twitch')) {
-            const match = page.redes.twitch.match(regexTwitch);
+         if (page.data.redes.twitch && page.data.tags?.includes('twitch')) {
+            const match = page.data.redes.twitch.match(regexTwitch);
             const twitchChannelLogin = match[1];
-            page.active = page.active || await checkTwitchActivity(twitchChannelLogin);
+            page.data.active = page.data.active || await checkTwitchActivity(twitchChannelLogin);
          }
-         return page.active;
+         return page.data.active;
       }
    };
 }
