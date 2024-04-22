@@ -14,12 +14,13 @@ export default function (
    };
 
    for (const post of search.pages("type=post", "date=desc", 10)) {
+      console.log(post);
       feed.items.push({
-         id: url(post.data.url, true),
-         url: url(post.data.url, true),
-         title: post.data.title,
-         content_html: htmlUrl(md(post.data.content || post.data.excerpt), true),
-         date_published: date(post.data.date, "ATOM"),
+         id: url(post.url, true),
+         url: url(post.url, true),
+         title: post.title,
+         content_html: htmlUrl(md(post.content || post.excerpt), true),
+         date_published: date(post.date, "ATOM"),
       });
    }
 
