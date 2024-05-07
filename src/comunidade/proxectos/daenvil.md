@@ -4,8 +4,7 @@ active: false
 type: proxecto
 title: Daenvil - Blog persoal
 img: /img/comunidade/daenvil.webp
-description: >-
-Son Daenvil e este é o meu blog persoal, onde comparto os meus intereses (cando teño tempo libre e gañas de facelo). Son físico por formación e desenvolvedor de software por paixón.
+description: Son Daenvil e este é o meu blog persoal, onde comparto os meus intereses (cando teño tempo libre e gañas de facelo). Son físico por formación e desenvolvedor de software por paixón.
 date: 2024-05-07 10:30:11.312203
 redes:
   twitch: https://twitch.tv/daenvil6
