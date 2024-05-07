@@ -15,7 +15,7 @@ export default function () {
          const feed = await parseFeed(xml);
          if (feed.entries && feed.entries[0] && feed.entries[0].published) {
             const lastActiveDate = feed.entries[0].published;
-            return isLessThanMonth(lastActiveDate);
+            return isLessThanMonths(lastActiveDate, 6);
          } else {
             return false;
          }
@@ -48,19 +48,18 @@ export default function () {
       const videos = await (await fetch(`${requestOptions.baseURL}/videos?user_id=${userId}&first=1`, requestOptions)).json();
       if (videos.data && videos.data[0]) {
          const lastActiveDate = new Date(videos.data[0].created_at);
-         return isLessThanMonth(lastActiveDate);
+         return isLessThanMonths(lastActiveDate);
       } else { return false; }
    }
 
-   function isLessThanMonth(date: Date) {
+   function isLessThanMonths(date: Date, monthsOld: number = 1) {
       const timestamp = date.getTime();
       const now = Date.now();
       const difference = now - timestamp;
       const months = difference / (1000 * 60 * 60 * 24 * 30);
-      const isLessThanMonth = months < 1;
+      const isLessThanMonth = months < monthsOld;
       return isLessThanMonth;
    }
-
    return (site: Site) => {
       const enableCheckActivity = Deno.env.get("CHECK_ACTIVITY");
       if (!enableCheckActivity) return false;
