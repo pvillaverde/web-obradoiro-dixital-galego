@@ -8,6 +8,7 @@ type: proxecto
 tags:
   - asociado
   - youtube
+  - blogomillo
   - arte
   - cinema
   - cultura
@@ -18,6 +19,7 @@ tags:
 
 redes:
   youtube: https://www.youtube.com/channel/UC3XIGAakW0W_pXnI57bcZ0w
+  rss: https://kinocubecinema.com/index.php/feed/
   facebook: https://www.facebook.com/KinocubeCinema
   instagram: https://www.instagram.com/kinocubecinema/
   twitter: https://twitter.com/KinocubeCinema
