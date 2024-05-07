@@ -15,7 +15,7 @@ O Obradoiro Dixital Galego, por medio da súa canle de YouTube, Youtube en galeg
 
 <!--more-->
 
-Alí estiveron, en representación do Obradoiro (e nalgúns casos dos seus proxectos) a nosa vogal de YouTube Sofía Naseiro, da canle Kinokube Cinema, Mirian Deschain de GFFF que colabora coa canle Cinema Caníbal, Sergio Casal da canle Toxío, Laura Veiga da canle Pingando, Anxo Tato da canle Fica coa Bola (galardoado tamen co Premio Pioneiro), Carlos G. Vieito da canle Exército MekeMeke, Nee Barros da canle neeumatiko e o noso Presidente Fran da Lobeira, da canle a Lobeira today.
+Alí estiveron, en representación do Obradoiro (e nalgúns casos dos seus proxectos) a nosa vogal de YouTube Sofía Naseiro, da canle Kinocube Cinema, Mirian Deschain de GFFF que colabora coa canle Cinema Caníbal, Sergio Casal da canle Toxío, Laura Veiga da canle Pingando, Anxo Tato da canle Fica coa Bola (galardoado tamen co Premio Pioneiro), Carlos G. Vieito da canle Exército MekeMeke, Nee Barros da canle neeumatiko e o noso Presidente Fran da Lobeira, da canle a Lobeira today.
 
 Non fai falla que vos diga que isto supón un pulo moi grande para todes nós, e tamén unha responsabilidade para seguir a traballar como o vimos facendo ata o de agora e mesmo máis e mellor. De calquera xeito danos moitos azos para seguir a facer cousas por e para vós durante o presente ano e en anos vindeiros.
 

@@ -5,7 +5,7 @@ img: /img/blog/asemblea_2.png
 imgalt: Fotografía no exterior do Museo do Pobo Galego coa faixa co cartón de
   axuste de Obradoiro Dixital Galego. Detrás dela e de esquerda a dereita están
   Fran da Lobeira, David Paz (Madialevo), Laura Veiga (Pingando), Sofía Naseiro
-  (Kinokube Cinema),  Sergio e Nuria (Toxío), Miguel González (Alkaine), Pablo
+  (Kinocube Cinema),  Sergio e Nuria (Toxío), Miguel González (Alkaine), Pablo
   Villaverde (Fedello do Clan Kirfed) e Carlos Vieito (Exército Mekemeke)
 tags:
   - novas
