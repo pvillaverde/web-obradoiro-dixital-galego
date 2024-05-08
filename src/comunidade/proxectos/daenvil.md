@@ -4,7 +4,7 @@ active: false
 type: proxecto
 title: Daenvil - Blog persoal
 img: /img/comunidade/daenvil.webp
-description: Son Daenvil e este é o meu blog persoal, onde comparto os meus intereses (cando teño tempo libre e gañas de facelo). Son físico por formación e desenvolvedor de software por paixón.
+description: Son Daenvil e este é o meu blog persoal, onde falo principalmente de videoxogos, cociña, fantasía, ciencia ficción, veganismo, etc.. 
 date: 2024-05-07 10:30:11.312203
 redes:
   twitch: https://twitch.tv/daenvil6
@@ -31,12 +31,3 @@ Neste blog céntrome principalmente en:
 - Falar dos meus proxectos (podes ver unha lista detallada aquí).
 - Compartir receitas propias.
 - Escribir artigos de opinión e de divulgación sobre temas nos que considero que podo aportar algo.
-
-### Actualmente
-
-- No meu pouco tempo libre, atópome desenvolvendo un novo videoxogo o cal espero revelar nalgún futuro (estou progresando moi lentamente).
-- Tamén manteño e actualizo os meus proxectos xa publicados cando estes requeren a miña atención.
-- No día a día, traballo de desenvolvedor de software, o cal me está a quitar bastante tempo do que adoitaba dedicar aos meus demais intereses, razón pola que non estou tan activo ultimamente.
-- No persoal, estou aprendendo xaponés (e é ben difícil).
-
-(Actualizado o 26/02/2023)
