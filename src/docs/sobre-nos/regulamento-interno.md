@@ -102,7 +102,7 @@ caso concreto, evitar que se contradigan os obxectivos da asociación.
 
 ### Título II: Das comisións de traballo.
 
-As comisións de traballo da ACODG:
+As comisións de traballo do Obradoiro Dixital:
 
 1. Serán nomeadas pola Asemblea Xeral ou pola Xunta Directiva para traballos e
    fins específicos, con carácter temporal ou permanente segundo as necesidades
