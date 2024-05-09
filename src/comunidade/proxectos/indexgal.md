@@ -3,7 +3,7 @@ layout: layouts/proxecto.njk
 active: false
 type: proxecto
 title: IndexGal
-img: /img/comunidade/CHANGE_ME.webp
+img: /img/comunidade/indexgal.webp
 description: Falamos de tecnoloxía 💻 Facémolo en galego 👌 Somos boa xente
 date: 2024-05-09 10:30:11.312203
 redes:
