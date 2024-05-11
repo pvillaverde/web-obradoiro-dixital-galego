@@ -7,6 +7,7 @@ export default function ({ search }) {
          const match = item.redes.youtube.match(regex);
          const channelId = match[1]; // UCdQohUqp3v3gU_r5X7p5VZQ
          const itemInfo = {
+            id: item.basename,
             title: item.title,
             youtube: channelId,
          }

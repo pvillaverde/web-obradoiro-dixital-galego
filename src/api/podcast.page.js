@@ -4,6 +4,7 @@ export default function ({ search }) {
    for (const item of search.pages("type=proxecto podcast", "title=asc")) {
       if (item.redes && item.redes.rss) {
          const itemInfo = {
+            id: item.basename,
             title: item.title,
             rss: item.redes.rss,
          }

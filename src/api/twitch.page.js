@@ -8,6 +8,7 @@ export default function ({ search }) {
          const match = item.redes.twitch.match(regex);
          const twitchChannelLogin = match[1]; // galizangamer
          const itemInfo = {
+            id: item.basename,
             title: item.title,
             twitch: twitchChannelLogin,
          }

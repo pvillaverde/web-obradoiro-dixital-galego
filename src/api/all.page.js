@@ -4,6 +4,7 @@ export default function ({ search }) {
    for (const item of search.pages("type=proxecto", "title=asc")) {
       if (item.redes) {
          const itemInfo = {
+            id: item.basename,
             title: item.title,
             date: item.date,
             active: item.active,
@@ -11,6 +12,7 @@ export default function ({ search }) {
             podcast: item.tags.some(t => t === "podcast"),
             youtube: item.tags.some(t => t === "youtube"),
             twitch: item.tags.some(t => t === "twitch"),
+            blogomillo: item.tags.some(t => t === "blogomillo"),
          }
          itemInfo.tags = item.tags;
          items.push(itemInfo);
