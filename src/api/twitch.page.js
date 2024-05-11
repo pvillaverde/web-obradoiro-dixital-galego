@@ -10,7 +10,7 @@ export default function ({ search }) {
          const itemInfo = {
             id: item.basename,
             title: item.title,
-            twitch: twitchChannelLogin,
+            twitch_login: twitchChannelLogin,
          }
          if (item.redes.twitter) {
             itemInfo.twitter = "@" + item.redes.twitter.match(/twitter\.com\/([^/]+)/)[1];
