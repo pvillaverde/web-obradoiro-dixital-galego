@@ -11,7 +11,6 @@ description: |-
 redes:
   link: https://www.ivoox.com/perfil-kebranozes_a8_listener_28926187_1.html
   ivoox: https://www.ivoox.com/perfil-kebranozes_a8_listener_28926187_1.html
-  rss: https://www.ivoox.com/podcast-kebranozes_fg_f11567243_filtro_1.xml
   mail: kebranozes.kalimera@gmail.com
 tags:
   - podcast

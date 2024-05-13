@@ -11,7 +11,8 @@ description: |-
 redes:
   facebook: https://www.facebook.com/vozesmundo
   link: http://grandesvozes.com/gl/
-  rss: https://www.ivoox.com/podcast-radio-burela_fg_f1139260_filtro_1.xml
+  spotify: https://open.spotify.com/show/3rX3ahMiyCfawDCZcO7Mom
+  ivoox: https://www.ivoox.com/podcast-grandes-vozes-do-nosso-mundo_sq_f1139260_7.html
   twitter: https://twitter.com/grandesvnm
 tags:
   - podcast

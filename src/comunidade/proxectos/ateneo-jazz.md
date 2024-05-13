@@ -7,7 +7,7 @@ title: Ateneo Jazz
 description: '**Ateneo Jazz**, da man de Antón Porteiro, é un programa para os amantes do jazz e todos aqueles que queiran achegarse a el.'
 redes:
   link: https://ateneodesantiago.gal/radio/programas/16/ateneo-jazz
-  rss: https://www.spreaker.com/show/4757431/episodes/feed
+  ivoox: https://www.ivoox.com/podcast-ateneo-jazz_sq_f11163377_1.html
 tags:
   - podcast
   - musica

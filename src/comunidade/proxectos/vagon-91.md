@@ -9,7 +9,7 @@ redes:
   instagram: https://www.instagram.com/vagon.91/
   facebook: https://www.facebook.com/Vagon-91-106135224787773
   link: https://linktr.ee/vagon91
-  rss: https://anchor.fm/s/53b0da80/podcast/rss
+  spotify: https://open.spotify.com/show/3YfSf0CZlwDIze8uVnuS4P
   twitter: https://twitter.com/vagon91
   youtube: https://www.youtube.com/channel/UC3LtFFqgEjQNKumYacdNQSw
 tags:
