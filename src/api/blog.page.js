@@ -1,4 +1,4 @@
-export const url = "/api/blogomillo.json";
+export const url = "/api/blog.json";
 export default function ({ search }) {
    const items = [];
    for (const item of search.pages("type=proxecto blogomillo", "title=asc")) {
