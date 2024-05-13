@@ -14,9 +14,10 @@ redes:
   instagram: https://www.instagram.com/comoquenonradio/
   facebook: https://www.facebook.com/Comoquenonradio/
   link: https://www.crtvg.es/rg/podcast/programa/como-que-non
-  rss: https://www.crtvg.es/feed/rgalega/?prog=0189
+  rss: https://www.ivoox.com/feed_fg_f1583989_filtro_1.xml
   twitter: https://twitter.com/comoquenonradio
   youtube: https://www.youtube.com/channel/UCub0vdSuasA8zqArH5VHcsg
+  link: https://agalegaaudio.gal/videos/category/17421-todos-os-podcast-como-que-non
 tags:
   - podcast
   - humor
