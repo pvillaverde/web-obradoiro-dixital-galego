@@ -9,7 +9,7 @@ export default function ({ search }) {
          const itemInfo = {
             id: item.basename,
             title: item.title,
-            youtube_uuid: channelId,
+            uuid: channelId,
          }
          if (item.redes.twitter) {
             itemInfo.twitter = "@" + item.redes.twitter.match(/twitter\.com\/([^/]+)/)[1];
