@@ -30,6 +30,13 @@
       }
    },
    "fmt": {
+      "options": {
+         "useTabs": false,
+         "lineWidth": 120,
+         "indentWidth": 3,
+         "singleQuote": false,
+         "proseWrap": "preserve"
+      },
       "files": {
          "exclude": [
             "./_site"
