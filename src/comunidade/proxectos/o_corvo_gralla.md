@@ -8,9 +8,11 @@ description: >-
  Todo é ficción. Versión en audio de textos do blog escritura.social/marcostaracido/
 date: 2024-06-16 10:30:11.312203
 redes:
-  rss: https://www.ivoox.com/feed_fg_f12444532_filtro_1.xml
+  rss: https://escritura.social/marcostaracido/feed/
   ivoox: https://go.ivoox.com/sq/2444532
   spotify: https://podcasters.spotify.com/pod/show/marcostt
+  mastodon: https://mastodon.gal/@marcostaracido
+  link: https://escritura.social/marcostaracido/
 tags:
   - podcast
   - cinema
