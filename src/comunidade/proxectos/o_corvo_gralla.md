@@ -15,6 +15,7 @@ redes:
   link: https://escritura.social/marcostaracido/
 tags:
   - podcast
+  - blogomillo
   - cinema
   - cultura
   - historia
