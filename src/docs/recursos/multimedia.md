@@ -3,6 +3,7 @@ title: Multimedia de uso libre
 description: Músicas, sons, imaxes e vídeos para utilizar no teu contido
 order: 1
 ---
+
 Aquí podedes atopar algúns recursos libres, ou case, que podedes empregar para os vosos vídeos, directos ou podcasts. Coñeces algunha outra páxina que ofreza este contido ou ferramenta que permite xeralo? Comentanos para engadila!
 
 ## Música e sons libres
@@ -28,6 +29,7 @@ Aquí podedes atopar algúns recursos libres, ou case, que podedes empregar para
 - [GameChops](https://gamechops.com/) - Música gratis (con recoñecemento) para os directos / vídeos, basadas en videoxogos.
 - [MyInstants](https://www.myinstants.com) - Efectos de son populares de películas, videoxogos, series e moito máis. **Ollo coas licenzas de copyright que poidan ter.**
 - [APOI - Arquivo do Patrimonio Oral da Identidade - Museo do Pobo Galego](http://apoi.museodopobo.gal/) - Velaquí poderás atopar cantigas populares, entrevistas e moitas máis pezas recollidas polo Museo do Pobo Galego e que poderás utilizar acreditando correctamente o APOI. **Ollo, se tes un ánimo de lucro importante (mais alá da subsistencia de twitch, por exemplo), tes que lles pedir permiso.**
+- [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/)
 
 ## Imaxes libres
 
@@ -40,7 +42,6 @@ Se precisas imaxes para o directo ou para deseños estas son algunhas das webs m
 - [Pixabay](https://pixabay.com/) e [PublicDomainVectors](https://publicdomainvectors.org/) - Se buscas imaxes vectoriais.
 
 ## Vídeos libres
-
 
 Se o que precisas son vídeos para o seu uso nos directos nestas webs atoparás unha ampla selección.
 
