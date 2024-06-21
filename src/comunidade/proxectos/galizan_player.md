@@ -6,17 +6,16 @@ type: proxecto
 title: Galizan Player
 tags:
   - twitch
+  - youtube
   - instagram
-  - tiktok
   - actualidade
-  - conversa
-  - novas
   - videoxogos
-description: "Somos Galizan Player! A 1ª canle de videoxogos en galego que apareceu por estos lares, tamén coñecidos como Adrián e Antón. Aquí poderás ver contido sobre videoxogos: Directos xogando a diferentes títulos, retransmisións de conferencias e a Pocholeria —o noso directo semanal das novas—."
+description: "Aquí Galizan Player! A 1ª canle de videoxogos en galego que apareceu polo YT, actualmente neste proxecto somos Adrián e Antón. Aquí poderás ver contido sobre videoxogos: Directos xogando a diferentes títulos, retransmisións de conferencias e a Pocholeria —o noso directo semanal de novas—."
 redes:
+  youtube: https://www.youtube.com/channel/UCekrsnpj0-Wp84Hfk00SRMQ
   twitch: https://twitch.tv/galizanplayer
-  instagram: https://www.instagram.com/galizanplayer/
+  instagram: https://www.instagram.com/galizanplayer
   patreon: https://www.patreon.com/galizanplayer
-  tiktok: https://www.patreon.com/galizanplayer
 ---
-Somos Galizan Player! A 1ª canle de videoxogos en galego que apareceu por estos lares, tamén coñecidos como Adrián e Antón. Aquí poderás ver contido sobre videoxogos: Directos xogando a diferentes títulos, retransmisións de conferencias e a Pocholeria —o noso directo semanal das novas—.
+
+Aquí Galizan Player! A 1ª canle de videoxogos en galego que apareceu polo YT, actualmente neste proxecto somos Adrián e Antón. Aquí poderás ver contido sobre videoxogos: Directos xogando a diferentes títulos, retransmisións de conferencias e a Pocholeria —o noso directo semanal de novas—.
