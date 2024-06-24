@@ -43,7 +43,7 @@ const site = lume({
    location: new URL("https://obradoirodixitalgalego.gal/"),
    prettyUrls: true, // Disable pretty urls
    server: {
-      port: 3000,
+      port: 443,
       page404: "/404/",
       open: true,
    },
