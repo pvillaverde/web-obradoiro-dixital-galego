@@ -48,6 +48,9 @@ support:
     - name: PuntoGal, a xestora do dominio galego. Colabora coa asociación e temos un convenio con beneficios para as persoas socias que podes consultar en "Sobre nós".
       url: https://dominio.gal
       img: /icons/colaboradoras/puntogal.svg
+    - name: Imprenta Paramés
+      url: https://www.imprentaparames.es/
+      img: /icons/colaboradoras/imprenta_parames.jpg
   contribute:
     title: Como podo participar na comunidade?
     description: >
