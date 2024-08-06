@@ -8,7 +8,7 @@ description: >-
    Benvides á miña cova, onde falo do que me peta.
 
    Son PiAlfa, normalmente acurtado como Pi. Nesta canle subirei vídeos cando poida e do que queira. O máis probable é que fale de libros, de aprendizaxe de idiomas, dos Sims 3 ou que faga ASMR, pero todo é posible.
-date: YYYY-MM-DD 10:30:11.312203
+date: 2024-08-06 10:30:11.312203
 redes:
   youtube: https://www.youtube.com/channel/UCq0f39s1t_Uw5QDU97OR49Q
   twitter: https://twitter.com/PiAlfa801
