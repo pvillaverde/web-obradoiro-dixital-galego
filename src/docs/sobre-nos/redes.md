@@ -10,13 +10,15 @@ sections:
          rss: https://mastodon.gal/@obradoirodixitalgalego.rss
          discord: http://discord.gg/pTbpHp9zwE
          twitter: https://twitter.com/ob_dixital
+         bluesky: https://bsky.app/profile/obradoirodixital.bsky.social
          mastodon: https://mastodon.gal/@obradoirodixitalgalego
    - title: Youtube en Galego
-     description: Cando subes algún vídeo a Youtube en Galego, publícase unha mensaxe anunciandoo nas seguintes redes. Tamén temeos unha canle de Youtube na que se suben vídeos especiais da comunidade.
+     description: Cando subes algún vídeo a Youtube en Galego, publícase unha mensaxe anunciandoo nas seguintes redes. Tamén temos unha canle de Youtube na que se suben vídeos especiais da comunidade.
      redes:
          rss: https://bots.automatica.dev/web/@galegotube.rss
          discord: http://discord.gg/pTbpHp9zwE
          twitter: https://twitter.com/GalegoTube
+         bluesky: https://bsky.app/profile/galegotube.bsky.social
          mastodon: https://bots.automatica.dev/web/@galegotube
          youtube: https://www.youtube.com/channel/UCrXtoHl0f9jEGj6IyOqzuHg
    - title: Twitch en Galego
@@ -25,6 +27,7 @@ sections:
          rss: https://bots.automatica.dev/web/@galegotwitch.rss
          discord: http://discord.gg/pTbpHp9zwE
          twitter: https://twitter.com/GalegoTwitch
+         bluesky: https://bsky.app/profile/galegotwitch.bsky.social
          mastodon: https://bots.automatica.dev/web/@galegotwitch
          twitch: https://twitch.tv/twitch_en_galego
          youtube: https://www.youtube.com/channel/UClavUfgzYt5uSgtBJbPoXqA
@@ -37,8 +40,17 @@ sections:
          discord: http://discord.gg/pTbpHp9zwE
          link: https://podgalego.agora.gal/
          twitter: https://twitter.com/podgalego
+         bluesky: https://bsky.app/profile/podgalego.bsky.social
          mastodon: https://bots.automatica.dev/web/@podgalego
          telegram: https://t.me/podgalego_episodios
          facebook: https://www.facebook.com/podgalego
          mail: podgalego@agora.gal
+   - title: Blogomillo
+     description: Cando publicas algunha entrada no teu blogue, publícase unha mensaxe anunciandoo nas seguintes redes.
+     redes:
+         rss: https://bots.automatica.dev/web/@blogomillo.rss
+         discord: http://discord.gg/pTbpHp9zwE
+         twitter: https://twitter.com/blogomillo
+         bluesky: https://bsky.app/profile/blogomillo.bsky.social
+         mastodon: https://bots.automatica.dev/web/@blogomillo
 ---

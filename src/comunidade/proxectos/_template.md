@@ -12,6 +12,7 @@ redes:
   twitch: CHANGE_ME
   rss: CHANGE_ME
   twitter: CHANGE_ME
+  bluesky: CHANGE_ME
   mastodon: CHANGE_ME
   instagram: CHANGE_ME
   discord: CHANGE_ME
