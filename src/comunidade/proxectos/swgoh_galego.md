@@ -10,10 +10,6 @@ date: 2024-11-13 10:30:11.312203
 redes:
   twitch: https://www.twitch.tv/breogahn
   telegram: https://t.me/+ZSgH7mJIj1FlMDI0
-  tumblr: CHANGE_ME
-  tiktok: CHANGE_ME
-  link: CHANGE_ME
-  mail: CHANGE_ME
 tags:
   - twitch
   - videoxogos
