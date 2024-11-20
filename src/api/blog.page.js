@@ -6,7 +6,7 @@ export default function ({ search }) {
          const itemInfo = {
             id: item.basename,
             title: item.title,
-            rss: item.redes.rss,
+            rss: item.redes.rss_blog ? item.redes.rss_blog : item.redes.rss,
          }
          if (item.redes.twitter) {
             itemInfo.twitter = "@" + item.redes.twitter.match(/twitter\.com\/([^/]+)/)[1];

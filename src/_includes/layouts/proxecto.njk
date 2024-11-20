@@ -29,11 +29,13 @@ page_css: proxecto.css
    <aside class="social-links">
       <ul>
          {% for rede, ligazon in redes %}
-            <li  class="social-link-{{rede}}">
-               <a target="_blank" href="{% if rede == 'mail' %}mailto:{% endif %}{{ ligazon }}" title="{{ rede }}" rel="me">
-                  <img src="/icons/social/{{ rede }}.svg" alt="{{ rede }}" inline>
-               </a>
-            </li>
+            {% if rede != 'rss_podcast' and rede != 'rss_blog' %}
+               <li  class="social-link-{{rede}}">
+                  <a target="_blank" href="{% if rede == 'mail' %}mailto:{% endif %}{{ ligazon }}" title="{{ rede }}" rel="me">
+                     <img src="/icons/social/{{ rede }}.svg" alt="{{ rede }}" inline>
+                  </a>
+               </li>
+            {% endif %}
          {% endfor %}
       </ul>
    </aside>
