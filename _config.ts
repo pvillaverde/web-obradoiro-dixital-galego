@@ -184,6 +184,6 @@ site
          (block as unknown as HTMLElement).prepend(menu as unknown as Node);
       });
    })
-   .use(minifyHTML());
+   /* .use(minifyHTML()) */;
 
 export default site;
