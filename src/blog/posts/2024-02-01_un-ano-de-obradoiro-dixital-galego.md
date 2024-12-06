@@ -12,7 +12,12 @@ tags:
   - asociación
   - asemblea
 date: 2024-02-01T17:06:40.060Z
+metas:
+   title: "=title"
+   description: "=excerpt"
+   image: "=img"
 ---
+
 Comprácenos informarvos do éxito da celebración da nosa II Asemblea Xeral 🚀. Avaliamos cumpridos os obxectivos da asociación neste primeiro ano desde a súa constitución oficial e tivemos unha xornada moi produtiva de confraternización e debates sobre as prioridades da asociación para este vindeiro ano.
 
 <!--more-->

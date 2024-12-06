@@ -10,7 +10,12 @@ tags:
   - asociación
   - Youtube
 date: 2024-02-18T17:06:40.060Z
+metas:
+   title: "=title"
+   description: "=excerpt"
+   image: "=img"
 ---
+
 O Obradoiro Dixital Galego, por medio da súa canle de YouTube, Youtube en galego, ven de ser galardoado co Premio Rede na última edición do certame Youtubeiras, do que se celebrou a súa gala de entrega de premios onte sábado 17 de febreiro.
 
 <!--more-->

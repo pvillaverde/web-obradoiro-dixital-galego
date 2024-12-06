@@ -13,8 +13,10 @@ keywords:
 robots: true
 lang: gl_ES
 twitter: "@ob_dixital"
+fediverse: "@obradoirodixitalgalego@mastodon.gal"
 generator: true
 title: Asociación Cultural Obradoiro Dixital Galego
 description: O fogar do contido en galego na rede. Asesorámosche para crear contido e colaborar con outros proxectos da comunidade. Difundimos o teu contido nas nosas redes.
 image: /logo.png
+icon: /acodega.png
 title_suffix: Obradoiro Dixital Galego

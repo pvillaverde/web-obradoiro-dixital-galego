@@ -9,6 +9,10 @@ tags:
   - liga-pokemon
   - eventos
 date: 2024-12-06T10:06:40.060Z
+metas:
+   title: "=title"
+   description: "=excerpt"
+   image: "=img"
 ---
 
 Ei adestradoras! Sabedes xa que podedes participar na Liga Galega de Pokemon organizada dende O Obradoiro Dixital Galego? Pasaivos que vos contamos.
