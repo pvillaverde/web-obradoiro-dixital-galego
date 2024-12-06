@@ -107,15 +107,18 @@ site
    /* .remoteFile("api/canles.tmpl.js", import.meta.resolve(`./src/api/canles.tmpl.js`))
    .remoteFile("api/canles.tmpl.js", import.meta.resolve(`./src/api/canles.tmpl.js`))
    .remoteFile("api/canles.tmpl.js", import.meta.resolve(`./src/api/canles.tmpl.js`)) */
-   .preprocess([".md"], (page: Page) => {
-      page.excerpt ??= (page.content as string)?.split(
-         /<!--\s*more\s*-->/i,
-      )[0];
-      if (page.type == 'post' && page.metas) {
-         page.metas.title = page.title as string;
-         page.metas.description = page.excerpt as string;
-         page.metas.image = page.img?.replace(/\.(.*)$/, '.webp') as string;
-         page.metas.keywords = page.metas.keywords.concat(page.tags as string[]);
+
+   .preprocess([".md"], (pages) => {
+      for (const page of pages) {
+         page.data.excerpt ??= (page.data.content as string).split(
+            /<!--\s*more\s*-->/i,
+         )[0];
+         if (page.type == 'post' && page.metas) {
+            page.metas.title = page.title as string;
+            page.metas.description = page.excerpt as string;
+            page.metas.image = page.img?.replace(/\.(.*)$/, '.webp') as string;
+            page.metas.keywords = page.metas.keywords.concat(page.tags as string[]);
+         }
       }
    })
    .use(feed({
