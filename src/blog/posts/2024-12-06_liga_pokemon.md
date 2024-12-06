@@ -33,4 +33,4 @@ Por último todo isto retransmitirase polas canles do Obradoiro dixital, para qu
 
 [![Bases resumidas - Consultar o texto vendo as bases completas](/img/blog/20241206-bases_resumidas.webp)](https://drive.google.com/file/d/13BYXk7xt0R_ajU6F_5VKm8Nxn4uKRGUk/view)
 
-Para máis información as [bases completas premendo nesta ligazón](https://drive.google.com/file/d/13BYXk7xt0R_ajU6F_5VKm8Nxn4uKRGUk/view)
+Para máis información consulta as [bases completas premendo nesta ligazón](https://drive.google.com/file/d/13BYXk7xt0R_ajU6F_5VKm8Nxn4uKRGUk/view)
