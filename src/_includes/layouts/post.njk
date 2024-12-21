@@ -10,7 +10,7 @@ page_css: blog.css
       {% include "templates/post-details.njk" %}
       {% if img %}
          <figure>
-            <img src="{{ img | replace(r/\.(.*)$/, '.webp') }}" alt="{{imgalt}}" title="{{imgalt}}">
+            <img src="{{ img | replace(r/\.(.*)$/, '.webp') }}" alt="{{imgalt}}" title="{{imgalt}}" style="width:100%" />
          </figure>
       {% endif %}
    </header>
