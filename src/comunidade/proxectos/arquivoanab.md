@@ -1,6 +1,6 @@
 ---
 layout: layouts/proxecto.njk
-active: false
+active: true
 type: proxecto
 title: arquivoanab
 img: /img/comunidade/arquivoanab.webp
