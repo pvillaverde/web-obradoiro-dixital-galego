@@ -12,6 +12,7 @@ redes:
   instagram: https://www.instagram.com/iagoraw
   tiktok: https://www.tiktok.com/@iagoraw
 tags:
+  - asociado
   - youtube
   - instagram
   - tiktok
@@ -20,4 +21,5 @@ tags:
   - ecoloxia
   - fotografia
 ---
+
 Son Iago Fotógrafo de Natureza! 📸🌿 Explora o abraiante mundo da natureza galega a través dos meus ollos e a miña lente. 🍃 Descobre os segredos dos nosos bosques en cada video documental. ✨ Sé testemuña da beleza da natureza, desde maxestuosas paisaxes ata os pequenos detalles que moitas veces pasamos por alto. 🤝💚 Prepárate para unha dose mensual de inspiración visual! 🎥✨
