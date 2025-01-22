@@ -3,7 +3,7 @@ layout: layouts/proxecto.njk
 active: false
 type: proxecto
 title: Non Vale Furar
-img: /img/comunidade/nonvalefurar.webp
+img: /img/comunidade/nvfgalicia.webp
 description: >-
  Canle pioneira sobre fútbol galego. Información, opinión e humor a partes iguais.
 date: 2024-11-24 10:30:11.312203
