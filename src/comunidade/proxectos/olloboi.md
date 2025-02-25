@@ -9,18 +9,11 @@ description: >-
 date: 2025-02-25 10:30:11.312203
 redes:
   youtube: https://www.youtube.com/channel/UCIokd22PFf_XE1y9nkIyhiw
-  twitch: CHANGE_ME
   rss: https://blog.olloboi.com/feed/
   #rss_blog: CHANGE_ME
   #rss_podcast: CHANGE_ME
   instagram: https://www.instagram.com/olloboi
   facebook: https://www.facebook.com/olloboi
-  ivoox: CHANGE_ME
-  kofi: CHANGE_ME
-  patreon: CHANGE_ME
-  spotify: CHANGE_ME
-  telegram: CHANGE_ME
-  tumblr: CHANGE_ME
   tiktok: https://www.tiktok.com/@olloboi_
   link: https://www.olloboi.com/
   mail: info@olloboi.com
