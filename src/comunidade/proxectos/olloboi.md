@@ -3,7 +3,7 @@ layout: layouts/proxecto.njk
 active: false
 type: proxecto
 title: Olloboi Festival Audiovisual Escolar 
-img: /img/comunidade/CHANGE_ME.webp
+img: /img/comunidade/olloboi.webp
 description: >-
  Olloboi é un festival audiovisual de curtametraxes dirixido a membros de comunidades educativas galegas. Celébrase anualmente en Boiro, dende o 2009.
 date: 2025-02-25 10:30:11.312203
