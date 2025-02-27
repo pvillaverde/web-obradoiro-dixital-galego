@@ -15,7 +15,7 @@ redes:
   instagram: https://www.instagram.com/olloboi
   facebook: https://www.facebook.com/olloboi
   tiktok: https://www.tiktok.com/@olloboi_
-  link: https://www.olloboi.com/
+  link: https://blog.olloboi.com/aprendo-con-olloboi/
   mail: info@olloboi.com
 tags:
  - asociado
