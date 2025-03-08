@@ -15,6 +15,7 @@ redes:
   twitter: https://twitter.com/ProxectoNeo
   youtube: https://www.youtube.com/channel/UCu9ZpsvTP3PTJcfeasgXsxw
 tags:
+  - asociado
   - podcast
   - ensino
   - lingua
