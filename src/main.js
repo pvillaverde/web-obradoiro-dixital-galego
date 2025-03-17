@@ -27,10 +27,9 @@ if (chromeAgent) {
 
 function onKeyDown(event) {
    const isOpen = location.pathname === "/search/";
-   if (event.keyCode === 27 && isOpen || // The `Cmd+K` shortcut both opens and closes the modal.
-      event.key === 'k' && (event.metaKey || event.ctrlKey) || // The `/` shortcut opens but doesn't close the modal because it's
-      // a character.
-      /* !isEditingContent(event) &&  */event.key === '/' && !isOpen) {
+   // 27 is escape, to close the search
+   // The `Cmd+K` shortcut both opens and closes the modal.
+   if (event.keyCode === 27 && isOpen || event.key === 'k' && (event.metaKey || event.ctrlKey)) {
       event.preventDefault();
 
       if (isOpen) {
