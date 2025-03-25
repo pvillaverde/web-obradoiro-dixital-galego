@@ -11,6 +11,7 @@ description: >-
 date: 2025-03-25 10:30:11.312203
 redes:
   youtube: https://www.youtube.com/channel/UCbrx2SLc0OxI-ifmxFdyaWQ
+  twitch: https://www.twitch.tv/twitch_en_galego
   instagram: https://www.instagram.com/baluria.gal
   tiktok: https://www.tiktok.com/@baluria.gal
   mail: baluria.gal@gmail.com
