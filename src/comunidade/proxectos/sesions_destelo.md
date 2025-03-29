@@ -13,7 +13,6 @@ redes:
   instagram: https://www.instagram.com/sdestelo/
   facebook: https://www.facebook.com/sdestelo/
   link: https://sdestelo.wordpress.com/
-  mail: CHANGE_ME
 tags:
   - youtube
   - fotografia

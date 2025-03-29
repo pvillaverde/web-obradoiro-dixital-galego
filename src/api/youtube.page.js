@@ -12,7 +12,7 @@ export default function ({ search }) {
             uuid: channelId,
          }
          if (item.redes.twitter) {
-            itemInfo.twitter = "@" + item.redes.twitter.match(/twitter\.com\/([^/]+)/)[1];
+            itemInfo.twitter = "@" + item.redes.twitter.match(/(?:twitter\.com|x\.com)\/([^/]+)/)[1];
          }
          if (item.redes.bluesky) {
             itemInfo.bluesky = "@" + item.redes.bluesky.match(/https:\/\/bsky\.app\/profile\/([^/]+)/)[1];
