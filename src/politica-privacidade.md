@@ -47,9 +47,10 @@ voluntariamente e a que 3) nos proporcionen terceiros.
 
 Esta información consistirá en:
 
-- A recompilada mediante cookies ou mecanismos similares almacenados no teu
+<!-- - A recompilada mediante cookies ou mecanismos similares almacenados no teu
   dispositivo, sempre co teu consentimento. Consulta a nosa
-  [Política de Cookies](/cookies) para máis información.
+  [Política de Cookies](/cookies) para máis información. -->
+
 - A IP desde a que se realiza a conexión, o tipo de dispositivo usado e as súas
   características, a versión do sistema operativo, o tipo de navegador, o
   idioma, a data, o país, a hora da solicitude, a URL de referencia ou a rede
