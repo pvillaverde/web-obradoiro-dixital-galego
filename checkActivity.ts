@@ -75,7 +75,8 @@ export default function () {
          for (const [index, page] of pages.entries()) {
             if (page.src.ext === ".md") { // To filter pages by extension
                try {
-                  console.log(`${index + 1}/${pages.length}`, `Comprobando actividade do proxecto ${page.data.title}:`, await checkActivity(page));
+                  console.log(`${index + 1}/${pages.length}`, `Comprobando actividade do proxecto ${page.data.title}:`);
+                  console.log(await checkActivity(page));
                } catch (error) {
                   console.error(`Ocurriu un erro ao comprobar a canle ${page.data.title}.`, error);
                }
