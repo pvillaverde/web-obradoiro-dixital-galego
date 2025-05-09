@@ -30,6 +30,7 @@ Aquí podedes atopar algúns recursos libres, ou case, que podedes empregar para
 - [MyInstants](https://www.myinstants.com) - Efectos de son populares de películas, videoxogos, series e moito máis. **Ollo coas licenzas de copyright que poidan ter.**
 - [APOI - Arquivo do Patrimonio Oral da Identidade - Museo do Pobo Galego](http://apoi.museodopobo.gal/) - Velaquí poderás atopar cantigas populares, entrevistas e moitas máis pezas recollidas polo Museo do Pobo Galego e que poderás utilizar acreditando correctamente o APOI. **Ollo, se tes un ánimo de lucro importante (mais alá da subsistencia de twitch, por exemplo), tes que lles pedir permiso.**
 - [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/)
+- [Vecteezy](https://www.vecteezy.com/) - Sons, imaxes e vídeos de stock.
 
 ## Imaxes libres
 
