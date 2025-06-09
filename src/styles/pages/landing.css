@@ -77,6 +77,8 @@
       @media (max-width: 650px) {
          width: 100%;
       }
+      /* Engadido para que se mostre sempre en duas "liñas" ocupando todo o espazo */ 
+      width: 100%;
 
       margin: 10px 20px;
       border-radius: var(--border-radius-small);

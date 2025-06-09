@@ -13,11 +13,11 @@ action:
     asociación](/docs/sobre-nos/obradoiro-dixital-galego/#a-asociación) para ver
     os requisitos e máis beneficios
   main:
-    title: Afíliate!
-    url: /asociate
-  secondary: 
-    title: Engade o teu proxecto!
+    title: Engade o teu proxecto de balde!
     url: /form-proxecto
+  secondary: 
+    title: Afíliate e axúdanos co mantemento!
+    url: /asociate
 features:
   - title: Difusión
     img: /icons/difusion.svg
