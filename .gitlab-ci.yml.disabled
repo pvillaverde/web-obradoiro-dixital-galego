@@ -1,0 +1,44 @@
+stages:
+- validate
+- build
+- deploy
+
+gitleaks:
+  stage: validate
+  image:
+    name: zricethezav/gitleaks:latest
+    entrypoint: [ "" ]
+  variables:
+    GIT_STRATEGY: clone # clone entire repo instead of reusing workspace
+    GIT_DEPTH: 0 # avoid shallow clone
+  before_script:
+  - mkdir ./test-reports || true
+  script:
+  - gitleaks detect --no-git --source ./ -f junit -r ./test-reports/gitleaks.xml
+  artifacts:
+    when: always
+    paths:
+    - ./test-reports/gitleaks.xml
+    reports:
+      junit: ./test-reports/gitleaks.xml
+
+build:
+  stage: build
+  image: denoland/deno:ubuntu
+  script:
+  - deno task build
+  artifacts:
+    paths:
+    - _site/
+
+pages:
+  stage: deploy
+  rules:
+  # This ensures that only pushes to the default branch will trigger
+  # a pages deploy
+  - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+    when: manual
+  script:
+  - ls -la _site
+  - echo "Ready to deploy"
+  publish: _site
