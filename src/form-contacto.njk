@@ -11,7 +11,11 @@ title: Contacto
       <p>Queres porte en contacto con nós? Envíanos este formulario ou envíanos un correo a <a href="mailto:contacto@obradoirodixitalgalego.gal">contacto@obradoirodixitalgalego.gal</a>
       </p>
    </header>
-   <form name="contacto" netlify class="contact-form" action="/form-sent">
+   <form name="contacto" netlify class="contact-form" action="/form-sent" netlify-honeypot="trampa-cibercarrachos">
+      <div class="input-field trampa-cibercarrachos">
+         <label for="name">Nome do proxecto:</label>
+         <input type="text" id="trampa-cibercarrachos" name="trampa-cibercarrachos" placeholder="Isto é unha trampa para cibercarrachos">
+      </div>
       <div class="input-field">
          <label for="name">Nome:</label>
          <input type="text" id="name" name="name" required placeholder="O nome co que nos dirixiremos a ti na nosa resposta">

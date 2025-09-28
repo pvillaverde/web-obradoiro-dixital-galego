@@ -28,6 +28,10 @@ header {
       }
    }
 
+   & .trampa-cibercarrachos {
+      display: none !important;
+   }
+
    & .input-field {
       flex-basis: calc(33% - 20px);
       display: flex;
