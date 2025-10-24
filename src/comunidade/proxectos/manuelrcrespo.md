@@ -19,3 +19,4 @@ tags:
   - galiza
   - infantil
 ---
+Cancións infantís, tradicionais e de composición propia de poemas de Rosalía, Ernesto Guerra da Cal, Manuel María, Uxío Novoneira, Pura Tejelo, Pepe Mondelo, Aquilino Iglesias Alvariño, Celia Díaz,... Cancións de Bob Dylan, Peter Seeger, Angelo Branduardi... traducidas e adaptadas ó galego.
