@@ -8,7 +8,7 @@ description: >-
  Radio Repatio, o teu podcast de contos de humor en galego, comedia en galego e algo de música, tamén en galego. 
 date: 2025-11-28 10:30:11.312203
 redes:
-  rss: https://open.spotify.com/show/0qpNaySqsfQNcS9whp87fp
+  rss: https://anchor.fm/s/109037118/podcast/rss
   spotify: https://open.spotify.com/show/0qpNaySqsfQNcS9whp87fp
   link: https://radiorepatio.com/
 tags:
