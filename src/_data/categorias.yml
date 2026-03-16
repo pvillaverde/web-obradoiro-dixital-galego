@@ -2,24 +2,32 @@ tags:
 - id: asociado
   name: Asoc. no Obradoiro Dixital
   color: "#ffffff"
+  no_limit: true
 - id: podcast
   name: Podcast
   color: "#5b8ddb"
+  no_limit: true
 - id: twitch
   name: Twitch
   color: "#a990d2"
+  no_limit: true
 - id: youtube
   name: Youtube
   color: "#e3635e"
+  no_limit: true
 - id: instagram
   name: Instagram
   color: "#5B51D8"
+  no_limit: true
 - id: tiktok
   name: Tik-Tok
   color: "#00f2ea"
+  no_limit: true
 - id: blogomillo
   name: Blogomillo
   color: "#f3c72a"
+  no_limit: true
+######################################## Contido
 - id: actualidade
   name: Actualidade
   color: "#ffa78c"

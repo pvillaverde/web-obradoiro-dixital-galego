@@ -135,7 +135,7 @@ title: Actualizar proxecto
          <div class="tags-form">
             {% for tag in categorias.tags %}
                <label>
-                  <input type="checkbox" name="tags" value="{{ tag.id }}" >
+                  <input type="checkbox" name="tags" value="{{ tag.id }}" {% if tag.no_limit %}data-no-limit="true"{% endif %}>
                   {{ tag.name }}
                </label>
             {% endfor %}
@@ -159,3 +159,28 @@ title: Actualizar proxecto
    </form>
 
 </article>
+<script>
+   document.addEventListener("DOMContentLoaded", () => {
+
+      const MAX_TAGS = 5;
+
+      const limited = document.querySelectorAll('input[name="tags"]:not([data-no-limit])');
+
+      function updateTagState() {
+         const checkedLimited = document
+            .querySelectorAll('input[name="tags"]:checked:not([data-no-limit])')
+            .length;
+
+         limited.forEach(cb => {
+            if (!cb.checked) {
+               cb.disabled = checkedLimited >= MAX_TAGS;
+            }
+         });
+      }
+
+      limited.forEach(cb => {
+         cb.addEventListener("change", updateTagState);
+      });
+      updateTagState();
+   });
+</script>

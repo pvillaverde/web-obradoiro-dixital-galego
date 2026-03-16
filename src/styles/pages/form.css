@@ -52,6 +52,11 @@ header {
          background-color: var(--color-background-2);
       }
    }
+
+   label:has(input:disabled) {
+      opacity: 0.5;
+      cursor: not-allowed;
+   }
 }
 
 input,
