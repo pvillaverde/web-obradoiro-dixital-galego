@@ -56,6 +56,8 @@ site
    .ignore("README.md")
    .ignore("velociraptor.json")
    .ignore("scripts")
+   .ignore("tv")
+   .copy("tv", "tv")
    .copy("static", ".")
    .copy("_redirects")
    .use(readInfo())
