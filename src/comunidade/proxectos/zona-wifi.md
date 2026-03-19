@@ -8,7 +8,7 @@ description: Podcast sobre comunicación dixital, tecnoloxía e moitas outras co
 redes:
   instagram: https://www.instagram.com/xabierrolan/
   link: https://rolan.gal/podcast/
-  rss: https://anchor.fm/s/172bc0e8/podcast/rss
+  rss: https://feeds.ivoox.com/feed_fg_f1469727_filtro_1.xml
   twitter: http://twitter.com/XabierRolan
 tags:
   - asociado
