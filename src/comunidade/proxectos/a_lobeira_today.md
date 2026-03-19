@@ -29,7 +29,6 @@ tags:
   - literatura
   - historia
   - culturapopular
-  - outras
 redes:
   youtube: https://www.youtube.com/channel/UCZZTH6dVk9k_ah6OpZ-w7ZA
   facebook: https://www.facebook.com/ALobeiratoday

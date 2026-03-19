@@ -24,5 +24,4 @@ tags:
   - cinema
   - experimental
   - musica
-  - persoal
 ---

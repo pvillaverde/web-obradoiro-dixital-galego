@@ -14,5 +14,4 @@ redes:
 tags:
   - podcast
   - medio_rural
-  - persoal
 ---

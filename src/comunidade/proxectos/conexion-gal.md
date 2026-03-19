@@ -14,7 +14,6 @@ tags:
   - podcast
   - actualidade
   - cultura
-  - divulgacion
   - emigracion
   - entrevistas
   - internacional

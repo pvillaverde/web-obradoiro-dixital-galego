@@ -16,5 +16,4 @@ tags:
   - emprendemento
   - entrevistas
   - lingua
-  - persoal
 ---

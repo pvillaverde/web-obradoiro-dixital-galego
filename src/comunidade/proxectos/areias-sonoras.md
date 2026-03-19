@@ -17,5 +17,4 @@ tags:
   - asociado
   - podcast
   - experimental
-  - persoal
 ---

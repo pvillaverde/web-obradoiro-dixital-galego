@@ -20,5 +20,4 @@ tags:
   - entrevistas
   - lusofonia
   - patrimonio
-  - oral
 ---

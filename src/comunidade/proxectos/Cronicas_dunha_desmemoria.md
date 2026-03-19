@@ -14,6 +14,5 @@ redes:
 tags:
   - youtube
   - historia
-  - divulgacion
   - literatura
 ---

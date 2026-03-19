@@ -13,6 +13,5 @@ redes:
   youtube: https://www.youtube.com/channel/UCMks8iQ_aHEwK2uCbD9dgGw
 tags:
   - podcast
-  - divulgacion
   - magazine
 ---

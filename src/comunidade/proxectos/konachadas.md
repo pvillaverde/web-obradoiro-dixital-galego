@@ -17,7 +17,6 @@ tags:
   - culturapopular
   - feminismo
   - humor
-  - persoal
   - social
   - galiza
 ---

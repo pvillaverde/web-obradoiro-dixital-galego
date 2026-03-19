@@ -43,9 +43,6 @@ tags:
 - color: "#e57a86"
   id: asociacións
   name: Asociacións
-- id: astronomia
-  name: Astronomía
-  color: "#f583b3"
 - id: audiolibro
   name: Audiolibro
   color: "#cd69a7"
@@ -130,9 +127,6 @@ tags:
 - id: patrimonio
   name: Patrimonio
   color: "#ffbfcf"
-- id: persoal
-  name: Persoal
-  color: "#fad3cf"
 - id: podcasting
   name: Podcasting
   color: "#4bbeef"
@@ -143,8 +137,8 @@ tags:
   name: Política
   color: "#da1414"
 - id: rol
-  name: D&D / Rol
-  color: lightgray
+  name: D&D / Rol / Xogos de mesa
+  color: "#f583b3"
 - id: sexualidade
   name: Sexualidade
   color: "#de74db"
@@ -166,9 +160,6 @@ tags:
 - id: videoxogos
   name: Videoxogos
   color: lightgreen
-- id: outras
-  name: Outras
-  color: lightgray
 - id: diversidade_e_lgtbi
   name: Diversidade e LGBTQIA+
   color: "#6ae3d9"

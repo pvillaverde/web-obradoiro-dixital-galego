@@ -11,7 +11,6 @@ tags:
   - actualidade
   - cinema
   - culturapopular
-  - persoal
   - tecnoloxia
   - videoxogos
 redes:

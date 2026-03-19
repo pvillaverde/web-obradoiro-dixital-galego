@@ -10,10 +10,8 @@ tags:
   - youtube
   - activismo
   - culturapopular
-  - divulgacion
   - ensino
   - lingua
-  - persoal
 redes:
   youtube: https://www.youtube.com/channel/UCulEokUqwRzcYirUcovc-zw
 ---

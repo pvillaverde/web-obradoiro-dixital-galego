@@ -16,7 +16,6 @@ redes:
 tags:
   - blogomillo
   - cultura
-  - persoal
   - rol
   - videoxogos
 ---

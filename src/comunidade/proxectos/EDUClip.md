@@ -13,7 +13,6 @@ tags:
   - cinema
   - cultura
   - culturapopular
-  - divulgacion
   - ensino
   - fotografia
   - infantil

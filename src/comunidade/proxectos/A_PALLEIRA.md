@@ -32,7 +32,6 @@ tags:
   - youtube
   - podcast
   - entrevistas
-  - persoal
   - cultura
   - culturapopular
   - asociacións

@@ -14,7 +14,6 @@ redes:
   link: https://www.abaleboo.com
 tags:
   - youtube
-  - divulgacion
   - sexualidade
   - diversidade_e_lgtbi
   - ensino

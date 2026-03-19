@@ -12,5 +12,4 @@ redes:
   twitter: https://twitter.com/Kmgratis
 tags:
   - podcast
-  - persoal
 ---

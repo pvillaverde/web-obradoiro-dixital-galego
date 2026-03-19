@@ -42,5 +42,4 @@ tags:
   - literatura
   - historia
   - culturapopular
-  - outras
 ---

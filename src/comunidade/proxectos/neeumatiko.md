@@ -13,7 +13,6 @@ tags:
   - literatura
   - autoaxuda
   - activismo
-  - divulgacion
   - diversidade_e_lgtbi
   - lusofonia
 redes:

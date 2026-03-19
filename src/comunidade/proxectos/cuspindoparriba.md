@@ -14,7 +14,6 @@ redes:
 tags:
   - youtube
   - cultura
-  - divulgacion
   - experimental
   - humor
   - politica
@@ -22,7 +21,6 @@ tags:
   - social
   - tecnoloxia
   - videoxogos
-  - oral
 ---
 
 Vale, isto pídeme unha descrición longa. Son Cuspindo P'arriba, estudante de filosofía e facedor de vídeos. Cansado das canles de merda en YouTube? Pois eu non! Entra á canle para comprobalo.

@@ -8,7 +8,6 @@ type: proxecto
 tags:
   - youtube
   - cultura
-  - divulgacion
   - documental
   - ensino
   - historia

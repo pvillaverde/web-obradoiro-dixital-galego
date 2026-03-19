@@ -11,8 +11,6 @@ redes:
 tags:
   - podcast
   - cultura
-  - divulgacion
   - patrimonio
   - improvisacion
-  - oral
 ---

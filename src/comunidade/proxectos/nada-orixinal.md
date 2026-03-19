@@ -19,6 +19,5 @@ tags:
   - culturapopular
   - experimental
   - humor
-  - persoal
   - podcasting
 ---

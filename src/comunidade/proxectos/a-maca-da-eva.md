@@ -13,7 +13,6 @@ redes:
 tags:
   - asociado
   - podcast
-  - divulgacion
   - feminismo
   - sexualidade
 ---

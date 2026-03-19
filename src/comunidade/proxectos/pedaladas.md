@@ -22,7 +22,6 @@ tags:
   - asociacións
   - cultura
   - deporte
-  - divulgacion
   - ecoloxia
   - paisaxe
   - podcasting

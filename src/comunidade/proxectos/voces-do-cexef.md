@@ -14,7 +14,6 @@ tags:
   - podcast
   - ciencia
   - cultura
-  - divulgacion
   - feminismo
   - social
 ---

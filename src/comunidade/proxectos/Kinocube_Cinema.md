@@ -13,7 +13,6 @@ tags:
   - cinema
   - cultura
   - culturapopular
-  - divulgacion
   - documental
   - entrevistas
 

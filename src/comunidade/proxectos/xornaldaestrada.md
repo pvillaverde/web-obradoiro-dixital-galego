@@ -33,7 +33,6 @@ tags:
   - literatura
   - historia
   - culturapopular
-  - outras
 ---
 O noso nacemento foi baixo o paraugas do Planeta de Hoxe en Día (así é que adoptamos o seu nome e engadimos un Noticias ao final) pero rematamos independizándonos e contando os sucesos da Estrada (Pontevedra). E, tras iso, cambiando de nome. Somos un medio de comunicación que mestura o tradicional (noticias serias nunha web) co moderno (contido para redes sociais, unha narrativa diferente...) e que, pese a que o noso nome limítanos a un único concello, non perdemos de vista o que pasa ao noso arredor.
 

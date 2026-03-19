@@ -12,5 +12,4 @@ redes:
   twitter: https://twitter.com/riquinha_rabuda
 tags:
   - podcast
-  - persoal
 ---

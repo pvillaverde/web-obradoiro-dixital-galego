@@ -17,5 +17,4 @@ tags:
   - podcast
   - cultura
   - culturapopular
-  - divulgacion
 ---

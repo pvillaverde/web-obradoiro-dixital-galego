@@ -11,6 +11,5 @@ redes:
   rss: https://www.ivoox.com/podcast-as-efemeridas-manuel-gago_fg_f1303922_filtro_1.xml
 tags:
   - podcast
-  - divulgacion
   - historia
 ---

@@ -12,7 +12,6 @@ tags:
   - youtube
   - podcast
   - ciencia
-  - divulgacion
 redes:
   twitch: https://twitch.tv/baleavermella
   youtube: https://www.youtube.com/channel/UCcz6VrfBLv0wusla1B8pWEw

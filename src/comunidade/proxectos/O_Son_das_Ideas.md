@@ -9,7 +9,6 @@ tags:
   - youtube
   - podcast
   - ciencia
-  - divulgacion
 redes:
   youtube: https://www.youtube.com/channel/UCeRrq5vot8O-HbdyryrzPAg
   instagram: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEF2c3NQTk95RS1LSU1xR0o5Y0JxZXp5cFRVQXxBQ3Jtc0trbE52YTkxVGtxREdkLWExb0VSaW5CQjd5WlY3QVFDZk5adEFMckhrcUdOeHZSYzZLa2VnZ0tId21COXBSNnpsNzFXRGlvbGRCZGtwb1JMdExlUVpmaVQ5VGZESnUyQUVvQUJpaVc3ZWdvdldXdHhtSQ&q=https%3A%2F%2Fwww.instagram.com%2Fosondasideas%2F

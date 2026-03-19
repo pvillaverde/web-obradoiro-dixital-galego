@@ -23,7 +23,6 @@ tags:
   - entrevistas
   - actualidade
   - humor
-  - outras
 ---
 
 🐈‍⬛ Benvides a Baluria, o fogar das renegadas 🧙🏻‍♀️

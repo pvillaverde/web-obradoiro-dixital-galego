@@ -14,7 +14,6 @@ redes:
 tags:
   - youtube
   - cultura
-  - divulgacion
   - patrimonio
 ---
 

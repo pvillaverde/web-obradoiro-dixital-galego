@@ -17,7 +17,6 @@ tags:
   - actualidade
   - cultura
   - culturapopular
-  - divulgacion
   - feminismo
   - humor
   - lingua

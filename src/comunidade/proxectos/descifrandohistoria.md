@@ -10,7 +10,6 @@ tags:
   - asociado
   - twitch
   - podcast
-  - divulgacion
   - historia
 redes:
   twitch: https://twitch.tv/descifrandohistoria

@@ -16,6 +16,5 @@ tags:
   - cultura
   - experimental
   - literatura
-  - persoal
   - poesia
 ---

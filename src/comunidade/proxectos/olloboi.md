@@ -42,8 +42,6 @@ tags:
  - tecnoloxia
  - antropoloxia
  - galiza
- - infantil
- - oral
 ---
 
 Somos un colectivo creativo sen ánimo de lucro que organiza en Boiro un encontro de ilustración (A cor de Boiro) e un de cine e educación (Festival de cine escolar Olloboi). Ofrecemos tamén formación audiovisual (Aprendo con Olloboi e Ollobradoiros).

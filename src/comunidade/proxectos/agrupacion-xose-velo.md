@@ -19,7 +19,6 @@ tags:
   - actualidade
   - cultura
   - culturapopular
-  - divulgacion
   - emigracion
   - entrevistas
   - internacional

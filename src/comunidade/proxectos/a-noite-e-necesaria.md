@@ -10,5 +10,5 @@ redes:
   rss: https://www.ivoox.com/podcast-a-noite-e-necesaria_fg_f1310381_filtro_1.xml
 tags:
   - podcast
-  - astronomia
+  - ciencia
 ---

@@ -15,7 +15,6 @@ redes:
 tags:
   - youtube
   - cultura
-  - divulgacion
   - historia
   - galiza
 ---

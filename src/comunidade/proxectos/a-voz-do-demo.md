@@ -22,7 +22,6 @@ tags:
   - cultura
   - galiza
   - culturapopular
-  - divulgacion
   - historia
   - magazine
 ---

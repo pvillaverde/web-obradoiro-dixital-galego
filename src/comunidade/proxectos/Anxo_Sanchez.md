@@ -9,7 +9,6 @@ tags:
   - asociado
   - twitch  
   - youtube
-  - divulgacion
   - emprendemento
   - ensino
   - tecnoloxia

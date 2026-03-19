@@ -8,7 +8,6 @@ type: proxecto
 tags:
   - youtube
   - ciencia
-  - divulgacion
 redes:
   instagram: https://www.instagram.com/gciencia_/
   facebook: https://www.facebook.com/CienciaG

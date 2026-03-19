@@ -12,7 +12,6 @@ tags:
   - ciencia
   - cultura
   - deporte
-  - divulgacion
   - entrevistas
   - humor
 redes:

@@ -19,9 +19,7 @@ redes:
 tags:
   - youtube
   - literatura
-  - persoal
   - videoxogos
-  - outras
 ---
 
 Benvides á miña cova, onde falo do que me peta.

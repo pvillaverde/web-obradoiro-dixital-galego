@@ -12,7 +12,6 @@ tags:
   - instagram
   - cinema
   - culturapopular
-  - divulgacion
 redes:
   youtube: https://www.youtube.com/channel/UC0dYpCFT_Ie6QcSiEqhe2bA
   twitter: https://twitter.com/GFFFestival

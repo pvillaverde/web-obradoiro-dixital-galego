@@ -19,7 +19,6 @@ tags:
   - cinema
   - alimentacion
   - lingua
-  - oral
 ---
 
 Son Alexia, creadora de contido en galego. Fago vlogs, comparto plans creativos e tamén contido relacionado coa vida sen glute.

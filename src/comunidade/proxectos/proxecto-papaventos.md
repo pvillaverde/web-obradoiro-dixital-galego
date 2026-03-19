@@ -14,9 +14,7 @@ tags:
   - culturapopular
   - lingua
   - literatura
-  - outras
   - galiza
-  - oral
 redes:
   youtube: https://www.youtube.com/channel/UCrNaGTl9F7XYnnWOBI33ogQ
   rss: https://www.ivoox.com/feed_fg_f11424523_filtro_1.xml

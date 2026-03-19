@@ -16,7 +16,6 @@ redes:
 tags:
   - podcast
   - cultura
-  - divulgacion
   - ensino
   - entrevistas
   - literatura

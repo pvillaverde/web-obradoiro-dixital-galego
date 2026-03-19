@@ -23,5 +23,4 @@ tags:
   - actualidade
   - magazine
   - diversidade_e_lgtbi
-  - divulgacion
 ---

@@ -18,7 +18,6 @@ tags:
   - cinema
   - cultura
   - culturapopular
-  - divulgacion
   - documental
   - entrevistas
   - fotografia
@@ -29,7 +28,6 @@ tags:
   - social
   - antropoloxia
   - galiza
-  - oral
 ---
 
 En lembrame.gal recollemos historias, recordos, imaxes que nos axudan a comprendelo mundo no que vivimos, lembrar o que xa se viviu e entender o que esté por vir.

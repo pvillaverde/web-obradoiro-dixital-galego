@@ -10,7 +10,6 @@ title: Arre demo! | Retos en galego!
 tags:
   - youtube
   - cultura
-  - divulgacion
   - ensino
   - lingua
   - galiza

@@ -16,7 +16,6 @@ tags:
   - youtube
   - instagram
   - tiktok
-  - divulgacion
   - documental
   - ecoloxia
   - fotografia

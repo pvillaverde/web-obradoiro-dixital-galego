@@ -12,7 +12,6 @@ tags:
   - cinema
   - cultura
   - culturapopular
-  - divulgacion
   - feminismo
   - historia
   - arte

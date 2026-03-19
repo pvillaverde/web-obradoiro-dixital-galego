@@ -17,7 +17,6 @@ tags:
   - actualidade
   - cinema
   - cultura
-  - divulgacion
   - emprendemento
   - entrevistas
   - humor

@@ -14,6 +14,5 @@ tags:
   - podcast
   - entrevistas
   - feminismo
-  - persoal
   - social
 ---

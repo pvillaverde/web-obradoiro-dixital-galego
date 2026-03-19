@@ -13,6 +13,5 @@ redes:
 tags:
   - podcast
   - actualidade
-  - persoal
   - social
 ---

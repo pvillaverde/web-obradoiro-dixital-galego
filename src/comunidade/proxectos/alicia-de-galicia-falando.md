@@ -20,5 +20,4 @@ tags:
   - cinema
   - culturapopular
   - musica
-  - persoal
 ---

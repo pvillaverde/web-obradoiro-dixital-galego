@@ -15,7 +15,6 @@ tags:
   - cultura
   - culturapopular
   - deporte
-  - divulgacion
   - documental
   - ecoloxia
   - emigracion
@@ -39,8 +38,6 @@ tags:
   - antropoloxia
   - arquitectura
   - galiza
-  - infantil
-  - oral
 
 redes:
   youtube: https://www.youtube.com/channel/UCipnHqY8VduX-5rmMtmBGVA

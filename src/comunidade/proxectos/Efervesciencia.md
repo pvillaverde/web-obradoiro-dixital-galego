@@ -8,7 +8,6 @@ type: proxecto
 tags:
   - podcast
   - ciencia
-  - divulgacion
 redes:
   rss: https://www.ivoox.com/podcast-efervesciencia_fg_f1264656_filtro_1.xml
   twitter: https://twitter.com/efervesciencia

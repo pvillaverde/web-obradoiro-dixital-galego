@@ -15,5 +15,4 @@ tags:
   - podcast
   - bandadesenhada
   - musica
-  - persoal
 ---

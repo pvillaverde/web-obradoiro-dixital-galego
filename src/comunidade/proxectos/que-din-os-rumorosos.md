@@ -23,7 +23,6 @@ redes:
 tags:
   - podcast
   - cultura
-  - divulgacion
   - historia
   - patrimonio
 ---

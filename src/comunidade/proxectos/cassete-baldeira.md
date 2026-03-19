@@ -12,5 +12,4 @@ redes:
   spotify: https://open.spotify.com/show/4VTTmdHPy0K2izuoMlTxof
 tags:
   - podcast
-  - persoal
 ---

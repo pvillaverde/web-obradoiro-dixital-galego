@@ -10,10 +10,9 @@ tags:
   - asociado
   - podcast
   - patrimonio
-  - teatro
+  - serial
   - lingua
   - literatura
-  - oral
   - feminismo
   - entrevistas
 redes:

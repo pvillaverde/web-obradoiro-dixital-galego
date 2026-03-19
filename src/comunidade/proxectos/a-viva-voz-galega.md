@@ -17,11 +17,9 @@ redes:
 tags:
   - podcast
   - ciencia
-  - divulgacion
   - emprendemento
   - ensino
   - entrevistas
-  - persoal
   - saude
   - social
 ---

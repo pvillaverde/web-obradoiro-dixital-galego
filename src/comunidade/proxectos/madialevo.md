@@ -11,7 +11,6 @@ tags:
   - twitch
   - actualidade
   - cultura
-  - divulgacion
   - ensino
   - historia
   - lingua

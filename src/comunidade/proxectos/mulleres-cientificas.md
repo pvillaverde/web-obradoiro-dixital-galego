@@ -12,7 +12,6 @@ redes:
 tags:
   - podcast
   - ciencia
-  - divulgacion
   - ensino
   - feminismo
   - serial

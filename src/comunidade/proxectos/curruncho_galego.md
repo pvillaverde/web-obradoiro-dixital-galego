@@ -18,7 +18,6 @@ tags:
   - instagram
   - cultura
   - culturapopular
-  - divulgacion
   - ensino
   - lingua
   - literatura

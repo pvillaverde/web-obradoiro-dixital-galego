@@ -12,7 +12,6 @@ tags:
   - asociado
   - youtube
   - podcast
-  - divulgacion
   - saude
   - feminismo
 redes:
