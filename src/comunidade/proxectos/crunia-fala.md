@@ -20,8 +20,6 @@ tags:
   - podcast
   - actualidade
   - entrevistas
-  - novas
   - politica
   - social
-  - xornalismo
 ---

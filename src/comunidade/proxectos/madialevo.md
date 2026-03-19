@@ -10,7 +10,6 @@ tags:
   - asociado
   - twitch
   - actualidade
-  - conversa
   - cultura
   - divulgacion
   - ensino
@@ -20,9 +19,7 @@ tags:
   - paisaxe
   - patrimonio
   - turismo
-  - viaxes
   - videoxogos
-  - xornalismo
   - galiza
 redes:
   twitch: https://twitch.tv/madialevo

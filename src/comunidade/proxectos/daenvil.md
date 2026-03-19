@@ -17,9 +17,8 @@ redes:
 tags:
   - blogomillo
   - videoxogos
-  - cozinha
+  - alimentacion
   - activismo
-  - persoal
 ---
 ### Sobre min
 Son Daenvil e este é o meu blog persoal, onde comparto os meus intereses (cando teño tempo libre e gañas de facelo). Son físico por formación e desenvolvedor de software por paixón.

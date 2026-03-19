@@ -10,6 +10,5 @@ redes:
   rss: https://feeds.feedburner.com/MancomunPodcast
 tags:
   - podcast
-  - informatica
   - tecnoloxia
 ---

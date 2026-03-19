@@ -13,7 +13,6 @@ redes:
   rss: https://anchor.fm/s/a9938024/podcast/rss
 tags:
   - podcast
-  - conversa
   - emprendemento
   - entrevistas
   - lingua

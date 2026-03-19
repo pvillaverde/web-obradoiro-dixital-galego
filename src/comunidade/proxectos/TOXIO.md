@@ -16,7 +16,6 @@ tags:
   - fotografia
   - medio_rural
   - turismo
-  - viaxes
 redes:
   youtube: https://www.youtube.com/channel/UCirenQprE-itZVkd9EGOP4Q
   instagram: https://www.instagram.com/toxio.gal

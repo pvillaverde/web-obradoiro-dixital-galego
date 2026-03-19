@@ -12,7 +12,6 @@ tags:
   - divulgacion
   - emprendemento
   - ensino
-  - informatica
   - tecnoloxia
 redes:
   youtube: https://www.youtube.com/channel/UCK1RqGFQZ4U1JtRWXiU0how

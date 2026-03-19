@@ -17,8 +17,7 @@ redes:
   twitter: https://twitter.com/C_Perversas
 tags:
   - podcast
-  - conversa
+  - improvisacion
   - humor
-  - persoal
   - social
 ---

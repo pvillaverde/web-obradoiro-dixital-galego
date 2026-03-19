@@ -17,10 +17,8 @@ tags:
   - tiktok
   - arte
   - cinema
-  - cozinha
+  - alimentacion
   - lingua
-  - persoal
-  - galiza
   - oral
 ---
 

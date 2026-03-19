@@ -12,12 +12,9 @@ redes:
   twitter: https://twitter.com/MalaRadio
 tags:
   - podcast
-  - ciencia
   - cinema
-  - cultura
-  - entrevistas
-  - experimental
-  - magazine
   - musica
-  - xornalismo
+  - ciencia
+  - literatura
+  - entrevistas
 ---

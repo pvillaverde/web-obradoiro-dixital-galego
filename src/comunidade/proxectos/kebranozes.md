@@ -20,5 +20,4 @@ tags:
   - ficcion_sonora
   - politica
   - social
-  - xornalismo
 ---

@@ -11,7 +11,6 @@ tags:
   - entrevistas
   - social
   - activismo
-  - conversa
 redes:
   youtube: https://www.youtube.com/channel/UCslCRGVK4WAHDTGh0ZripYw
   twitch: https://www.twitch.tv/galizaenpe

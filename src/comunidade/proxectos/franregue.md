@@ -18,7 +18,6 @@ tags:
   - actualidade
   - arte
   - musica
-  - novas
   - politica
   - videoxogos
 redes:

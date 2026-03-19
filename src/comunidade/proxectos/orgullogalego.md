@@ -11,13 +11,9 @@ tags:
   - youtube
   - podcast
   - actualidade
-  - conversa
+  - entrevistas
   - cultura
-  - culturapopular
-  - divulgacion
   - historia
-  - lingua
-  - musica
   - politica
   - social
 redes:

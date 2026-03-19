@@ -21,5 +21,5 @@ tags:
   - documental
   - historia
   - serial
-  - xornalismo
+  - actualidade
 ---

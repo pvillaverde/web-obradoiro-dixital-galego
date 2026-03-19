@@ -10,7 +10,6 @@ tags:
   - youtube
   - instagram
   - cinema
-  - conversa
   - cultura
   - entrevistas
   - galiza

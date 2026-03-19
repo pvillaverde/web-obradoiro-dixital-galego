@@ -8,7 +8,7 @@ type: proxecto
 tags:
   - youtube
   - podcast
-  - cozinha
+  - alimentacion
 redes:
   youtube: https://www.youtube.com/channel/UC7DHFMrkI60HPI_u8I-2EDg
   facebook: https://www.facebook.com/comerefalartodoecomezar/

@@ -17,5 +17,4 @@ tags:
   - podcast
   - actualidade
   - politica
-  - xornalismo
 ---

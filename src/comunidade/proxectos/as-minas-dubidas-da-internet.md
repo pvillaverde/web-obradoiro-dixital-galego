@@ -11,6 +11,4 @@ redes:
 tags:
   - podcast
   - tecnoloxia
-  - informatica
-  - divulgacion
 ---

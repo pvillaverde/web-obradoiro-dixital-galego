@@ -18,7 +18,6 @@ redes:
 tags:
   - podcast
   - cinema
-  - conversa
   - culturapopular
   - musica
   - persoal

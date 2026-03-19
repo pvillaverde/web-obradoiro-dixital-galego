@@ -12,5 +12,4 @@ redes:
 tags:
   - podcast
   - actualidade
-  - novas
 ---

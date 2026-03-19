@@ -24,8 +24,6 @@ tags:
   - entrevistas
   - internacional
   - lingua
-  - novas
   - politica
   - social
-  - xornalismo
 ---

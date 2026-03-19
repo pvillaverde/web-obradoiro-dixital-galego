@@ -13,7 +13,7 @@ tags:
   - cinema
   - cultura
   - culturapopular
-  - lgtbi
+  - diversidade_e_lgtbi
   - videoxogos
 redes:
   youtube: https://www.youtube.com/channel/UCLI24sIO7QfCk087F1PA1wQ

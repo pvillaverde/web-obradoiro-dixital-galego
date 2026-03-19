@@ -17,9 +17,7 @@ tags:
   - podcast
   - actualidade
   - entrevistas
-  - novas
   - politica
-  - xornalismo
   - ficcion_sonora
 redes:
   instagram: https://www.instagram.com/carretando/

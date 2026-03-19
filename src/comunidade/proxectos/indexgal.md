@@ -13,6 +13,5 @@ redes:
 tags:
   - youtube
   - tecnoloxia
-  - informatica
   - entrevistas
 ---

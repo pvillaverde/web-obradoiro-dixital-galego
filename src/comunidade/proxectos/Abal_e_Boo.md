@@ -16,7 +16,6 @@ tags:
   - youtube
   - divulgacion
   - sexualidade
-  - lgtbi
-  - diversidade
+  - diversidade_e_lgtbi
   - ensino
 ---

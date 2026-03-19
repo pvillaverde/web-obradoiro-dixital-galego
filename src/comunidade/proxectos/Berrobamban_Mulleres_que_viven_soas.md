@@ -14,7 +14,6 @@ tags:
   - lingua
   - literatura
   - oral
-  - muller
   - feminismo
   - entrevistas
 redes:

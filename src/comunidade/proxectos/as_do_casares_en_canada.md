@@ -14,6 +14,6 @@ redes:
 tags:
   - podcast
   - ensino
-  - persoal
-  - viaxes
+  - internacional
+  - emigracion
 ---

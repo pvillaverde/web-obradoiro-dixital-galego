@@ -11,13 +11,11 @@ tags:
   - ciencia
   - cultura
   - culturapopular
-  - divulgacion
   - documental
   - ecoloxia
   - ensino
-  - galiza
   - infantil
-  - mar
+  - medio_rural
   - paisaxe
 
 redes:

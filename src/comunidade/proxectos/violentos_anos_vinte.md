@@ -15,7 +15,6 @@ tags:
   - podcast
   - musica
   - culturapopular
-  - divulgacion
 redes:
   rss: https://anchor.fm/s/db9c8264/podcast/rss
   link: https://vinte.praza.gal/serie/violentos-anos-vinte

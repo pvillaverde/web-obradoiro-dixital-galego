@@ -23,7 +23,4 @@ tags:
   - cultura
   - literatura
   - videoxogos
-  - outras
-  - divulgacion
-  - conversa
 ---

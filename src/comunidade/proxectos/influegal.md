@@ -14,7 +14,6 @@ redes:
 tags:
   - asociado
   - podcast
-  - conversa
   - cultura
   - culturapopular
   - entrevistas

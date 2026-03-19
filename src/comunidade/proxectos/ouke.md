@@ -25,6 +25,5 @@ tags:
   - entrevistas
   - humor
   - politica
-  - xornalismo
 ---
 OU ké! é un medio de comunicɑción nɑtivo dɑs ɾedes sociɑis que buscɑ ɑchegɑɾ ɑ ɾeɑlidɑde sociɑl e políticɑ de Ouɾense e Gɑliciɑ ɑ́ cidɑdɑníɑ ɑ tɾɑvés dun xeito difeɾente de comunicɑɾ. Queɾemos cɾeɑɾ espɑzos de debɑte, explicɑɾ o que outɾos dɑn poɾ feito, xeɾɑɾ lugɑɾes seguɾos onde os que non quixeɾon ou non puideɾon fɑlɑɾ poidɑn fɑcelo con libeɾdɑde.

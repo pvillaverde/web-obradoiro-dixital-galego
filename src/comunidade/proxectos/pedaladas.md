@@ -29,7 +29,6 @@ tags:
   - politica
   - social
   - turismo
-  - viaxes
   - saude
   - galiza
 ---

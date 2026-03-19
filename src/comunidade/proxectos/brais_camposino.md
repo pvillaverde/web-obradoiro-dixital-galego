@@ -9,7 +9,7 @@ type: proxecto
 tags:
   - twitch
   - youtube
-  - cozinha
+  - alimentacion
 redes:
   twitch: https://twitch.tv/brais_camposino
   youtube: https://www.youtube.com/channel/UCGAWwrYny1SGGHglxUTN-OQ

@@ -15,5 +15,4 @@ tags:
   - podcast
   - actualidade
   - social
-  - xornalismo
 ---

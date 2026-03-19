@@ -19,5 +19,4 @@ tags:
   - entrevistas
   - internacional
   - lingua
-  - xornalismo
 ---

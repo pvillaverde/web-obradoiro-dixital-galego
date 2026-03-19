@@ -10,9 +10,7 @@ tags:
   - twitch
   - actualidade
   - cinema
-  - conversa
   - culturapopular
-  - informatica
   - persoal
   - tecnoloxia
   - videoxogos

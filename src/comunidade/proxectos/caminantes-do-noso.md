@@ -12,7 +12,6 @@ redes:
   rss: https://anchor.fm/s/437d43b0/podcast/rss
 tags:
   - podcast
-  - conversa
   - documental
   - patrimonio
   - serial

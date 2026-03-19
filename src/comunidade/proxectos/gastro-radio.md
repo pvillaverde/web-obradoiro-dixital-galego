@@ -12,7 +12,7 @@ tags:
   - asociado
   - podcast
   - cultura
-  - cozinha
+  - alimentacion
   - patrimonio
   - social
 ---

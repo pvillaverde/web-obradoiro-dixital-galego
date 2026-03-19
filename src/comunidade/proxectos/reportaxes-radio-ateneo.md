@@ -14,5 +14,4 @@ tags:
   - cultura
   - entrevistas
   - social
-  - xornalismo
 ---

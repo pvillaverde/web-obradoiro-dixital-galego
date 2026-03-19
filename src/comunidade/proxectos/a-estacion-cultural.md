@@ -15,7 +15,6 @@ tags:
   - podcast
   - actualidade
   - cultura
-  - novas
   - feminismo
   - entrevistas
 ---

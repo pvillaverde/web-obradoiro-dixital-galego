@@ -18,27 +18,8 @@ tags:
   - asociado
   - arte
   - bandadesenhada
-  - ciencia
-  - cozinha
-  - cultura
-  - culturapopular
-  - divulgacion
-  - ensino
-  - feminismo
-  - historia
-  - humor
-  - lgtbi
-  - lingua
   - literatura
-  - patrimonio
-  - poesia
-  - xornalismo
-  - diversidade
-  - antropoloxia
-  - muller
-  - galiza
-  - infantil
-  - crime
-  - misterio
+  - cultura
+  - ensino
 ---
 Editorial xeneralista en lingua galega. Fundada en Allariz no 2017, até o momento publicou ao redor dun cento de títulos de narrativa, poesía, ensaio, libro informativo infantil, álbum ilustrado, banda deseñada, historia, biografía... Gústannos os libros bonitos e dedicámoslle moito esforzo a que os

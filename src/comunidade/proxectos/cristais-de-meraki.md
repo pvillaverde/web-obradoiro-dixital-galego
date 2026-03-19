@@ -12,7 +12,6 @@ redes:
   twitter: https://twitter.com/CristaisMeraki
 tags:
   - podcast
-  - conversa
   - entrevistas
   - feminismo
   - persoal

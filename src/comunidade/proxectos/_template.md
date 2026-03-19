@@ -41,8 +41,6 @@ tags:
   - cultura
   - literatura
   - historia
-  - viaxes
-  - cozinha
   - culturapopular
   - outras
 ---

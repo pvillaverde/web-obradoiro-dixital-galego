@@ -10,7 +10,6 @@ type: proxecto
 tags:
   - youtube
   - podcast
-  - informatica
   - tecnoloxia
 redes:
   youtube: https://www.youtube.com/channel/UCeG5Kw8lZFbpIFjytf_J9Wg

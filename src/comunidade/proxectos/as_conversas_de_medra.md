@@ -13,7 +13,6 @@ redes:
 tags:
   - podcast
   - entrevistas
-  - conversa
   - emprendemento
   
 ---

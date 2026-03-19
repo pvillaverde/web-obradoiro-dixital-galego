@@ -14,25 +14,10 @@ redes:
   mail: lupolorenzooficial@gmail.com
 tags:
   - youtube
-  - activismo
   - arte
   - bandadesenhada
-  - conversa
   - cultura
-  - culturapopular
-  - divulgacion
-  - experimental
-  - humor
-  - lgtbi
-  - lingua
-  - literatura
-  - musica
-  - persoal
-  - politica
-  - sexualidade
-  - social
   - videoxogos
-  - outras
   - misterio
 ---
 

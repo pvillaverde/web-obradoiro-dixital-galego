@@ -13,5 +13,5 @@ redes:
   instagram: https://www.instagram.com/avantelgbtpontevedra/
 tags:
   - podcast
-  - lgtbi
+  - diversidade_e_lgtbi
 ---

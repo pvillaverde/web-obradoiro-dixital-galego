@@ -18,7 +18,5 @@ tags:
   - actualidade
   - deporte
   - documental
-  - novas
-  - xornalismo
 ---
 No Planeta de Hoxe en Día Noticias adicámonos a contarche as noticias máis destacadas do día. Somos parte do universo d'O Planeta de Hoxe en Día e aquí podes atopar todas as ligazóns: https://linktr.ee/oplanetadehoxeendia

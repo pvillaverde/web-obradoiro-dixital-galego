@@ -14,7 +14,7 @@ tags:
   - emigracion
   - internacional
   - politica
-  - xornalismo
+  - actualidade
 redes:
   youtube: https://www.youtube.com/channel/UCs9nF44DDGgjg-mvt8476TA
   instagram: https://instagram.com/tecongotas

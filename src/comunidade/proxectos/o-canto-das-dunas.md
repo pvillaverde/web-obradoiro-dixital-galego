@@ -15,7 +15,6 @@ redes:
   twitter: https://twitter.com/homedareia
 tags:
   - podcast
-  - conversa
   - entrevistas
   - experimental
   - podcasting

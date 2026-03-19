@@ -22,8 +22,6 @@ tags:
   - entrevistas
   - actualidade
   - magazine
-  - novas
-  - xornalismo
-  - lgtbi
+  - diversidade_e_lgtbi
   - divulgacion
 ---

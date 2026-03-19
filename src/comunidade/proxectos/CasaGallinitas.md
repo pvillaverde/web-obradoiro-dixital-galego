@@ -15,13 +15,10 @@ tags:
   - youtube
   - instagram
   - arte
-  - cozinha
-  - cultura
-  - culturapopular
-  - divulgacion
+  - alimentacion
+  - medio_rural
   - humor
   - musica
-  - outras
 ---
 En Casa Gallinitas facemos videos, titoriais, falamos de instrumentos, de galiñas de comida e de todo o que nos preste. Aprendemos cousas contándoas e aprendémoslle cousas ós que se acheguen gana de aprender.
 Tamén facemos parvadas, non vaiades a pensar... Alguén as terá que facer ...

@@ -13,7 +13,7 @@ redes:
   twitter: https://twitter.com/marabaixo_gal
 tags:
   - podcast
-  - mar
+  - medio_rural
   - patrimonio
   - social
 ---

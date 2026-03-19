@@ -16,13 +16,8 @@ tags:
   - youtube
   - instagram
   - tiktok
-  - conversa
-  - cultura  
-  - ensino
-  - historia
   - lingua
-  - musica
-  - galiza
+  - internacional
   - lusofonia
 ---
 Quero falar de xapón e mostrar cousas de xapón e falar cos galegos

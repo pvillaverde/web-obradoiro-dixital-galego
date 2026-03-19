@@ -23,7 +23,7 @@ tags:
   - bandadesenhada
   - cinema
   - cultura
-  - lgtbi
+  - diversidade_e_lgtbi
   - videoxogos
   - lusofonia
 ---

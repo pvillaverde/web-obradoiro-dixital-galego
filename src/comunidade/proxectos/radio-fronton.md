@@ -12,11 +12,6 @@ redes:
 tags:
   - podcast
   - actualidade
-  - conversa
-  - ecoloxia
-  - feminismo
-  - historia
-  - lingua
   - politica
   - social
 ---

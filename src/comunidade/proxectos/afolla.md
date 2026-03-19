@@ -13,7 +13,7 @@ redes:
   mail: a@folla.gal
 tags:
   - blogomillo
-  - informatica
+  - tecnoloxia
   
 ---
 A Folla é o boletín semanal de [Jacobo Tarrío](https://jacobo.tarrio.org/) sobre enxeñería de software. A Folla ten consellos, información e historias para practicantes da enxeñería de software, profesionais ou afeccionados, en todos os niveis. A Folla publícase os mércores por email e na web.

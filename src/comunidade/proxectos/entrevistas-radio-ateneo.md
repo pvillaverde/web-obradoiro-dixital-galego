@@ -14,5 +14,4 @@ tags:
   - actualidade
   - cultura
   - entrevistas
-  - xornalismo
 ---

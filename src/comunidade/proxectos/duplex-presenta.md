@@ -14,7 +14,6 @@ redes:
 tags:
   - podcast
   - cinema
-  - conversa
   - cultura
   - documental
   - entrevistas

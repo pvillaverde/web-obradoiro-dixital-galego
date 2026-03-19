@@ -16,5 +16,5 @@ redes:
   twitter: https://twitter.com/RocioTizon
 tags:
   - podcast
-  - viaxes
+  - turismo
 ---

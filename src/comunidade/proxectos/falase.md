@@ -20,8 +20,6 @@ tags:
   - actualidade
   - entrevistas
   - magazine
-  - novas
   - politica
   - social
-  - xornalismo
 ---

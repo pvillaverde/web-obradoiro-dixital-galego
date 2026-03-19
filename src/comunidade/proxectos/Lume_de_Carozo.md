@@ -11,7 +11,6 @@ tags:
   - youtube
   - podcast
   - actualidade
-  - conversa
   - entrevistas
   - humor
   - magazine

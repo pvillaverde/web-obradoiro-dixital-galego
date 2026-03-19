@@ -10,8 +10,6 @@ tags:
   - podcast
   - actualidade
   - entrevsitas
-  - xornalismo
-  - conversa
 redes:
   rss: https://anchor.fm/s/da2f23a0/podcast/rss
   spotify: https://open.spotify.com/show/0YxmD5RVJVkmpFjOgIuk40?si=015b59aca809464b

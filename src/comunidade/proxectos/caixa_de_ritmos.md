@@ -20,7 +20,7 @@ tags:
   - youtube
   - musica
   - entrevistas
-  - muller
+  - feminismo
 ---
 
 Canle sobre música galega ou de autores galegos, entrevistas, celebracións, festivais.

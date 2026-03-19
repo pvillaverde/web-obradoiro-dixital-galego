@@ -14,7 +14,7 @@ tags:
   - autoaxuda
   - activismo
   - divulgacion
-  - lgtbi
+  - diversidade_e_lgtbi
   - lusofonia
 redes:
   youtube: https://www.youtube.com/channel/UClZ-fWAY2dGzcKXBW5HmlLA

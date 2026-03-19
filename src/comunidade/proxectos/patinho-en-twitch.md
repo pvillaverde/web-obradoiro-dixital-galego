@@ -12,11 +12,9 @@ redes:
   youtube: https://www.youtube.com/channel/UCZZTH6dVk9k_ah6OpZ-w7ZA
 tags:
   - podcast
-  - conversa
+  - entrevistas
   - actualidade
   - culturapopular
   - feminismo
   - improvisacion
-  - lingua
-  - persoal
 ---

@@ -23,5 +23,4 @@ tags:
   - humor
   - magazine
   - musica
-  - novas
 ---

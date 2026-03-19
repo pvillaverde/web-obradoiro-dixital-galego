@@ -22,7 +22,6 @@ tags:
   - youtube
   - instagram
   - tiktok
-  - conversa
   - cultura
   - entrevistas
   - magazine

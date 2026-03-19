@@ -14,12 +14,10 @@ tags:
   - podcast
   - actualidade
   - cinema
-  - conversa
   - culturapopular
   - entrevistas
   - humor
   - magazine
-  - novas
   - social
 redes:
   youtube: https://www.youtube.com/channel/UCQB2WaUno6PRA4sg9anei2w

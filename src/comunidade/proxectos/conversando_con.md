@@ -18,7 +18,6 @@ tags:
   - entrevistas
   - lingua
   - literatura
-  - conversa
 ---
 
 xulipedia.com é unha base de datos organizada por orde
