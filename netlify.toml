@@ -1,7 +1,6 @@
 [build]
   publish = "_site"
   command = """
-    git clone https://github.com/pvillaverde/faiscatv src/tv && \
     curl -fsSL https://deno.land/x/install/install.sh | sh && \
     /opt/buildhome/.deno/bin/deno task build \
   """
