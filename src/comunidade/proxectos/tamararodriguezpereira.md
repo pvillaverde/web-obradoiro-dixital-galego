@@ -19,11 +19,8 @@ tags:
   - activismo
   - cultura
   - feminismo
-  - sexualidade
   - infantil
-  - autoaxuda
-  - maternidade
   - diversidade_e_lgtbi
-  - saude
+  - saude_sexualidade
 ---
 Unha canle de divulgación sobre o mundo emocional, alta sensibilidade e prevención da violencia sexual infantil, Verás moitos libros, contos, colexios e o rural a través das histories.

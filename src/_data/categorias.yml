@@ -64,15 +64,12 @@ tags:
 - id: deporte
   name: Deporte
   color: lightgray
-- id: divulgacion
-  name: Divulgación
-  color: "#ee9b69"
 - id: documental
   name: Documental
   color: "#61eedb"
 - id: ecoloxia
   name: Ecoloxía
-  color: "#bdf1e5"
+  color: "#18eb1f"
 - id: emigracion
   name: Emigración
   color: "#c4e7f1"
@@ -121,9 +118,6 @@ tags:
 - id: musica
   name: Música
   color: gold
-- id: paisaxe
-  name: Paisaxe
-  color: "#18eb1f"
 - id: patrimonio
   name: Patrimonio
   color: "#ffbfcf"
@@ -139,7 +133,7 @@ tags:
 - id: rol
   name: D&D / Rol / Xogos de mesa
   color: "#f583b3"
-- id: sexualidade
+- id: saude_sexualidade
   name: Sexualidade
   color: "#de74db"
 - id: serial
@@ -147,7 +141,7 @@ tags:
   color: "#fff0cf"
 - id: social
   name: Social
-  color: "#feffd5"
+  color: "#bdf1e5"
 - id: teatro
   name: Teatro
   color: "#d7ffff"
@@ -163,36 +157,15 @@ tags:
 - id: diversidade_e_lgtbi
   name: Diversidade e LGBTQIA+
   color: "#6ae3d9"
-- id: antropoloxia
-  name: Antropoloxía
-  color: "#cccccc"
-- id: arquitectura
-  name: Arquitectura
-  color: "#cccccc"
-- id: autoaxuda
-  name: Autoaxuda
-  color: "#cccccc"
-- id: saude
-  name: Saúde
-  color: "#cccccc"
 - id: galiza
   name: Galiza
   color: "#cccccc"
 - id: infantil
   name: Infantil
-  color: "#cccccc"
-- id: maternidade
-  name: Maternidade
-  color: "#cccccc"
-- id: crime
-  name: Crime
+  color: "#ee9b69"
+- id: crime_e_misterio
+  name: Crime e misterio
   color: "#cccccc"
 - id: lusofonia
   name: Lusofonía
-  color: "#cccccc"
-- id: misterio
-  name: Misterio
-  color: "#cccccc"
-- id: oral
-  name: Oral
   color: "#cccccc"

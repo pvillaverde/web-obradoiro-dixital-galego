@@ -15,7 +15,6 @@ tags:
   - historia
   - lingua
   - medio_rural
-  - paisaxe
   - patrimonio
   - turismo
   - videoxogos

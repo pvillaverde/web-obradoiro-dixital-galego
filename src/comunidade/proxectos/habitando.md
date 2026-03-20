@@ -14,6 +14,6 @@ redes:
 tags:
   - asociado
   - podcast
-  - arquitectura
+  - patrimonio
   - social
 ---

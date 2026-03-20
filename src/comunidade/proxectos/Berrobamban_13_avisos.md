@@ -15,7 +15,7 @@ tags:
   - literatura
   - audiolibro
   - ensino
-  - misterio
+  - crime_e_misterio
 redes:
   link: https://berrobamban.com/proxecto/13-avisos/
   rss: https://anchor.fm/s/ee5cf1b8/podcast/rss

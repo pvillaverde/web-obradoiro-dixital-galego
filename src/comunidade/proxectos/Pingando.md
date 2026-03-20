@@ -12,7 +12,7 @@ tags:
   - asociado
   - youtube
   - podcast
-  - saude
+  - saude_sexualidade
   - feminismo
 redes:
   instagram: https://www.instagram.com/pingando_gal/

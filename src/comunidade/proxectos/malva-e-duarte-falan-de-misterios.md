@@ -11,7 +11,6 @@ redes:
   twitter: https://twitter.com/FalanDeMisterio
 tags:
   - podcast
-  - crime
   - culturapopular
-  - misterio
+  - crime_e_misterio
 ---

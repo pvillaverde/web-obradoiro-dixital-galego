@@ -13,7 +13,7 @@ tags:
   - cultura
   - culturapopular
   - patrimonio
-  - misterio
+  - crime_e_misterio
 redes:
   youtube: https://www.youtube.com/channel/UCLdsm6Ji3slM-UYY763DKdg
   twitch: https://www.twitch.tv/luzdetea

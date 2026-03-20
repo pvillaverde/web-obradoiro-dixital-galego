@@ -26,7 +26,6 @@ tags:
   - medio_rural
   - patrimonio
   - social
-  - antropoloxia
   - galiza
 ---
 

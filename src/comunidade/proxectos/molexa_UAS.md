@@ -12,6 +12,6 @@ tags:
   - youtube
   - patrimonio
   - arte
-  - paisaxe
+  - medio_rural
   - fotografia
 ---

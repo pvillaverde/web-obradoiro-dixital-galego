@@ -20,6 +20,6 @@ tags:
   - emprendemento
   - ensino
   - entrevistas
-  - saude
+  - saude_sexualidade
   - social
 ---

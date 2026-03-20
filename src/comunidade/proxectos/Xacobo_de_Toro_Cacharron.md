@@ -16,7 +16,6 @@ tags:
   - ensino
   - infantil
   - medio_rural
-  - paisaxe
 
 redes:
   youtube: https://www.youtube.com/channel/UCBpPB8kJ6IlbaH2U2zZqnYQ

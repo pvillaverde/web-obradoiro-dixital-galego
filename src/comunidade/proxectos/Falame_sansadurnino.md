@@ -28,15 +28,12 @@ tags:
   - literatura
   - medio_rural
   - musica
-  - paisaxe
   - patrimonio
   - podcasting
   - poesia
   - social
   - teatro
   - tecnoloxia
-  - antropoloxia
-  - arquitectura
   - galiza
 
 redes:

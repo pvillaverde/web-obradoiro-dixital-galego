@@ -11,7 +11,6 @@ tags:
   - ensino
   - ciencia
   - literatura
-  - autoaxuda
   - activismo
   - diversidade_e_lgtbi
   - lusofonia

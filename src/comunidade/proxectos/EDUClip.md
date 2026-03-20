@@ -9,7 +9,6 @@ tags:
   - asociado
   - youtube
   - arte
-  - autoaxuda
   - cinema
   - cultura
   - culturapopular

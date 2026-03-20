@@ -23,12 +23,9 @@ tags:
   - cultura
   - deporte
   - ecoloxia
-  - paisaxe
-  - podcasting
   - politica
   - social
   - turismo
-  - saude
   - galiza
 ---
 

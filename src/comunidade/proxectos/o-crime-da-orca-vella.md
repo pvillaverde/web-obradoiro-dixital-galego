@@ -15,8 +15,7 @@ redes:
   rss: https://www.ivoox.com/escola-de-teatro-fisterra-o-crime-da_fg_f11366840_filtro_1.xml
 tags:
   - podcast
-  - crime
   - ficcion_sonora
-  - misterio
+  - crime_e_misterio
   - teatro
 ---

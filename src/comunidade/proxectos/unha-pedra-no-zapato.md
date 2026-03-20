@@ -18,6 +18,5 @@ redes:
   spotify: https://open.spotify.com/show/1uAjgQF10arQPmqWa3QClX
 tags:
   - podcast
-  - autoaxuda
-  - saude
+  - saude_sexualidade
 ---

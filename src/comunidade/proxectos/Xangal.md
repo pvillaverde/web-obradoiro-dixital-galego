@@ -8,13 +8,12 @@ type: proxecto
 tags:
   - asociado
   - youtube
-  - arquitectura
   - arte
   - culturapopular
   - documental
   - humor
   - magazine
-  - misterio
+  - crime_e_misterio
 redes:
   youtube: https://www.youtube.com/channel/UCh7e9D-4mqcnLqKq3OK--3w
   

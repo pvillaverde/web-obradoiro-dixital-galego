@@ -12,6 +12,7 @@ redes:
   rss: https://www.ivoox.com/podcast-alareiradasmouras-radioeume_fg_f1469152_filtro_1.xml
 tags:
   - podcast
-  - antropoloxia
+  - crime_e_misterio
   - patrimonio
+  - tecnoloxia
 ---

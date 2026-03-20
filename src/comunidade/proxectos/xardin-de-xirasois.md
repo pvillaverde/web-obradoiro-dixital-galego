@@ -15,7 +15,6 @@ redes:
   kofi: https://ko-fi.com/xardindexirasois
 tags:
   - podcast
-  - autoaxuda
-  - saude
+  - saude_sexualidade
 ---
 Se che gusta o meu contido, podes apoiarme [invitándome a un café ♡](https://ko-fi.com/xardindexirasois)

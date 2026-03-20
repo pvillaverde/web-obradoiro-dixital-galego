@@ -29,7 +29,6 @@ tags:
  - cinema
  - cultura
  - culturapopular
- - divulgacion
  - documental
  - emprendemento
  - ensino
@@ -40,7 +39,6 @@ tags:
  - patrimonio
  - social
  - tecnoloxia
- - antropoloxia
  - galiza
 ---
 
