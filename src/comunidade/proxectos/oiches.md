@@ -20,5 +20,4 @@ tags:
   - podcast
   - asociado
   - entrevistas
-  - podcasting
 ---

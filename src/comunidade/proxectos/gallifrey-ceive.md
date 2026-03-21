@@ -21,7 +21,6 @@ tags:
   - tiktok
   - cinema
   - culturapopular
-  - podcasting
 ---
 🔷 Fomos ficando sós o espaço-tempo, a tardis e mais nós 🔷
 

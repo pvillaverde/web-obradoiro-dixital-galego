@@ -12,5 +12,5 @@ redes:
   twitter: https://twitter.com/ivaniglesiasi
 tags:
   - podcast
-  - podcasting
+  - entrevistas
 ---

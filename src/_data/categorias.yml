@@ -40,9 +40,9 @@ tags:
 - id: arte
   name: Arte
   color: "#afd760"
-- color: "#e57a86"
-  id: asociacións
+- id: asociacións
   name: Asociacións
+  color: "#e57a86"
 - id: audiolibro
   name: Audiolibro
   color: "#cd69a7"
@@ -121,9 +121,6 @@ tags:
 - id: patrimonio
   name: Patrimonio
   color: "#ffbfcf"
-- id: podcasting
-  name: Podcasting
-  color: "#4bbeef"
 - id: poesia
   name: Poesía
   color: "#fee1d1"
@@ -159,7 +156,7 @@ tags:
   color: "#6ae3d9"
 - id: galiza
   name: Galiza
-  color: "#cccccc"
+  color: "#4bbeef"
 - id: infantil
   name: Infantil
   color: "#ee9b69"

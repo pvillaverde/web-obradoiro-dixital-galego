@@ -29,7 +29,6 @@ tags:
   - medio_rural
   - musica
   - patrimonio
-  - podcasting
   - poesia
   - social
   - teatro

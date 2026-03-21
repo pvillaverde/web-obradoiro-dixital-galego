@@ -21,7 +21,6 @@ tags:
   - entrevistas
   - magazine
   - musica
-  - podcasting
   - lusofonia
 ---
 Que é “Canto Conto”? Son MJ Pérez, coñecida pola miña faceta como cantautora mais son comunicadora tamén. Quero compartir co público dun xeito cercano e entretido a realidade dos nosos camiños e do noso traballo. Converso con persoas que para min son de grande interese por diversos motivos e só agardo que atopedes nestas conversas entretimento, reflexión e puntos de encontro. Síguenos, podes esecoitarnos en iVoox, Apple Podcast e Spotify.

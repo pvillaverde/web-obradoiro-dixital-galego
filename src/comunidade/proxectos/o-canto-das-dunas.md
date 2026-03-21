@@ -17,6 +17,5 @@ tags:
   - podcast
   - entrevistas
   - experimental
-  - podcasting
   - Ventureiro
 ---
