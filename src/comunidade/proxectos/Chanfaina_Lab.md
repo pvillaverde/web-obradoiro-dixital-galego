@@ -6,11 +6,13 @@ img: /img/comunidade/Chanfaina_Lab.webp
 date: 2026-03-25 10:34:05
 type: proxecto
 tags:
+  - asociado
   - youtube
   - arte
   - cinema
   - cultura
   - experimental
+  - documental
 
 redes:
   youtube: https://www.youtube.com/channel/UCtj7zFalILj3blnIEQerHRQ
