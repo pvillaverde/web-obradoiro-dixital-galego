@@ -10,9 +10,7 @@ date: 2024-06-16 10:30:11.312203
 redes:
   rss: https://escritura.social/marcostaracido/feed/
   rss_blog: https://escritura.social/marcostaracido/feed/
-  rss_podcast: https://www.ivoox.com/feed_fg_f12444532_filtro_1.xml
-  ivoox: https://go.ivoox.com/sq/2444532
-  spotify: https://podcasters.spotify.com/pod/show/marcostt
+  rss_podcast: https://codeberg.org/marcostaracido/OCGRSS/raw/branch/main/feed.xml
   mastodon: https://mastodon.gal/@marcostaracido
   link: https://escritura.social/marcostaracido/
 tags:
