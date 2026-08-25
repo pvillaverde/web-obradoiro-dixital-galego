@@ -44,12 +44,17 @@ export default function () {
          }
       }
       const users = await (await fetch(`${requestOptions.baseURL}/users?login=${twitchChannelLogin}`, requestOptions)).json();
-      const userId = users.data[0].id;
-      const videos = await (await fetch(`${requestOptions.baseURL}/videos?user_id=${userId}&first=1`, requestOptions)).json();
-      if (videos.data && videos.data[0]) {
-         const lastActiveDate = new Date(videos.data[0].created_at);
-         return isLessThanMonths(lastActiveDate);
-      } else { return false; }
+      try {
+         const userId = users.data[0].id;
+         const videos = await (await fetch(`${requestOptions.baseURL}/videos?user_id=${userId}&first=1`, requestOptions)).json();
+         if (videos.data && videos.data[0]) {
+            const lastActiveDate = new Date(videos.data[0].created_at);
+            return isLessThanMonths(lastActiveDate);
+         } else { return false; }
+      } catch (error) {
+         console.error(`Ocurriu un erro ao comprobar a canle ${twitchChannelLogin}.`, error);
+         return false;
+      }
    }
 
    function isLessThanMonths(date: Date, monthsOld: number = 1) {

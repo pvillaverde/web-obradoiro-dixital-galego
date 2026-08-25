@@ -9,7 +9,6 @@ description: >-
 date: 2024-03-25 10:30:11.312203
 redes:
   youtube: https://www.youtube.com/channel/UCfwfOVVOUFbL8JWWSBzLHiA
-  rss: https://anchor.fm/s/daab58e4/podcast/rss
   twitter: https://twitter.com/XornaldaEstrada
   instagram: https://www.instagram.com/xornaldaestrada
   facebook: https://www.facebook.com/xornaldaestrada
@@ -23,7 +22,6 @@ tags:
   - asociado
   - twitch
   - youtube
-  - podcast
   - entrevistas
   - alimentacion
   - arte
