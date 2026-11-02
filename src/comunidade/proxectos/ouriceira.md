@@ -8,7 +8,7 @@ description: >-
  O blogue dun xeólogo programando en Inglaterra.
 date: 2026-11-02 10:30:11.312203
 redes:
-  rss: http://www.ouriceira.gal/feeds/posts/default'
+  rss: https://www.ouriceira.gal/feeds/posts/default?alt=rss
   link: https://www.ouriceira.gal/
 tags:
   - blogomillo
