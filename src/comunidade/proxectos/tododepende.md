@@ -10,8 +10,7 @@ date: 2026-11-07 10:30:11.312203
 redes:
   rss: https://pilarmera.gal/feed/
   link: https://pilarmera.gal/
-  fediverso: "@pi@pilarmera.gal"
-  mastodon: https://mastodon.gal/@pi@pilarmera.gal
+  fediverso: https://mastodon.gal/@pi@pilarmera.gal
 tags:
   - blogomillo
   - tecnoloxia
