@@ -1,3 +1,5 @@
+import { getSocialLinks } from "./utils/social-networks.js";
+
 export const url = "/api/blog.json";
 export default function ({ search }) {
    const items = [];
@@ -7,16 +9,7 @@ export default function ({ search }) {
             id: item.basename,
             title: item.title,
             rss: item.redes.rss_blog ? item.redes.rss_blog : item.redes.rss,
-         }
-         if (item.redes.twitter) {
-            itemInfo.twitter = "@" + item.redes.twitter.match(/twitter\.com\/([^/]+)/)[1];
-         }
-         if (item.redes.bluesky) {
-            itemInfo.bluesky = "@" + item.redes.bluesky.match(/https:\/\/bsky\.app\/profile\/([^/]+)/)[1];
-         }
-         if (item.redes.mastodon) {
-            const [, domain, user] = item.redes.mastodon.match(/https:\/\/([^/]+)\/(.+)/);
-            itemInfo.mastodon = `${user}@${domain}`;
+            ...getSocialLinks(item.redes),
          }
          items.push(itemInfo);
       }

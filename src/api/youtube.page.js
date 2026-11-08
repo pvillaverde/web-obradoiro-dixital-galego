@@ -1,3 +1,5 @@
+import { getSocialLinks } from "./utils/social-networks.js";
+
 export const url = "/api/youtube.json";
 export default function ({ search }) {
    const regex = /https?:\/\/(?:www\.)?youtube\.com\/channel\/([A-Za-z0-9-_]{24})/;
@@ -10,16 +12,7 @@ export default function ({ search }) {
             id: item.basename,
             title: item.title,
             uuid: channelId,
-         }
-         if (item.redes.twitter) {
-            itemInfo.twitter = "@" + item.redes.twitter.match(/(?:twitter\.com|x\.com)\/([^/]+)/)[1];
-         }
-         if (item.redes.bluesky) {
-            itemInfo.bluesky = "@" + item.redes.bluesky.match(/https:\/\/bsky\.app\/profile\/([^/]+)/)[1];
-         }
-         if (item.redes.mastodon) {
-            const [, domain, user] = item.redes.mastodon.match(/https:\/\/([^/]+)\/(.+)/);
-            itemInfo.mastodon = `${user}@${domain}`;
+            ...getSocialLinks(item.redes),
          }
          items.push(itemInfo);
       }
